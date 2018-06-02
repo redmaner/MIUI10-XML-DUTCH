@@ -4,6 +4,9 @@
         <item quantity="other">%1$d items slepen</item>
         <item quantity="one">%1$d item slepen</item>
     </plurals>
+    <plurals name="announce_for_unread">
+        <item quantity="other">%2$s unread from %1$s</item>
+    </plurals>
 	<plurals name="delete_wallpapers_message">
         <item quantity="other">%1$d achtergronden verwijderen?</item>
         <item quantity="one">%1$d achtergrond verwijderen?</item>

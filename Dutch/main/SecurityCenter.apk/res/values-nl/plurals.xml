@@ -92,6 +92,14 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">"%d minuten "</item>
         <item quantity="one">"%d minuut "</item>
     </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Binnen %1$d minuten</item>
         <item quantity="one">Binnen %1$d minuut</item>

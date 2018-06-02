@@ -238,6 +238,7 @@ Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</stri
   <string name="sdcradfs_dialog_in_sec_message">"Om te updaten, moet je de tweede ruimte verwijderen en opnieuw aanmaken. Verplaats de gegevens van tweede ruimte naar de eerste ruimte, start uw apparaat opnieuw op om de update af te ronden.
 Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</string>
   <string name="sdcradfs_dialog_in_sec_title">Belangrijke update</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="secondSpace">Tweede ruimte</string>
   <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>
@@ -361,6 +362,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="use_xiaoai_open">Wekken met behulp van stemassistent</string>
   <string name="wating">Een momentje…</string>
   <string name="weibo_send">Versturen naar Weibo</string>
+  <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share_sign">Aanmelden en delen</string>
   <string name="xpsace_guide_button">Aanmaken</string>
   <string name="xspace_account">Accounts van gedupliceerde apps</string>
@@ -386,9 +388,12 @@ Sommige gedupliceerde apps vereisen Google Services Framework. In zulke gevallen
   <string name="xspace_introduce">Aanbevolen</string>
   <string name="xspace_label">Gedupliceerde apps</string>
   <string name="xspace_loading_msg">Apps laden…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Instellingen gedupliceerde apps</string>
   <string name="xspace_uninstall_completed">Gedupliceerde app met succes verwijderd</string>
   <string name="xspace_uninstall_dialog_content">Gedupliceerde app verwijderen zal alle data verwijderen.</string>
   <string name="xspace_uninstall_dialog_title">Gedupliceerde app verwijderen</string>
   <string name="xspace_uninstalling">Verwijderen…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>

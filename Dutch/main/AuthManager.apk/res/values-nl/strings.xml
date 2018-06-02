@@ -24,8 +24,6 @@
   <string name="HIPS_Perm_External_Storage_Desc">bestanden op intern geheugen toevoegen en verwijderen</string>
   <string name="HIPS_Perm_Location">Krijg locatie info</string>
   <string name="HIPS_Perm_Location_Desc">precieze locatie krijgen (GPS en netwerk gebaseerde)</string>
-  <string name="HIPS_Perm_Mobile_Connectivity">Mobiele dataverbinding wijzigen</string>
-  <string name="HIPS_Perm_Mobile_Connectivity_Desc">mobiele dataverbinding in- of uitschakelen</string>
   <string name="HIPS_Perm_PhoneID">Apparaatinfo verkrijgen</string>
   <string name="HIPS_Perm_PhoneID_Desc">toegang krijgen tot telefoonnummer, IMEI en IMSI</string>
   <string name="HIPS_Perm_ROOT">Roottoegang krijgen</string>
