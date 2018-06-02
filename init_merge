@@ -5,10 +5,10 @@ up=$PWD
 git pull origin master
 
 if [ ! -d $up/merge ]; then
-	git clone git@github.com:Redmaner/MIUI-MERGER-NL.git -b master merge
+	git clone git@github.com:Redmaner/MIUI-MERGER-NL.git -b MIUI10 merge
 else
 	cd $up/merge
-	git pull origin master
+	git pull origin MIUI10
 	cd $up
 fi
 
