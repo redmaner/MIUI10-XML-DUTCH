@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiCloudSync</string>
   <string name="error_data_in_transfer">Synchronistaie is klaar in %s uur.</string>
   <string name="error_data_in_transfer_title">Mi Cloud niet beschikbaar</string>
   <string name="error_forbidden">Synchronisatie is uitgeschakeld vanwege problemen met je Mi Account.</string>
