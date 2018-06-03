@@ -41,7 +41,7 @@
         <item quantity="one">%1$d seconde</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
     </plurals>
 </resources>

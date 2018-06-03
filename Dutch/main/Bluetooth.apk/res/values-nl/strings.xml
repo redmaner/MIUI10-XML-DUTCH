@@ -53,7 +53,6 @@
   <string name="download_line1">"Van: '%1$s'"</string>
   <string name="download_line2">Bestand: %1$s</string>
   <string name="download_line3">Bestandsgrootte: %1$s</string>
-  <string name="download_line4"/>
   <string name="download_line5">Bestand ontvangen…</string>
   <string name="download_ok">Verbergen</string>
   <string name="download_succ_line5">Bestand ontvangen</string>
@@ -107,8 +106,6 @@
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht uitzendingen.</string>
-  <string name="process"/>
-  <string name="sharedUserId"/>
   <string name="start_server">TCP server starten</string>
   <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
   <string name="status_connection_error">Verbinding mislukt.</string>

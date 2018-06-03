@@ -27,7 +27,7 @@ Neem contact op met uw verkoopagent voor meer informatie."</string>
   <string name="find_device_error_server">Serverfout (%s).</string>
   <string name="find_device_error_unknown">Onbekende fout (%s).</string>
   <string name="find_device_noise_title">Alarm apparaat vinden</string>
-  <string name="find_device_notice">Go to&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;to locate, lock, or restore your device.</string>
+  <string name="find_device_notice">Go to&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;om uw apparaat te lokaliseren, te vergrendelen of te herstellen.</string>
   <string name="find_device_notice_sms_alert">Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze functie te heractiveren.</string>
   <string name="find_device_stop_noise">Tik op Ok om te dempen</string>
   <string name="find_device_storage_corrupted">Vind Apparaat opslag is beschadigd. Uw apparaat is nu onveilig.</string>
