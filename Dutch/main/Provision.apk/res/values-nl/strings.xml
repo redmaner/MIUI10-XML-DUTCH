@@ -12,11 +12,8 @@
   <string name="congratulation_swipe">Veeg omhoog om te beginnen</string>
   <string name="congratulation_title">Instellen voltooid</string>
   <string name="content_description_complete">Voltooid</string>
-  <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">Starten</string>
   <string name="continue_to_enable_accessibility">Blijf ingedrukt houden met twee vingers om toegankelijkheid in te schakelen.</string>
-  <string name="desc_extra_fingerprint"/>
-  <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, Mi Pay transacties te verifiëren of om aan te melden bij apps en diensten.</string>
   <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw toestel te ontgrendelen of aan te melden op apps en diensten.</string>
   <string name="disagree">Annuleren</string>
@@ -69,12 +66,11 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
   <string name="sim_card_detecting_title">Controleren op SIM kaart</string>
   <string name="sim_card_detection">SIM kaart invoeren</string>
   <string name="sim_card_detection_info">Om uw SIM kaart in te voeren, lees de instructies die bij het apparaat geleverd zijn.</string>
-  <string name="sim_card_detection_mobile_not_available">"SIM card couldn't connect to the network"</string>
+  <string name="sim_card_detection_mobile_not_available">SIM kaart kan geen verbinding maken met het netwerk</string>
   <string name="sim_dectection_next">Doorgaan</string>
   <string name="sim_redetection">Opnieuw controleren</string>
-  <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">Uw SIM kaart kan geen verbinding maken met een geldig netwerk. Zorg ervoor dat u voldoende saldo op uw saldo heeft en probeer opnieuw verbinding te maken.</string>
   <string name="skip_underline">Deze stap overslaan</string>
-  <string name="start_up_slogan"/>
   <string name="summary_not_set">Niet ingesteld</string>
   <string name="system_navigation_mode">Systeemnavigatiemodus</string>
   <string name="terms_of_use">Algemene voorwaarden</string>
