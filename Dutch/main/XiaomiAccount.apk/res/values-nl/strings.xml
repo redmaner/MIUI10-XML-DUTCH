@@ -19,8 +19,6 @@
   <string name="account_global_region">Buitenland</string>
   <string name="account_has_been_set">Wijzigen</string>
   <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
-  <string name="account_mibi_center">Mi Credits</string>
-  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Geen</string>
   <string name="account_none">Geen</string>
   <string name="account_none_binded_info">Geen</string>
@@ -67,7 +65,6 @@
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
   <string name="bind_facebook">Facebook account verbinden</string>
-  <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Voeg uw telefoonnummer toe om volgende keer in te loggen op uw Mi account.</string>
   <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Sina Weibo Account verbinden</string>
@@ -113,7 +110,6 @@
   <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een ander Mi account.</string>
   <string name="error_invalid_bind_address">Het ingevoerde e-mailadres is ongeldig.</string>
   <string name="exceed_binded_phone_times_notice">Dit telefoonnummer is al gekoppeld aan een ander Mi account.</string>
-  <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al gekoppeld aan een ander Mi account</string>
   <string name="find_device_access_denied">"Kan status niet verkrijgen, toegang geweigerd"</string>
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
@@ -360,10 +356,10 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_sms_verification_code_login">Inloggen met SMS</string>
   <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>
   <string name="passport_sync_account_data_failed_warning">Uw accountinfo wordt nu gesynchroniseerd. U kan inloggen door middel van uw Mi Account ID. Als je wilt inloggen met je telefoonnummer of email wacht je tot de info compleet is gesynchroniseerd.</string>
-  <string name="passport_talkback_image_captcha">Image verification code</string>
-  <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
-  <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
-  <string name="passport_talkback_voice_captcha">Play voice verification code</string>
+  <string name="passport_talkback_image_captcha">Beeldverificatiecode</string>
+  <string name="passport_talkback_switch_image_captcha">Schakel over naar de beeldverificatiecode</string>
+  <string name="passport_talkback_switch_voice_captcha">Schakel over naar stemverificatiecode</string>
+  <string name="passport_talkback_voice_captcha">Speel code voor stemverificatie af</string>
   <string name="passport_title_reg">Een account aanmaken</string>
   <string name="passport_trust_device">Dit apparaat toevoegen aan geverifieerde apparaten</string>
   <string name="passport_trying_read_verify_code_sms">Verificatiecode verkrijgen…</string>
@@ -436,7 +432,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="sign_in">Inloggen</string>
   <string name="sim_changed_notification_msg">Tik om je hersteltelefoon bij te werken om je account veilig te houden.</string>
   <string name="sim_changed_notification_title">Telefoonnummer veranderd?</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Verzenden</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
   <string name="talkback_scan_barcode">Scan de QR code</string>
@@ -463,5 +458,4 @@ die verzonden is naar je Postvak In."</string>
   <string name="verify_phone_title">Telefoonnummer verifiëren</string>
   <string name="vip_account_settings">VIP instellingen</string>
   <string name="vip_settings_info">VIP instellingen</string>
-  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
