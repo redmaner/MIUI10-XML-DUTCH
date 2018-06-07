@@ -61,7 +61,7 @@
   <string name="aqi_quality_index_light_pollution">Lichtvervuiling</string>
   <string name="aqi_quality_index_moderate">Matig</string>
   <string name="aqi_quality_index_unhealthy">Ongezond</string>
-  <string name="backup_fail">Failed to backup launcher.</string>
+  <string name="backup_fail">Kon geen back-up van launcher maken.</string>
   <string name="bad_wallpaper_source_prompt">Kan achtergrond niet laden</string>
   <string name="buffering">Bufferen…</string>
   <string name="cancel_action">Annuleren</string>
@@ -177,6 +177,7 @@
   <string name="guide_install_app_title">App installeren</string>
   <string name="guide_tips_editing_mode">Ingedrukt houden om een widget op te pakken</string>
   <string name="home_screen">Startscherm</string>
+  <string name="icon_reorganize_channel">Iconen schikken</string>
   <string name="image_too_small_message">Originele afbeelding is niet groot genoeg.</string>
   <string name="install">Installeren</string>
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
@@ -226,9 +227,7 @@
   <string name="normal_wallpaper">Achtergrond</string>
   <string name="notification_installed">Met succes geïnstalleerd</string>
   <string name="notification_open_button">Openen</string>
-  <string name="notification_reset_description">%1$s%1$s Kan launcher terugzetten naar %2$s</string>
-  <string name="notification_reset_duration">Binnen 2 uur,</string>
-  <string name="notification_reset_title">Automatisch opruimen voltooid</string>
+  <string name="notification_reset_title">Iconen met succes gerangschikt</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Annuleren</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Uitschakelen</string>
@@ -275,9 +274,11 @@
   <string name="recommend_apps_tips">Deze functie moet verbonden zijn met internet om normaal te werken. Om deze functie uit te schakelen, tikt u op de naam van deze map aan.</string>
   <string name="recommend_loading">Laden</string>
   <string name="refresh">Vernieuwen</string>
-  <string name="reset_fail">Reset mislukt</string>
+  <string name="reset_description_first_time">U kunt de lay-out van %1$s binnen 2 uur herstellen</string>
+  <string name="reset_description_others">U kunt de lay-out herstellen vanaf%1$s</string>
+  <string name="reset_fail">Kon niet herstellen</string>
   <string name="reset_scene_prompt">Dit scherm wordt hersteld naar de standaard layout.</string>
-  <string name="reset_title">reset</string>
+  <string name="reset_title">Herstellen</string>
   <string name="screen_cells_config_title">Home screen layout</string>
   <string name="screen_locked_toast">Starpagina layout is vergrendeld</string>
   <string name="screen_number">Scherm %d</string>

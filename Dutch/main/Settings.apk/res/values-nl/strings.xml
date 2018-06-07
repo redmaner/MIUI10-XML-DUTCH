@@ -4593,7 +4593,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
   <string name="toast_need_login">Aanmelden op uw Mi account</string>
   <string name="total">Niet storen</string>
-  <string name="total_info">Geluiden dempen en trillen uitschakelen voor alles behalve het alarm</string>
+  <string name="total_info">Demp geluid %1$s behalve de alarmen</string>
+  <string name="total_info_sub">and turn off vibration</string>
   <string name="total_memory">Totaal geheugen</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>

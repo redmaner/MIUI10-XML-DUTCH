@@ -78,6 +78,7 @@
   <string name="close_camera_requesting">Camera afsluiten…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
   <string name="conference_call_number">%s deelnemers</string>
+  <string name="conference_call_recorder_title">Groepsgesprek</string>
   <string name="conference_call_single_description" formatted="false">%s etc. totaal %s</string>
   <string name="conference_caller_info_name">"%1$s's groepsgesprek"</string>
   <string name="conference_callers_exceeded">Maximaal aantal deelnemers bereikt</string>
