@@ -999,7 +999,6 @@ Neem voor meer informatie neem contact op met uw beheerder."</string>
   <string name="monitoring_description_do_header_generic">Uw apparaat wordt beheerd door %1$s.</string>
   <string name="monitoring_description_do_header_with_name">%1$s gebruikt %2$s om uw apparaat te beheren.</string>
   <string name="monitoring_description_do_learn_more">Meer leren</string>
-  <string name="monitoring_description_do_learn_more_separator">" "</string>
   <string name="monitoring_description_managed_profile_ca_certificate">Uw organisatie heeft een certificaatauthoriteit geïnstalleerd op uw werkprofiel. Je veilige netwerkverkeer kan worden bekeken of worden aangepast.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Uw werkprofiel is verbonden met %1$s, welke uw netwerkactiviteit kan bijhouden, inclusief e-mails, apps en websites.</string>
   <string name="monitoring_description_management">"Uw apparaat wordt beheerd door uw organisatie.
@@ -1303,10 +1302,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_settings_label">Instellingen</string>
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles">standaard</string>
-  <string name="quick_settings_tiles_default">Wi-Fi,mobiel,batterij,niet storen,zaklamp,rotatie,bluetooth,vliegtuig,locatie</string>
-  <string name="quick_settings_tiles_retail_mode">cel,batterijbesparing,powermodus,zaklamp,rotatie,locatie</string>
-  <string name="quick_settings_tiles_stock">cel,wifi,zaklamp,dempen, scrhermafdruk,bt,automatische helderheid,vliegtuig,schermvergrendeling,rijmodus,rotatie,bewerken,trillen,hotspot,papiermodus,synchronisatie,stille modus,powermodus,schermknop,batterijbesparing,midrop</string>
   <string name="quick_settings_time_label">Tijd</string>
   <string name="quick_settings_user_label">Ik</string>
   <string name="quick_settings_user_new_user">Nieuwe gebruiker</string>
