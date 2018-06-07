@@ -772,7 +772,6 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_charged">Opgeladen</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
   <string name="keyguard_charging_info_click_to_detail">Details weergegeven</string>
-  <string name="keyguard_charging_info_data_c">%s°C</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Gedraineerd</string>
   <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
