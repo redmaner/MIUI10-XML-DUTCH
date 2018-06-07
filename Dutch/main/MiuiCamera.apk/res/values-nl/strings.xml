@@ -2,6 +2,7 @@
 <resources>
   <string name="access_sd_fail">Toegang tot USB opslag mislukt</string>
   <string name="accessibility_ai_scene_off">AI camera is uitgeschakeld</string>
+  <string name="accessibility_ai_scene_on">AI camera is ingeschakeld</string>
   <string name="accessibility_audio_shutter_bg">Audio sluiter achtergrond</string>
   <string name="accessibility_back_preview_status">Voorbeeld camera achter</string>
   <string name="accessibility_beauty_panel_closed">Verfraaiingsmenu is verborgen</string>
@@ -115,11 +116,18 @@
   <string name="dual_camera_too_close_toast">De camera is te dichtbij het object.</string>
   <string name="dual_camera_use_hint">"De stereomodus helpt u de achtergrond te vervagen.
 Het object mag niet verder dan 2 meter zijn."</string>
+  <string name="edit_chin">Kin</string>
   <string name="edit_eye_large">Grote ogen</string>
   <string name="edit_face_ruddy">Blozend</string>
   <string name="edit_face_slender">Slank</string>
+  <string name="edit_lips">Lippen</string>
+  <string name="edit_neck">Nek</string>
+  <string name="edit_nose">Neus</string>
+  <string name="edit_risorius">Risorius</string>
   <string name="edit_skin_smooth">Glad</string>
   <string name="edit_skin_white">Toon</string>
+  <string name="edit_slim_nose">Neus</string>
+  <string name="edit_smile">Glimlach</string>
   <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
   <string name="face_age_info">Leeftijd: %d</string>
   <string name="face_analyze_info_female">Vrouw</string>
@@ -153,6 +161,7 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="front_camera_hint_text_place">"Selfies nemen zal gemakkelijker zijn
 als je je telefoon draait"</string>
   <string name="front_camera_hint_text_rotate">Draai je telefoon</string>
+  <string name="hibernate_hint">Tik op het scherm om de camera te openen</string>
   <string name="hine_hht">"Bij weinig licht maakt de camera meerdere foto's
 en maak vervolgens een opname met een minimale hoeveelheid ruis."</string>
   <string name="hint_ae_af_lock">Autofocus / automatische belichting is vergrendeld</string>
@@ -185,6 +194,7 @@ en maak vervolgens een foto waarop iedereen er het beste uitziet."</string>
   <string name="pano_how_to_use_prompt_start">Tik op de pijl om van richting te veranderen en langzaam te pannen.</string>
   <string name="pano_how_to_use_prompt_to_move">Begin langzaam te bewegen</string>
   <string name="path_settings">Systeemapps/Camera/Instellingen</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D Schoonheid</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Munt</string>
   <string name="portait_effect_entry_fairytale">Kindertijd</string>
@@ -428,6 +438,9 @@ brengt de mensen naar voren."</string>
   <string name="pref_skin_beautify_smooth_default">5</string>
   <string name="pref_skin_beautify_smooth_title">Huid</string>
   <string name="pref_video_captrue_ability_title">Beeld vastleggen tijdens opname</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Hoge compatibiliteit</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Hoge prestaties</string>
+  <string name="pref_video_encoder_title">Video-encoder</string>
   <string name="pref_video_focusmode_entry_auto">Tikken</string>
   <string name="pref_video_focusmode_title">Focus modus</string>
   <string name="pref_video_quality_title">Videokwaliteit</string>

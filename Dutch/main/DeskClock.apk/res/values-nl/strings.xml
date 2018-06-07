@@ -116,6 +116,7 @@
   <string name="more_settings">Instellingen</string>
   <string name="never">Nooit</string>
   <string name="oneshot_alarm">Verwijderen na afgaan</string>
+  <string name="open_keep_screen">Het scherm zal worden aangehouden</string>
   <string name="pause">Pauzeren</string>
   <string name="remind_ringtone">Beltoon</string>
   <string name="reset">Opnieuw instellen</string>
@@ -189,7 +190,7 @@
   <string name="volume_button_setting_title">Volumeknoppen</string>
   <string name="workday_alarm_clock">Alarm op werkdagen</string>
   <string name="worldclock_empty_text">Geen wereldklok</string>
-  <string name="worldclock_input_hint_text">Land of stad invoeren</string>
+  <string name="worldclock_input_hint_text">Stad invoeren</string>
   <string name="worldclock_search_city">Stad selecteren</string>
   <string name="worldclock_title">Klok</string>
   <string name="worldclock_world_time">Tijdzones</string>

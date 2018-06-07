@@ -433,6 +433,7 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
+  <string name="data_connection_no_internet">Geen internet</string>
   <string name="data_saver">Data bespaarder</string>
   <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. 
   
@@ -1078,6 +1079,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="notification_channel_disabled">U krijgt deze meldingen niet meer.</string>
   <string name="notification_channel_general">Algemene berichten</string>
   <string name="notification_channel_location">Locatie</string>
+  <string name="notification_channel_screenbutton">Schermknop</string>
   <string name="notification_channel_screenshot">Schermafdrukken</string>
   <string name="notification_channel_storage">Opslag</string>
   <string name="notification_channel_switch_accessibility">Meldingen van dit kanaal toestaan</string>
@@ -1087,7 +1089,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="notification_group_collapse_button_text">Vouwen</string>
   <string name="notification_header_default_channel">Meldingen</string>
   <string name="notification_header_title">Meldingen</string>
-  <string name="notification_hidden_by_policy_text">Inhoud is verborgen</string>
+  <string name="notification_hidden_by_policy_text">Inhoud is verborgen door het beleid</string>
   <string name="notification_hidden_text">U heeft een nieuw bericht</string>
   <string name="notification_info_channel_disabled_text">U ontvangt geen %2$s meldingen van %1$s.</string>
   <string name="notification_info_channel_enabled_text">U ontvangt %2$s meldingen van %1$s.</string>
@@ -1202,6 +1204,10 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="power_remaining_duration_only">Ongeveer. %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
   <string name="profile_owned_footer">Profiel kan gecontroleerd worden</string>
+  <string name="prompt_danger">Gevaarlijk</string>
+  <string name="prompt_detecting">Detecteren</string>
+  <string name="prompt_safe">Veilig</string>
+  <string name="prompt_unknown">Unknown</string>
   <string name="qs_customize">Lang indrukken toestaan aanpassen in snelle instellingen</string>
   <string name="qs_customize_info">Info</string>
   <string name="qs_customize_remove">Verwijderen</string>
@@ -1275,6 +1281,9 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_nfc_off">NFC is uitgeschakeld</string>
   <string name="quick_settings_nfc_on">NFC is ingeschakeld</string>
   <string name="quick_settings_night_display_label">Nacht licht</string>
+  <string name="quick_settings_night_secondary_label_on_at">Aan op %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Bij zonsondergang</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Tot zonsopgang</string>
   <string name="quick_settings_notifications_label">Meldingen</string>
   <string name="quick_settings_papermode_label">Leesmodus</string>
   <string name="quick_settings_powermode_label">Prestatiemodus</string>
@@ -1289,6 +1298,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_screenbutton_label">Knoppen</string>
   <string name="quick_settings_screenlock_label">Vergrendelscherm</string>
   <string name="quick_settings_screenshot_label">Schermafdruk</string>
+  <string name="quick_settings_secondary_label_until">Tot %s</string>
   <string name="quick_settings_settings_label">Instellingen</string>
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
@@ -1468,6 +1478,10 @@ d MMMM"</string>
   <string name="status_bar_recent_remove_item_title">Verwijderen van lijst</string>
   <string name="status_bar_recording_back">Terugkeren naar recorder</string>
   <string name="status_bar_recording_pause">Recorder is gepauzeerd. Klik om terug te gaan naar de recorder.</string>
+  <string name="status_bar_safepay_risk">Betalingsrisico\'s gevonden</string>
+  <string name="status_bar_safepay_safe">Geen betalingsrisico\'s gevonden</string>
+  <string name="status_bar_safepay_scanning">Controle van de betaalomgeving…</string>
+  <string name="status_bar_safepay_unknown">Kon de betaalomgeving niet controleren</string>
   <string name="status_bar_settings_airplane">Vliegmodus</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Scherm autom draaien</string>
@@ -1699,9 +1713,9 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
   <string name="wrong_password">Foute wachtwoord</string>
   <string name="zen_alarm_warning">U zal je volgende alarm %1$s niet horen</string>
   <string name="zen_alarm_warning_indef">U zal je volgende alarm %1$s niet horen tenzij je dit voor die tijd uitzet</string>
-  <string name="zen_alarms_introduction">U wordt niet gestoord door geluiden en trillingen, behalve door alarmen.</string>
+  <string name="zen_alarms_introduction">U wordt niet gestoord door geluiden en trillingen, behalve door alarmen. Je hoort nog steeds alles wat je wilt spelen, inclusief muziek, video\'s en games</string>
   <string name="zen_priority_customize_button">Aanpassen</string>
-  <string name="zen_priority_introduction">U wordt niet gestoord door geluiden en trillingen, behalve van alarmen, herinneringen, gebeurtenissen en bellers die u opgeeft.</string>
+  <string name="zen_priority_introduction">U wordt niet gestoord door geluiden en trillingen, behalve van alarmen, herinneringen, gebeurtenissen en bellers die u opgeeft. Je hoort nog steeds alles wat je wilt spelen, inclusief muziek, video\'s en games.</string>
   <string name="zen_silence_introduction">Dit blokkeert ALLE geluiden en trillingen, inclusief van alarmen, muziek, video\'s en games.</string>
   <string name="zen_silence_introduction_voice">Dit blokkeert ALLE geluiden en trillingen, inclusief van alarmen, muziek, video\'s en games. U zal nog steeds kunnen bellen.</string>
 </resources>

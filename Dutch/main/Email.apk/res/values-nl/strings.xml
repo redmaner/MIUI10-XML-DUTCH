@@ -50,7 +50,6 @@ Nu bijwerken?"</string>
   <string name="account_settings_notify_summary">Melding tonen wanneer er een e-mail binnenkomt</string>
   <string name="account_settings_param">Accountinstellingen</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
-  <string name="account_settings_preference_add_account">E-mailaccount toevoegen</string>
   <string name="account_settings_preference_att_save_path">Standaardlocatie voor bijlagen</string>
   <string name="account_settings_preference_head_icon">Profiel foto\'s</string>
   <string name="account_settings_preference_notify">Melding</string>
@@ -90,6 +89,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_exchange_certificate_title">Clientcertificaat</string>
   <string name="account_setup_exchange_device_id_label">Mobiel apparaat ID</string>
   <string name="account_setup_exchange_no_certificate">Geen</string>
+  <string name="account_setup_failed_auth_required">Verificatiemethoden worden niet ondersteund door de server.</string>
   <string name="account_setup_failed_certificate_inaccessible">Het certificaat is ongeldig of niet toegankelijk.</string>
   <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
@@ -546,6 +546,7 @@ Nu bijwerken?"</string>
   <string name="login139">Aanmelden met China Mobile</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
   <string name="login_failed_title">Kan niet inloggen</string>
+  <string name="login_mail">Aanmelden bij mail</string>
   <string name="login_support_tip_text">Alle veelvoorkomende mailboxaccounts ondersteunen</string>
   <string name="long_press_to_select_tip">"Blijf aanraken om één gesprek te selecteren en raak aan om meer te selecteren."</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
@@ -556,7 +557,6 @@ Nu bijwerken?"</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
   <string name="mailbox_name_display_ad">Advertenties &amp; meldingen</string>
-  <string name="mailbox_name_display_add_account">E-mailaccount toevoegen</string>
   <string name="mailbox_name_display_circular">Meldingen</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
@@ -657,6 +657,7 @@ Nu bijwerken?"</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Dempen</string>
   <string name="navigation_menu">Navigatiemenu</string>
+  <string name="need_get_qq_mail">Heeft QQ Mail nodig</string>
   <string name="network_error">Geen verbinding</string>
   <string name="network_invaild">Kan niet verbinden netwerk</string>
   <string name="network_not_available">Netwerkfout, controleer het netwerk</string>
@@ -708,6 +709,10 @@ Probeer een andere inbox."</string>
   <string name="open_external_storage_and_calendar_permission">Sta toe dat Mail de opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Sta toe dat Mail de contacten, opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_permission">Sta toe dat Mail de opslag en contacten kan lezen in instellingen</string>
+  <string name="open_notification_kingagent">Open the notice of the burial point</string>
+  <string name="optimization_suggestion">Optimalisatievoorstel</string>
+  <string name="others_mail">Andere</string>
+  <string name="others_mail_des">(Meer dan 60,0000 mails converteren)</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_certificate_error">Contacteer je email systeemadministrator en update je certificaat.</string>
@@ -828,6 +833,9 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="push_wps_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
   <string name="push_wps_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
+  <string name="qq_authorization_help_get">Help me om te verkrijgen</string>
+  <string name="qq_authorization_know">De autorisatiecode begrijpen</string>
+  <string name="qq_authorization_tips">Niet langer prompt</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Gekopieerd. Ga terug naar de inlogpagina en plak de code in het wachtwoordveld.</string>
   <string name="qq_auto_login_failed_dialog_message">Kopieer de verificatiecode, tik op \"Gebruikersnaam en wachtwoord invullen om in te loggen\" op de inlogpagina en plak de code in het wachtwoordveld.</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Code kopiëren</string>
@@ -841,6 +849,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="qq_login_webview">Aanmelden op web QQ Mail. Voer uw wachtwoord in.</string>
   <string name="qq_next_generation_auth_toast">Schakel wachtwoordbeveiliging in uw browser in</string>
   <string name="qq_uthentication_failed">Kon account niet verifiëren, meld u opnieuw aan</string>
+  <string name="qq_verify_code">(Heeft de QQ verifieer code nodig)</string>
   <string name="qq_webview_loading">Een momentje…</string>
   <string name="questionnair_body_invisibility">Berichten worden niet weergegeven</string>
   <string name="questionnair_confirm_delete">Verwijderen</string>
@@ -942,7 +951,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kan SD kaart niet gebruiken</string>
-  <string name="search_bar_text">Zoeken naar mail en zender</string>
+  <string name="search_bar_text">Zoek afzender of zoek contact</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">"Resultaten "</string>
   <string name="search_tabs_name_all">Alle</string>
@@ -1034,6 +1043,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="tap_to_configure">Raak aan om in te stellen</string>
   <string name="tap_to_enable_sync">Raak aan om in te schakelen.</string>
   <string name="three_day">3 dagen</string>
+  <string name="title_activity_about">Over</string>
   <string name="to">Aan</string>
   <string name="to_heading">"Aan: "</string>
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
@@ -1073,9 +1083,8 @@ Account verwijderen?"</string>
   <string name="unread_string">Conversatie ongelezen</string>
   <string name="unzip_file_failed">Kon dit bestand niet unzippen</string>
   <string name="update_date_format_templete">dd MMMM, HH:mm</string>
-  <string name="update_to_wps_mail">Voor geavanceerde functies, upgrade naar WPS-mail</string>
   <string name="updated_at">Laatst bijgewerkt op %1$s</string>
-  <string name="upload_log">Logs uploaden</string>
+  <string name="upload_log">Logs indienen</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="upload_log_no">Annuleren</string>
   <string name="upload_log_success">Met succes verzonden. We nemen spoedig contact met u op.</string>
@@ -1085,6 +1094,8 @@ Account verwijderen?"</string>
   <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Een momentje…</string>
   <string name="validation_failed_prompt">Kan account niet bevestigen, controleer de server instellingen voor %s"</string>
+  <string name="verify_code">Verificatie code</string>
+  <string name="version_string">Versie: %s</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Meer conversaties weergegeven</string>
   <string name="wait_for_manual_sync_body">"Automatische synchronisatie is niet ingesteld voor dit account.

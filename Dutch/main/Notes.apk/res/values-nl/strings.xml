@@ -154,12 +154,6 @@
   <string name="search_setting_description">Tekst in uw notities doorzoeken</string>
   <string name="select_account_prompt">Sync. notities</string>
   <string name="set_alarm_description">Alarm instellen</string>
-  <string name="sina_share_fail">Kon niet verzenden</string>
-  <string name="sina_share_fail_content_repeat">Je hebt dit al gedeeld.</string>
-  <string name="sina_share_pendding">Verzenden…</string>
-  <string name="sina_share_success">Verzenden gelukt</string>
-  <string name="sina_token_expired_warning">Weibo account is verlopen: voeg het account opnieuw toe</string>
-  <string name="sina_token_invalid_warning">Weibo account is ongeldig: voeg het account opnieuw toe</string>
   <string name="snippet_audio_stub">Spraak notitie</string>
   <string name="snippet_image_stub">[Foto]</string>
   <string name="snippet_image_template">[Foto %1$s]</string>

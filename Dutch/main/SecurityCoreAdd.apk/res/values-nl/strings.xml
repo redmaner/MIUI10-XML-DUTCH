@@ -18,7 +18,7 @@ zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
   <string name="bind_device">Apparaten toevoegen</string>
   <string name="can_not_delete_when_calling">Kan geen ruimtes verwijderen tijdens een oproep</string>
   <string name="can_not_switch_when_calling">Kan niet wisselen tussen ruimtes tijdens een oproep</string>
-  <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
+  <string name="can_not_switch_when_green_kid_active">Overschakelen naar de tweede ruimte wordt beperkt door ouderlijk toezicht</string>
   <string name="cancelClosePassword">Niet uitschakelen</string>
   <string name="cancel_button">Annuleren</string>
   <string name="changePassword">Wachtwoord wijzigen</string>
@@ -346,6 +346,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="switching_files">Bestanden verplaatsen…</string>
   <string name="switching_photos">Foto\'s verplaatsen…</string>
   <string name="temporary_no_set">Nu niet</string>
+  <string name="this_function_can_not_use_in_second_space">Deze functie kan alleen in de eerste ruimte gebruikt worden</string>
   <string name="title_choose_app_status">Apptype selecteren</string>
   <string name="title_switch_file">Deze bestanden verwijderen?</string>
   <string name="title_switch_photo">Deze foto\'s verwijderen?</string>
