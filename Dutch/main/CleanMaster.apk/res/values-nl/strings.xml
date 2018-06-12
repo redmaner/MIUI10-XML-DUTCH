@@ -100,7 +100,7 @@
   <string name="buy_traffic_pack">Koop meer data</string>
   <string name="cache_title_empty_folder">Lege map (%d)</string>
   <string name="cache_title_empty_folder2">Lege map</string>
-  <string name="cache_title_system_cache">Systeemcache</string>
+  <string name="cache_title_system_cache">Data cache</string>
   <string name="cached_garbage">Cache</string>
   <string name="call_log">Oproepgeschiedenis</string>
   <string name="cancel">Annuleren</string>
@@ -118,8 +118,6 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">Geen</string>
-  <string name="clean_long_msg">"Betsanden %1$d opruimen,%2$d klaar 
-%3$d%% item/seconde resterende tijd:%4$s"</string>
   <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere verouderde items</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="clear_safe_notify">Widget op notificatiebalk</string>

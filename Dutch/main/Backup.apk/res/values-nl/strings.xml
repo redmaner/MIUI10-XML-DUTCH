@@ -147,11 +147,21 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="feature_title_account">Mi account</string>
   <string name="feature_title_antispam">Zwarte lijst</string>
   <string name="feature_title_call_log">Oproepgeschiedenis</string>
+  <string name="feature_title_contacts">Contacten</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_sms">Berichten</string>
   <string name="file_uploading">Laden…</string>
   <string name="files_backup_info">Alle bestanden op SD kaart (inclusief foto\'s, nummers, video\'s, appdata, enz.)</string>
   <string name="findlost_contact">Contacten herstellen</string>
   <string name="findlost_contact_online">Herstel verwijderde contacten van Mi Cloud</string>
+  <string name="flash_drive_backup_btn">Back up to USB drive</string>
+  <string name="flash_drive_backup_note">"Apps back-uppen naar USB station .
+Zorg dat het USB station voldoende opslagruimte heeft voordat u begint."</string>
+  <string name="flash_drive_backup_restore">USB backups</string>
+  <string name="flash_drive_connection_failed">Verbinding van USB station verbroken</string>
+  <string name="flash_drive_restore_btn">Herstellen vanaf USB station</string>
+  <string name="flash_drive_search_backup_files">"Zoeken naar de USBback-up…
+Wijzig of hernoem de back-upbestanden niet."</string>
   <string name="guarded_mode_dialog_backup_message">Back-ups zijn niet toegestaan in gastmodus.</string>
   <string name="guarded_mode_dialog_title">U zit in gastmodus</string>
   <string name="guarded_mode_dialog_transfer_message">Kan Mi Mover niet gebruiken in gastmodus.</string>
@@ -194,6 +204,8 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
   <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kan je alleen contacten en foto\'s overzetten van iOS apparaten. Zorg ervoor dat je eerst een iCloud back-up maakt voordat je begint met de overdracht.</string>
+  <string name="lack_perm_msg">Mi Mover heeft de volgende toestemmingen nodig: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Toestemmingen vereist</string>
   <string name="list_footer_tip_title">Tips:</string>
   <string name="loading_data">Gegevens laden</string>
   <string name="local_app_name">Back-up</string>
@@ -259,7 +271,15 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="password">Wachtwoord</string>
   <string name="password_null">Wachtwoord kan niet leeg zijn</string>
   <string name="pause">Pauzeren</string>
-  <string name="platform_chooser_item_android">Importeren van een Android apparaat</string>
+  <string name="perm_camera">Camera</string>
+  <string name="perm_location">Locatie</string>
+  <string name="perm_read_call_log">Oproepgeschiedenis lezen</string>
+  <string name="perm_read_contacts">Contacten lezen</string>
+  <string name="perm_read_phone_state">De status van de telefoon lezen</string>
+  <string name="perm_read_sms">SMS lezen</string>
+  <string name="perm_storage">Lezen en schrijven op externe opslag</string>
+  <string name="platform_chooser_item_android_mi">Mi phone</string>
+  <string name="platform_chooser_item_android_others">Andere merken</string>
   <string name="platform_chooser_item_ios">Importeren van een iOS apparaat</string>
   <string name="platform_chooser_title">Kies oude apparaat</string>
   <string name="progress_backup_hint">Back-uppen…</string>
@@ -328,6 +348,8 @@ Maak tenminste %s vrij."</string>
   <string name="start_restore">Herstellen</string>
   <string name="state_mounting">Toegang krijgen tot routeropslag…</string>
   <string name="state_waiting">Een momentje…</string>
+  <string name="storage_sd_card">SD kaart</string>
+  <string name="storage_usb">USB station</string>
   <string name="succ_description">Successvol</string>
   <string name="succeed">Voltooid</string>
   <string name="summary_err_backup_encrypting">Aanmelden bij je Mi Account.</string>
@@ -367,8 +389,9 @@ Maak tenminste %s vrij."</string>
   <string name="trans_backingup_no_items">Synchroniseren…</string>
   <string name="trans_button_cancel">Annuleren</string>
   <string name="trans_calculating">Berekenen…</string>
-  <string name="trans_calculating_app_sd_size">Grootte berekenen %s</string>
-  <string name="trans_calculating_base_size">Datagrootte berekenen</string>
+  <string name="trans_calculating_app_sd_description">Data op SD kaart</string>
+  <string name="trans_calculating_media_description">Media bestanden</string>
+  <string name="trans_calculating_tip">%s berekenen…</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
   <string name="trans_cancelling">Annuleren</string>
   <string name="trans_connect_failed_device_incompatible">Apparaat is niet compatibel. Annuleer en probeer opnieuw.</string>
@@ -410,18 +433,33 @@ Maak tenminste %s vrij."</string>
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
   <string name="trans_generate_qrcode_failed">Kan QR code niet aanmaken. Probeer opnieuw.</string>
   <string name="trans_generating_qrcode">QR code aanmaken…</string>
+  <string name="trans_install_guide_button_start">Start</string>
+  <string name="trans_install_guide_page_title">Installeer Mi Mover op je oude telefoon</string>
+  <string name="trans_install_guide_scan_install_tip">"Scan deze QR code met je oude telefoon om Mi Mover 
+te downloaden en te installeren."</string>
+  <string name="trans_install_guide_step1_content">Scan de QR code met je oude telefoon om\"Mi Mover\"te downloaden en te installeren.</string>
+  <string name="trans_install_guide_step1_title">Stap 1</string>
+  <string name="trans_install_guide_step2_content">Nadat de installatie is voltooid, tik \"Start\" onderaan.</string>
+  <string name="trans_install_guide_step2_title">Stap 2</string>
   <string name="trans_intro_desc_1">"Op een Xiaomi apparaat, verbind met Wi-Fi en tik op \"Ik ben een ontvanger\", selecteer je iOS apparaat, log in op iCloud en importeeer gegevens."</string>
   <string name="trans_intro_desc_3">Annuleer de overdracht, sluit Mi Mover af en start opnieuw. Bestanden die meerdere keren voorkomen worden overschreven tijdens de overdracht.</string>
   <string name="trans_intro_desc_4">"Mi Mover gebruikt Wi-Fi om bestanden te versturen. Daarom kan je niet verbinden met internet met Wi-Fi op beide apparaten tijdens een overdracht. Wel kan je nog steeds mobiel internet gebruiken. Sommige nieuwe apparaten (bijv. Mi 6) kunnen nog wel verbinding maken met internet met Wi-Fi tijdens een overdracht."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover gebruikt Wi-Fi om bestanden over te zetten. Daarom kunt u tijdens het overbrengen geen verbinding maken met internet via Wi-Fi op beide apparaten. U kunt echter nog steeds gebruikmaken van mobiele gegevens."</string>
   <string name="trans_intro_desc_5">Opslagruimte op oude apparaat wordt gebruikt om overdrachtpakketten te maken. Zorg ervoor dat er tenminste 500MB - 1GB beschikbare ruimte is op het oude apparaat voordat je een overdracht begint.</string>
   <string name="trans_intro_desc_6">Er zijn verschillende redenen waarom dat zou kunnen gebeuren: systeem- en appversie compatibiliteitsproblemen, netwerkproblemen, compatibiliteitsproblemen specifiek voor een bepaald apparaat etc.</string>
   <string name="trans_intro_desc_7">Sommige appprofielen (internetbankieren, financien etc.) zijn verbonden aan een specifiek apparaat om veiligheidsredenen. Probeer de appgegevens te verwijderen of de ap gewoon helemaal opnieuw te installeren op het nieuwe apparaat.</string>
   <string name="trans_intro_desc_8">"WeChat appgegevens en chatgeschiedenis zou niet helemaal volledig kunnen worden verstuurd met Mi Mover. Ga naar WeChat's instellingen en log uit van je account om meer kans te hebben op een succesvolle overdracht."</string>
+  <string name="trans_intro_desc_9_method_1_dec">Ga naar startscherm &gt; Tools &gt; Feedback.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Deel uw feedback met behulp van de \"Feedback\" app.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Stuur uw feedback naar miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Stuur ons een e-mail</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Meld problemen in QQ</string>
   <string name="trans_intro_desc_account">Je moet opnieuw inloggen op je accounts (bijv. Mi Account, Exchange, Google, etc.) op het nieuwe apparaat om veiligheidsredenen.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover kan geen gegevens van gedupliceerde apps overzetten om problemen tussen bestanden te voorkomen.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover heeft geen toegang tot de gegevens in de tweede ruimte. Verplaats gegevens naar de eerste ruimte en start Mi Mover opnieuw.</string>
   <string name="trans_intro_desc_new">Tik op \"Ik ben ontvanger\". Er zal een QR code worden gemaakt.</string>
   <string name="trans_intro_desc_old">Tik op \"Ik ben verzender\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden er verzonden moeten worden en tik op \"Versturen\".</string>
+  <string name="trans_intro_desc_old_market">Tik op \"Start\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden moeten worden verzonden en tik dan op \"Verzenden\".</string>
   <string name="trans_intro_desc_private">Mi Mover heeft geen toegang tot foto\'s in verborgen albums omdat ze versleuteld zijn. Je kan deze foto\'s herstellen van Mi Cloud op het nieuwe apparaat.</string>
   <string name="trans_intro_question_1">%d. Hoe gebruik ik Mi Mover om gegevens van een iOS apparaat over te zetten?</string>
   <string name="trans_intro_question_2">%d. Hoe gebruik ik Mi Mover om gegevens van een Android apparaat over te zetten?</string>
@@ -446,6 +484,11 @@ Maak opslagruimte vrij of verplaats alleen belangrijke items."</string>
   <string name="trans_old_phone_low_space_msg">"Mi Mover heeft wat opslagruimte nodig om de overgedragen gegevens te verpakken, maar het lijkt erop dat er onvoldoende ruimte beschikbaar is op het oude apparaat. Maak ruimte vrij in "\Beveiliging\" of verplaats alleen belangrijke items."</string>
   <string name="trans_old_phone_low_space_title">Not enough storage space</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_open_camera_failed_message">Start uw apparaat opnieuw op of controleer of Mi Mover is toegestaan om &lt;b&gt;Camera&lt;/b&gt;. te gebruiken</string>
+  <string name="trans_open_camera_failed_title">Kon niet verbinden met camera</string>
+  <string name="trans_open_location_button">Inschakelen</string>
+  <string name="trans_open_location_message">Schakel locatiediensten in om de lijst met beschikbare Wi-Fi netwerken te bekijken.</string>
+  <string name="trans_open_location_title">Schakel locatiediensten in</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
   <string name="trans_operate_new_phone_tips">"QR code scannen bij gebruik van nieuwe apparaat
@@ -460,6 +503,7 @@ Transfereren app op uw oude apparaat
 Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
   <string name="trans_operate_reconnect_old_tips">"Wacht tot de oude telefoon \"verbinding verbroken\" weergeeft.
 Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
+  <string name="trans_operate_tip_for_other_android">Open Mi Mover op je oude telefoon, tik op \"Start\" en scan de bovenstaande QR code.</string>
   <string name="trans_pausing">Pauzeren…</string>
   <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
@@ -478,7 +522,7 @@ Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
 Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_receiving_completed">Met succes ontvangen</string>
   <string name="trans_restoring">Herstellen…</string>
-  <string name="trans_restoring_no_items">Sync. items</string>
+  <string name="trans_restoring_no_items">Info verkrijgen…</string>
   <string name="trans_retry">Probeer opnieuw</string>
   <string name="trans_scan_invalid_qrcode">Ongeldige QR code</string>
   <string name="trans_scan_qr_code_tips">Scan QR code op het nieuwe apparaat</string>
@@ -505,6 +549,9 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
   <string name="trans_start_failed_message">Kon transfer niet starten, probeer opnieuw of herstart het apparaat</string>
   <string name="trans_start_failed_title">Kon transfer niet starten</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">"Je nieuwe apparaat voelt nu als je oude.
+Vond je Mi Mover leuk?"</string>
   <string name="trans_switching_5g">Wisselen naar 5GHz Wi-Fi…</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"Tijd besteed: %s"</string>
@@ -516,6 +563,16 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="trans_wlan_tips_message">"Schakel Wi-Fi niet uit tijdens overdracht. Dit kan fouten veroorzaken."</string>
   <string name="trans_wlan_tips_title">"Schakel Wi-Fi niet uit"</string>
   <string name="unknown_hint">Onbekend</string>
+  <string name="usb_backup_select_data_too_large">"Geselecteerde bestanden zijn groot. Zorg dat het USB station voldoende opslagruimte heeft.
+Breng alleen belangrijke items over."</string>
+  <string name="usb_restore_select_data_too_large">"Back-upbestanden zijn groot. Het kan enige tijd duren om ze te herstellen.
+Het herstellen van alleen belangrijke items zal sneller gaan."</string>
+  <string name="usb_trans_native_no_space">"Alleen %s is beschikbaar op uw apparaat.
+Maak ruimte vrij of maak meerdere kleinere transfers."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Extra opslag is vereist om uw back-ups te verpakken. Er is niet voldoende opslagruimte om door te gaan met de overdracht. U kunt ruimte vrijmaken en onnodige bestanden in Beveiliging verwijderen of alleen belangrijke items verplaatsen."</string>
+  <string name="usb_trans_old_phone_low_space_title">Niet genoeg opslagruimte</string>
+  <string name="usb_trans_select_data_no_space">"Alleen %s beschikbaar op uw USB station.
+Maak ruimte vrij of verplaats alleen belangrijke items."</string>
   <string name="user_name">Apple ID of e-mail</string>
   <string name="user_name_null">Gebruikersnaam kan niet leeg zijn</string>
   <string name="user_notice_declaration_ignore">Niet meer tonen</string>

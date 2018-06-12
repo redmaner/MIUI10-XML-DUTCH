@@ -12,6 +12,7 @@
   <string name="activating">Activeren…</string>
   <string name="address">Adres</string>
   <string name="birthday">Verjaardag</string>
+  <string name="cancel_description">Annuleren</string>
   <string name="check_phone_error_title">Synchronisatie is uit</string>
   <string name="check_phone_io_error">Kan geen verbinding maken met het netwerk</string>
   <string name="chinese_day_1">"Eén"</string>
@@ -47,10 +48,13 @@
   <string name="chinese_day_elementary">Eerste</string>
   <string name="clearable_edittext_clear_description">Wissen</string>
   <string name="close">Afsluiten</string>
+  <string name="confirm_description">Bevestigen</string>
   <string name="date_picker_dialog_title">Datum instellen</string>
   <string name="date_time_done">Klaar</string>
   <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
+  <string name="delete_description">Verwijderen</string>
   <string name="deselect_all">Deselecteren</string>
+  <string name="deselect_all_description">Alles deselecteren</string>
   <string name="email">E-mail</string>
   <string name="error_forbidden">Synchroniseren is uitgeschakeld vanwege problemen met uw Mi Account.</string>
   <string name="error_not_acceptable">Synchroniseren is uitgeschakeld.</string>
@@ -176,6 +180,7 @@
   <string name="search_input_description">Zoeken</string>
   <string name="search_mode_button_back_description">Terug</string>
   <string name="select_all">Alles selecteren</string>
+  <string name="select_all_description">Alles selecteren</string>
   <string name="select_item">Items selecteren</string>
   <string name="send">Verzenden</string>
   <string name="send_sms_for_sync_notice">Uw provider kan je kosten aanrekenen voor een SMS bericht gebruikt om deze dienst te activeren.</string>

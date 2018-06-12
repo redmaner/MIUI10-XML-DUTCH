@@ -56,6 +56,8 @@
   <string name="ai_scene_mode_use_hint_text">"Open de Ai-Scene Camera, identificeer de scène voor je
   en optimaliseer de foto op basis van de scène"</string>
   <string name="audio_focus_exit_button_text">Audiofocus sluiten</string>
+  <string name="beauty_fragment_tab_name_3d_beauty">Schoonheid</string>
+  <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
   <string name="beauty_fragment_tab_name_beauty">Schoonheid</string>
   <string name="beauty_fragment_tab_name_makeup">Geavanceerd</string>
   <string name="bokeh_use_hint">Diepte effect</string>
@@ -130,6 +132,7 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="edit_smile">Glimlach</string>
   <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
   <string name="face_age_info">Leeftijd: %d</string>
+  <string name="face_analyze_info">Leeftijd: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Vrouw</string>
   <string name="face_analyze_info_male">Man</string>
   <string name="face_beauty_advanced">Pro</string>
@@ -174,6 +177,10 @@ en maak vervolgens een foto waarop iedereen er het beste uitziet."</string>
   <string name="hunt_dual_water_mark">Het watermerk van de dubbele camera wordt automatisch toegevoegd.</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installeren</string>
+  <string name="lens_dirty_detected_content">"Er wordt gedetecteerd dat uw cameralens vies is,
+maak je cameralens schoon voor een beter beeld."</string>
+  <string name="lens_dirty_detected_title_back">De lens van de achterste camera is vuil</string>
+  <string name="lens_dirty_detected_title_front">Cameralens aan voorzijde is vuil</string>
   <string name="message_snap_double_confirm">Volumetoets lang ingedrukt houden activeerd NFC, deze functie vervanging?</string>
   <string name="module_name_beauty">Schoonheid</string>
   <string name="module_name_capture">Foto</string>
@@ -332,6 +339,8 @@ brengt de mensen naar voren."</string>
   <string name="pref_camera_peak_entry_off">Uit</string>
   <string name="pref_camera_peak_entry_on">Aan</string>
   <string name="pref_camera_peak_title">Focus Peaking</string>
+   <string name="pref_camera_picturesize_entry_fullscreen">Volledig scherm 16:9</string>
+  <string name="pref_camera_picturesize_entry_standard">Standaard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Cameraframe</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretmodus is uitgeschakeld</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretmodus is ingeschakeld</string>
