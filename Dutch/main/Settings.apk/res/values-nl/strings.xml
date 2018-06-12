@@ -857,13 +857,19 @@ Sample Rate"</string>
   <string name="bootloader_apply_step_5">Zorg ervoor dat je weet hoe je fastbootmodus moet gebruiken voordat u deze inschakelt.</string>
   <string name="bootloader_apply_title">Belangrijke waarschuwing</string>
   <string name="bootloader_device_bind_already">Met succes toegevoegd. Mi Account is nu gekoppeld met dit apparaat.</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">Kan geen accounts meer toevoegen aan deze SIM kaart.</string>
   <string name="bootloader_device_bind_fail">Kon niet verifiëren, wacht en minuutje of twee en probeer opnieuw</string>
   <string name="bootloader_device_bind_msg">Voorbereiden om account en apparaat toe te voegen…</string>
   <string name="bootloader_device_bind_no_account">Eerst op uw Mi Account aanmelden</string>
   <string name="bootloader_device_bind_no_network">Verbind met het netwerk en probeer opnieuw</string>
+  <string name="bootloader_device_bind_no_sim">Plaats de SIM kaart en probeer opnieuw.</string>
+  <string name="bootloader_device_bind_server_code">Kon niet toevoegen. Foutcode:</string>
+  <string name="bootloader_device_bind_sim_invalid">SIM kaart is ongeldig. Vervang deze en probeer opnieuw.</string>
   <string name="bootloader_locked_answer_1">We vergrendelen apparaten om ervoor te zorgen dat ze veilig zijn en uw persoonlijke informatie niet aan derden bekendgemaakt wordt. Als u in Fastboot modus gaat en uw apparaat flashed, kunt u het ontgrendelen.</string>
   <string name="bootloader_locked_answer_1_warning">"Vergeet niet: U zult niet in staat \ "Apparaat vinden \" te gebruiken. Nadat de telefoon ontgrendeld is".</string>
-  <string name="bootloader_locked_answer_2">"Tik op de onderstaande knop om uw Mi Account te koppelen aan dit apparaat Ga dan naar MIUI website om de ontgrendel tool te downloaden en te installeren op uw computer Hier is het adres:"</string>
+  <string name="bootloader_locked_answer_2">"1. Controleer of u al een SIM kaart in uw apparaat hebt geplaatst.
+2. Tik hieronder op \"Account toevoegen " om uw Mi-account aan dit apparaat te koppelen.
+3. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
   <string name="bootloader_locked_check_status">Account en apparaat toevoegen</string>
   <string name="bootloader_locked_question_1">Waarom zouden apparaten vergrendeld moeten worden?</string>
   <string name="bootloader_locked_question_2">Ik begrijp de risico\'s, maar wil nog steeds mijn apparaat ontgrendelen.</string>
@@ -871,6 +877,11 @@ Sample Rate"</string>
   <string name="bootloader_status_locked">Vergrendeld</string>
   <string name="bootloader_status_locked_info">Dit apparaat is vergrendeld</string>
   <string name="bootloader_status_locked_summary">De telefoon is beveiligd</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock heeft toegang nodig tot je Mi account, CPU-ID, IMEI, IMSI om normaal te kunnen werken. Wij verzamelen, gebruiken en verwerken uw gegevens in overeenstemming met onze %s. Akkoord?</string>
+  <string name="bootloader_status_privacy_dialog_no">Annuleren</string>
+  <string name="bootloader_status_privacy_dialog_title">Toestemmingen vereist</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Privacybeleid</string>
+  <string name="bootloader_status_privacy_dialog_yes">Akkoord</string>
   <string name="bootloader_status_summary">Controleer of uw apparaat vergrendeld is</string>
   <string name="bootloader_status_unlocked">Ontgrendeld</string>
   <string name="bootloader_status_unlocked_info">Dit apparaat is ontgrendeld</string>
@@ -1393,6 +1404,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_internal_memory">Intern geheugen</string>
   <string name="device_miui_more">Meer bekijken</string>
   <string name="device_miui_version">MIUI versie</string>
+  <string name="device_miui_version_for_POCO">MIUI versie (Voor POCO)</string>
   <string name="device_miui_version_update">MIUI update is beschikbaar</string>
   <string name="device_name">Apparaatnaam</string>
   <string name="device_name_input_error">Het opslaan van de naam van het apparaat is mislukt.</string>
@@ -2597,6 +2609,9 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_allow_vibrate">Trillingen</string>
   <string name="miui_data_usage_menu_metered">Mobiele hotspots</string>
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
+  <string name="miui_lab_ai_cloud_closed">AI voorladen is nog niet beschikbaar.</string>
+  <string name="miui_lab_ai_preload_desc">AI voorladen verhoogt de opstartsnelheid van de app</string>
+  <string name="miui_lab_ai_preload_title">AI voorladen</string>
   <string name="miui_lab_drive_mode_desc">Gebruik spraakbedieningen &amp; luister naar WeChat berichten</string>
   <string name="miui_lab_drive_mode_title">Car modus</string>
   <string name="miui_lab_feature_applied">Toegepast</string>
@@ -2608,8 +2623,6 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_lab_slogan">Leer. Verken. Ontdek.</string>
   <string name="miui_lab_super_resolution_desc">Maak afbeeldingen scherper</string>
   <string name="miui_lab_super_resolution_title">Super resolutie</string>
-  <string name="miui_lab_taplus_desc">Houd items ingedrukt om acties te triggeren</string>
-  <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Wist alle gegevens op de telefoon</string>
   <string name="miui_touch_filtered_warning">Als een app een machtigingsdialoogvenster blokkeert, sleept u het overlappende item weg of sluit u de app.</string>
   <string name="miui_updater">Systeemupdate</string>
@@ -4447,7 +4460,7 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="super_resolution_desc">Maak afbeeldingen scherper met behulp van een AI algoritme</string>
   <string name="super_resolution_maintain">Superresolutie is nog niet beschikbaar.</string>
   <string name="super_resolution_no_app_tips">Download eerst WeChat en Toutiao.</string>
-  <string name="super_resolution_reboot_tips">Start apps opnieuw om deze functie te laten werken nadat u hem hebt ingeschakeld.</string>
+  <string name="super_resolution_reboot_tips">Met deze functie kunnen wazige afbeeldingen in WeChat en Toutiao scherper worden gemaakt. Start apps opnieuw nadat u deze functie hebt ingeschakeld.</string>
   <string name="super_resolution_title">Super resolutie</string>
   <string name="supl_not_set">Niet ingesteld</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>

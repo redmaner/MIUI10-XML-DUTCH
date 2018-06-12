@@ -556,7 +556,7 @@ Nu bijwerken?"</string>
   <string name="mail_description_title">E-mailintroductie</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
-  <string name="mailbox_name_display_ad">Advertenties &amp; meldingen</string>
+  <string name="mailbox_name_display_ad">Adv</string>
   <string name="mailbox_name_display_circular">Meldingen</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>

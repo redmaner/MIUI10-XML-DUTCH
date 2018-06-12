@@ -20,15 +20,6 @@
         <item>25 minuten</item>
         <item>30 minuten</item>
     </string-array>
-	<string-array name="snooze_duration_entries">
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-    </string-array>
 	    <string-array name="volume_button_setting_entries">
         <item>Niets doen</item>
         <item>Snoozen</item>
@@ -71,7 +62,30 @@
         <item>Vandaag</item>
         <item>Morgen</item>
     </string-array>
-	<string-array name="weather_tips_value">
+    <string-array name="stat_volume_button_behaviors">
+        <item>Geen</item>
+        <item>Snoozen</item>
+        <item>Uitzetten</item>
+    </string-array>
+		<string-array name="snooze_duration_entries">
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+    </string-array>
+	<string-array name="timer_duration">
+        <item>Totaal %1$s</item>
+        <item>Totaal %2$s</item>
+        <item>Totaal %1$s%2$s</item>
+        <item>Totaal %3$s</item>
+        <item>Totaal %1$s%3$s</item>
+        <item>Totaal %2$s%3$s</item>
+        <item>Totaal %1$s%2$s%3$s</item>
+    </string-array>
+		<string-array name="weather_tips_value">
         <item>Verminder buitenactiviteiten</item>
         <item>De wegen zijn glad</item>
         <item>Het weer is stormachtig, wees voorzichtig!</item>
@@ -82,10 +96,5 @@
 		<item>Het hagelt vandaag, wees voorzichtig.</item>
         <item>Er is een zandstorm op komst, draag een masker!</item>
         <item>Fijne dag!</item>
-    </string-array>
-    <string-array name="stat_volume_button_behaviors">
-        <item>Geen</item>
-        <item>Snoozen</item>
-        <item>Uitzetten</item>
     </string-array>
 </resources>

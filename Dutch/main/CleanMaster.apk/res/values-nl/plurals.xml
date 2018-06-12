@@ -105,6 +105,16 @@
         <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> apps zijn al een tijdje niet gebruikt."&lt;/Data></item>
         <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> app is al een tijdje niet gebruikt."&lt;/Data></item>
    </plurals>
+   <plurals name="clean_long_msg_p1">
+        <item quantity="other">"%1$d bestanden opruimen,%2$d afgewerkt 
+"</item>
+        <item quantity="one">"%1$d bestand opruimen,%2$d afgewerkt 
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d%% items/tweede resterende tijd:%2$s</item>
+        <item quantity="one">%1$d%% items/tweede resterende tijd:%2$s</item>
+    </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d uur</item>
         <item quantity="one">%1$d uur</item>
