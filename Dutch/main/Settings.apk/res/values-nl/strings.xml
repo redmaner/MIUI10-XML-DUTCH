@@ -5272,6 +5272,7 @@ Kan u geen beschermingsfuncties van het apparaat activeren.</string>
   <string name="wifi_cellular_data_fallback_summary">Gebruik mobiele data wanneer Wi-Fi geen internettoegang heeft. Gegevensgebruik van toepassing.</string>
   <string name="wifi_cellular_data_fallback_title">Automatisch  overschakelen naar mobiele data</string>
   <string name="wifi_certificate">Certificaat</string>
+  <string name="wifi_click_login_wlan">Moet aanmelden/authorizatie</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">Wi-Fi wordt niet automatisch ingeschakeld</string>

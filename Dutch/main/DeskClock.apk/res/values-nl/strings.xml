@@ -50,6 +50,7 @@
   <string name="dialog_message_agree">Akkoord</string>
   <string name="dialog_message_for_contact_permission">Om verjaardagalarmen beschikbaar te maken, heeft Klok toegang nodig tot uw contacten. Akkoord?</string>
   <string name="dialog_message_negative">Niet akkoord</string>
+  <string name="dialog_message_not_remind">Niet meer weergeven</string>
   <string name="done">Gereed</string>
   <string name="dynamic_alarm_speech">Slim alarm</string>
   <string name="edit_alarm">Alarm bewerken</string>
@@ -100,14 +101,14 @@
   <string name="menu_item_sort_by_name">Sorteren op naam</string>
   <string name="minute">1 minuut</string>
   <string name="minutes">%d minuten</string>
-  <string name="module_download_cancel">Nu niet</string>
-  <string name="module_download_data_msg">Om slimme alarmen, natuurgeluiden en verjaardagsalarmen beschikbaar te maken, moet de klok verbinding maken met internet en toegang krijgen tot uw contacten. Je zult ook extra audio moeten downloaden. Mobiele data gebruiken om extra audio te downloaden?</string>
-  <string name="module_download_data_msg_golbal">Om slimme alarmen en natuurgeluiden beschikbaar te maken, moet de klok extra audio downloaden. Mobiele data gebruiken om extra audio te downloaden?</string>
+  <string name="module_download_cancel">Nee bedankt</string>
+  <string name="module_download_data_msg">De klok moet verbinding maken met internet om audiobestanden (20 MB) te downloaden voor omgevingsgeluiden en slimme alarmen. U gebruikt nu mobiele gegevens. Toestaan?</string>
+  <string name="module_download_data_msg_golbal">De klok moet audiobestanden (20 MB) downloaden voor omgevingsgeluiden en slimme alarmen. U gebruikt nu mobiele gegevens. Toestaan?</string>
   <string name="module_download_fail">Kon geen extra audio downloaden</string>
   <string name="module_download_msg">Om slimme alarmen, natuurgeluiden en verjaardagsalarmen beschikbaar te maken, moet de klok verbinding maken met internet en toegang krijgen tot uw contacten. Je zult ook extra audio moeten downloaden. Akkoord?</string>
   <string name="module_download_msg_golbal">Om slimme alarmen en natuurgeluiden beschikbaar te maken, moet de klok extra audio downloaden. Akkoord?</string>
   <string name="module_download_no_network">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
-  <string name="module_download_ok">Akkoord &amp; download</string>
+  <string name="module_download_ok">Toestaan</string>
   <string name="module_download_success">Extra audio met succes gedownload </string>
   <string name="module_download_title">Extra audio vereist</string>
   <string name="module_downloading">Extra audio downloaden…</string>

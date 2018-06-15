@@ -433,7 +433,7 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
-  <string name="data_connection_no_internet">Geen internet</string>
+  <string name="data_connection_no_internet">Niet verbonden met internet</string>
   <string name="data_saver">Data bespaarder</string>
   <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. 
   
@@ -1073,12 +1073,13 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="notification_all_categories">Alle categorieën</string>
   <string name="notification_app_settings">Aanpassen: %1$s</string>
   <string name="notification_channel_alerts">Alarmen</string>
+  <string name="notification_channel_battery">Batterij</string>
   <string name="notification_channel_controls_closed_accessibility">Meldingsbediening voor %1$s gesloten</string>
   <string name="notification_channel_controls_opened_accessibility">Meldingsbediening voor %1$s geopend</string>
   <string name="notification_channel_disabled">U krijgt deze meldingen niet meer.</string>
   <string name="notification_channel_general">Algemene berichten</string>
   <string name="notification_channel_location">Locatie</string>
-  <string name="notification_channel_screenbutton">Schermknop</string>
+  <string name="notification_channel_screenbutton">Knoppen</string>
   <string name="notification_channel_screenshot">Schermafdrukken</string>
   <string name="notification_channel_storage">Opslag</string>
   <string name="notification_channel_switch_accessibility">Meldingen van dit kanaal toestaan</string>
@@ -1088,7 +1089,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="notification_group_collapse_button_text">Vouwen</string>
   <string name="notification_header_default_channel">Meldingen</string>
   <string name="notification_header_title">Meldingen</string>
-  <string name="notification_hidden_by_policy_text">Inhoud is verborgen door het beleid</string>
+  <string name="notification_hidden_by_policy_text">Inhoud is verborgen</string>
   <string name="notification_hidden_text">U heeft een nieuw bericht</string>
   <string name="notification_info_channel_disabled_text">U ontvangt geen %2$s meldingen van %1$s.</string>
   <string name="notification_info_channel_enabled_text">U ontvangt %2$s meldingen van %1$s.</string>
@@ -1106,7 +1107,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="notification_menu_remove_from_filter_title">Belangrijk</string>
   <string name="notification_menu_snooze_description">Meldingen snooze opties</string>
   <string name="notification_more_settings">Meer instellingen</string>
-  <string name="notification_num_channels">%d meldingscategorieën</string>
   <string name="notification_otg_gamestick_in">Game controller verbonden</string>
   <string name="notification_otg_gamestick_out">Game controller ontkoppeld</string>
   <string name="notification_otg_keyboard_in">Toetsenbord verbonden</string>
@@ -1301,6 +1301,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_settings_label">Instellingen</string>
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
+  <string name="quick_settings_tiles_stock">mobiel,wifi,zaklamp,dempen,schermafdruk,bt,automatische helderheid, vliegtuig, screenlock,drivemodus,rotatie,bewerken,gps,trillen,hotspot, papermodus,synchronisatie,stille modus,powermode,schermknop,batterijbesparing,midrop</string>
   <string name="quick_settings_time_label">Tijd</string>
   <string name="quick_settings_user_label">Ik</string>
   <string name="quick_settings_user_new_user">Nieuwe gebruiker</string>
