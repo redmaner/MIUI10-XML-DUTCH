@@ -180,6 +180,7 @@
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; zal volgende toestemming krijgen:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Aanmelden met Mi Account</string>
   <string name="other_devices_title">Andere apparaten</string>
+  <string name="passport_Resend">Opnieuw verzenden</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
   <string name="passport_account_hint_text">E-mailadres/Telefoonnummer/Mi Account ID</string>
   <string name="passport_account_identity_title">Bevestig je identiteit</string>
@@ -199,6 +200,7 @@
   <string name="passport_back">Terug</string>
   <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
   <string name="passport_barcode_add_account_prompt">Om een account te verbinden, scan na het aanmelden de QR code.</string>
+  <string name="passport_btn_change_account">Account wijzigen</string>
   <string name="passport_change_account">Account wijzigen</string>
   <string name="passport_change_phone_number">Wissel van nummer</string>
   <string name="passport_checking_account">Wachtwoord controleren…</string>
@@ -229,6 +231,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_error_empty_pwd">Voer wachtwoord in</string>
   <string name="passport_error_empty_username">Voer account ID in</string>
   <string name="passport_error_empty_vcode">Voer verificatiecode in</string>
+  <string name="passport_error_empty_voice_code">Captcha invoeren</string>
   <string name="passport_error_illegal_pwd">Ongeldig wachtwoord</string>
   <string name="passport_error_invalid_dev_id">Uw apparaat ID is ongeldig</string>
   <string name="passport_error_invalid_phone_num">Ongeldig telefoonnummer</string>
@@ -266,7 +269,10 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
   <string name="passport_input_voice_captcha_hint">Voer spraakverificatiecode in</string>
+  <string name="passport_input_voice_hint">Spraak code invoeren</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
+  <string name="passport_license_info_collapse">Inklappen</string>
+  <string name="passport_license_info_open">Details</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
   <string name="passport_login_failed">Kan niet aanmelden</string>
@@ -279,6 +285,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_login_title">Aanmelden op je Mi account</string>
   <string name="passport_login_using_other_ways">Andere manieren om aan te melden</string>
   <string name="passport_message_dialog_title">SMS met verificatiecode bericht</string>
+  <string name="passport_new_user_register">Maak een account aan</string>
   <string name="passport_next">Volgende</string>
   <string name="passport_no">Nee</string>
   <string name="passport_notification_title">Aanmeldfout voor %1$s</string>
@@ -322,6 +329,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_register_by_email">Account aanmaken met e-mailadres</string>
   <string name="passport_register_restricted">Te veel accounts zijn geassocieerd met dit nummer, probeer een ander</string>
   <string name="passport_register_restricted_title">Kan dit telefoonnummer niet gebruiken</string>
+  <string name="passport_register_using_other_ways">Andere manieren om te registreren</string>
   <string name="passport_registered_phone_num">Telefoon: %s</string>
   <string name="passport_registered_phone_user_ID">User ID: %s</string>
   <string name="passport_registered_phone_user_name">Gebruikersnaam: %s</string>
@@ -386,6 +394,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_captcha">De ingevoerde code is fout</string>
   <string name="passport_wrong_phone_number_format">De opmaak van het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
+  <string name="passport_wrong_voice">De ingevoerde code is fout</string>
   <string name="passport_yes">Ja</string>
   <string name="phone_activated">%s geactiveerd</string>
   <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>

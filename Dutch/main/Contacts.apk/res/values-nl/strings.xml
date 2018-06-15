@@ -869,6 +869,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="preference_phone">Telefoon</string>
   <string name="preference_phone_more_title">Instellingen voor bellen</string>
   <string name="preference_remove_duplicate">Dubbele contacten samenvoegen</string>
+  <string name="preference_show_firewall_calllog">Geef de geblokkeerde oproepen in de oproepgeschiedenis weer</string>
   <string name="preference_show_yellowpage_tab_description">De gele gids zou mogelijk niet goed kunnen werken als deze functie is uitgeschakeld.</string>
   <string name="preference_show_yellowpage_tab_title">Gele gids weergeven</string>
   <string name="preference_simple_mode_description">"Foto's en andere contactgegevens weergeven in de lijstweergave"</string>

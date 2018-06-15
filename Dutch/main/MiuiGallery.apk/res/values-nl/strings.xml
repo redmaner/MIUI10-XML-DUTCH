@@ -203,6 +203,8 @@
   <string name="change_to_face_mode">Alleen gezicht weergeven</string>
   <string name="change_to_photo_mode">Volledige voorbeelden weergeven</string>
   <string name="change_to_visible">Deze persoon herstellen?</string>
+  <string name="checked">Geselecteerd</string>
+  <string name="checked_something">%s geselecteerd</string>
   <string name="choose_baby_sexy">Geslacht</string>
   <string name="choose_owner_relation">Relatie</string>
   <string name="choose_people">Album van persoon kiezen</string>
@@ -370,6 +372,7 @@
   <string name="enable_face_album_summary">Foto\'s automatisch sorteren op personen die erop staan</string>
   <string name="enable_face_album_title">Sorteren op personen</string>
   <string name="enabling_face_feature">Een momentje…</string>
+  <string name="enter_choice_mode">Ingevoerde gedeelde dialoog</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
   <string name="error_build_thumbnail_action">Origineel bestand downloaden</string>
@@ -433,6 +436,7 @@
   <string name="error_unknown_msg">Er is een fout opgetreden. Stuur ons uw feedback.</string>
   <string name="error_unknown_tip">Er is een fout opgetreden.</string>
   <string name="exit">Sluiten</string>
+   <string name="exit_choice_mode">Resterende gedeelde dialoog</string>
   <string name="exit_share">Verlaat album</string>
   <string name="exit_share_failed">Verlaten mislukt %1$s</string>
   <string name="exit_share_in_process">Verlaten…</string>
@@ -466,6 +470,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="fancy_color_desc">Kleuren</string>
   <string name="fast_share_auto_render">Verfraaien</string>
   <string name="fast_share_auto_render_finish">Verfraaid</string>
+  <string name="feature_guidance_photo_effects">Foto effecten</string>
   <string name="filter_bi_memory">Geheugen</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Roze</string>
@@ -564,6 +569,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="image_invalid_path">Ongeldig pad</string>
   <string name="image_not_found">Kon afbeelding niet vinden</string>
   <string name="image_quota_fulfiled">Kan bestand niet aanmaken: bestandslimiet overschreden.</string>
+  <string name="image_with_time">Foto genomen op %s</string>
+  <string name="image_with_time_and_location">Foto genomen op %1$s. Locatie: %2$s.</string>
   <string name="impunity_declaration_settings">Internetverbindingsmelding weergeven</string>
   <string name="impunity_declaration_summary">Internetverbindingsmelding weergeven iedere keer dat u de galerij opent</string>
   <string name="initializing_cloud">Initialiseren</string>
@@ -1046,8 +1053,9 @@ om de galerij te personaliseren"</string>
   <string name="sticker_spring">Lente</string>
   <string name="sticker_summer">Zomer</string>
   <string name="sticker_words">Woorden</string>
-  <string name="storage_description_primary">Internal storage</string>
+  <string name="storage_description_primary">Interne opsag</string>
   <string name="storage_description_sdcard">SD card</string>
+  <string name="storage_description_usb">USB opslag</string>
   <string name="storage_description_xspace">Dual apps data</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
   <string name="sub_discard_confirm_message">Wijzigingen opslaan?</string>
@@ -1111,6 +1119,8 @@ om de galerij te personaliseren"</string>
   <string name="turn_off_and_move">Uitschakelen en verplaatsen</string>
   <string name="turn_on_and_remove">Inschakelen en verwijderen</string>
   <string name="turn_on_sync">Synchronisatie inschakelen</string>
+  <string name="unchecked">Gedeselecteerd</string>
+  <string name="unchecked_something">%s gedeselecteerd</string>
   <string name="unpublish_failed">Publiceren ongedaan maken mislukt</string>
   <string name="unpublish_succeeded">Publicatie album ongedaan gemaakt</string>
   <string name="unpublishing">Annuleren…</string>
@@ -1211,6 +1221,8 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_watermark">Watermerk</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>
+  <string name="video_with_time">Video opgenomen op %s</string>
+  <string name="video_with_time_and_location">Video opgenomen op %1$s. Locatie: %2$s.</string>
   <string name="view_by_gallery_tip">MIUI Galerij</string>
   <string name="view_face_album">Album weergeven</string>
   <string name="view_more_face_desc">Meer personen weergeven</string>

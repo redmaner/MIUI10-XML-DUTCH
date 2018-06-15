@@ -132,6 +132,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="network_unavailable">Kan geen verbinding maken met netwerk</string>
   <string name="night_not_disturb_settings_summary">Tussen 23:00 en 07:00 alarmen dempen</string>
   <string name="night_not_disturb_settings_title">Niet storen in de nacht</string>
+  <string name="no_data">Geen data</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="no_vote_ratio">Tegen %1$s%%</string>
   <string name="open">Openen</string>

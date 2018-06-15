@@ -104,6 +104,10 @@
         <item quantity="other">Nog %s meldingen.</item>
         <item quantity="one">Nog %s melding.</item>
     </plurals>
+	<plurals name="notification_num_channels">
+        <item quantity="other">%d meldingsscategorieën</item>
+        <item quantity="one">%d meldingsscategorie</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">1 van de %d meldingencategorieën van deze app</item>
         <item quantity="one">1 van de %d meldingencategorieën van deze app</item>
