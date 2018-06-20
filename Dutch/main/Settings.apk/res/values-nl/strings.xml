@@ -953,6 +953,7 @@ Sample Rate"</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_alert">Aanpassingen verwijderen?</string>
   <string name="cancel_button">Annuleren</string>
+  <string name="cancel_description">Annuleren</string>
   <string name="cancel_download_buton_text">Annuleren</string>
   <string name="cant_sync_dialog_message">Synchronisatie is op dit moment uitgeschakeld voor dit item. Als u deze instelling wilt wijzigen, schakelt u achtergrondgegevens en automatisch synchroniseren tijdelijk in.</string>
   <string name="cant_sync_dialog_title">Kan niet handmatig synchroniseren</string>
@@ -1087,6 +1088,7 @@ Sample Rate"</string>
   <string name="confirm_action">Ok</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Toevoegen</string>
   <string name="confirm_convert_to_fbe_warning">Gebruikersgegevens wissen en converteren naar bestandsencryptie?</string>
+  <string name="confirm_description">Bevestigen</string>
   <string name="confirm_download_cancelation_dialog_message">Download annuleren?</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeschermingsfuncties zullen niet werken op dit apparaat als deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendelen toestaan?</string>
@@ -1742,6 +1744,7 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
   <string name="failed_to_shut_down_find_device_content">Kon apparaat zoeken niet uitschakelen. Wacht een minuutje of twee en probeer opnieuw.</string>
   <string name="failed_to_shut_down_find_device_title">Kon niet uitschakelen</string>
+  <string name="fallback_home_title">Een momentje…</string>
   <string name="fcc_equipment_id">Apparatuur ID</string>
   <string name="file_privacy_password_role_instruction">Uw privébestanden zullen hier opgeslagen worden.</string>
   <string name="filter">Filter</string>
@@ -2103,6 +2106,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="key_combination_power_back">Aan/uitknop + terugknop</string>
   <string name="key_combination_power_home">Aan/uitknop + homeknop</string>
   <string name="key_combination_power_menu">Aan/uitknop + menuknop</string>
+  <string name="key_fsg_dialog_message">U gebruikt bewegingen op volledig scherm voor navigatie. Knop gerelateerde functies zijn nu niet beschikbaar. Overschakelen naar knoppen?</string>
+  <string name="key_fsg_dialog_negative">Annuleren</string>
+  <string name="key_fsg_dialog_positive">Overschakelen naar knoppen</string>
   <string name="key_gesture_function_dialog_message">%1$s is een snelkoppeling voor %2$s snelkoppelingen. Vervangen door %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Annuleren</string>
   <string name="key_gesture_function_dialog_positive">Vervangen</string>
