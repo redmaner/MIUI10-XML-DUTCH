@@ -1303,7 +1303,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_settings_label">Instellingen</string>
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles_stock">mobiel,wifi,zaklamp,dempen,schermafdruk,bt,automatische helderheid, vliegtuig, screenlock,drivemodus,rotatie,bewerken,gps,trillen,hotspot, papermodus,synchronisatie,stille modus,powermode,schermknop,batterijbesparing,midrop</string>
   <string name="quick_settings_time_label">Tijd</string>
   <string name="quick_settings_user_label">Ik</string>
   <string name="quick_settings_user_new_user">Nieuwe gebruiker</string>

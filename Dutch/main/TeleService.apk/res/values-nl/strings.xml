@@ -1568,10 +1568,8 @@ Deze tablet heeft geen oortje. U kunt overschakelen naar de handsfree modus of e
   <string name="voice_service_warning_dialog_title">VoLTE oproepen</string>
   <string name="voicemail">Voicemail</string>
   <string name="voicemail_change_pin_dialog_title">PIN wijzigen</string>
-  <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
   <string name="voicemail_default">Uw provider</string>
   <string name="voicemail_notification_vibrate_when_title">Trillen</string>
-  <string name="voicemail_notifications_key">voicemail_notification_key</string>
   <string name="voicemail_notifications_preference_title">Meldingen</string>
   <string name="voicemail_number_not_set">Niet ingesteld</string>
   <string name="voicemail_provider">Dienst</string>
