@@ -783,8 +783,11 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gamebooster_main_activity_back">Terug</string>
   <string name="gamebooster_network_dialog_message">Laat beveiliging toe om verbinding te maken met het netwerk om alle functies van de Game speed booster te gebruiken?</string>
   <string name="gamebooster_network_dialog_title">Sommige functies zijn niet beschikbaar</string>
-  <string name="gamebox_qq_not_find">Install QQ and try again.</string>
-  <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
+  <string name="gamebox_qq_not_find">Installeer QQ en probeer opnieuw.</string>
+  <string name="gamebox_type_close">Niet weergeven</string>
+  <string name="gamebox_type_float">Vaste snelkoppeling</string>
+  <string name="gamebox_type_gesture">Vegen om weer te geven</string>
+  <string name="gamebox_wechat_not_find">Installeer WeChat en probeer opnieuw.</string>
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
   <string name="gateway_exception_summary2">Kan niet verbinden met server</string>
   <string name="gateway_exception_title">Router testen</string>

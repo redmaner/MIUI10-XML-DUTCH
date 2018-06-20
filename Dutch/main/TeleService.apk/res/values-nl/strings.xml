@@ -506,6 +506,8 @@ Sample Rate"</string>
   <string name="close_profile">Sluiten</string>
   <string name="close_volte">VoLTE uitschakelen</string>
   <string name="cloud_antispam_title">Onbekende nummers identificeren</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">Kan Dual 4G niet uitschakelen tijdens het gebruik van Mi Roaming</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">Kan netwerkvoorkeuren niet wijzigen tijdens het gebruik van Mi Roaming</string>
   <string name="cmcc_ut_data_enable_prompt">Kon geen verbinding maken door gebruik van het VoLTE netwerk. Schakel nu uw mobiele dataverbinding in.</string>
   <string name="command_error_fdn_failure">U dient eerst de PDN uit te schakelen</string>
   <string name="config_default_data_sim">Instellingen</string>
@@ -552,8 +554,11 @@ Sample Rate"</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
+  <string name="data_plan">Mobiele data plannen</string>
   <string name="data_usage_uninstalled_apps">Verwijderde apps</string>
   <string name="data_usage_uninstalled_apps_users">Verwijderde apps en gebruikers</string>
+  <string name="dc_alert_dialog_message">Voor sommige apps is een mobiele gegevensverbinding nodig. U kunt contact opnemen met uw provider om te weten te komen welke %s voor u beschikbaar zijn.</string>
+  <string name="dc_alert_dialog_title">Data gebruikswaarschuwing</string>
   <string name="deactivate_all">Alles annuleren</string>
   <string name="debug_app">Debugapp selecteren</string>
   <string name="debug_app_not_set">Geen debugapp ingesteld</string>
@@ -630,6 +635,7 @@ Sample Rate"</string>
   <string name="disabled_by_admin_summary_text">Gecontroleerd door admin</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Naam weergeven</string>
+  <string name="do_not_show_again">Niet meer weergeven</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Klaar</string>
   <string name="dtmf_tone_entries_long">Lang</string>
