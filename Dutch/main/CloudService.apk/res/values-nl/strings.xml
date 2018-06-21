@@ -187,7 +187,7 @@ of apparaat te wissen."</string>
 1. Gebruik een ander account.
 2. Verplaats gegevens naar eerste ruimte."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud foutmelding</string>
-  <string name="micloud_main_network_abnormal">Kan niet verbinden met netwerk</string>
+  <string name="micloud_main_network_abnormal">Controleer uw netwerkinsellingen</string>
   <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
   <string name="micloud_main_query_again">Nog een verzoek sturen</string>
   <string name="micloud_main_query_error_message">"Kan niet bevestigen of synchronisatie is voltooid voor sommige services"</string>
