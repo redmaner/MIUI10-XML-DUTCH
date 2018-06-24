@@ -506,10 +506,10 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Deze app ondersteunt geen splitscreen.</string>
   <string name="drag_to_add_tiles">Sleep om tegels toe te voegen</string>
   <string name="drag_to_remove_tiles">Sleep hier om te verwijderen</string>
-  <string name="drive_mode_tip">U bent in de automodus</string>
-  <string name="drive_mode_tip_idle">Tik om de Car modus te verlaten</string>
-  <string name="drive_mode_tip_idle_notch">Car modus uitschakelen</string>
-  <string name="drive_mode_tip_notch">Car modus ingeschakeld</string>
+  <string name="drive_mode_tip">Car modus is ingeschakeld</string>
+  <string name="drive_mode_tip_idle">Car modus is ingeschakeld</string>
+  <string name="drive_mode_tip_idle_notch">Car modus</string>
+  <string name="drive_mode_tip_notch">Car modus</string>
   <string name="emergency_call_string">Emergency</string>
   <string name="empty_shade_text">Geen meldingen</string>
   <string name="enable_adb">USB debugging</string>

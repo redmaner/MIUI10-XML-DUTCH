@@ -38,6 +38,10 @@
         <item>Bericht van browser</item>
         <item>Volg de olympische spelen met Mi</item>
     </string-array>
+	<string-array name="suggestion_topic_tips">
+        <item>Kijken naar Focus</item>
+        <item>Centraal thema</item>
+    </string-array>
 	<string-array name="suggestion_weather_condition_message">
         <item>Helder</item>
         <item>Gedeeltelijk bewolkt</item>
