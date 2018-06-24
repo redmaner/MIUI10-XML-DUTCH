@@ -24,4 +24,20 @@
         <item quantity="other">%1$d min geleden</item>
         <item quantity="one">%1$d min geleden</item>
     </plurals>
+	<plurals name="mitv_show_update_full">
+        <item quantity="other">%d afleveringen</item>
+        <item quantity="one">%d aflevering</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d video\'s</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">Afleveringen %d afspelen</item>
+        <item quantity="one">Aflevering %d afspelen</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">%d video\'s gevonden</item>
+        <item quantity="one">%d video gevonden</item>
+    </plurals>
 </resources>

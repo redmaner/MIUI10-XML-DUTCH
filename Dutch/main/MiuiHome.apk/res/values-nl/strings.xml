@@ -91,10 +91,9 @@
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_recommend">Meer apps</string>
   <string name="default_folder_title_security">Systeem</string>
-  <string name="default_folder_title_telcel">Telcel</string>
+  <string name="default_folder_title_services">Diensten</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_screen_preview_title">Tik om startscherm in te stellen</string>
-  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_screen">Schermknop verwijderen</string>
   <string name="delete_wallpaper_message">%1$d achtergrond verwijderen?</string>
@@ -232,8 +231,9 @@
   <string name="open_personal_assistant_dialog_btn_cancel">Annuleren</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Uitschakelen</string>
   <string name="open_personal_assistant_dialog_desc">U zal de App Vault niet kunnen gebruiken en updates ontvangen. Nu uitschakelen?</string>
+  <string name="open_personal_assistant_dialog_desc_international">U kunt geen app vault kaarten (aandelen, snelkoppelingen, enz.) gebruiken en updates ontvangen nadat u deze functie hebt uitgeschakeld.</string>
   <string name="open_personal_assistant_dialog_title">App vault uitschakelen</string>
-  <string name="open_personal_assistant_title">App vault inschakelen</string>
+  <string name="open_personal_assistant_title">App vault</string>
   <string name="out_of_space">Geen ruimte meer op dit startscherm</string>
   <string name="permdesc_install_shortcut">Een app toestaan snelkoppelingen toe te voegen zonder tussenkomst van de gebruiker.</string>
   <string name="permdesc_install_widget">Een app toestaan widgets toe te voegen zonder tussenkomst van de gebruiker.</string>

@@ -1557,7 +1557,7 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voice_service_cannot_call_notification_title">Kan geen oproepen maken in het huidige netwerk</string>
   <string name="voice_service_switch_summary">Inschakelen om VoLTE oproepfunctionaliteit in VoLTE netwerken te kunnen gebruiken</string>
   <string name="voice_service_switch_title">VoLTE oproep diensten gebruiken</string>
-  <string name="voice_service_warning_dialog_body">"Deze tablet ondersteunt VoLTE oproepen in 4G netwerken. Zorg ervoor dat de netwerken waarop uw apparaat is aangesloten deze functionaliteit ondersteunen. VoLTE services worden geleverd door uw provider. Neem contact op met uw lokale provider om te weten te komen of VoLTE niet wordt ondersteund in uw regio.
+  <string name="voice_service_warning_dialog_body">"Deze tablet ondersteunt VoLTE oproepen in 4G netwerken. Zorg ervoor dat de netwerken waarop uw apparaat is aangesloten deze functionaliteit ondersteunen. VoLTE services worden geleverd door uw provider. Neem contact op met uw lokale provider om te weten te komen of de VoLTE ondersteund is in uw regio.
 
 Als u _ in uw statusbalk ziet, zijn VoLTE oproepen niet beschikbaar. Als u geen oproepen kunt plaatsen of ontvangen of uw gesprekken worden onderbroken, moet u ervoor zorgen dat uw netwerk compatibel is met VoLTE.
 
@@ -1614,7 +1614,7 @@ Deze tablet heeft geen oortje. U kunt overschakelen naar de handsfree modus of e
   <string name="wapi_password_length_is_min">Wachtwoord kan niet korter zijn dan 8 karakters</string>
   <string name="wapi_password_length_is_min_to_max">Het wachtwoord moet tussen de 8 en 64 karakters lang zijn</string>
   <string name="wapi_yes">ja</string>
-  <string name="wfcmode_mobile_preferred">Voorkeur aan mobiele</string>
+  <string name="wfcmode_mobile_preferred">Voorkeur aan mobiele netwerken</string>
   <string name="wfcmode_wifi_only">Alleen Wi-Fi</string>
   <string name="wfcmode_wifi_preferred">Voorkeur aan Wi-Fi</string>
   <string name="wifi_aggressive_handover">Aggressieve Wi-Fi naar mobiel overdraging</string>
@@ -1654,7 +1654,7 @@ Controleer geldigheid van de certificaten"</string>
 Certificaatopslag zou niet kunnen inschakelen"</string>
   <string name="wifi_wapi_psk_type">Wachtwoordtype</string>
   <string name="wifi_wapi_user_certificate">Gebruikerscertificaat</string>
-  <string name="wificall_switch_summary">Your device can switch between WLAN and VoLTE when connection is poor</string>
+  <string name="wificall_switch_summary">Uw apparaat schakelt tussen Wi-Fi en VoLTE wanneer de verbinding slecht is</string>
   <string name="wificall_switch_title">Oproepen maken met Wi-Fi</string>
   <string name="wild_prompt_str">Wild karakter vervangen door</string>
   <string name="window_animation_scale_title">Schermanimatieschaal</string>

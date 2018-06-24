@@ -57,10 +57,6 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="global_actions_reboot">Herstarten</string>
   <string name="global_actions_shutdown">Uitschakelen</string>
   <string name="global_actions_silent_mode">Stil</string>
-  <string name="group_name_contacts">Contacten</string>
-  <string name="group_name_coworkers">Collega\'s</string>
-  <string name="group_name_family">Familie</string>
-  <string name="group_name_friends">Vrienden</string>
   <string name="handy_mode_enter_dlg_msg">Naar één-hand modus gaan?</string>
   <string name="handy_mode_enter_dlg_title">Naar één-hand modus gaan</string>
   <string name="handy_mode_summary">Tik op het donkere gedeelte om te sluiten</string>
