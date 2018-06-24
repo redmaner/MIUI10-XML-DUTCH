@@ -60,7 +60,6 @@
   <string name="already_muted">Gedempt</string>
   <string name="anion">Ionisator</string>
   <string name="apk_file_list_view_header">Een totaal van %d pakketten</string>
-  <string name="apk_files_list_title">Lokaal installatiepakket</string>
   <string name="apk_files_list_title">Locale APKs</string>
   <string name="app_clear">Gegevens wissen</string>
   <string name="app_detail_comments">Opmerkingen</string>
@@ -99,7 +98,6 @@
   <string name="app_open">Openen</string>
   <string name="app_open_inbox">Openen met behulp van Mi Box</string>
   <string name="app_open_intv">Openen op Mi TV</string>
-  <string name="app_search_hint">Naam van app\'s invoeren</string>
   <string name="app_rank">Ranking</string>
   <string name="app_rate">Beoordeling: %1$s</string>
   <string name="app_search_hint">Vul de naam van de toepassing in</string>
