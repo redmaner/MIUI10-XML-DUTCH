@@ -143,7 +143,7 @@
   <string name="rich_text_size_description">Grootte</string>
   <string name="rich_text_underline_description">Onderstrepen</string>
   <string name="root_folder_name">Snelle notities</string>
-  <string name="save_to_gallery_failure_message">Kan niet opslaan</string>
+  <string name="save_to_gallery_failure_message">Kon niet opslaan</string>
   <string name="save_to_gallery_icon_name">Opslaan in galerij</string>
   <string name="save_to_gallery_success_message">Met succes opgeslagen</string>
   <string name="search">Notities</string>
@@ -155,7 +155,7 @@
   <string name="select_account_prompt">Sync. notities</string>
   <string name="set_alarm_description">Alarm instellen</string>
   <string name="snippet_audio_stub">Spraak notitie</string>
-  <string name="snippet_image_stub">[Foto]</string>
+  <string name="snippet_image_stub">Foto notitie</string>
   <string name="snippet_image_template">[Foto %1$s]</string>
   <string name="sns_action_send">Verzenden</string>
   <string name="sns_choose_quality_high">Hoog (%1$s)</string>

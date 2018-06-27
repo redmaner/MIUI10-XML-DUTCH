@@ -125,6 +125,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="enable_encrypt_summery2">De nieuwe back-up wordt automatisch gecodeerd. U moet inloggen op uw Xiaomi account om gegevens te wissen of back-ups te herstellen op andere toestellen.</string>
   <string name="enable_encrypt_title">Back-ups coderen</string>
   <string name="enable_encrypt_xiaomi_account">Deze back-up is gemaakt door %1$s. Verwijder het huidige account en log in op %2$s om de gegevens te herstellen.</string>
+  <string name="err_acquire_system_service">Kon systeem sevice niet opstarten</string>
   <string name="err_authentication_failed">Authenticatie mislukt</string>
   <string name="err_bakfile_broken">Kan deze back-up niet gebruiken</string>
   <string name="err_bakfile_not_exist">Back-upbestand bestaat niet.</string>
