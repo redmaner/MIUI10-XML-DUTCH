@@ -2907,7 +2907,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="notification_content_block_title">Meldingen weergeven</string>
   <string name="notification_importance_blocked">Nooit meldingen van deze app weergeven</string>
   <string name="notification_importance_default">Geen volledige schermonderbreking of gluren.</string>
-  <string name="notification_importance_default_title">Hopg</string>
+  <string name="notification_importance_default_title">Hoog</string>
   <string name="notification_importance_high">Altijd gluren. Geen onderbreking op volledig scherm.</string>
   <string name="notification_importance_high_title">Dringend</string>
   <string name="notification_importance_low">Geen onderbrekingen op het volledige scherm, gluren, geluid of trillingen.</string>
