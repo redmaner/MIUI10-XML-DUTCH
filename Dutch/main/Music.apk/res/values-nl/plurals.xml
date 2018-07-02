@@ -16,10 +16,6 @@
         <item quantity="other">Speler zal binnen %d minuten stoppen</item>
         <item quantity="one">Speler zal binnen %d minuut stoppen</item>
     </plurals>
-	<plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Optimalisatie van album en songteksten uitgeschakeld. Wil je info van %d nummers verwijderen?</item>
-        <item quantity="one">Optimalisatie van album en songteksten uitgeschakeld. Wil je info van %d nummer verwijderen?</item>
-    </plurals>
 	<plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">"Gemaakt op %1$s
 %2$d nummers totaal"</item>
@@ -115,5 +111,9 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
 	<plurals name="songs_count">
         <item quantity="other">%d nummers</item>
         <item quantity="one">%d nummer</item>
+    </plurals>
+	<plurals name="video_play_count">
+        <item quantity="other">%1$s keer bekeken</item>
+        <item quantity="one">%1$s keer bekeken</item>
     </plurals>
 </resources>
