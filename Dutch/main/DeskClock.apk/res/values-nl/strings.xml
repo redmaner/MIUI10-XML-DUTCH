@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Nieuw alarm</string>
+  <string name="add_clock">Wekker toevoegen</string>
   <string name="add_timezone_title">Tijdzone toevoegen</string>
   <string name="alarm_alert_alert_silenced">Wekker uitgezet na %d minuten.</string>
   <string name="alarm_alert_snooze_set">Snoozen voor %d minuten.</string>
@@ -33,6 +34,7 @@
   <string name="close_alarm">Uitschakelen</string>
   <string name="common_settings">Instellingen</string>
   <string name="confirm_abort">Weggooien</string>
+  <string name="content_desc_keep_screen">\"Scherm aan laten\" knop</string>
   <string name="control_set_alarm">Wekker instellen</string>
   <string name="control_set_alarm_with_existing">Alarm ingesteld: %s</string>
   <string name="day">1 dag</string>

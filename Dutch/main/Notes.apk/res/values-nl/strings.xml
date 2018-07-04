@@ -4,6 +4,8 @@
   <string name="action_mode_switcher_grid_description">Rasterweergave</string>
   <string name="action_mode_switcher_list_description">Lijstweergave</string>
   <string name="action_settings_description">Instellingen openen</string>
+  <string name="actionbar_close_description">Afsluiten</string>
+  <string name="actionbar_home_description">Terug</string>
   <string name="add_account_desc">Uw notities synchroniseren met uw Mi Account?</string>
   <string name="alarm_bar_title">Herinnering</string>
   <string name="alert_action_edit_anyway">Blijven bewerken</string>
@@ -54,7 +56,6 @@
   <string name="dlg_unhide_message">Zichtbaar maken…</string>
   <string name="done">Gereed</string>
   <string name="edit_header_done_description">Gereed</string>
-  <string name="edit_header_home_description">Terug</string>
   <string name="edit_header_lock_description">Verborgen notitie</string>
   <string name="empty_folder_import_notes">Notities importeren</string>
   <string name="empty_folder_no_notes">Geen notities hier</string>
@@ -94,6 +95,7 @@
   <string name="menu_delete_forever">Permanent verwijderen</string>
   <string name="menu_folders">Mappen</string>
   <string name="menu_hide">Verbergen</string>
+  <string name="menu_more_description">Meer</string>
   <string name="menu_move_parent_folder">Bovenliggende map</string>
   <string name="menu_move_to">Verplaatsen naar</string>
   <string name="menu_new_folder">Nieuwe map</string>
@@ -200,10 +202,10 @@
   <string name="toast_reach_text_limit_checkbox">Kan geen selectievakje toevoegen omdat notitie te lang is</string>
   <string name="toast_reach_text_limit_truncate">De inhoud van deze notitie is geknipt omdat deze te lang is.</string>
   <string name="toast_refuse_to_record_when_in_call">Kan deze functie niet gebruiken tijdens gesprekken</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">Kan deze functie niet gebruiken met gesplitst scherm</string>
   <string name="toolbar_check_description">Keuzevakje toevoegen</string>
   <string name="toolbar_delete_description">Verwijder deze notitie</string>
   <string name="toolbar_gallery_description">Afbeelding toevoegen</string>
-  <string name="toolbar_more_description">Meer</string>
   <string name="toolbar_redo_description">Opnieuw uitvoeren</string>
   <string name="toolbar_share_description">Deel deze notitie</string>
   <string name="toolbar_text_description">Tekst stijl</string>

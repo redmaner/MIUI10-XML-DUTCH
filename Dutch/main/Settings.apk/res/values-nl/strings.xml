@@ -154,6 +154,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_device_admin_msg">Deze apparaatbeheerderactiveren?</string>
   <string name="add_facerecoginition_text">Gezichtsgegevens toevoegen</string>
   <string name="add_fingerprint_cancel_button_text">Terug</string>
+  <string name="add_fingerprint_dirty_fingerprint">Zorg ervoor dat het oppervlak van het scherm schoon is. Probeer uw vingerafdruk opnieuw registreren.</string>
   <string name="add_fingerprint_done_msg">Nu kunt u dit apparaat ontgrendelen met uw vingerafdruk.</string>
   <string name="add_fingerprint_done_title">Klaar!</string>
   <string name="add_fingerprint_edge_instruction_msg">Verplaats je vinger zodat de sensor de zijkanten van je vingerafdruk kan lezen.</string>
@@ -162,6 +163,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_finished_button_text">Klaar</string>
   <string name="add_fingerprint_instruction_msg">De vingerafdruksensor zit ingebouwd in de homeknop van uw apparaat.</string>
   <string name="add_fingerprint_instruction_title">Voeg uw vingerafdruk toe</string>
+  <string name="add_fingerprint_move_fast">Houd je vinger iets langer op het scherm</string>
   <string name="add_fingerprint_name_suggest_text">Naam vingerafdruk</string>
   <string name="add_fingerprint_put_finger_edge_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>
   <string name="add_fingerprint_put_finger_msg">Plaatst u uw vinger op de sensor en verwijder hem nadat u een trilling voelde.</string>
@@ -1729,6 +1731,7 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="every_day">Dagelijks</string>
   <string name="experimental_category_title">Experimenteel</string>
   <string name="experimental_preference">(Experimenteel)</string>
+  <string name="extended_power_menu">Uitgebreid power menu</string>
   <string name="external_code_size_label">App USB opslag</string>
   <string name="external_data_size_label">Gegevens USB opslag</string>
   <string name="external_source_switch_title">Toestaan van deze bron</string>
@@ -1961,18 +1964,18 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="got_it">Begrepen</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
   <string name="gxzw_add_fingerprint_continue">Doorgaan</string>
-  <string name="gxzw_add_fingerprint_edge_message">Beweeg uw vinger zodat de sensor de randen van uw vingerafdruk kan opnemen.</string>
-  <string name="gxzw_add_fingerprint_edge_title">Beweeg je vinger een beetje</string>
-  <string name="gxzw_add_fingerprint_finish">Klaaar</string>
-  <string name="gxzw_add_fingerprint_indicate">Druk hier harder</string>
+  <string name="gxzw_add_fingerprint_edge_message">Beweeg uw vinger om de randen van uw vingerafdruk te registreren</string>
+  <string name="gxzw_add_fingerprint_edge_title">Pas je grip aan</string>
+  <string name="gxzw_add_fingerprint_finish">Klaar!</string>
+  <string name="gxzw_add_fingerprint_indicate">Druk lichtjes op dit gebied</string>
   <string name="gxzw_add_fingerprint_know">Begrepen</string>
-  <string name="gxzw_add_fingerprint_message">Houd uw vingers en het scherm schoon</string>
+  <string name="gxzw_add_fingerprint_message">Zorg ervoor dat zowel je vinger als het scherm schoon zijn</string>
   <string name="gxzw_add_fingerprint_move_indicate">Beweeg je vinger een beetje</string>
-  <string name="gxzw_add_fingerprint_move_message">Kan de resterende delen van uw vingerafdruk niet opnemen. Beweeg je vinger een beetje</string>
-  <string name="gxzw_add_fingerprint_move_title">Beweeg je vinger een beetje</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Druk een beetje harder en til uw vinger op nadat u trilling voelt. Herhaal dit meerdere keren.</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Druk harder en lift na trillingen</string>
-  <string name="gxzw_add_fingerprint_title">Vingeradruk toevoegen</string>
+  <string name="gxzw_add_fingerprint_move_message">Beweeg uw vinger om alle delen van uw vingerafdruk te registreren</string>
+  <string name="gxzw_add_fingerprint_move_title">Beweeg je vinger een beetjee</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Druk op het scherm en til uw vinger op nadat u trilling voelt. Herhaal meerdere keren.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Druk en til op na vibratie</string>
+  <string name="gxzw_add_fingerprint_title">Voeg je vingerafdruk toe</string>
   <string name="handy_mode">Eén-hand modus</string>
   <string name="handy_mode_enable">Eén-hand modus</string>
   <string name="handy_mode_size">Schermgrootte</string>
@@ -2356,8 +2359,9 @@ U kunt een nieuwe schermvergrendeling instellen voor zowel uw apparaat als uw we
   <string name="lockpassword_choose_for_second_user">Wachtwoord tweede ruimte instellen</string>
   <string name="lockpassword_choose_lock_generic_header">Kies schermvergrendeling</string>
   <string name="lockpassword_choose_your_password_header">Stel uw wachtwoord in</string>
-  <string name="lockpassword_choose_your_password_second_space">"Wachtwoord instellen
- voor tweede ruimte"</string>
+  <string name="lockpassword_choose_your_password_second_space">"Stel PIN in voor tweede ruimte.
+Deze pincode moet zoveel cijfers bevatten als 
+PIN van uw eerste ruimte."</string>
   <string name="lockpassword_choose_your_pattern_header">Stel uw patroon in</string>
   <string name="lockpassword_choose_your_pin_header">Stel uw PIN in</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"PIN instellen
@@ -4144,7 +4148,7 @@ PIN code mogelijk onjuist.</string>
   <string name="sim_lock_settings_summary_on">Vergrendeld</string>
   <string name="sim_lock_settings_title">SIM kaart vergrendeling</string>
   <string name="sim_management_title">Mobiele netwerken</string>
-  <string name="sim_management_title_cr_kolbi">SIM kaart &amp; mobiele netwerken</string>
+  <string name="sim_management_title_singlesim">SIM kaart &amp; mobiele netwerken</string>
   <string name="sim_multi_sims_summary">SIM kiezen die u voor mobiele data verkiest.</string>
   <string name="sim_multi_sims_title">Meerdere SIMs gevonden</string>
   <string name="sim_name_hint">SIM naam invoeren</string>
