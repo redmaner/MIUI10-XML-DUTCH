@@ -1212,6 +1212,7 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="notification_masked_item">Meldingen verbergen</string>
   <string name="notification_masked_subtitle">Meldingen van apps beveiligd door appvergrendeling verbergen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
+  <string name="notify_channel_name_security">Systeembeveiliging</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
   <string name="notify_daily_limit_title">Vandaag %s verbruikt</string>

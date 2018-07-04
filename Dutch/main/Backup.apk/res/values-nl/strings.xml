@@ -389,12 +389,16 @@ Maak tenminste %s vrij."</string>
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Synchroniseren…</string>
   <string name="trans_button_cancel">Annuleren</string>
+  <string name="trans_button_exit">Afsluiten</string>
+  <string name="trans_button_stay">Blijven</string>
   <string name="trans_calculating">Berekenen…</string>
   <string name="trans_calculating_app_sd_description">Data op SD kaart</string>
   <string name="trans_calculating_media_description">Media bestanden</string>
   <string name="trans_calculating_tip">%s berekenen…</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
-  <string name="trans_cancelling">Annuleren</string>
+   <string name="trans_cancel_selection_message">Als u Mi Mover afsluit, wordt de lopende overdracht onderbroken. Wacht tot de overdracht voltooid is.</string>
+  <string name="trans_cancel_selection_title">In Mi Mover blijven</string>
+  <string name="trans_cancelling">Annuleren…</string>
   <string name="trans_connect_failed_device_incompatible">Apparaat is niet compatibel. Annuleer en probeer opnieuw.</string>
   <string name="trans_connect_failed_message">"Kon niet verbinden, probeer opnieuw of herstart het apparaat. Op het andere apparaat, Ga naar Instellingen &gt; Extra Instellingen &gt; Mi Mover, tik [Ik ben een verzender] of start Mi Mover opnieuw na herstarten"</string>
   <string name="trans_connect_failed_title">Kon niet verbinden</string>
@@ -538,6 +542,8 @@ Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</stri
 Selecteer enkel de belangrijke items om de transfer sneller te laten gaan."</string>
   <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
   <string name="trans_select_device_send">Selecteer een apparaat om data naar te transfereren.</string>
+  <string name="trans_select_notification_message">Tik om te bekijken</string>
+  <string name="trans_select_notification_title">Mi Mover is bezig…</string>
   <string name="trans_sender">Ik ben een verzender</string>
   <string name="trans_sender_connectting">Bevestigen op nieuwe apparaat</string>
   <string name="trans_sender_searching">Zoeken naar nieuwe apparaten</string>

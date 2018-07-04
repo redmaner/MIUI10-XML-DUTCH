@@ -94,6 +94,8 @@
   <string name="accessibility_location_active">Locatieverzoeken actief</string>
   <string name="accessibility_managed_profile">Werkprofiel</string>
   <string name="accessibility_menu">Menu</string>
+  <string name="accessibility_menu_item_split_disable">App ondersteunt gesplitst scherm niet.</string>
+  <string name="accessibility_menu_item_split_enable">App ondersteunt gesplitst scherm.</string>
   <string name="accessibility_multi_user_switch_inactive">Huidige gebruiker %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Profiel weergeven</string>
   <string name="accessibility_multi_user_switch_switcher">Wissel van gebruiker</string>
@@ -208,6 +210,8 @@
   <string name="accessibility_settings">Instellingen</string>
   <string name="accessibility_settings_button">Systeem instellingen.</string>
   <string name="accessibility_signal_full">Volledig signaal.</string>
+   <string name="accessibility_splite_screen_primary">Toevoegen aan primaire toepassing op gesplitst scherm</string>
+  <string name="accessibility_splite_screen_secondary">Toevoegen aan gesplitste scherm secundaire app</string>
   <string name="accessibility_status_bar_headphones">Hoofdtelefoon aangesloten</string>
   <string name="accessibility_status_bar_headset">Koptelefoon aangesloten</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>

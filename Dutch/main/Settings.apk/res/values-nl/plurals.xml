@@ -133,12 +133,12 @@
         <item quantity="one">PIN moet %d nummer zijn</item>
     </plurals>
 	<plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN kan tot %d tekens bevatten</item>
-        <item quantity="one">PIN kan tot %d teken bevatten</item>
+        <item quantity="other">U kan tot %d tekens invoeren</item>
+        <item quantity="one">U kan tot %d teken invoeren</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN moet %d tekens lang zijn</item>
-        <item quantity="one">PIN moet %d teken lang zijn</item>
+        <item quantity="other">Voer tenminste %d tekens in</item>
+        <item quantity="one">Voer tenminste %d teken in</item>
     </plurals>
 	<plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Verbind ten minste %d punten. Probeer opnieuw.</item>
