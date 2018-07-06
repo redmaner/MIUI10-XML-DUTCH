@@ -740,6 +740,12 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via Wi-Fi wanneer deze schakelaar uit staat.</string>
   <string name="five_percent_total_pkg">%s (5%% maandelijkse data)</string>
+  <string name="fod_authentication_shift_button">Annuleren</string>
+  <string name="fod_button_finger">Gebruik vingerafdruk</string>
+  <string name="fod_button_password">Wachtwoord invoeren</string>
+  <string name="fod_finger_notice_title">Plaats uw vinger op het scherm</string>
+  <string name="fod_finger_windows_tips">Verifiëer uw vingerafdruk</string>
+  <string name="fod_tips_split_screen_more_than_half">Wachtwoord invoeren</string>
   <string name="forbid_autobright_summary">"Schermhelderheid zal hetzelfde blijven als je aan het gamen bent"</string>
   <string name="forbid_autobright_title">Schermhelderheid vastzetten</string>
   <string name="foreground_traffic">Voorgrond %s</string>
