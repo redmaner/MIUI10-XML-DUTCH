@@ -63,8 +63,7 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">%d minuut geleden</item>
     </plurals>
-	</plurals>
-		<plurals name="express_history_dialog_delete_message">
+   <plurals name="express_history_dialog_delete_message">
         <item quantity="other">%s items verwijderen van express?</item>
         <item quantity="one">%s item verwijderen van express?</item>
     </plurals>
