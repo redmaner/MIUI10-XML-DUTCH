@@ -390,7 +390,7 @@
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
   <string name="pref_show_list_avatar_summary">Profieloto\'s en contactgegevens weergeven in lijstweergave</string>
   <string name="pref_show_photo_word_summary">Automatisch een foto toewijzen aan contacten zonder foto</string>
-  <string name="pref_show_sms_template_entry_summary">Eenmalige wachtwoorden in SMS detecteren</string>
+  <string name="pref_show_sms_template_entry_summary">Eenmalige wachtwoorden en geef de snelle menu\'s weer</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slimme berichten</string>
@@ -614,7 +614,7 @@
   <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
   <string name="title_show_list_avatar">Profielfoto\'s weergeven</string>
   <string name="title_show_photo_word">Contactfoto\'s toewijzen</string>
-  <string name="title_show_sms_template">Controleer SMS voor verificatiecodes</string>
+  <string name="title_show_sms_template">Slim berichten</string>
   <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>
   <string name="title_use_gsm_alphabet">GSM alfabet gebruiken</string>

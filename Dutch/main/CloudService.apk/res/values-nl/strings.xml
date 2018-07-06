@@ -65,6 +65,7 @@
   <string name="loading">Een momentje…</string>
   <string name="master_alert_notif_content">Kan niet synchroniseren</string>
   <string name="master_alert_notif_title">Synchronisatie met Mi Cloud inschakelen</string>
+  <string name="member_menu_vipname_free">Gratis</string>
   <string name="micloud_alert_dialog_positive">Ok</string>
   <string name="micloud_all_sub_1_intl_sms">Een internationale SMS zal verzonden worden om uw SIM kaart te activeren. Die zal in rekening worden gebracht door uw provider.</string>
   <string name="micloud_all_sub_1_sms">Een nationale SMS zal worden verzonden om uw SIM kaart te activeren. Die zal in rekening worden gebracht door uw provider.</string>
@@ -138,7 +139,7 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_find_device_guide_alert_negtive">Nee bedankt</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Nee bedankt</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
-  <string name="micloud_find_device_guide_alert_title">Onthoud je Mi Account ID en wachtwoord</string>
+  <string name="micloud_find_device_guide_alert_title">Onthoud je wachtwoord</string>
   <string name="micloud_find_device_guide_button">Apparaat vinden inschakelen</string>
   <string name="micloud_find_device_guide_fail_reopen">Apparaat vinden inschakelen in Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Controleer uw netwerkverbinding en probeer opnieuw.</string>

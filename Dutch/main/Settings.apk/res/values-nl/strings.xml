@@ -899,6 +899,16 @@ Sample Rate"</string>
   <string name="brightness_title">Helderheid</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
+  <string name="bt_ldac_declaration">Als het Bluetooth apparaat LDAC ondersteunt, is dit standaard verbonden. LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik. Afspelen kan optreden als gevolg van Bluetooth hardwarebeperkingen</string>
+  <string name="bt_ldac_dialog_summary">"LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik
+Deze functie kan worden uitgeschakeld in [Instellingen]"</string>
+  <string name="bt_ldac_dialog_title">Het huidige apparaat ondersteunt LDAC, die standaard verbonden is:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik. Afspelen kan optreden als gevolg van Bluetooth hardwarebeperkingen</string>
+  <string name="bt_ldac_open_dialog_title">Weet je zeker dat je LDAC wenst in te schakelen?</string>
+  <string name="bt_ldac_pre_summary">Zorg voor een audio ervaring van hoge kwaliteit</string>
+  <string name="bt_ldac_property">Kenmerken</string>
+  <string name="bt_ldac_remember_choice">Onthoud keuze</string>
+  <string name="bt_ldac_settings">Instellingen</string>
   <string name="bt_rarely_used_device_title">Zelden gebruikte apparaten (%d)</string>
   <string name="bt_trace_log">Bluetooth Trace log inschakelen</string>
   <string name="bt_trace_log_summary">Bluetooth trace log inschakelen</string>
@@ -1839,6 +1849,8 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via Wi-Fi als deze schakelaar is uitgeschakeld.</string>
   <string name="firmware_version">Android versie</string>
+  <string name="flash_drive_backup_restore">Maak een back-up of herstel met USB</string>
+  <string name="flash_drive_backup_restore_summary">Sluit een USB station aan</string>
   <string name="floating_window_switch_label">Pop-upschermen weergeven</string>
   <string name="floating_window_switch_label_disable">Verberg pop-upschermen</string>
   <string name="fluency_mode">Systeemanimaties</string>
@@ -1972,7 +1984,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="gxzw_add_fingerprint_message">Zorg ervoor dat zowel je vinger als het scherm schoon zijn</string>
   <string name="gxzw_add_fingerprint_move_indicate">Beweeg je vinger een beetje</string>
   <string name="gxzw_add_fingerprint_move_message">Beweeg uw vinger om alle delen van uw vingerafdruk te registreren</string>
-  <string name="gxzw_add_fingerprint_move_title">Beweeg je vinger een beetjee</string>
+  <string name="gxzw_add_fingerprint_move_title">Beweeg je vinger een beetje</string>
   <string name="gxzw_add_fingerprint_put_finger_message">Druk op het scherm en til uw vinger op nadat u trilling voelt. Herhaal meerdere keren.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Druk en til op na vibratie</string>
   <string name="gxzw_add_fingerprint_title">Voeg je vingerafdruk toe</string>
@@ -2366,6 +2378,7 @@ PIN van uw eerste ruimte."</string>
   <string name="lockpassword_choose_your_pin_header">Stel uw PIN in</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"PIN instellen
  voor tweede ruimte"</string>
+  <string name="lockpassword_choose_your_pin_title">Voer 4-16 tekens in</string>
   <string name="lockpassword_confirm_for_second_user">Bevestig uw wachtwoord voor tweede ruimte</string>
   <string name="lockpassword_confirm_passwords_dont_match">Wachtwoorden komen niet overeen</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN codes komen niet overeen</string>
@@ -3614,7 +3627,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_paper_mode_off_apps_title">Leesmodus niet gebruiken</string>
   <string name="screen_paper_mode_range_title">Instellingen</string>
   <string name="screen_paper_mode_set_apps_title">Leesmodus apps</string>
-  <string name="screen_paper_mode_summary">Hoeveelheid blauw licht van het scherm verminderen</string>
+  <string name="screen_paper_mode_summary">De leesmodus zorgt ervoor dat de kleuren van je display warmer worden,
+waardoor je ogen kunnen ontspannen.</string>
   <string name="screen_paper_mode_time_summary">Tijd om leesmodus in- en uit te schakelen</string>
   <string name="screen_paper_mode_time_title">Schema</string>
   <string name="screen_paper_mode_title">Leesmodus</string>
@@ -3905,8 +3919,11 @@ Om schermpinning te gebruiken:
   <string name="search_xiaomi_account">Mi Account;Mi Account ID; Account ID</string>
   <string name="search_xspace">Gedupliceerde apps;Gedupliceerde apps;Dubbele app;Dubbele apps;App klonen;Apps klonen;App klonen;Appklonen;Twee accounts;2 accounts</string>
   <string name="second_space">Tweede ruimte</string>
-  <string name="secondspace_category">Second space</string>
-  <string name="secondspace_delete_space_title">Tw ruimte verwijderen</string>
+  <string name="secondspace_category">Tweede ruimte</string>
+  <string name="secondspace_delete_space_title">Tweede ruimte verwijderen</string>
+  <string name="secspace_fod_finger_tips">Kon niet verifiëren. Probeer opnieuw.</string>
+  <string name="secspace_fod_finger_title">Verifiëer uw vingerafdruk</string>
+  <string name="secspace_fod_use_password">Wachtwoord invoeren</string>
   <string name="secure_keyguard_business_title">Vergrendelscherm instellen</string>
   <string name="secure_lock_encryption_warning">Omdat u een toegankelijkheidsservice hebt ingeschakeld, zal het toestel geen gebruik maken van uw schermvergrendeling om de data-encryptie te verbeteren.</string>
   <string name="security_dashboard_summary">Schermvergrendeling, vingerafdruk</string>
@@ -4264,10 +4281,11 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Provider weergeven wanneer het apparaat is vergrendeld</string>
   <string name="status_bar_settings_show_floating_notification">Zwevende meldingen</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Zwevende meldingen verdwijnen automatisch nadat ze zijn getoond aan de bovenkant van het scherm</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Belangrijke meldingen bovenaan het scherm toestaan </string>
   <string name="status_bar_settings_show_flow_info">Dataverbruik weergeven</string>
   <string name="status_bar_settings_show_home_message">Aantal meldingen weergeven</string>
   <string name="status_bar_settings_show_keyguard_notification">Meldingen op vergrendelscherm</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Belangrijke meldingen op het vergrendelscherm toestaan</string>
   <string name="status_bar_settings_show_network_speed">Verbindingssnelheid tonen</string>
   <string name="status_bar_settings_show_notification_icon">Meldingsiconen weergeven</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wi-Fi</string>

@@ -123,5 +123,5 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="privacy_revoke_failed_msg">Activering vereist het verlenen van autorisatie, zodat Messaging uw telefoonnummer kan verkrijgen.</string>
   <string name="privacy_revoke_tips">Nadat u de autorisatie intrekt, stopt de app met het verzamelen van uw gegevens en worden al uw gegevens van de servers verwijderd. Synchronisatie met Mi Cloud, Mi Message en andere Messaging functies zijn niet langer beschikbaar. Toestemming intrekken?</string>
   <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
-  <string name="waiting_sim_in_service">Wachten op sim in dienst</string>
+  <string name="waiting_sim_in_service">Wachten op SIM in dienst</string>
 </resources>
