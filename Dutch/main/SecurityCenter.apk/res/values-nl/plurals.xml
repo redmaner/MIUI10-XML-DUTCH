@@ -166,6 +166,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%s apps zijn niet beveiligd</item>
         <item quantity="one">%s app is niet beveiligd</item>
     </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items zijn veilig</item>
         <item quantity="one">%1$d item is veilig</item>

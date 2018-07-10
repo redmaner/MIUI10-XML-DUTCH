@@ -945,6 +945,7 @@ Probeer opnieuw in %2$d seconden."</string>
   <string name="lockscreen_shortcut_left">Linker snelkoppeling</string>
   <string name="lockscreen_shortcut_right">Rechter snelkoppeling</string>
   <string name="lockscreen_sim_error_message_short">Ongeldige kaart.</string>
+  <string name="lockscreen_storage_locked">Ontgrendel alle functies en gegevens</string>
   <string name="lockscreen_unlock_left">Linker snelkoppeling ontgrendeld ook</string>
   <string name="lockscreen_unlock_right">Rechter snelkoppeling ontgrendeld ook</string>
   <string name="long_screenshot_not_support_msg">Huidige app ondersteunt geen scrollende schermafdrukken.</string>
@@ -1748,6 +1749,13 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
   <string name="wifi_verbose_logging">Wi-Fi verbose logging inschakelen</string>
   <string name="wifi_verbose_logging_summary">Wi-Fi logging level verhogen, weergeven SSID voor elke RSSI Wi-Fi netwerk in lijst</string>
   <string name="window_animation_scale_title">Scherm-animatieschaal</string>
+  <string name="wireless_change_to_ac_charging">Overgeschakeld naar bedraad opladen</string>
+  <string name="wireless_charge_current">Opladen</string>
+  <string name="wireless_charge_dialog_cancel">Begrepen</string>
+  <string name="wireless_charge_dialog_title">Plaats uw apparaat in het midden van het oplaadstation</string>
+  <string name="wireless_charge_reset_device">Het opladen gaat langzaam. Pas uw apparaat aan.</string>
+  <string name="wireless_charge_reset_device_detail">Zorg ervoor dat de positie van uw apparaat op het oplaadstation correct is</string>
+  <string name="wireless_charge_stop">Draadloos opladen is gestopt</string>
   <string name="wrong_password">Foute wachtwoord</string>
   <string name="zen_alarm_warning">U zal je volgende alarm %1$s niet horen</string>
   <string name="zen_alarm_warning_indef">U zal je volgende alarm %1$s niet horen tenzij je dit voor die tijd uitzet</string>

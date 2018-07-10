@@ -137,7 +137,7 @@ Sample Rate"</string>
   <string name="charge_length_format">%1$s geleden</string>
   <string name="choose_profile">Profiel kiezen</string>
   <string name="clear_adb_keys">USB debugging machtigingen herroepen</string>
-  <string name="close">Sluiten</string>
+  <string name="close">Uitschakelen</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeveiligingsfuncties werken niet op dit apparaat terwijl deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendeling toestaan?</string>
   <string name="connected_via_network_scorer">Automatich verbonden via %1$s</string>

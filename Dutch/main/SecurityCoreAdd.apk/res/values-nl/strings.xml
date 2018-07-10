@@ -372,7 +372,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="xspace_default_guide_notification_content">Tik om te wijzigen</string>
   <string name="xspace_default_guide_notification_main_title">Standaardapp gebruiken</string>
   <string name="xspace_default_guide_notification_xspace_title">Gedupliceerde app gebruiken</string>
-  <string name="xspace_default_setting_dialog_title">Standaard</string>
+  <string name="xspace_default_setting_dialog_title"> standaard</string>
   <string name="xspace_default_setting_label">Standaardapp</string>
   <string name="xspace_description">"Gedupliceerde apps zijn kopieën van apps die los van elkaar gebruikt kunnen worden met een ander account.
   

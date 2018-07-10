@@ -1104,6 +1104,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="title_other_devices">Overige beschikbare apparaten</string>
   <string name="title_paired_devices">Gekoppelde Apparaten</string>
   <string name="toast_call_detail_error">Gegevens niet leesbaar voor dit gesprek</string>
+  <string name="toast_call_no_SoundRecorder">Recorder app is niet beschikbaar</string>
+  <string name="toast_call_no_notes">Notes app is niet beschikbaar</string>
   <string name="toast_copy_done">Gereed</string>
   <string name="toast_copying">Kopiëren…</string>
   <string name="toast_displaying_all_contacts">Alle contacten worden weergegeven</string>
