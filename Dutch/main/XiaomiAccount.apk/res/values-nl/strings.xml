@@ -388,7 +388,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_vcode_notification_title">Uw aanmeldingsverificatie is onvolledig</string>
   <string name="passport_vcode_prompt_long">Voer de verificatiecode in</string>
   <string name="passport_vcode_sms_send_prompt">Verificatiecode naar %s verzenden</string>
-  <string name="passport_verification_failed">Authenticatie mislukt</string>
+  <string name="passport_verification_failed">Kon account niet verifiëren</string>
   <string name="passport_verify">Bevestigen</string>
   <string name="passport_verifying_activator_phone">Telefoonbeveiliging controleren…</string>
   <string name="passport_wait_for_sms_prompt">Nu opnieuw beginnen? Het kan tot 10 minuten duren om bevestigingsberichten af te leveren wanneer uw telefoon zich binnen het bereik bevindt van het netwerk van uw provider.</string>

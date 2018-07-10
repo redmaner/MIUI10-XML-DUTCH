@@ -4281,7 +4281,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Provider weergeven wanneer het apparaat is vergrendeld</string>
   <string name="status_bar_settings_show_floating_notification">Zwevende meldingen</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Belangrijke meldingen bovenaan het scherm toestaan </string>
+  <string name="status_bar_settings_show_floating_notification_summary">Belangrijke meldingen bovenaan het scherm toestaan</string>
   <string name="status_bar_settings_show_flow_info">Dataverbruik weergeven</string>
   <string name="status_bar_settings_show_home_message">Aantal meldingen weergeven</string>
   <string name="status_bar_settings_show_keyguard_notification">Meldingen op vergrendelscherm</string>

@@ -182,6 +182,19 @@ en maak vervolgens een foto waarop iedereen er het beste uitziet."</string>
 Reinig de lens voor een beter effect</string>
   <string name="lens_dirty_detected_title_back">De lens van de achterste camera is vuil</string>
   <string name="lens_dirty_detected_title_front">Cameralens aan voorzijde is vuil</string>
+  <string name="lighting_hint_needed">Plaats je object in de schijnwerpers</string>
+  <string name="lighting_hint_title">Studio verlichting</string>
+  <string name="lighting_hint_too_close">Camera verder weg houden</string>
+  <string name="lighting_hint_too_far">Breng de camera dichter</string>
+  <string name="lighting_hint_usage">"U kunt verlichtingseffecten voor studio\'s gebruiken
+in de portretmodus"</string>
+  <string name="lighting_pattern_dot">Stippen</string>
+  <string name="lighting_pattern_leaf">Bladeren</string>
+  <string name="lighting_pattern_movie">Film</string>
+  <string name="lighting_pattern_nature">Naturel</string>
+  <string name="lighting_pattern_rainbow">Regenboog</string>
+  <string name="lighting_pattern_shutter">Jaloezieën</string>
+  <string name="lighting_pattern_stage">Podium</string>
   <string name="message_snap_double_confirm">Volumetoets lang ingedrukt houden activeerd NFC, deze functie vervanging?</string>
   <string name="module_name_beauty">Schoonheid</string>
   <string name="module_name_capture">Foto</string>
