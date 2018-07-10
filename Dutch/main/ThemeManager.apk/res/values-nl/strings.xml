@@ -483,7 +483,7 @@
   <string name="update_immediately">Nu updaten</string>
   <string name="using_theme_has_update_tips">Er is een update voor dit thema beschikbaar.</string>
   <string name="using_theme_next_automatic_update">Automatische updates</string>
-  <string name="using_theme_next_automatic_update_summary">Gedownloade thema's automatisch updaten via Wi-Fi wanneer het scherm vergrendeld is</string>
+  <string name="using_theme_next_automatic_update_summary">Gedownloade thema\'s automatisch updaten via Wi-Fi wanneer het scherm vergrendeld is</string>
   <string name="video_apply_home">Startscherm</string>
   <string name="video_apply_home_lock">Startscherm en vergrendelscherm</string>
   <string name="video_audio_apply_success">Geconfigureerde video met geluid is met succes geconfigureerd</string>
