@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string-array name="wifi_status">
+    <string-array name="wifi_status">
         <item></item>
         <item>Scannen…</item>
         <item>Verbinden…</item>
