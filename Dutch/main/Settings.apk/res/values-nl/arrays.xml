@@ -501,6 +501,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Netwerk is traag door slechte signaalsterkte</item>
         <item>Verplaatsen…</item>
     </string-array>
+	<string-array name="notch_battery_indicator_style_entries">
+        <item>Grafisch</item>
+        <item>Percentage</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
         <item>720x480 mdpi</item>

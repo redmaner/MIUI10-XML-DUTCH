@@ -93,6 +93,7 @@
   <string name="record_downloading_notification">Downloaden…</string>
   <string name="record_downloading_notification_complete">Download voltooid</string>
   <string name="record_downloading_notification_count">%d downloaden</string>
+  <string name="record_format_preference_title">Opnameformaat</string>
   <string name="record_list">Opnamelijst</string>
   <string name="record_list_call">Oproepopnames</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>

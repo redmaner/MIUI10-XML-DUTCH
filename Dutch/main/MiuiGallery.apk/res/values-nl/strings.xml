@@ -54,6 +54,7 @@
   <string name="album_name_people">Personen</string>
   <string name="album_name_recent_discovery">Recent</string>
   <string name="album_name_tags">Tags</string>
+  <string name="album_notes">Notities</string>
   <string name="album_others_share_baby_info_format">Babyalbum van %s</string>
   <string name="album_others_share_info_format">Van %s</string>
   <string name="album_owner_share">Gedeeld</string>
@@ -371,7 +372,6 @@
   <string name="enable_cloud_for_sharing">Schakel Mi Cloud albums in om gedeelde foto\'s te bekijken.</string>
   <string name="enable_face_album_summary">Foto\'s automatisch sorteren op personen die erop staan</string>
   <string name="enable_face_album_title">Sorteren op personen</string>
-  <string name="enabling_face_feature">Een momentje…</string>
   <string name="enter_choice_mode">Ingevoerde gedeelde dialoog</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
@@ -444,7 +444,6 @@
   <string name="exit_video_play">Afsluiten</string>
   <string name="expand_desc">Meer</string>
   <string name="expand_people">Toon meer personen</string>
-  <string name="face_album_detecting_tip">Een momentje…</string>
   <string name="face_album_empty">"Niet genoeg foto\'s om mensen te herkennen.
 Neem meer foto\'s van je vrienden!"</string>
   <string name="face_album_empty_syncing">Gegevens synchroniseren, Kom terug over een tijdje</string>
@@ -452,7 +451,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="face_album_long_tap_tip">Om meerdere personen te selecteren of groepsinstellingen te wijzigen, druk op &amp; en houd een profielfoto ingedrukt</string>
   <string name="face_album_new_name_hint">Nieuwe naam</string>
   <string name="face_album_not_named">Naamloos</string>
-  <string name="face_album_pending_enable_tip">Zal foto\'s sorteren wanneer het apparaat verbonden is met Wi-Fi</string>
   <string name="face_album_rename_hint">Naam invoeren</string>
   <string name="face_album_title">Foto\'s met %s</string>
   <string name="face_album_use_tip">Foto\'s automatisch sorteren op mensen die erop staan.</string>
@@ -470,7 +468,9 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="fancy_color_desc">Kleuren</string>
   <string name="fast_share_auto_render">Verfraaien</string>
   <string name="fast_share_auto_render_finish">Verfraaid</string>
-  <string name="feature_guidance_photo_effects">Foto effecten</string>
+  <string name="feature_guidance_photo_effects">"Nieuwe foto effecten
+zijn beschikbaar"</string>
+  <string name="feature_guidance_video_editor_smart_effects">Nieuwe foto effecten zijn beschikbaar</string>
   <string name="filter_bi_memory">Geheugen</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Roze</string>
@@ -803,6 +803,10 @@ om de galerij te personaliseren"</string>
   <string name="photo_print_package_installing">Plug-in laden…</string>
   <string name="photo_save_to_msg">Opgeslagen naar %s</string>
   <string name="photomovie_audio_custom">Lokaal</string>
+  <string name="photomovie_audio_default">Herinnering</string>
+  <string name="photomovie_audio_kawaii">Romantisch</string>
+  <string name="photomovie_audio_light">Ballade</string>
+  <string name="photomovie_audio_linear">Rock</string>
   <string name="photomovie_audio_none">Geen</string>
   <string name="photomovie_cancel_download">Annuleren</string>
   <string name="photomovie_delete_disable">Je hebt tenimste 3 foto\'s nodig om een clip te maken.</string>
@@ -825,6 +829,11 @@ om de galerij te personaliseren"</string>
   <string name="photomovie_tab_music">Muziek</string>
   <string name="photomovie_tab_template">Template</string>
   <string name="photomovie_template_default">Langzaam</string>
+  <string name="photomovie_template_kawaii">Charmeren</string>
+  <string name="photomovie_template_light">Bries</string>
+  <string name="photomovie_template_linear">Rondrit</string>
+  <string name="photomovie_template_soft">Jeugd</string>
+  <string name="photomovie_template_sport">Energie</string>
   <string name="pick_from_contact">Kies uit contacten</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
   <string name="picker_cancel_download">Downloaden annuleren</string>
@@ -837,6 +846,7 @@ om de galerij te personaliseren"</string>
   <string name="picker_image_will_download">%d geselecteerde foto\'s niet op apparaat, ze zullen worden gedownload</string>
   <string name="picker_no_network_message">Verbind met het netwerk om te downloaden</string>
   <string name="picker_origin_need_download">%1$d geselecteerde foto\'s niet op apparaat (%2$dMB), downloaden met mobiele data?</string>
+  <string name="picker_origin_request_progress_message">Originele bestanden voorbereiden (%1$d/%2$d)…</string>
   <string name="picker_title_format">Geselecteerde  foto\'s: %d</string>
   <string name="picker_title_selection_format">Geselecteerde foto\'s: %d</string>
   <string name="picker_title_selection_format_multiple">Selecteer %1$d tot %2$d photos (%3$d)</string>
@@ -950,12 +960,12 @@ om de galerij te personaliseren"</string>
   <string name="search_net_error">Er is een netwerkfout opgetreden. Verbind met een ander netwerk en probeer opnieuw.</string>
   <string name="search_request_applied">Toegepast</string>
   <string name="search_request_open">Kom bij het testteam</string>
+  <string name="search_request_requesting">Toegepast. Wacht even voordat u begint.</string>
   <string name="search_result_empty">Kon niks vinden</string>
   <string name="search_retry">Probeer opnieuw</string>
   <string name="search_select_network">Selecteer netwerk</string>
   <string name="search_set_network_connection">Netwerkinstellingen</string>
   <string name="search_setting_sub_title">Zoek naar mensen, plaatsen en objecten in uw foto\'s.</string>
-  <string name="search_setting_sub_title_open">Goedgekeurd. Wacht even voordat u begint.</string>
   <string name="search_setting_title">Zoek foto\'s in galerij</string>
   <string name="search_syncing">Gegevens synchroniseren, kom later terug</string>
   <string name="search_title_album">Album</string>
@@ -985,6 +995,7 @@ om de galerij te personaliseren"</string>
   <string name="secret_reason_too_large">Bestand is te groot</string>
   <string name="secret_reason_type_not_support">Dit bestandstype wordt niet ondersteund</string>
   <string name="secret_reason_unknow_reasons">Onbekende fout</string>
+   <string name="secret_reason_video_not_support">Kan geen video\'s toevoegen aan verborgen album</string>
   <string name="see_ignore_faces">Bekijk personen die je hebt genegeerd</string>
   <string name="select_item_face">"Is dit '%s'?"</string>
   <string name="select_origin_tip">Origineel bestand (%s)</string>
@@ -1193,7 +1204,7 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_smart_effect_fastslow">Beweging</string>
   <string name="video_editor_smart_effect_freesze">Stop beweging</string>
   <string name="video_editor_smart_effect_halo">Hallo</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Dit effect werkt het beste bij video\'s met een hoge beeldsnelheid.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Dit effect werkt het beste bij video\'s met 120 fps.</string>
   <string name="video_editor_smart_effect_movie">Film</string>
   <string name="video_editor_smart_effect_none">Geen</string>
   <string name="video_editor_smart_effect_rhythm">Impuls</string>
@@ -1218,6 +1229,7 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_unsupport_audio_file">Niet ondersteund audiobestand</string>
   <string name="video_editor_unzip_file_fail">Kon video niet uitpakken</string>
   <string name="video_editor_video_is_short">Kan deze video niet bewerken</string>
+  <string name="video_editor_video_loading">Video voorbereiden, wacht even en probeer opnieuw.</string>
   <string name="video_editor_watermark">Watermerk</string>
   <string name="video_err">Video afspelen mislukt.</string>
   <string name="video_not_exist">Video bestaat niet</string>
@@ -1226,7 +1238,6 @@ om de galerij te personaliseren"</string>
   <string name="view_by_gallery_tip">MIUI Galerij</string>
   <string name="view_face_album">Album weergeven</string>
   <string name="view_more_face_desc">Meer personen weergeven</string>
-  <string name="view_queuing_status">Status controleren</string>
   <string name="voice_assistant">Spraak invoer</string>
   <string name="welcome_to_micloud">Welkom bij Mi Cloud</string>
   <string name="where_is_barcode">Waar is de QR code?</string>

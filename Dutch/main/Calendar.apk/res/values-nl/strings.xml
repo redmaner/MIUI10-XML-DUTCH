@@ -136,6 +136,7 @@
   <string name="description_calendar">Systeemapps/Kalender</string>
   <string name="description_calendar_edit_event">Systeemapps/Kalender/Agenda</string>
   <string name="directory_searching_fmt">%s zoeken…</string>
+  <string name="discard_label">Annuleren</string>
   <string name="does_not_repeat">Eenmalige afspraak</string>
   <string name="done">Terug</string>
   <string name="download">Download</string>

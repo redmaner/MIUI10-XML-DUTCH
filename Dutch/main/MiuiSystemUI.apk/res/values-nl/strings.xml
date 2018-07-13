@@ -563,7 +563,8 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="face_data_input_ok_msg">Schakel het scherm in om het apparaat te ontgrendelen met uw gezichtsgegevens.</string>
   <string name="face_data_input_ok_msg_angle">"Ontgrendel het apparaat met uw gezicht wanneer het scherm aan staat.
 (Leg uw gezichtsgegevens vast, inclusief vanuit alle mogelijke hoeken.)​"</string>
-  <string name="face_data_input_ok_title">Added successfully</string>
+  <string name="face_data_input_ok_title">Met succes toegevoegd</string>
+  <string name="face_data_input_structure_title">3D gezichtsgegevens</string>
   <string name="face_data_input_title">Gezichtsgegevens toevoegen</string>
   <string name="face_data_introduction_msg">Gezichtsgegevens kunnen worden gebruikt om uw apparaat te ontgrendelen of uw identiteit te verifiëren. Voeg vergrendelscherm wachtwoord  toe voordat u uw gezichtsgegevens toevoegt.</string>
   <string name="face_data_introduction_next">Volgende</string>
@@ -1366,6 +1367,8 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="retail_demo_reset_next">Volgende</string>
   <string name="retail_demo_reset_title">Wachtwoord vereist</string>
   <string name="return_to_incall_screen">Terug naar gesprek</string>
+  <string name="rgb_face_data_introduction_title">2D gezichtsgegevens toevoegen</string>
+  <string name="rgb_face_data_manage_delete_msg">2D gezichtsgegevens verwijderen</string>
   <string name="right_icon">Rechts icoon</string>
   <string name="right_keycode">Rechtse toegangscode</string>
   <string name="right_nav_bar_button_type">Extra rechterknop type</string>
@@ -1539,6 +1542,7 @@ d MMMM"</string>
   <string name="structure_face_data_introduction_settingpassword">Instellen</string>
   <string name="structure_face_data_introduction_title">Voeg 3D gezichtsgegevens toe</string>
   <string name="structure_face_data_ir_input_face">Beweeg je hoofd een beetje</string>
+  <string name="structure_face_data_manage_delete_msg">3D gezichtsgegevens verwijderen</string>
   <string name="structure_face_data_open_cameraing">Camera starten…</string>
   <string name="structure_face_data_rgb_input_face">Plaats je gezicht in het kader</string>
   <string name="structure_face_data_suggestion_text">Zorg ervoor dat alle delen van je gezicht duidelijk zichtbaar zijn. Draag geen hoeden, zonnebril of andere accessoires die uw gezicht kunnen bedekken tijdens het opnemen van 3D gezichtsgegevens. Zorg ervoor dat je gezicht gelijkmatig verlicht is.</string>
@@ -1546,6 +1550,24 @@ d MMMM"</string>
   <string name="structure_face_delete_data_dialog_msg">Kan Camera niet starten en een voorbeeld bekijken. Probeer opnieuw.</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Probeer opnieuw.</string>
   <string name="structure_face_delete_data_dialog_title">Kon Camera niet starten</string>
+  <string name="structure_face_hardware_abnormal_btn">Begrepen</string>
+  <string name="structure_face_hardware_abnormal_msg">Kan gezichtsgegevens niet opnemen vanwege een laserfout. Neem contact op met de klantenservice om hulp te krijgen.</string>
+  <string name="structure_face_hardware_abnormal_title">Laserfout</string>
+  <string name="structure_face_modules_abnormal_btn">Herstarten</string>
+  <string name="structure_face_modules_abnormal_msg">Kan gezichtsgegevens niet registreren vanwege een optische modulefout. Start uw apparaat opnieuw op en probeer het opnieuw.</string>
+  <string name="structure_face_modules_abnormal_title">Optische module fout</string>
+  <string name="structure_face_unlock_model2d_dialog_msg">3D herkenning wordt uitgeschakeld. Uw 3D gezichtsgegevens worden verwijderd. Je zult ook je 2D gezichtsgegevens moeten toevoegen. 2D herkenning inschakelen?</string>
+  <string name="structure_face_unlock_model2d_dialog_title">2D herkenning inschakelen</string>
+  <string name="structure_face_unlock_model3d_dialog_msg">2D herkenning wordt uitgeschakeld. Uw 2D gezichtsgegevens worden verwijderd. U moet ook uw 3D gezichtsgegevens toevoegen. 3D herkenning inschakelen?</string>
+  <string name="structure_face_unlock_model3d_dialog_title">3D herkenning inschakelen</string>
+  <string name="structure_face_unlock_model_dialog_enable">Inschakelen</string>
+  <string name="structure_face_unlock_model_dialog_notenable">Nee bedankt</string>
+  <string name="structure_face_unlock_model_other">Andere</string>
+  <string name="structure_face_unlock_model_other_msg_2d">2D herkenning</string>
+  <string name="structure_face_unlock_model_other_msg_3d">3D herkenning</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D gezichtsherkenning is minder veilig dan een patroon, pincode of wachtwoord. Als deze functie is ingeschakeld, kan uw apparaat mogelijk ontgrendeld door uw foto, evenals mensen of objecten die op u lijken.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">3D gezichtsherkenning is relatief veilig. Het is hoogst onwaarschijnlijk dat uw apparaat kan worden ontgrendeld met uw foto wanneer deze functie is ingeschakeld. Het kan echter worden ontgrendeld door mensen of objecten die op jou lijken.</string>
+  <string name="structure_face_unlock_model_other_title">Gezichtsherkenning</string>
   <string name="switch_bar_off">Uit</string>
   <string name="switch_bar_on">Aan</string>
   <string name="symbol_colon">:</string>
