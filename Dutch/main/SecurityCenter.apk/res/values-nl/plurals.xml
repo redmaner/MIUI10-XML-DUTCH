@@ -327,4 +327,12 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d dagen op rij gecontroleert</item>
         <item quantity="one">%d geleden gecontroleert</item>
     </plurals>
+	<plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Kan %d apps verbergen</item>
+        <item quantity="one">Kan %d app verbergen</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d apps zijn verborgen</item>
+        <item quantity="one">%d app is verborgen</item>
+    </plurals>
 </resources>
