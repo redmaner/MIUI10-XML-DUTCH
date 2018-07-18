@@ -1552,20 +1552,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Bericht maken</string>
   <string name="preferred_app_entries_music">Muziek</string>
-  <string name="privacy_apps">Hidden apps</string>
-  <string name="privacy_apps_category_title">Verborgen apps</string>
-  <string name="privacy_apps_checkbox_remind_choice">Niet meer weergeven</string>
-  <string name="privacy_apps_close">Sluiten</string>
-  <string name="privacy_apps_enable_summary">Verplaats apps naar een verborgen map en verwijder de snelkoppelingen van het startscherm</string>
-  <string name="privacy_apps_go_to_use">Starten</string>
-  <string name="privacy_apps_manage">Verborgen apps beheren</string>
-  <string name="privacy_apps_manage_dialog_title">Over verborgen apps</string>
-  <string name="privacy_apps_manager_dialog_message">Voor het verbergen van apps moet je je app schermvergrendeling instellen. Meldingen voor verborgen apps worden uitgeschakeld. Deze app verbergen?</string>
-  <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Wanneer u een app verbergt, wordt deze verplaatst naar een verborgen map. De snelkoppeling op het startscherm is ook verborgen.
-Deze functie wordt niet ondersteund voor systeem apps."</string>
-  <string name="privacy_apps_tutorial_prompt_pagethree">Nadat u uw wachtwoord hebt ingevoerd, wordt de map met verborgen apps weergegeven.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">Verspreid twee vingers op het scherm. Er wordt een bericht weergegeven waarin u wordt gevraagd uw app vergrendelingswachtwoord in te voeren.</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
   <string name="privacy_dialog_message">Wanneer u verbinding maakt met internet, wordt dit bericht samen met de providergegevens gecodeerd en geüpload naar de servers van Mi om ons te helpen bij het verbeteren van het bewaken van gegevensgebruik.</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
