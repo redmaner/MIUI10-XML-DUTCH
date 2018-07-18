@@ -255,7 +255,7 @@
   <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen in het geval je hem vergeten bent"</string>
   <string name="applock_add_account_setting">Account &amp; privacy</string>
   <string name="applock_bind_account_title">Wachtwoord vergeten</string>
-  <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het startscherm worden hersteld en uw wachtwoord voor het vergrendelen van apps wordt verwijderd. App vergrendeling uitschakelen?</string>
+  <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het startscherm worden hersteld en het wachtwoord voor het vergrendelen van apps wordt verwijderd. App vergrendeling uitschakelen?</string>
   <string name="applock_close_dialog_title">Appvergrendeling uitschakelen?</string>
   <string name="applock_exit_account_info">Account zal automatisch worden verwijderd wanneer je uitlogt</string>
   <string name="applock_header_text_less_than_half">Te klein. Sleep wat verder.</string>
