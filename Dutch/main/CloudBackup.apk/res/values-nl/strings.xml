@@ -19,6 +19,10 @@
   <string name="backup_to_cloud">App back-uppen</string>
   <string name="btn_back">Terug</string>
   <string name="btn_continue">Doorgaan</string>
+  <string name="btn_restore_abort">Annuleren</string>
+  <string name="btn_restore_cancel">Annuleren</string>
+  <string name="btn_restore_resume">Hervatten</string>
+  <string name="btn_restore_retry">Opnieuw proberen</string>
   <string name="btn_retry">Opnieuw controleren</string>
   <string name="btn_skip">Deze stap overslaan</string>
   <string name="button_cancel">Annuleren</string>
@@ -117,6 +121,8 @@
   <string name="menu_item_sort">Sorteren op</string>
   <string name="menu_item_sort_name">Naam</string>
   <string name="menu_item_sort_size">Grootte</string>
+  <string name="msg_alert_cancel_restore">Cloudback-up is aan het herstellen, nu stoppen?</string>
+  <string name="msg_alert_restore_error">Herstel cloudback-up mislukt, probeer het opnieuw.</string>
   <string name="network_error">Verbind met het netwerk</string>
   <string name="no_account">Niet ingelogd op Mi Account.</string>
   <string name="no_backup">Geen back-ups op Mi Cloud.</string>
@@ -159,6 +165,8 @@
   <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>
   <string name="start_recover">Herstel %s</string>
   <string name="success_open_cloudbackup">Back-ups voor startschermapps is ingeschakeld</string>
+  <string name="title_alert_cancel_restore">Stop met herstellen</string>
+  <string name="title_alert_restore_error">Herstellen mislukt</string>
   <string name="total_space">Totale ruimte: %s</string>
   <string name="try_again">Tik om opnieuw te proberen</string>
   <string name="wait_icon_download">Downloaden van appiconen</string>

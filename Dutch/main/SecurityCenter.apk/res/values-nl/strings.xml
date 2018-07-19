@@ -240,7 +240,7 @@
   <string name="app_manager_unstall_application">Verwijderen</string>
   <string name="app_managere_not_have_app">Leeg</string>
   <string name="app_manger_des_separator">", "</string>
-  <string name="app_mobile">Mobiel</string>
+  <string name="app_mobile">Mobiele data</string>
   <string name="app_name">Appvergrendeling</string>
   <string name="app_name_na">Dataverbruik</string>
   <string name="app_name_securitycenter">Veiligheid</string>
@@ -796,8 +796,8 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gb_first_window_antimsg_summary_quick_answer">Gebruik snelle antwoorden</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Tekst weergeven op transparante achtergrond</string>
   <string name="gb_first_window_antimsg_title">Handige meldingen</string>
-  <string name="gb_first_window_gamebox_summary_four">Cache wissen, schermopnamen maken en schermafbeeldingen maken</string>
-  <string name="gb_first_window_gamebox_summary_six">Gebruik snelle antwoorden, maak schermopnamen en schermafbeeldingen</string>
+  <string name="gb_first_window_gamebox_summary_four">Gebruik snelle antwoorden, schermopnamen maken en schermafbeeldingen maken</string>
+  <string name="gb_first_window_gamebox_summary_six">Cache wissen, maak schermopnamen en schermafbeeldingen</string>
   <string name="gb_first_window_handsfree_summary">Luidspreker automatisch inschakelen</string>
   <string name="gb_first_window_handsfree_title">Handsfree bellen</string>
   <string name="gb_first_window_start">Begin met spelen</string>

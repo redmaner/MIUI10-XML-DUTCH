@@ -218,7 +218,6 @@
   <string name="edit_category_dialog_title">Selecteer betalingscategorie</string>
   <string name="edit_comment_hint">Opmerking</string>
   <string name="edit_delete_dialog_message">Dit item uit de geschiedenis verwijderen?</string>
-  <string name="edit_record_category">"Categorie: "</string>
   <string name="edit_record_label">Details</string>
   <string name="empty_card_btn">App openen</string>
   <string name="empty_card_tip">"Het lijkt erop dat je niet bent ingelogd of deze kaart nog niet hebt ingesteld."</string>
@@ -725,13 +724,9 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="payment_record_add">Betaling toevoegen</string>
   <string name="payment_record_delete">Verwijderen uit betalingen</string>
   <string name="payment_record_empty">Nog geen betalingen</string>
-  <string name="payment_record_label">Details</string>
   <string name="payment_record_list">Details</string>
   <string name="payment_record_menu_delete">Verwijderen</string>
   <string name="payment_record_menu_select">Selecteren</string>
-  <string name="payment_record_new_lable">Geschiedenisrecord toevoegen</string>
-  <string name="payment_record_recent_title">Recente betalingen</string>
-  <string name="payment_record_show_more">Meer tonen</string>
   <string name="payment_report_failed_record_dialog_cancel">Annuleren</string>
   <string name="payment_report_failed_record_dialog_message">"Rapporteer onbehandelde rekeningen om ons te helpen betalingsberekeningen nauwkeuriger te maken.
 "De items die je deelt zullen alleen worden gebruikt om App vault te verbeteren.</string>

@@ -210,8 +210,8 @@
   <string name="accessibility_settings">Instellingen</string>
   <string name="accessibility_settings_button">Systeem instellingen.</string>
   <string name="accessibility_signal_full">Volledig signaal.</string>
-  <string name="accessibility_splite_screen_primary">Toevoegen aan primaire toepassing op gesplitst scherm</string>
-  <string name="accessibility_splite_screen_secondary">Toevoegen aan gesplitste scherm secundaire app</string>
+  <string name="accessibility_splite_screen_primary">Toegevoegd als de primaire app op het gesplitste scherm</string>
+  <string name="accessibility_splite_screen_secondary">Toegevoegd als de secundaire app op het gesplitste scherm</string>
   <string name="accessibility_status_bar_headphones">Hoofdtelefoon aangesloten</string>
   <string name="accessibility_status_bar_headset">Koptelefoon aangesloten</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>
@@ -1568,6 +1568,8 @@ d MMMM"</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2D gezichtsherkenning is minder veilig dan een patroon, pincode of wachtwoord. Als deze functie is ingeschakeld, kan uw apparaat mogelijk ontgrendeld door uw foto, evenals mensen of objecten die op u lijken.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">3D gezichtsherkenning is relatief veilig. Het is hoogst onwaarschijnlijk dat uw apparaat kan worden ontgrendeld met uw foto wanneer deze functie is ingeschakeld. Het kan echter worden ontgrendeld door mensen of objecten die op jou lijken.</string>
   <string name="structure_face_unlock_model_other_title">Gezichtsherkenning</string>
+  <string name="structure_face_unlock_not_same_person">Je moet alle stappen zelf voltooien. Met niemand van plaats wisselen.</string>
+  <string name="structure_face_unlock_really_person">Het lijkt erop dat je je gezicht hebt vervangen door een voorwerp.</string>
   <string name="switch_bar_off">Uit</string>
   <string name="switch_bar_on">Aan</string>
   <string name="symbol_colon">:</string>

@@ -2093,7 +2093,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="instant_app_details_summary">Meer info over %1$s</string>
   <string name="instant_apps_account">Instant apps account</string>
   <string name="instruction_privacy_password">Dit wachtwoord beschermt volgende items</string>
-  <string name="instruction_title">Instructies</string>
+  <string name="instruction_title">Belangrijke veiligheidsinformatie</string>
   <string name="insufficient_storage">Niet voldoende opslagruimte.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Actie:</string>
@@ -4476,6 +4476,8 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="strict_mode">Strikte modus ingeschakeld</string>
   <string name="strict_mode_summary">Knipperend scherm bij lange bewerkingen door apps</string>
   <string name="structure_add_facerecoginition_text">3D gezichtsgegevens toevoegen</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">Kan deze functie niet gebruiken als gevolg van een bijna lege batterij</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">De batterij moet voor het starten van de opname minimaal 5% opgeladen zijn.</string>
   <string name="structure_manage_facerecoginition_text">3D gezichtsgegevens beheren</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Deze apps werken het beste in fullscreenmodus</string>
   <string name="suggested_fingerprint_lock_settings_summary">Ontgrendelen met uw vingerafdruk</string>

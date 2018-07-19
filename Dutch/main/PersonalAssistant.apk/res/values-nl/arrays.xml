@@ -14,20 +14,6 @@
         <item>Regular</item>
         <item>Large</item>
     </string-array>
-    <string-array name="express_status_all">
-        <item>Onderweg</item>
-        <item>Uitleveren</item>
-        <item>Verzonden</item>
-        <item>Onbekend</item>
-        <item>Ontvangen</item>
-        <item>Geweigerd</item>
-        <item>Teruggestuurd</item>
-        <item>Onbekend</item>
-    </string-array>
-    <string-array name="express_status_detail">
-        <item>Onderweg</item>
-        <item>Uitleveren</item>
-    </string-array>
     <string-array name="stock_color_schema">
         <item>Rood - boven, groen - beneden</item>
         <item>Groen - boven, rood - beneden</item>

@@ -128,7 +128,7 @@
         <item quantity="one">%1$d seconde</item>
     </plurals>
 	<plurals name="whatsapp_delete_files">
-        <item quantity="other">%1$d bestanden verwijderen?</item>
-        <item quantity="one">%1$d bestand verwijderen?</item>
+        <item quantity="other">%1$d items verwijderen?</item>
+        <item quantity="one">%1$d item verwijderen?</item>
     </plurals>
 </resources>
