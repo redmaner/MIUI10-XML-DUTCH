@@ -4,6 +4,14 @@
         <item quantity="other">Over %d dagen</item>
         <item quantity="one">Over %d dag</item>
     </plurals>
+	<plurals name="express_history_dialog_delete_message">
+        <item quantity="other">%s items verwijderen van express?</item>
+        <item quantity="one">%s item verwijderen van express?</item>
+    </plurals>
+	<plurals name="express_history_menu_select_num">
+        <item quantity="other">%s geselecteerde items</item>
+        <item quantity="one">%s geselecteerd item</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d uur geleden</item>
     </plurals>
@@ -29,6 +37,10 @@
     <plurals name="payment_record_menu_select_num">
         <item quantity="other">%s items geselecteerd</item>
         <item quantity="one">%s item geselecteerd</item>
+    </plurals>
+	<plurals name="shopping_delete_num">
+        <item quantity="other">Verwijder %s geselecteerde items?</item>
+        <item quantity="one">Verwijder %s geselecteerd item?</item>
     </plurals>
 	<plurals name="sms_day_suffix">
         <item quantity="other">Over %d dagen</item>
@@ -62,17 +74,5 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">%d minuut geleden</item>
-    </plurals>
-   <plurals name="express_history_dialog_delete_message">
-        <item quantity="other">%s items verwijderen van express?</item>
-        <item quantity="one">%s item verwijderen van express?</item>
-    </plurals>
-	<plurals name="express_history_menu_select_num">
-        <item quantity="other">%s geselecteerde items</item>
-        <item quantity="one">%s geselecteerd item</item>
-    </plurals>
-	<plurals name="shopping_delete_num">
-        <item quantity="other">Verwijder %s geselecteerde items?</item>
-        <item quantity="one">Verwijder %s geselecteerd item?</item>
     </plurals>
 </resources>

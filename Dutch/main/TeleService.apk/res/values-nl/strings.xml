@@ -434,7 +434,7 @@ Sample Rate"</string>
   <string name="card_title_dialing">Bezig met bellen</string>
   <string name="card_title_forwardcheckreceived">Doorschakel check ontvangen</string>
   <string name="card_title_forwarded_MTcall">Inkomende oproep doorgeschakeld</string>
-  <string name="card_title_hanging_up">Ophangen</string>
+  <string name="card_title_hanging_up">"Ophangen "</string>
   <string name="card_title_in_call">Inkomende oproep</string>
   <string name="card_title_incoming_barred">Inkomende gesprekken worden geblokkeerd</string>
   <string name="card_title_incoming_call">Inkomende oproep</string>

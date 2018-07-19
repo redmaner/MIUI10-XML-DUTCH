@@ -231,7 +231,7 @@ in de portretmodus"</string>
   <string name="portrait_mode_depth_effect_success_hint">Diepte effect</string>
   <string name="portrait_mode_lowlight_hint">Het is te donker</string>
   <string name="portrait_mode_too_close_hint">Verplaats je verder van het object</string>
-  <string name="portrait_mode_too_far_hint">Plaats het object binnen 2,5 meter</string>
+  <string name="portrait_mode_too_far_hint">Plaats het object binnen 2 meter</string>
   <string name="portrait_mode_use_hint">"Portretmodus vervaagt de achtergronden 
 brengt de mensen naar voren."</string>
   <string name="pref_advance_settings">Extra instellingen</string>
