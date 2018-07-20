@@ -4279,6 +4279,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_led_custom">Aangepast kleur</string>
   <string name="status_bar_settings_notification_priority">Prioriteit</string>
   <string name="status_bar_settings_notification_priority_summary">Meldingen weergeven bovenaan de lijst</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Meldingskleur snelkoppeling</string>
   <string name="status_bar_settings_notification_sound">Geluid</string>
   <string name="status_bar_settings_notification_sound_custom">Aangepast geluid</string>
   <string name="status_bar_settings_notification_vibrate">Trillen</string>
