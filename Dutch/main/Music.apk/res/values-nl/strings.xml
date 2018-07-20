@@ -61,8 +61,6 @@
   <string name="asset_sync_power_alert_message">Sluit oplader aan om nummers te back-uppen.</string>
   <string name="asset_sync_power_alert_title">Batterij bijna leeg</string>
   <string name="audio_picker_title">Kies een nummer</string>
-  <string name="auto_payment">Automatisch vernieuwen</string>
-  <string name="auto_payment_date">Volgende betaling: %s</string>
   <string name="available_playlist_name_format">Nieuwe afspeellijst %d</string>
   <string name="avoid_to_use_traffic_summary">Gebruik nooit mobiele netwerken om muziek te streamen</string>
   <string name="avoid_to_use_traffic_title">Mij waarschuwen als ik mobiele data gebruik om nummers af te spelen</string>
@@ -71,8 +69,6 @@
   <string name="backup_empty_button">Geen nummers geselecteerd</string>
   <string name="backup_immediate">Back-up</string>
   <string name="backup_song_title">Selecteer nummers om te back-uppen</string>
-  <string name="being_disable_auto_payment">Uitschakelen…</string>
-  <string name="being_enable_auto_payment">Inschakelen…</string>
   <string name="bluetooth_device">Bluetooth audio-apparaat</string>
   <string name="browser_error">Tijdelijk niet beschikbaar, probeer het binnenkort opnieuw</string>
   <string name="btn_earlier_items">Recente berichten laden</string>
@@ -168,7 +164,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_file_already_exists">Kan niet downloaden. Het bestand bestaat al.</string>
   <string name="dialog_file_missing_body">Het gedownloade bestand kan niet gevonden worden.</string>
   <string name="dialog_file_missing_title">Kan bestand niet openen</string>
- <string name="dialog_insufficient_space_on_cache">Kan de download niet voltooien, er is onvoldoende op intern geheugen.</string>
+  <string name="dialog_insufficient_space_on_cache">Kan de download niet voltooien, er is onvoldoende op intern geheugen.</string>
   <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Niet genoeg ruimte op de SD kaart.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
@@ -187,10 +183,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_title_not_available">Download mislukt</string>
   <string name="dialog_title_queued_body">Bestand nog niet beschikbaar</string>
   <string name="dialog_title_remove_tracks">Verwijderen</string>
-  <string name="disable_auto_payment_fail">Kon niet uitschakelen</string>
-  <string name="disable_auto_payment_fail_message">Kon automatische vernieuwing niet uitschakelen.</string>
-  <string name="disable_auto_payment_success">Uitgeschakeld</string>
-  <string name="disable_auto_payment_success_message">Automatische vernieuwing uitschakelen. Nadat uw huidig abonnement vervallen is, moet u je opnieuw abonneren om terug nummers te kunnen downloaden.</string>
   <string name="disallow_add_to_fm">Kon nummers toevoegen aan FM radio</string>
   <string name="disallow_add_to_personal_radio">Kon nummers toevoegen aan privé radio</string>
   <string name="do_not_remind_this_version">Niet herinneren aan deze versie</string>
@@ -268,11 +260,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="edit_playlist_info">Info afspeellijst bewerken</string>
   <string name="empty_page_no_album">Geen albums.</string>
   <string name="empty_page_no_artist">Geen artiesten.</string>
-  <string name="enable_auto_payment_fail">kon niet inschakelen</string>
-  <string name="enable_auto_payment_fail_message">Kon automatische vernieuwing niet inschakelen</string>
-  <string name="enable_auto_payment_success">Automatisch vernieuwen</string>
-  <string name="enable_auto_payment_success_message">Automatische vernieuwing ingeschakeld. Volgende betaling is op %s.</string>
-  <string name="enabled">Aan</string>
+  <string name="enabled">Ingeschakeld</string>
   <string name="enter_garbage_clean">Interne opslag opruimen.</string>
   <string name="eq_auto">Handmatig</string>
   <string name="eq_blues">Blues</string>
@@ -419,7 +407,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="local_page_artist_more">Meer nummers van %s</string>
   <string name="local_page_custom_subtitle">Dagelijks nieuwe nummers</string>
   <string name="local_page_custom_title">Voor u</string>
-  <string name="local_page_playlist">Mijn afspeellijsten</string>
+  <string name="local_page_playlist">Afspeellijsten</string>
   <string name="local_page_song_download_history">Downloads</string>
   <string name="long_press_to_select_lyric">Ingedrukt houden om een lokaal songtekstbestand te selecteren</string>
   <string name="lrc_search_failed">Geen songteksten gevonden</string>
@@ -470,7 +458,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="more">Meer</string>
   <string name="more_add_song_list">Nummers toevoegen aan wachtrij</string>
   <string name="more_settings">Geavanceerde instellingen</string>
-  <string name="more_settings_summary">Downloadinstellingen, slaaptimer, datamanagement, bestandsfiltering, etc.</string>
+  <string name="more_settings_summary">Sleep timer, filters voor bestanden, enz.</string>
   <string name="more_share">Delen</string>
   <string name="music_browser_label">Muziek</string>
   <string name="music_filter">Audiobestanden filteren</string>
@@ -591,7 +579,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="radar_retry">Probeer opnieuw</string>
   <string name="radar_searching_state">Zoeken…</string>
   <string name="recently_played">Recent afgespeeld</string>
-  <string name="recently_played_songs">Recent afgespeeld</string>
+  <string name="recently_played_songs">Recent</string>
   <string name="recommended_file_size_download_in_mobile">Gebruik %s aan mobiele data om dit bestand te downloaden?</string>
   <string name="recommended_no_file_size_download_in_mobile">Uw mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
   <string name="remove">Verwijderen</string>
