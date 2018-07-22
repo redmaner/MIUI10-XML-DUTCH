@@ -4,7 +4,7 @@
   <string name="app_list_title">Kies apps</string>
   <string name="app_name">Batterij en prestaties</string>
   <string name="app_preload_policies_summary">Gebruik machinaal leren om de apps te voorspellen die u waarschijnlijk gaat gebruiken en laad de bronnen vooraf.</string>
-  <string name="app_preload_policies_title">AI voorladen</string>
+  <string name="app_preload_policies_title">A.I. Toepassen</string>
   <string name="base_info">Basisinfo</string>
   <string name="cloud_addr_info">Cloudinfo</string>
   <string name="cloud_china_addr">China serverdata updaten</string>
