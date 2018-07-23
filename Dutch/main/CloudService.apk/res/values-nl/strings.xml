@@ -14,6 +14,7 @@
   <string name="button_cancel">Annuleren</string>
   <string name="calendar_sync">Kalender</string>
   <string name="click_to_enabled">Aanraken om te sync.</string>
+  <string name="close_shortcut">Afsluiten</string>
   <string name="cloud_find_device">Vind apparaat</string>
   <string name="cloud_find_device_off">Uit</string>
   <string name="cloud_find_device_on">Aan</string>
