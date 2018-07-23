@@ -40,7 +40,7 @@
   <string name="enable_livetalk_summary">Bespaar 70% op uw belkosten</string>
   <string name="enable_livetalk_title">Pakket herladen inschakelen</string>
   <string name="fc_dialog_body">Bugrapport verzenden naar Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw verslag zal worden gebruikt om de bug op te lossen en zal nooit worden gedeeld in een commerciële context.</string>
-  <string name="fc_dialog_jump_to_preview">Sammenvatting bekijken</string>
+  <string name="fc_dialog_jump_to_preview">Samenvatting bekijken</string>
   <string name="first_back_long_press_message">"Druk op de Terug-knop &amp; houd ingedrukt om huidig proces en de achtergronddiensten te stoppen.
 
 Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt; Toetsen"</string>
