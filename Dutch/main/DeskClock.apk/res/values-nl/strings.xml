@@ -163,7 +163,7 @@
   <string name="timer_alert_type_forest">Bos</string>
   <string name="timer_alert_type_mute">Standaard</string>
   <string name="timer_alert_type_rain">Motregen</string>
-  <string name="timer_alert_type_stove_fire">Kachel vuur</string>
+  <string name="timer_alert_type_stove_fire">Knisperend vuur</string>
   <string name="timer_alert_type_summer_night">Zomernacht</string>
   <string name="timer_cancel_hint">Stoppen</string>
   <string name="timer_cancel_timer">Timer annuleren</string>
