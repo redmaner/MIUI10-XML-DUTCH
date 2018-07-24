@@ -57,10 +57,10 @@
   <string name="adblock_websites_settings_title">Geblokkeerde websites</string>
   <string name="add_bookmark_group">Groep toevoegen</string>
   <string name="add_bookshelf_popup_text">Toegevoegd aan uw boekenplank</string>
-  <string name="add_favorites_to">Toevoegen aan favorieten</string>
+  <string name="add_favorites_to">Favoriet maken</string>
   <string name="add_new_bookmark">Bladwijzer toevoegen</string>
   <string name="add_new_quicklink">Toevoegen aan startpagina</string>
-  <string name="add_pwa_to_homescreen">Een snelkoppeling toevoegen aan het startscherm?</string>
+  <string name="add_pwa_to_homescreen">Snelkoppeling toevoegen aan startscherm?</string>
   <string name="add_ql_bm_title">Opslaan</string>
   <string name="add_quicklink_to_popular">Toevoegen aan startpagina</string>
   <string name="add_quicklinks">Toevoegen</string>
@@ -636,20 +636,20 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_mr_system_route_name">Systeem</string>
   <string name="mw_mr_user_route_category_name">Apparaten</string>
   <string name="mw_new_tab_otr_not_saved">"Chrome slaat de volgende informatie niet op:
-          
+
 		  Browsegeschiedenis
           Cookies en sitegegevens
           Informatie ingevuld in formulieren
-          
+
 		           "</string>
-  <string name="mw_new_tab_otr_subtitle">Nu kan je prive browsen, en andere mensen die die apparaat gebruiken zullen je activiteiten niet zien. Houd er rekening mee dat downloads en bladwijzers wel worden opgeslagen.</string>
+  <string name="mw_new_tab_otr_subtitle">Nu kan je incognito surfen en anderen die dit apparaat gebruiken zullen niet jouw activiteiten zien. Let op: downloads en bladwijzers worden zichtbaar opgeslagen.</string>
   <string name="mw_new_tab_otr_title">Je bent incognito</string>
   <string name="mw_new_tab_otr_visible">"Je activiteiten kunnen nog steeds zichtbaar zijn voor:
-        
+
 		  Websites die je bezoekt
           Je werkgever of school
           Je internetprovider
-        
+
 		           "</string>
   <string name="mw_no_matches">Geen overeenkomsten</string>
   <string name="mw_notification_category_browser">Browser</string>
@@ -690,9 +690,9 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_payments_add_valid_card_number">Voer een geldig kaartnummer in</string>
   <string name="mw_payments_android_app_error">Kan betalingsapp niet openen</string>
   <string name="mw_payments_billing_address_required">Factuuradres vereist</string>
-  <string name="mw_payments_card_and_address_settings">Je kan kaarten en adressen beheren in Instellingen.</string>
-  <string name="mw_payments_card_and_address_settings_signed_in">Kaarten en adressen zijn van Chrome en je Google Account (%1$s). Je kan ze beheren in Instellingen.</string>
-  <string name="mw_payments_card_and_address_settings_signed_out">Kaarten en adressen zijn van Chrome. Je kan ze beheren in Instellingen.</string>
+  <string name="mw_payments_card_and_address_settings">Je kan kaarten en adressen beheren via Instellingen.</string>
+  <string name="mw_payments_card_and_address_settings_signed_in">Kaarten en adressen zijn van Chrome en je Google Account (%1$s). Je kan deze beheren via Instellingen.</string>
+  <string name="mw_payments_card_and_address_settings_signed_out">Kaarten en adressen zijn van Chrome. Je kan deze beheren via Instellingen.</string>
   <string name="mw_payments_card_billing_address_required">Factuuradres vereist</string>
   <string name="mw_payments_card_expiration_invalid_validation_message">Voer een geldige expiratiedatum in</string>
   <string name="mw_payments_card_number_invalid_validation_message">Voer een geldig kaartnummer in</string>
