@@ -84,10 +84,10 @@ Voordat u het apparaat kalibreert, plaatst u deze op een vlakke ondergrond.</str
   <string name="cit_audio_lb_frontmic_to_speaker_title">Voorste mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Hoofd microfoon speaker feedbacktest</string>
   <string name="cit_audio_lb_phonecall_title">Belsimulatie test</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">Achterste microfoon naar speaker feedbacktest. 
+  <string name="cit_audio_lb_summary_backmic_to_speaker">Achterste microfoon naar speaker feedbacktest.
 
 Draai de telefoon, spreek in de achterste microfoon, je zou je stem in de speaker moeten horen</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Voorste microfoon naar luidspreker test. 
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Voorste microfoon naar luidspreker test.
 
 Sprrek in voorste microfoon , u zou uw stem moeten horen in de luidspreker"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">Hoofdmicrofoon naar koptelefoon feedbacktest.
@@ -107,7 +107,7 @@ Draai het apparaat, spreek in de bovenste microfoon, je zou je stem door de spea
   <string name="cit_audio_loopback_check_summary_first">Hoofdmicrofoon koptelefoon feedbacktest
 
 Draai het apparaat zodat de hoofdtelefoon ingang naar beneden is gericht. Spreek in de microfoon. U hoort uw stem afgespeeld door de linker luidspreker.</string>
-  <string name="cit_audio_loopback_check_summary_second">Secundaire microfoon luidspreker feedbacktest. 
+  <string name="cit_audio_loopback_check_summary_second">Secundaire microfoon luidspreker feedbacktest.
 
 Draai het apparaat zodat de hoofdtelefooningang naar beneden is gericht. Spreek in de microfoon. U hoort uw stem afgespeeld door de externe luidspreker.</string>
   <string name="cit_audio_loopback_check_two_title">Secundaire microfoon rechter luidspreker feedback-test</string>
@@ -169,9 +169,9 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
 2.Druk op de terugknop om de camera te verlaten.
 3.Er zal een kalibratie passeer label zijn om aan te geven dat de OIS gekalibreerd is"</string>
   <string name="cit_camera_sdcard_error">Kan geen foto nemen. SD kaart is vol.</string>
-  <string name="cit_charger_plugin_check_summary">Wanneer USB lader is aangesloten, moet de tekst \ "Opladen via USB / AC \" hieronder worden weergegeven.</string>
+  <string name="cit_charger_plugin_check_summary">Wanneer de USB lader is aangesloten, moet de tekst \ "Opladen via USB / AC \" hieronder worden weergegeven.</string>
   <string name="cit_charger_plugin_check_title">Lader (verbinden)</string>
-  <string name="cit_charger_plugout_check_summary">Wanneer USB lader wordt losgekoppeld moet de tekst \ "USB / AC-oplader is losgekoppeld \" hieronder worden weergegeven.</string>
+  <string name="cit_charger_plugout_check_summary">Wanneer de USB lader wordt losgekoppeld moet de tekst \ "USB / AC-oplader is losgekoppeld \" hieronder worden weergegeven.</string>
   <string name="cit_charger_plugout_check_title">Oplader (loskoppelen)</string>
   <string name="cit_charger_waiting_in">Verbind oplader</string>
   <string name="cit_charger_waiting_out">Ontkoppel de oplader nu</string>
@@ -179,14 +179,14 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_display_check_summary">Wees er zeker van dat het vereiste bmp bestand op de SD kaart staat. Wees er zeker van dat de kleuren consistent op het hele scherm getoond worden. Weer er zeker van dat er geen onregelmatigheden zoals lichte of donkere plekken zijn.</string>
   <string name="cit_display_check_title">Scherm</string>
   <string name="cit_display_continue">Tik op het scherm om te beginnen met de test</string>
-  <string name="cit_emergencycall_check_summary">Klik op Bel112 om 112 te kiezen. Om te controleren of 112 kiezen geplaats kan worden.</string>
+  <string name="cit_emergencycall_check_summary">Klik op Bel 112 om 112 te kiezen. Om te controleren of 112 kiezen geplaats kan worden.</string>
   <string name="cit_emergencycall_check_title">Noodoproep</string>
   <string name="cit_exit_test_summary">Wanneer u afsluit, worden alle bijbehorende tekstgegevens gewist.</string>
   <string name="cit_exit_test_title">Test verlaten</string>
   <string name="cit_fail">Gefaald</string>
   <string name="cit_finger_check_title">Vingerafdruk Test(FPC)</string>
   <string name="cit_flash_life_check_summary">Apparaatflits levensduur schatting</string>
-  <string name="cit_flash_life_check_title">Flash leven</string>
+  <string name="cit_flash_life_check_title">Apparaatflits testen</string>
   <string name="cit_fm_audio_path">Kies audiopad</string>
   <string name="cit_fm_audio_path_headset">Hoofdtelefoon</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>
@@ -198,17 +198,17 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_fm_open_2">Start FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Bluetooth openen…</string>
   <string name="cit_fm_start_service">Start audio</string>
-  <string name="cit_fpc_checkerboard_test">SCHAAKBORD TEST</string>
-  <string name="cit_fpc_selftest">ZELF-TEST</string>
+  <string name="cit_fpc_checkerboard_test">Schaakbord Test</string>
+  <string name="cit_fpc_selftest">Zelf-Test</string>
   <string name="cit_fpc_sensor_check_summary">FPC sensor test, druk op de knop en wacht tot de passeer informatie die in groen is gemarkeerd correct is.</string>
   <string name="cit_fpc_sensor_check_title">FPC vingerafdruk sensor</string>
   <string name="cit_fptest_summary">Druk op FpTest knop om een vingerafdruk test te doen</string>
   <string name="cit_fptest_title">Vingerafdruk FpTest</string>
-  <string name="cit_front_camera_check_summary">"Testinstructies: 
+  <string name="cit_front_camera_check_summary">"Testinstructies:
 
 1.Tik hieronder op de cameraknop om naar de voorste camera te gaan
-2.Tik op de sluiterknop 
-3.Tik op het Check icoon. Het systeem zal de foto automatisch opslaan. 
+2.Tik op de sluiterknop
+3.Tik op het Check icoon. Het systeem zal de foto automatisch opslaan.
 4.De foto die u hebt genomen wordt hieronder weergegeven. Tik op verwijderen om de test te voltooien."</string>
   <string name="cit_front_camera_check_title">Voorste camera</string>
   <string name="cit_get_signature_failed">handtekening verkregen MISLUKT</string>
