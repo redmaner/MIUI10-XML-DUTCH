@@ -767,7 +767,7 @@ Sample Rate"</string>
   <string name="gsm_umts_options">GSM-/UMTS opties</string>
   <string name="hac_mode_summary">Compatibiliteit voor gehoorapparaat inschakelen</string>
   <string name="hac_mode_title">Gehoorapparaten</string>
-  <string name="handon_ringer_summary">Verminderd belvolume voor inkomende oproepen als je de telefoon optilt.</string>
+  <string name="handon_ringer_summary">Verminder het belvolume bij inkomende oproepen wanneer je de telefoon oppakt.</string>
   <string name="handon_ringer_title">Beltoon dempen bij optillen</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
@@ -786,7 +786,7 @@ Sample Rate"</string>
   <string name="inactive_apps_title">Inactive apps</string>
   <string name="incall_error_call_failed">Kan niet bellen</string>
   <string name="incall_error_cannot_add_call">Oproep kan niet worden toegevoegd</string>
-  <string name="incall_error_ecm_emergency_only">Exit emergency callback mode to make a non-emergency call.</string>
+  <string name="incall_error_ecm_emergency_only">Verlaat Noodgeval terugbelmodus om normale telefoontjes te plegen.</string>
   <string name="incall_error_emergency_only">Niet geregistreerd op netwerk.</string>
   <string name="incall_error_missing_voicemail_number">Voicemailnummer onbekend.</string>
   <string name="incall_error_no_phone_number_supplied">Om een oproep te maken, voer een geldig nummer in.</string>
@@ -971,7 +971,7 @@ Sample Rate"</string>
   <string name="network_settings_information">Mobiele data uitschakelen?</string>
   <string name="network_settings_next">Volgende</string>
   <string name="network_settings_query_failed_message">Kon niet zoeken naar mobiele netwerken.</string>
-  <string name="network_settings_select_automatic_hint">"Kan niet registreren op het geselecteerde netwerk. 
+  <string name="network_settings_select_automatic_hint">"Kan niet registreren op het geselecteerde netwerk.
 Voorkeursnetwerk wordt gebruikt."</string>
   <string name="network_settings_title">Mobiele netwerken</string>
   <string name="network_settings_turn_off">uit</string>

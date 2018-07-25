@@ -15,7 +15,7 @@
   <string name="account_security_dialog_content_fmt">"Voor %s moet u uw beveiligingsinstellingen
          bijwerken."</string>
   <string name="account_security_dialog_title">Beveiligingsupdate</string>
-  <string name="account_security_policy_explanation_fmt">"De server %s vereist dat u de server toestemming geeft 
+  <string name="account_security_policy_explanation_fmt">"De server %s vereist dat u de server toestemming geeft
          bepaalde beveiligingsfuncties om uw Androidapparaat extern te bedienen."</string>
   <string name="account_security_title">Apparaatbeveiliging</string>
   <string name="account_set_up_change_type_note">"Als u een omschakelaccount wilt instellen vóór POP3 en IMAP dan moet u eerst het account verwijderen, opnieuw configureren en inloggen."</string>
@@ -36,7 +36,7 @@
   <string name="account_settings_enforced_label">Afgedwongen beleid</string>
   <string name="account_settings_enforced_summary">Geen</string>
   <string name="account_settings_incoming_summary">Gebruikersnaam, wachtwoord en andere inst. voor inkomende server</string>
-  <string name="account_settings_login_dialog_content_fmt">"De gebruikersnaam of het wachtwoord voor %s is onjuist. 
+  <string name="account_settings_login_dialog_content_fmt">"De gebruikersnaam of het wachtwoord voor %s is onjuist.
 Nu bijwerken?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Uw aanmelding bij %s is mislukt. De server retourneerde het volgende bericht: %s Wilt u uw gebruikersnaam en/of wachtwoord bijwerken?</string>
   <string name="account_settings_login_dialog_title">Kan niet inloggen</string>
@@ -172,7 +172,7 @@ Nu bijwerken?"</string>
   <string name="add_pre_message_attachments">Voeg de bijlagen toe van het vorige bericht?</string>
   <string name="add_pre_message_attachments_no">Niet toevoegen</string>
   <string name="add_pre_message_attachments_yes">Toevoegen</string>
-  <string name="add_star">Markeren als favoriet</string>
+  <string name="add_star">Ster toevoegen</string>
   <string name="allread">Alles gelezen</string>
   <string name="always_bcc_myself">Altijd Bcc naar mijzelf</string>
   <string name="always_show_images">Afbeeldingen van deze afzender altijd tonen</string>
@@ -555,7 +555,7 @@ Nu bijwerken?"</string>
   <string name="mail_description_content">Mail is een e-mailclient die meerdere accounts kan beheren, e-mails kan verzenden en ontvangen en kalendergegevens en contacten kan synchroniseren. Zorg ervoor dat je zonder deze functies kan voordat je deze app verwijderd. Uw Exchange contacten en kalendergegevens zullen ook worden verwijderd.</string>
   <string name="mail_description_title">E-mailintroductie</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
-  <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
+  <string name="mailbox_list_account_selector_combined_view">Gecombineerde accounts</string>
   <string name="mailbox_name_display_ad">Adv</string>
   <string name="mailbox_name_display_circular">Meldingen</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
@@ -567,7 +567,7 @@ Nu bijwerken?"</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
   <string name="mailbox_settings_activity_title">Synchronisatie-instellingen</string>
-  <string name="mailbox_settings_activity_title_with_mailbox">Synchronisatie-instellingeninstellingen (%s)</string>
+  <string name="mailbox_settings_activity_title_with_mailbox">Synchronisatie-instellingen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail synchroniseren van</string>
   <string name="mailbox_settings_sync_enabled_label">Deze map synchroniseren</string>
   <string name="mailbox_settings_sync_enabled_summary">Gesynchroniseerde berichten in deze map</string>
@@ -602,7 +602,7 @@ Nu bijwerken?"</string>
      "</string>
   <string name="meeting_responded_failed">Geen reactie</string>
   <string name="meeting_tentative">"
-         Tentatieve:
+         Voorlopig:
 %s "</string>
   <string name="meeting_updated">"
          Bijgewerkt:
@@ -642,7 +642,7 @@ Nu bijwerken?"</string>
   <string name="message_invite_accept">Ja</string>
   <string name="message_invite_calendar_view">Weergeven in Agenda</string>
   <string name="message_invite_decline">Nee</string>
-  <string name="message_invite_tentative">Misschien</string>
+  <string name="message_invite_tentative">Voorlopig</string>
   <string name="message_invite_title">Agenda uitnodiging</string>
   <string name="message_saved">Bericht opgeslagen als concept.</string>
   <string name="message_view_attachment_background_load">"Bijlagen in uw doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden."</string>
@@ -664,7 +664,7 @@ Nu bijwerken?"</string>
   <string name="network_tip">Authenticatie mislukt, controleer uw netwerkverbinding</string>
   <string name="network_try_again">Controleer netwerkverbinding en probeer opnieuw</string>
   <string name="network_unavailable">Netwerk niet beschikbaar</string>
-  <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven.</string>
+  <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven?</string>
   <string name="new_signature_has_saved">Nieuwe handtekening opgeslagen</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
@@ -709,9 +709,9 @@ Probeer een andere inbox."</string>
   <string name="open_external_storage_and_calendar_permission">Sta toe dat Mail de opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Sta toe dat Mail de contacten, opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_permission">Sta toe dat Mail de opslag en contacten kan lezen in instellingen</string>
-  <string name="open_notification_kingagent">Open the notice of the burial point</string>
-  <string name="optimization_suggestion">Optimalisatievoorstel</string>
-  <string name="others_mail">Andere</string>
+  <string name="open_notification_kingagent">Open de melding van de begraafplaats</string>
+  <string name="optimization_suggestion">Suggesties doorgeven</string>
+  <string name="others_mail">Overige</string>
   <string name="others_mail_des">(Meer dan 60,0000 mails converteren)</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
@@ -749,7 +749,7 @@ Probeer een andere inbox."</string>
   <string name="password_expire_warning_content_title">Wachtwoord schermvergrendeling bijna verlopen</string>
   <string name="password_expire_warning_dialog_content_fmt">"U moet uw PIN code of wachtwoord voor schermvergrendeling snel wijzigen of de gegevens voor %s worden gewist. Nu wijzigen?"</string>
   <string name="password_expire_warning_dialog_title">Wachtwoord schermvergrendeling bijna verlopen</string>
-  <string name="password_expire_warning_ticker_fmt">"Voor \"%s\" moet u uw pincode of wachtwoord voor 
+  <string name="password_expire_warning_ticker_fmt">"Voor \"%s\" moet u uw pincode of wachtwoord voor
             schermvergrendeling wijzigen."</string>
   <string name="password_expired_content_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden gewist op uw apparaat. U kunt het account herstellen door uw PIN code of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?</string>
@@ -774,12 +774,12 @@ Probeer een andere inbox."</string>
   <string name="permission_access_provider_label">Gegevens e-mailprovider openen</string>
   <string name="permission_read_attachment_desc">Hiermee kan de app uw e-mailbijlagen lezen.</string>
   <string name="permission_read_attachment_label">E-mailbijlagen lezen</string>
-  <string name="permission_tip">Configuratie mislukt, oproepen en SMSberichten toe staan tijdens configuratie toestemmingen</string>
+  <string name="permission_tip">Configuratie mislukt, oproepen en SMS-berichten toestaan tijdens configuratie toestemmingen</string>
   <string name="phone">Telefoon</string>
   <string name="photo_load_failed">Kan afbeelding niet laden</string>
   <string name="photo_view_count" formatted="false">%d van %d</string>
   <string name="please_fill_in_your_mailbox_information2">Voer uw mailbox info in:</string>
-  <string name="pls_parse_bill_discribe">"Analyseer facturen en reisinformatie in uw email
+  <string name="pls_parse_bill_discribe">"Analyseer facturen en reisinformatie in uw e-mail
 om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="policy_app_blacklist">Gespecificeerde apps weigeren</string>
   <string name="policy_app_whitelist">Gespecificeerde apps toestaan</string>
@@ -822,7 +822,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="print">Afdrukken</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol_setting_toast">Tik in de rechterbovenhoek om naar instellingen te gaan nadat u het eens bent</string>
-  <string name="pull_to_refresh">Trek naar beneden om te vernieuwen</string>
+  <string name="pull_to_refresh">Sleep naar beneden om te vernieuwen</string>
   <string name="push_wps_better_confirm_download">Downloaden</string>
   <string name="push_wps_better_confirm_exit">Nu niet</string>
   <string name="push_wps_better_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
@@ -950,7 +950,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="save_this_new_signature">Nieuwe handtekening opslaan?</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
-  <string name="sdcard_cannot_use">Kan SD kaart niet gebruiken</string>
+  <string name="sdcard_cannot_use">Kan SD-kaart niet gebruiken</string>
   <string name="search_bar_text">Zoek afzender of zoek contact</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">"Resultaten "</string>
@@ -962,7 +962,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="search_txt_size_limit_prompt">Zoekwoord moet groter zijn dan 3 tekens</string>
   <string name="security_changed_ticker_fmt">De beveiligingsinstellingen van het account \"%s\" zijn gewijzigd, er is geen gebruikersactie vereist.</string>
   <string name="security_needed_ticker_fmt">Account \"%s\" vereist een update van de beveiligingsinstellingen.</string>
-  <string name="security_notification_content_change_title">"Beveiligingsbeleid 
+  <string name="security_notification_content_change_title">"Beveiligingsbeleid
          gewijzigd"</string>
   <string name="security_notification_content_unsupported_title">"Kan niet voldoen aan
          beveiligingsvereisten"</string>
@@ -1071,7 +1071,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="translation_technology_support">Technische ondersteuning door iciba.com</string>
   <string name="trash_folder_selection_title">Prullenbak van server selecteren voor %s</string>
   <string name="try_exchange_login">Aanmelden met EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">"Wijzigingen die u aanbrengt in 
+  <string name="turn_auto_sync_on_dialog_body">"Wijzigingen die u aanbrengt in
     alle apps en accounts, niet alleen in Gmail, worden gesynchroniseerd
 	tussen internet, uw andere apparaten en uw %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Inschakelen</string>

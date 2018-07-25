@@ -262,13 +262,13 @@
   <string name="download_memory_info_avai">" beschikbaar %s|"</string>
   <string name="download_memory_info_total">" totaal ​%s"</string>
   <string name="download_no_application_title">Kon bestand niet vinden. Hebt u het verplaatst of verwijderd?</string>
-  <string name="download_no_sdcard_dlg_msg">Er is een SD kaart nodig om %s te downloaden.</string>
-  <string name="download_no_sdcard_dlg_title">Geen SD kaart</string>
+  <string name="download_no_sdcard_dlg_msg">Er is een SD-kaart nodig om %s te downloaden.</string>
+  <string name="download_no_sdcard_dlg_title">Geen SD-kaart</string>
   <string name="download_pending">Downloaden starten…</string>
   <string name="download_phone_tip">Apparaat</string>
   <string name="download_router_tip">Download naar Mi Router</string>
-  <string name="download_sdcard_busy_dlg_msg">SD kaart is bezig. Om downloads toe te staan, schakel USB opslag uit in het meldingspaneel.</string>
-  <string name="download_sdcard_busy_dlg_title">SD kaart niet beschikbaar</string>
+  <string name="download_sdcard_busy_dlg_msg">SD-kaart is bezig. Om downloads toe te staan, schakel USB opslag uit in het meldingspaneel.</string>
+  <string name="download_sdcard_busy_dlg_title">SD-kaart niet beschikbaar</string>
   <string name="download_status_failed">Kon niet downloaden</string>
   <string name="download_status_pending">Wachten</string>
   <string name="download_success">Voltooid</string>
@@ -1017,7 +1017,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="scanner_uninstalled_text">Installeer de scanner om door te gaan</string>
   <string name="scanner_uninstalled_title">Scanner is niet meer geïnstalleerd</string>
   <string name="screenshot_loading_dialog_title">Vastleggen</string>
-  <string name="sdcard_error">Controleer de SD kaart</string>
+  <string name="sdcard_error">Controleer de SD-kaart</string>
   <string name="search">Zoeken</string>
   <string name="search_button_text">Ga</string>
   <string name="search_hint">Zoek of typ de URL</string>
@@ -1083,7 +1083,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_open">Openen</string>
   <string name="storage_permission_request_toast">Downloads hebben toegang nodig tot de opslag van het apparaat</string>
-  <string name="storage_sd_card">SD kaart</string>
+  <string name="storage_sd_card">SD-kaart</string>
   <string name="storage_usb">USB opslag</string>
   <string name="suggest_access_appstore">Mi App Store</string>
   <string name="suggest_access_btn_install">Installeren</string>

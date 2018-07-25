@@ -388,10 +388,10 @@
   <string name="error_download_tip">Kon niet downloaden</string>
   <string name="error_external_sdcard_write_action">Wissel van opslagruimte</string>
   <string name="error_external_sdcard_write_msg">Ga naar Instellingen &gt; Opslag, wissel daar van opslagruimte en probeer opnieuw.</string>
-  <string name="error_external_sdcard_write_tip">Kan items niet opslaan op SD kaart.</string>
+  <string name="error_external_sdcard_write_tip">Kan items niet opslaan op SD-kaart.</string>
   <string name="error_forbidden">Er zijn problemen met uw account: Synchronisatie uitgeschakeld.</string>
   <string name="error_install_connect_fail">"Kon plug-in niet laden. Controleer je netwerkverbinding."</string>
-  <string name="error_install_sdcard_not_available">"Kon plug-in niet laden vanwege een fout van de SD kaart."</string>
+  <string name="error_install_sdcard_not_available">"Kon plug-in niet laden vanwege een fout van de SD-kaart."</string>
   <string name="error_install_storage_not_enough">Maak ruimte vrij om plug-in te laden.</string>
   <string name="error_internal_sdcard_write_tip">Er is een fout opgetreden. Start het apparaat opnieuw op en probeer opnieuw.</string>
   <string name="error_invalid_link">Foutieve link</string>
@@ -1048,7 +1048,7 @@ om de galerij te personaliseren"</string>
   <string name="start_debug">Debug galerij</string>
   <string name="start_to_use_face_albumset">Sorteren op personen</string>
   <string name="storage_description_primary">Interne opslag</string>
-  <string name="storage_description_sdcard">SD kaart</string>
+  <string name="storage_description_sdcard">SD-kaart</string>
   <string name="storage_description_usb">USB opslag</string>
   <string name="storage_description_xspace">Dual appgegevens</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
