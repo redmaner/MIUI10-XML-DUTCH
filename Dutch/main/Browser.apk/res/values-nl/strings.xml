@@ -129,7 +129,7 @@
   <string name="browserFrameFormResubmitMessage">De pagina die u probeert te openen bevat gegevens die al verzonden zijn. Als u de data opnieuw verzendt, zullen vorige acties (zoals een zoekopdracht of aankoop) herhaald worden.</string>
   <string name="browserFrameNetworkErrorLabel">Verbindingsfout</string>
   <string name="bubble_guide_logined_text">Aanmelden voor een gelukslot</string>
-  <string name="bubble_guide_unlogined_text">Aanmelden om van privileges te genieten</string>
+  <string name="bubble_guide_unlogined_text">Log in om van privileges te genieten</string>
   <string name="cancel">Annuleren</string>
   <string name="cancle_sync_cloud_tabs">Synchroniseren annuleren</string>
   <string name="cannot_download">"Kan alleen URL's met\ "http \" of \ "https \" downloaden"</string>
@@ -1104,7 +1104,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">Verwijderen</string>
   <string name="suggest_open_app_failed">Kon deze app niet openen</string>
-  <string name="suggestion_clear_record_message">Je lege invoer bevestigen?</string>
+  <string name="suggestion_clear_record_message">Zoekgeschiedenis verwijderen?</string>
   <string name="suggestion_express_button_query_more">MEER WEERGEVEN</string>
   <string name="suggestion_express_button_text_query">CONTROLEREN</string>
   <string name="suggestion_express_exception_net">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>

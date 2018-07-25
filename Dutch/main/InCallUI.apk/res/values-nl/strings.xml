@@ -109,7 +109,7 @@
   <string name="description_target_answer">Antwoorden</string>
   <string name="do_not_support_video_calls_by_remote">Video oproepen worden niet ondersteund op het andere apparaat</string>
   <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Telefoon</string>
   <string name="incall_call_type_label_sip">Internetoproep</string>
   <string name="incall_error_supp_service_conference">Niet in staat om gesprekken te groeperen.</string>
   <string name="incall_error_supp_service_hangup">Kan geen gesprek(ken) vrij maken.</string>
