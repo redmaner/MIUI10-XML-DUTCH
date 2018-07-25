@@ -42,7 +42,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interne apparaatopslag</item>
-        <item>Verwijderbare SD kaart</item>
+        <item>Verwijderbare SD-kaart</item>
         <item>Het systeem laten bepalen</item>
     </string-array>
     <string-array name="app_ops_categories">
@@ -770,7 +770,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="usb_connection_mode_entries">
         <item>Vragen bij verbinding</item>
         <item>Alleen opladen</item>
-        <item>SD kaart invoeren</item>
+        <item>SD-kaart invoeren</item>
     </string-array>
 	<string-array name="user_content_ratings_entries">
         <item>God</item>

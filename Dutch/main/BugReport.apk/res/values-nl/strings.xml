@@ -269,7 +269,7 @@
   <string name="report_miui">Bug rapporteren</string>
   <string name="request_empty_data">Geen gegevens</string>
   <string name="save_pic">Opslaan</string>
-  <string name="save_pic_fail">Kon afbeelding niet opslaan, controleer uw SD kaart</string>
+  <string name="save_pic_fail">Kon afbeelding niet opslaan, controleer uw SD-kaart</string>
   <string name="save_pic_success">Afbeelding opgeslagen naar %s</string>
   <string name="screen_lock">Schermvergrendeling</string>
   <string name="section_description">Beschrijving</string>

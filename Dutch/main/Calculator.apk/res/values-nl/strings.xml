@@ -309,7 +309,7 @@
   <string name="wf_word_figure">Financiële karakters</string>
    <string name="word_figure_guide_text">Houd de tekst ingedrukt om te converteren tussen cases.</string>
   <string name="xiaomi_connect_download_manager_fail">Verbinden met Download Manager is mislukt, controleer dan de Download Manager staat in de toepassingsbeheer.</string>
-  <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar controleer de SD kaart.</string>
+  <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar controleer de SD-kaart.</string>
   <string name="xiaomi_update_dialog_message">"Introductie versie %1$s
 Grootte: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introductieversie %1$s

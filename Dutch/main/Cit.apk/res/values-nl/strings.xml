@@ -2,13 +2,13 @@
 <resources>
   <string name="FpTest">FpTest opeen</string>
   <string name="FpTest_result">FpTest resultaat:</string>
-  <string name="SDCard">SD kaart</string>
-  <string name="SD_INTERNAL_SDCard_mounted">Interne SD kaart detecteren</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">Interne SD kaart is niet beschikbaar</string>
+  <string name="SDCard">SD-kaart</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Interne SD-kaart detecteren</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Interne SD-kaart is niet beschikbaar</string>
   <string name="SD_SDCard_available_szie">Beschibare grootte</string>
-  <string name="SD_SDCard_mounted">SD kaart detecteren</string>
+  <string name="SD_SDCard_mounted">SD-kaart detecteren</string>
   <string name="SD_SDCard_total_size">Totale grootte</string>
-  <string name="SD_SDCard_unmounted">SD kaart is niet beschikbaar</string>
+  <string name="SD_SDCard_unmounted">SD-kaart is niet beschikbaar</string>
   <string name="abc_action_bar_home_description">Terug naar startscherm</string>
   <string name="abc_action_bar_up_description">Naar omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
@@ -168,7 +168,7 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
 1.Tik op de kalibratieknop hieronder om naar de camera te gaan.
 2.Druk op de terugknop om de camera te verlaten.
 3.Er zal een kalibratie passeer label zijn om aan te geven dat de OIS gekalibreerd is"</string>
-  <string name="cit_camera_sdcard_error">Kan geen foto nemen. SD kaart is vol.</string>
+  <string name="cit_camera_sdcard_error">Kan geen foto nemen. SD-kaart is vol.</string>
   <string name="cit_charger_plugin_check_summary">Wanneer de USB lader is aangesloten, moet de tekst \ "Opladen via USB / AC \" hieronder worden weergegeven.</string>
   <string name="cit_charger_plugin_check_title">Lader (verbinden)</string>
   <string name="cit_charger_plugout_check_summary">Wanneer de USB lader wordt losgekoppeld moet de tekst \ "USB / AC-oplader is losgekoppeld \" hieronder worden weergegeven.</string>
@@ -176,7 +176,7 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_charger_waiting_in">Verbind oplader</string>
   <string name="cit_charger_waiting_out">Ontkoppel de oplader nu</string>
   <string name="cit_dial_emergencycall">Bel 112</string>
-  <string name="cit_display_check_summary">Wees er zeker van dat het vereiste bmp bestand op de SD kaart staat. Wees er zeker van dat de kleuren consistent op het hele scherm getoond worden. Weer er zeker van dat er geen onregelmatigheden zoals lichte of donkere plekken zijn.</string>
+  <string name="cit_display_check_summary">Wees er zeker van dat het vereiste bmp bestand op de SD-kaart staat. Wees er zeker van dat de kleuren consistent op het hele scherm getoond worden. Weer er zeker van dat er geen onregelmatigheden zoals lichte of donkere plekken zijn.</string>
   <string name="cit_display_check_title">Scherm</string>
   <string name="cit_display_continue">Tik op het scherm om te beginnen met de test</string>
   <string name="cit_emergencycall_check_summary">Klik op Bel 112 om 112 te kiezen. Om te controleren of 112 kiezen geplaats kan worden.</string>
@@ -290,10 +290,10 @@ Raak het scherm aan om GPS te starten…"</string>
   <string name="cit_notificationlight_on">Meldingslicht aan</string>
   <string name="cit_otg_not_supported">Dit apparaat biedt geen ondersteuning OTG testen</string>
   <string name="cit_pass">Overslaan</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Bevestig dat er een bestand is opgeslagen op de SD kaart met de naam \"music.mp3\". Het Bestand \"music.mp3\" zou moeten worden afgespeeld via HIFI pad van het apparaat wanneer u deze test opent."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Afspelen MP3(HIFI) opgeslagen op SD kaart</string>
-  <string name="cit_play_sd_mp3_summary">"&gt;"Controleer of er een bestand met de naam \" MUSIC.mp3 \ "opgeslagen is op de SD kaart. Het bestand \" MUSIC.mp3 \" moet worden afgespeeld via de externe luidsprekers van het apparaat \  als u deze test opent."</string>
-  <string name="cit_play_sd_mp3_title">Speel MP3 opgeslagen op SD kaart</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Bevestig dat er een bestand is opgeslagen op de SD-kaart met de naam \"music.mp3\". Het Bestand \"music.mp3\" zou moeten worden afgespeeld via HIFI pad van het apparaat wanneer u deze test opent."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Afspelen MP3(HIFI) opgeslagen op SD-kaart</string>
+  <string name="cit_play_sd_mp3_summary">"&gt;"Controleer of er een bestand met de naam \" MUSIC.mp3 \ "opgeslagen is op de SD-kaart. Het bestand \" MUSIC.mp3 \" moet worden afgespeeld via de externe luidsprekers van het apparaat \  als u deze test opent."</string>
+  <string name="cit_play_sd_mp3_title">Speel MP3 opgeslagen op SD-kaart</string>
   <string name="cit_playing_sd_mp3">Afspelen van de muziek.mp3…</string>
   <string name="cit_pointer_location_title">Aanrakingssensor</string>
   <string name="cit_power_check_summary">De hoeveelheid batterijlading moet hieronder worden uitgedrukt als een percentage.</string>
@@ -315,18 +315,18 @@ Bij het kalibreren, zorg ervoor dat er niets tussen de sensor en je hand zit (bi
   <string name="cit_sar_sensor_check_summary">Waardes voor SAR sensor kanalen zouden hier beneden moeten verschijnen, bedek de knop van de telefoon. Als er gegevens veranderen functioneert het naar behoren.</string>
   <string name="cit_sar_sensor_check_title">SAR Sensor</string>
   <string name="cit_sd_fail">Er is een fout opgetreden.</string>
-  <string name="cit_sd_mount">Koppel de SD kaart</string>
-  <string name="cit_sd_mount_sucess">SD kaart gekoppeld</string>
-  <string name="cit_sd_mp3_not_existed">"Er is geen bestand op de SD kaart met de naam \" MUSIC.mp3 \ "
-Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u op het scherm om te spelen."</string>
-  <string name="cit_sd_plugged_in">SD kaart gedetecteerd, verwijder SD kaart nu</string>
-  <string name="cit_sd_plugged_out">SD kaart is verwijderd, plaats de SD kaart nu</string>
-  <string name="cit_sd_plugin_check_summary">De tekst \"SD kaart gedetecteerd, Sd kaart nu verwijderen\" zou onderaan moeten worden weergegeven.</string>
-  <string name="cit_sd_plugin_check_title">SD kaart (detectie)</string>
-  <string name="cit_sd_plugout_check_summary">Wanneer u de SD kaart verwijdert, zou de tekst \ "de SD kaart is verwijderd, plaatst de SD kaart nu \" hieronder moet worden weergegeven.</string>
-  <string name="cit_sd_plugout_check_title">SD kaart (verwijdering)</string>
-  <string name="cit_sd_unmount">Koppel SD kaart los</string>
-  <string name="cit_sd_unmount_sucess">SD kaart losgekoppeld</string>
+  <string name="cit_sd_mount">Koppel de SD-kaart</string>
+  <string name="cit_sd_mount_sucess">SD-kaart gekoppeld</string>
+  <string name="cit_sd_mp3_not_existed">"Er is geen bestand op de SD-kaart met de naam \" MUSIC.mp3 \ "
+Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD-kaart, tikt u op het scherm om te spelen."</string>
+  <string name="cit_sd_plugged_in">SD-kaart gedetecteerd, verwijder SD-kaart nu</string>
+  <string name="cit_sd_plugged_out">SD-kaart is verwijderd, plaats de SD-kaart nu</string>
+  <string name="cit_sd_plugin_check_summary">De tekst \"SD-kaart gedetecteerd, SD-kaart nu verwijderen\" zou onderaan moeten worden weergegeven.</string>
+  <string name="cit_sd_plugin_check_title">SD-kaart (detectie)</string>
+  <string name="cit_sd_plugout_check_summary">Wanneer u de SD-kaart verwijdert, zou de tekst \ "de SD-kaart is verwijderd, plaatst de SD-kaart nu \" hieronder moet worden weergegeven.</string>
+  <string name="cit_sd_plugout_check_title">SD-kaart (verwijdering)</string>
+  <string name="cit_sd_unmount">Koppel SD-kaart los</string>
+  <string name="cit_sd_unmount_sucess">SD-kaart losgekoppeld</string>
   <string name="cit_signature_check_label">handtekening controle:</string>
   <string name="cit_sim_check_summary">Maak u er zeker van dat de SIM kaart info en status juist worden weergegeven</string>
   <string name="cit_sim_check_title">SIM kaart</string>
@@ -383,7 +383,7 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="cit_tool_log_kmsg">Laatste kernellog</string>
   <string name="cit_tool_log_logcat">ADB log</string>
   <string name="cit_tool_log_modem">Modem log</string>
-  <string name="cit_tool_log_no_sdcard">Plaats de SD kaart nu</string>
+  <string name="cit_tool_log_no_sdcard">Plaats de SD-kaart nu</string>
   <string name="cit_tool_log_ril">RIL log</string>
   <string name="cit_tool_log_toast">Log opgeslagen in %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Aanmaken bugreport… (dit duurt ongeveer 1 minuut)</string>
