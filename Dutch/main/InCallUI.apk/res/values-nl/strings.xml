@@ -52,7 +52,7 @@
   <string name="cancel">Annuleren</string>
   <string name="card_title_answering">Oproep beantwoorden</string>
   <string name="card_title_answering_time_out">Kon oproep niet beantwoorden, probeer opnieuw.</string>
-  <string name="card_title_call_ended">Gesprek beëindigd</string>
+  <string name="card_title_call_ended">"Gesprek beëindigd "</string>
   <string name="card_title_conf_call">Groepsgesprek</string>
   <string name="card_title_dialing">Bellen</string>
   <string name="card_title_hanging_up">Ophangen</string>
@@ -61,7 +61,7 @@
   <string name="card_title_hanging_up_weak_signal">Zwak mobiel netwerksignaal. Oproep wordt beëindigd…</string>
   <string name="card_title_in_call">In gesprek</string>
   <string name="card_title_in_call_short">In gesprek</string>
-  <string name="card_title_in_video">Video </string>
+  <string name="card_title_in_video">Video</string>
   <string name="card_title_incoming_conference_call">Inkomend groepsgesprek</string>
   <string name="card_title_on_hold">In wacht</string>
   <string name="card_title_threeway_call">Drieweg gesprek</string>
