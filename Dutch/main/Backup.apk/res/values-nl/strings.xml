@@ -56,7 +56,7 @@
   <string name="btn_got_it">Begrepen</string>
   <string name="button_backup">Back-up</string>
   <string name="button_cancel">Annuleren</string>
-  <string name="button_clean_garbage">Maak ruimte vrij</string>
+  <string name="button_clean_garbage">Ruimte vrijmaken</string>
   <string name="button_continue">Doorgaan</string>
   <string name="button_finish">Beëindigen</string>
   <string name="button_got_it">Ok</string>

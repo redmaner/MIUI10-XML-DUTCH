@@ -2903,7 +2903,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_vr_listeners">Geen enkel geïnstalleerde app heeft gevraagd om als VR huldienst te worden uitgevoerd.</string>
   <string name="noise_suppression">Omgevingsgeluid onderdrukken</string>
   <string name="normal">Normaal</string>
-  <string name="normal_info">Alle geluiden zullen normaal werken</string>
+  <string name="normal_info">Oproepen en meldingen zullen geluid maken</string>
   <string name="normal_smartcover_title">Ondoorzichtig hoesje</string>
   <string name="not_battery_optimizing">Batterij-optimalisatie wordt niet gebruikt</string>
   <string name="not_installed">Niet geïnstalleerd voor deze gebruiker</string>
@@ -5601,10 +5601,10 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_tether_settings_title">Draagbare hotspot</string>
   <string name="wifi_tether_starting">Hotspot inschakelen…</string>
   <string name="wifi_tether_stopping">Hotspot uitschakelen…</string>
-  <string name="wifi_traffic_priority">Wi-Fisnelheidsmodus</string>
+  <string name="wifi_traffic_priority">Snelheidsmodus</string>
   <string name="wifi_traffic_priority_extreme">Extreme modus</string>
   <string name="wifi_traffic_priority_extreme_summary">Geef de meeste bandbreedte aan de app op de voorgrond. Achtergrondprocessen kunnen mogelijk geen verbinding maken met het netwerk.</string>
-  <string name="wifi_traffic_priority_off">it</string>
+  <string name="wifi_traffic_priority_off">Uit</string>
   <string name="wifi_traffic_priority_on">Aan</string>
   <string name="wifi_traffic_priority_regular">Normale modus</string>
   <string name="wifi_traffic_priority_regular_summary">Deel de bandbreedte tussen achtergrondprocessen en de app op de voorgrond</string>
