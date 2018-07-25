@@ -94,7 +94,7 @@
   <string name="color_effect_entry_warm">Zon</string>
   <string name="config_name_group">Groep selfie</string>
   <string name="config_name_hht">HHT</string>
-  <string name="config_name_magic">Magie</string>
+  <string name="config_name_magic">Magisch</string>
   <string name="config_name_scene">Scene</string>
   <string name="config_name_setting">Instellingen</string>
   <string name="config_name_sound">Audio</string>
@@ -205,7 +205,7 @@ in de portretmodus"</string>
   <string name="module_name_square">Vierkant</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">Camera werkt niet op gesplitst scherm</string>
-  <string name="no_storage">Plaats een SD kaart voordat u de camera gebruikt</string>
+  <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt</string>
   <string name="not_enough_space">Interne opslag is vol</string>
   <string name="object_track_enable_toast">Druk met twee vingers op beide uiteinden van het voorwerp om het te volgen.</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
@@ -232,7 +232,7 @@ in de portretmodus"</string>
   <string name="portrait_mode_lowlight_hint">Het is te donker</string>
   <string name="portrait_mode_too_close_hint">Verplaats je verder van het object</string>
   <string name="portrait_mode_too_far_hint">Plaats het object binnen 2 meter</string>
-  <string name="portrait_mode_use_hint">"Portretmodus vervaagt de achtergronden 
+  <string name="portrait_mode_use_hint">"Portretmodus vervaagt de achtergronden
 brengt de mensen naar voren."</string>
   <string name="pref_advance_settings">Extra instellingen</string>
   <string name="pref_ai_detect">AI detectie</string>
@@ -446,7 +446,7 @@ brengt de mensen naar voren."</string>
   <string name="pref_front_mirror_title">Spiegel camera aan de voorkant</string>
   <string name="pref_groupshot_with_primitive_title">Originele foto\'s ook opslaan in groepselfiemodus</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
-  <string name="pref_priority_storage_title">Opslaan op SD kaart</string>
+  <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
   <string name="pref_qc_focus_position_title">Focus</string>
   <string name="pref_retain_camera_mode_summary">Schakel de camera naar de eerder gebruikte modus wanneer u de app opent.</string>
   <string name="pref_retain_camera_mode_title">Vorige modus opslaan</string>
@@ -514,7 +514,7 @@ brengt de mensen naar voren."</string>
   <string name="simple_mode_button_text_ubifocus">Herfocusmodus sluiten</string>
   <string name="snap_cancel">Annuleren</string>
   <string name="snap_confirmed">Vervangen</string>
-  <string name="spaceIsLow_content_external_storage_priority">SD kaart raakt vol</string>
+  <string name="spaceIsLow_content_external_storage_priority">SD-kaart raakt vol</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB opslag raakt vol</string>
   <string name="start_capture">Ok</string>
   <string name="sticker_tab1">Schattig</string>

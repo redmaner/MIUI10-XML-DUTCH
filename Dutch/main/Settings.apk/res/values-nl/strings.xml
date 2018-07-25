@@ -1431,7 +1431,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_screen_resolution">Schermresolutie</string>
   <string name="device_screen_size">Schermgrootte</string>
   <string name="device_screen_usage">Schermgebruik sinds volledig opgeladen</string>
-  <string name="device_sd_memory">SD kaart</string>
+  <string name="device_sd_memory">SD-kaart</string>
   <string name="device_share_loading">Afbeelding maken</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
@@ -1495,7 +1495,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="display_vr_pref_title">Wanneer het apparaat zich in de VRmodus bevindt</string>
   <string name="dlg_cancel">Annuleren</string>
   <string name="dlg_close">Sluiten</string>
-  <string name="dlg_confirm_unmount_text">Als u de USB opslag ontkoppelt, zullen sommige apps die u gebruikt stoppen en mogelijk niet beschikbaar zijn totdat u de SD kaart opnieuw koppelt.</string>
+  <string name="dlg_confirm_unmount_text">Als u de USB opslag ontkoppelt, zullen sommige apps die u gebruikt stoppen en mogelijk niet beschikbaar zijn totdat u de SD-kaart opnieuw koppelt.</string>
   <string name="dlg_confirm_unmount_title">USB opslag ontkoppelen?</string>
   <string name="dlg_error_unmount_text">Kon USB opslag niet ontkoppelen. Probeer later opnieuw.</string>
   <string name="dlg_ok">Ok</string>
@@ -1725,8 +1725,8 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="erase_optional">Optioneel</string>
   <string name="erase_personal_data">Alle bestanden op telefoon</string>
   <string name="erase_personal_data_description">Wis uw Mi account info, appdata, en systeeminstellingen</string>
-  <string name="erase_sd_data">Neppe SD kaart formatteren</string>
-  <string name="erase_sd_data_description">Formatteren zal alle bestanden op de SD kaart wissen</string>
+  <string name="erase_sd_data">Neppe SD-kaart formatteren</string>
+  <string name="erase_sd_data_description">Formatteren zal alle bestanden op de SD-kaart wissen</string>
   <string name="erase_sure">Verplicht</string>
   <string name="error_apn_empty">De APN mag niet leeg zijn.</string>
   <string name="error_mcc_not3">MCC veld moet 3 cijfers bevatten.</string>
@@ -3262,7 +3262,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="print_settings_title">Print diensten</string>
   <string name="printer_info_desc">Meer informatie over deze printer</string>
   <string name="priority_storage_app_settings">Gebruikersdata wordt op %1$s opgeslagen</string>
-  <string name="priority_storage_settings_summary">Als er geen SD kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag.</string>
+  <string name="priority_storage_settings_summary">Als er geen SD-kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag.</string>
   <string name="priority_storage_summary">Kies standaardlocatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslaginstellingen</string>
   <string name="privacy_authorize_cloud_msg">Om de veiligheid van uw account te garanderen, logt u in op i.mi.com als u autorisatie voor Mi Cloud-services (inclusief synchronisatie en back-ups) wilt intrekken.</string>
@@ -5626,7 +5626,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_wapi_cert_delet_subdir">Kies een certificaat</string>
   <string name="wifi_wapi_cert_install">WAPI certificaat installeren</string>
   <string name="wifi_wapi_cert_install_button">Installeren</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD kaart heeft geen AS certificaat.</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-kaart heeft geen AS certificaat.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS certificaat formaat is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Geef AS certificaat naam</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Kon geen map aanmaken.</string>

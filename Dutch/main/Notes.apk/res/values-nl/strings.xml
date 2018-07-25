@@ -124,7 +124,6 @@
   <string name="note_sort_way">Selecteer hoe u uw notities wenst te sorteren</string>
   <string name="notealert_enter">Notitie openen</string>
   <string name="notealert_ok">Weggooien</string>
-  <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Alarmherinnering</string>
   <string name="permdesc_accessNote">Schadelijke apps zouden dit kunnen gebruiken om toegang te krijgen tot uw persoonlijke gegevens.</string>
   <string name="permlab_accessNote">Toegang tot notities</string>

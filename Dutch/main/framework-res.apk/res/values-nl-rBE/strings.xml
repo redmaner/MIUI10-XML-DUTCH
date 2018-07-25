@@ -1249,8 +1249,8 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="stk_cc_ussd_to_ss">USSD verzoek is aangepast naar SS verzoek.</string>
   <string name="stk_cc_ussd_to_ussd">USSD verzoek is aangepast naar nieuw USSD verzoek.</string>
   <string name="storage_internal">Interne opslag</string>
-  <string name="storage_sd_card">SD kaart</string>
-  <string name="storage_sd_card_label">%s SD kaart</string>
+  <string name="storage_sd_card">SD-kaart</string>
+  <string name="storage_sd_card_label">%s SD-kaart</string>
   <string name="storage_usb">USB opslag</string>
   <string name="storage_usb_drive">USB opslag</string>
   <string name="storage_usb_drive_label">%s USB opslag</string>

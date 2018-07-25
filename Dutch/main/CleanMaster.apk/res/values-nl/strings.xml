@@ -149,7 +149,7 @@
   <string name="deepclean_list_item_from_gallery">Galerij</string>
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Muziek</string>
-  <string name="deepclean_list_item_from_sdcard">SD kaart</string>
+  <string name="deepclean_list_item_from_sdcard">SD-kaart</string>
   <string name="deepclean_normal_item_desc1">Afvalbestanden</string>
   <string name="deepclean_normal_item_desc2">Het opruimen zal geen invloed hebben op de systeemprestaties</string>
   <string name="deepclean_normal_item_summary_empty">Alles ziet er goed, niks om op te ruimen</string>
@@ -465,7 +465,7 @@
   <string name="title_optimizer">Algemene voorwaarden</string>
   <string name="title_share_link">URL delen</string>
   <string name="toast_add_white_list_success">Met succes toegevoegd aan uitzonderingen</string>
-  <string name="toast_app_no_residual_on_sdcard">App bevat geen bestanden die opgeslagen zijn op de SD kaart</string>
+  <string name="toast_app_no_residual_on_sdcard">App bevat geen bestanden die opgeslagen zijn op de SD-kaart</string>
   <string name="toast_backup_is_running">Back-up is al actief.</string>
   <string name="toast_backup_uninstall_failed">Mislukt om %d apps te back-uppen.</string>
   <string name="toast_backup_uninstall_failed2">Kon niet back-uppen</string>

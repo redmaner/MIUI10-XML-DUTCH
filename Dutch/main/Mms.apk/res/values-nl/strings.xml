@@ -495,7 +495,7 @@
   <string name="saved_ringtone">Beltoon opgeslagen</string>
   <string name="saved_ringtone_fail">Kan beltoon niet opslaan</string>
   <string name="saved_to_sim">Opgeslagen op SIM kaart</string>
-  <string name="sdcard_has_not_enough_space">Niet genoeg ruimte op SD kaart</string>
+  <string name="sdcard_has_not_enough_space">Niet genoeg ruimte op SD-kaart</string>
   <string name="search">Berichten</string>
   <string name="search_empty">Geen resultaten</string>
   <string name="search_hint">Zoeken in berichten</string>
