@@ -50,7 +50,7 @@
   <string name="delete_timezone_title">Tijdzone verwijderen</string>
   <string name="dialog_confirm_abort">Wijzigingen ongedaan maken?</string>
   <string name="dialog_message_agree">Akkoord</string>
-  <string name="dialog_message_for_contact_permission">Om verjaardagalarmen beschikbaar te maken, heeft Klok toegang nodig tot uw contacten. Akkoord?</string>
+  <string name="dialog_message_for_contact_permission">Om verjaardagalarmen beschikbaar te maken is toegang vereist tot uw contacten. Akkoord?</string>
   <string name="dialog_message_negative">Niet akkoord</string>
   <string name="dialog_message_not_remind">Niet meer weergeven</string>
   <string name="done">Gereed</string>
@@ -136,7 +136,7 @@
   <string name="shut_down_keep_screen">Het scherm zal niet worden aangehouden</string>
   <string name="shutdown_alarm_disable_summary">Wekker zal niet af gaan als de telefoon uit staat</string>
   <string name="shutdown_alarm_enable_summary">Wekker zal af gaan zelfs als de telefoon uit staat</string>
-  <string name="shutdown_alarm_title">Wekker af laten gaan als de telefoon uit staat</string>
+  <string name="shutdown_alarm_title">Wekker altijd af laten gaan</string>
   <string name="silent_alarm_summary">Stil</string>
   <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
   <string name="slider_text">Veeg omhoog om af te sluiten</string>

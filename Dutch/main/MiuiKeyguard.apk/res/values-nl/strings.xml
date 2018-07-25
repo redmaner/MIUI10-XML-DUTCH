@@ -68,8 +68,8 @@
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password to be able to use fingerprint recognition</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Kan tweede ruimte niet betreden in litemodus</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
-  <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord nu in of probeer je vingerafdruk te gebruiken over een paar seconden.</string>
-  <string name="fingerprint_not_identified_msg_lock">Teveel mislukte pogingen. Voer wachtwoord nu in.</string>
+  <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord in of gebruik je vingerafdruk.</string>
+  <string name="fingerprint_not_identified_msg_lock">Teveel mislukte pogingen. Voer wachtwoord in.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet herkennen</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw te ontgrendelen</string>
