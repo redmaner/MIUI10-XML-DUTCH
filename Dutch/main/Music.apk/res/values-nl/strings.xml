@@ -165,7 +165,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_file_missing_body">Het gedownloade bestand kan niet gevonden worden.</string>
   <string name="dialog_file_missing_title">Kan bestand niet openen</string>
   <string name="dialog_insufficient_space_on_cache">Kan de download niet voltooien, er is onvoldoende op intern geheugen.</string>
-  <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Niet genoeg ruimte op de SD kaart.</string>
+  <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Niet genoeg ruimte op de SD-kaart.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
   <string name="dialog_song_sort_type">Nummers sorteren</string>
@@ -679,7 +679,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="stop">Stoppen</string>
   <string name="stop_backup">Stoppen</string>
   <string name="storage_internal">Interne opslag</string>
-  <string name="storage_sd_card">SD kaart</string>
+  <string name="storage_sd_card">SD-kaart</string>
   <string name="storage_usb">USB opslag</string>
   <string name="stream_quality">Streamingkwaliteit</string>
   <string name="streamloadingtext">Verbinding maken met %s…</string>

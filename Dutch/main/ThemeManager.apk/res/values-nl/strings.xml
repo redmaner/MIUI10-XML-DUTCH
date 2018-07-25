@@ -384,8 +384,8 @@
   <string name="resource_waiting_pause">Pauze</string>
   <string name="resource_wallpaper_download">Achtergrond downloaden</string>
   <string name="ringtone_set_success">Instellen gelukt</string>
-  <string name="sdcard_not_mounted_dialog_message">Plaats een SD kaart.</string>
-  <string name="sdcard_not_mounted_dialog_title">SD kaart niet gevonden</string>
+  <string name="sdcard_not_mounted_dialog_message">Plaats een SD-kaart.</string>
+  <string name="sdcard_not_mounted_dialog_title">SD-kaart niet gevonden</string>
   <string name="search_hint_header_text">Populaire zoektermen</string>
   <string name="search_menu_title">Zoeken</string>
   <string name="selected_resource_file_invalid">"Geselecteerde bestand is ongeldig"</string>
@@ -445,8 +445,8 @@
   <string name="theme_favorite_waiting">Een momentje…</string>
   <string name="theme_fresh_man_notifaction">"Nieuwe thema's beschikbaar"</string>
   <string name="theme_immediately_apply_tip">Het thema is bijgewerkt, meteen toepassen?</string>
-  <string name="theme_import_from_sdcard">Importeren van SD kaart</string>
-  <string name="theme_is_external_priority_storage">Opslaan naar SD kaart</string>
+  <string name="theme_import_from_sdcard">Importeren van SD-kaart</string>
+  <string name="theme_is_external_priority_storage">Opslaan naar SD-kaart</string>
   <string name="theme_is_external_priority_storage_summary">Thema\'s apps zullen direct herstarten om de instellingen door te voeren</string>
   <string name="theme_multiple_button_title_customize">Aanpassen</string>
   <string name="theme_no">Nee</string>

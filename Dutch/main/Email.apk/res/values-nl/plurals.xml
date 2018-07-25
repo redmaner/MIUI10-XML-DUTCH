@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d conversaties archiveren?</item>
-        <item quantity="one">Deze conversatie acrchiveren?</item>
+        <item quantity="one">Deze conversatie archiveren?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">%1$d conversaties verwijderen?</item>
