@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Navigeer naar startscherm</string>
-    <string name="abc_action_bar_up_description">Navigeer omhoog</string>
+  <string name="abc_action_bar_up_description">Navigeer omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
   <string name="abc_activity_chooser_view_see_all">Alles bekijken</string>
@@ -469,10 +469,10 @@
   <string name="third_party_pickers_activity_title">%1$s toevoegen</string>
   <string name="title_component">Thema bewerken</string>
   <string name="title_my_audio_resource">Mijn beltonen</string>
-  <string name="title_my_miwallpaper_resource">Mijn live achtergronden</string>
-  <string name="title_my_miwallpaper_video_file_resource">Mijn video achtergronden</string>
+  <string name="title_my_miwallpaper_resource">Mijn live-achtergronden</string>
+  <string name="title_my_miwallpaper_video_file_resource">Mijn video-achtergronden</string>
   <string name="title_my_wallpaper_resource">Mijn achtergronden</string>
-  <string name="title_system_audio_notification_resource">Systeem meldingen</string>
+  <string name="title_system_audio_notification_resource">Systeemmeldingen</string>
   <string name="title_system_audio_resource">Systeembeltonen</string>
   <string name="title_system_wallpaper_resource">Systeemachtergronden</string>
   <string name="to_activate_the_account">Activeer uw Xiaomi account</string>

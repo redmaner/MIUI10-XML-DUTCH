@@ -198,13 +198,13 @@
   <string name="current_version_phone">Telefoon</string>
   <string name="custom_head_card_text">Geloof altijd dat er iets wonderbaarlijks staat te gebeuren</string>
   <string name="custom_head_pull_down_text">Voer infoFlow in</string>
-  <string name="data_monitor">Data usage monitor</string>
+  <string name="data_monitor">Dataverbruik bijhouden</string>
   <string name="data_monitor_dialog_message">Het lijkt erop dat iets veel mobiele data gebruikt. Open de startpagina om dit te stoppen.</string>
   <string name="data_traffic_continue">Doorgaan</string>
-  <string name="data_traffic_goto">Gratis data verkeer</string>
+  <string name="data_traffic_goto">Gratis dataverkeer</string>
   <string name="data_traffic_prompt_free_data">Als u uw mobiele gegevensverbinding gebruikt om door video\'s te bladeren, neemt uw gegevensgebruik toe. Verkrijg gratis dataverkeer.</string>
   <string name="data_traffic_prompt_message">Als u uw mobiele gegevensverbinding gebruikt om door video\'s te bladeren, neemt uw gegevensgebruik toe. Als u de limiet voor het gebruik van uw gegevens overschrijdt, kan uw provider extra kosten in rekening brengen.</string>
-  <string name="data_traffic_prompt_title">Datagebruik gebruiken</string>
+  <string name="data_traffic_prompt_title">Mobiele data wordt gebruikt</string>
   <string name="data_traffic_stop">Stop</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_bookmark">Verwijderen</string>
@@ -889,7 +889,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Vegen vanaf de rand</string>
   <string name="pref_fling_on_border_title_summary">Veeg naar links of rechts</string>
-  <string name="pref_font_size_category">Webpagina tekstgrootte</string>
+  <string name="pref_font_size_category">Tekstgrootte</string>
   <string name="pref_force_userscalable">Zoom inschakelen forceren</string>
   <string name="pref_force_userscalable_summary">Websiteverzoek overschrijden om zoomgedrag te beheren</string>
   <string name="pref_general_title">Algemeen</string>

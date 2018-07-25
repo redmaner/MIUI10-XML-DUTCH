@@ -2,9 +2,9 @@
 
 ---------------------------------------------------------------------------------------------
 
-MIUI9 Dutch Translations based on MIUI6, MIUI7 and MIUI8 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
+MIUI10 Dutch Translations based on MIUI6, MIUI7, MIUI8 and MIUI9 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
 
-Currently maintained by Cueie, MannyRibo and Redmaner
+Currently maintained by Cueie, MannyRibo, Redmaner and Charliehpoels
 
 Based on the work of http://miui.com and http://xiaomi.eu
 
