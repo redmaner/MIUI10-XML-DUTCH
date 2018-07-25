@@ -312,7 +312,6 @@
   <string name="resource_pack_price_info">Originele prijs: %1$s</string>
   <string name="resource_pack_warning">"Waarschuwing! u heeft al %1$d items gekocht, huidige prijs is niet meer geldig voor overige items, koop ze individueel."</string>
   <string name="resource_present">Cadeau</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">Mi Credits</string>
   <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer opnieuw</string>

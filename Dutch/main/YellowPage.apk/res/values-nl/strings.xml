@@ -148,7 +148,7 @@
   <string name="menu_delete_one">Uit gespreksgeschiedenis verwijderen</string>
   <string name="menu_enroll_in_yellow_page">Aanmelden voor Gele Gids</string>
   <string name="menu_remove_black_list">Verwijderen uit zwarte lijst</string>
-  <string name="menu_remove_from_favorite">Uit favorieten verwijderen</string>
+  <string name="menu_remove_from_favorite">Uit favorieten halen</string>
   <string name="menu_save_contact">Nummer opslaan in contacten</string>
   <string name="minimum_price">%d RMB min</string>
   <string name="mishop_web_payment_title">Mi Store afrekenen</string>
@@ -245,8 +245,8 @@
   <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Opwaarderen</string>
   <string name="recharge_unknown_number">Onbekend</string>
-  <string name="recharge_user_confirm_summary">"%1$s wordt in rekening gebracht voor  RMB%2$s. 
-  
+  <string name="recharge_user_confirm_summary">"%1$s wordt in rekening gebracht voor  RMB%2$s.
+
 Totaalbedrag: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Opwaardering bevestigen</string>
   <string name="refresh">Vernieuwen</string>
