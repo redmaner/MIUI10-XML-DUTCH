@@ -55,7 +55,7 @@
   <string name="card_title_call_ended">"Gesprek beëindigd "</string>
   <string name="card_title_conf_call">Groepsgesprek</string>
   <string name="card_title_dialing">Bellen</string>
-  <string name="card_title_hanging_up">Ophangen</string>
+  <string name="card_title_hanging_up">"Ophangen "</string>
   <string name="card_title_hanging_up_fail">Kon oproep niet beëindigen, probeer opnieuw.</string>
   <string name="card_title_hanging_up_restart">Kon oproep niet beëindigen. Herstart uw apparaat.</string>
   <string name="card_title_hanging_up_weak_signal">Zwak mobiel netwerksignaal. Oproep wordt beëindigd…</string>
