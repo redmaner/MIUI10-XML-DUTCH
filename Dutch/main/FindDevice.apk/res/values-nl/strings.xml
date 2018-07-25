@@ -35,9 +35,9 @@ Neem contact op met uw verkoopagent voor meer informatie."</string>
   <string name="find_device_telephony_fault">Apparaat vinden: Telefonische fout (%s).</string>
   <string name="i_know">Ok</string>
   <string name="lock_msg_phone">Contactinformatie: %s</string>
-  <string name="login_extra_steps">Aanmeld verificatie</string>
+  <string name="login_extra_steps">Aanmeldverificatie</string>
   <string name="login_failed">"Kon niet aanmelden. %s."</string>
-  <string name="open_wifi_settings">Open WLAN settings</string>
+  <string name="open_wifi_settings">Wi-Fi instellingen openen</string>
   <string name="passport_checking_vcode">Wachtwoord controleren…</string>
   <string name="passport_error_empty_vcode">Verificatiecode invoeren</string>
   <string name="passport_notification_need_unlock_again">Probeer opnieuw te ontgrendelen</string>
@@ -49,7 +49,7 @@ Neem contact op met uw verkoopagent voor meer informatie."</string>
   <string name="phone_locked">Dit apparaat is misschien gekoppeld aan een bestaand Mi Account (%s). Aanmelden om dit apparaat te activeren.</string>
   <string name="phone_locked_account_email">, gekoppeld e-mailadres: %s</string>
   <string name="phone_locked_account_phone">, gekoppeld telefoonnummer: %s</string>
-  <string name="return_to_call">Teruggaan naar gesprek</string>
+  <string name="return_to_call">Terug naar gesprek</string>
   <string name="stop_on_empty_captcha">Captcha mag niet leeg zijn</string>
   <string name="stop_on_empty_password">"Wachtwoord mag niet leeg zijn</string>
   <string name="sys_notification_async_open_failed_content">Tik om opnieuw te proberen of te annuleren.</string>

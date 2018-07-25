@@ -15,7 +15,7 @@
   <string name="config_no_restrict_description">Batterijbesparingsfunctie zal appactiviteit niet beperken</string>
   <string name="config_no_restrict_title">Geen beperkingen</string>
   <string name="config_restrict_function_description">Sommige functies (bijvoorbeeld pushberichten) kunnen worden beïnvloed, maar apps zullen niet gesloten worden</string>
-  <string name="config_restrict_function_title">Beperk achtergrond apps</string>
+  <string name="config_restrict_function_title">Beperk achtergrondapps</string>
   <string name="config_restrict_running_description">Apps zullen gesloten worden om batterij te besparen</string>
   <string name="config_restrict_running_title">Beperk achtergrondactiviteit</string>
   <string name="config_restrict_running_warning">App wordt gesloten op de achtergrond. Het is mogelijk dat deze dan niet normaal meer werkt.</string>
@@ -25,7 +25,7 @@
   <string name="confirm">Ok</string>
   <string name="current_cloud_addr_is">Het cloudserveradres is:</string>
   <string name="empty_title_apps_container_list">Geen apps</string>
-  <string name="enable_sleep_mode">Slaapstand inschakelen om de nachtstand te optimaliseren</string>
+  <string name="enable_sleep_mode">Schakel de slaapstand in om batterijverbruik te optimaliseren</string>
   <string name="error_filename_too_long">De bestandsnaam die je invoerde is te lang.</string>
   <string name="extreme_power_config_mode_category">Extreme modus</string>
   <string name="extreme_power_config_mode_desc">Wissel naar extreme modus om synchronisatie, bluetooth, GPS, NFC, dubbeltikken, knopverlichting, ontwaken van scherm bij meldingen en LED laten knipperen uit te schakelen. MIUI zal focussen op batterijbesparing.</string>
@@ -58,12 +58,12 @@
   <string name="power_config_apps">Batterijbespaarder</string>
   <string name="power_config_event_delete">Verwijderen</string>
   <string name="power_config_select_apps_title">Apps</string>
-  <string name="power_consume_abnormal_night">In de nacht is er abnormaal stroom verbruik </string>
+  <string name="power_consume_abnormal_night">In de nacht is er abnormaal veel stroom verbruikt</string>
   <string name="power_hide_mode_app_list_summary">Bespaart batterij op de achtergrond</string>
   <string name="power_hide_mode_title">Batterij &amp; prestaties</string>
   <string name="power_mode">Batterij-instellingen</string>
   <string name="power_usage">Batterijgebruik</string>
-  <string name="pref_config_title">Prestatie optimalisatie</string>
+  <string name="pref_config_title">Prestaties optimaliseren</string>
   <string name="scenario_policies_summary">Verschillende besparingsmodi instellen voor verschillende scenario\'s.</string>
   <string name="scenario_policies_title">Slimme scenario\'s</string>
   <string name="scenario_policies_warmcontrol">Temperatuurcontrole</string>

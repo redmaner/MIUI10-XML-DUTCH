@@ -170,5 +170,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="twohours">1 uur</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
+  <string name="wifi_assistant_wifi_no_internet">Dit Wi-Fi netwerk heeft geen toegang tot internet</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Tik om details te bekijken</string>
   <string name="xspace_resolver_activity_title">App selecteren</string>
 </resources>
