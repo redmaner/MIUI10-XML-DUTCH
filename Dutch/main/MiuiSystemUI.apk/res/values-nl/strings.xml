@@ -946,7 +946,6 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="miui_guide_dialog_message">Mediageluiden (muziek, video\'s enz.) worden nog steeds afgespeeld in stille modus. U kunt dit wijzigen in de instellingen.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door Bluetooth apparaat</string>
   <string name="miui_ringer_count_down">Timer</string>
-  <string name="miui_ringer_count_down_time">Timer: %s</string>
   <string name="miui_ringer_standard">Stille modus</string>
   <string name="miui_ringer_standard_description">Beltonen dempen voor inkomende oproepen en meldingen</string>
   <string name="miui_ringer_total_description">Geluid dempt en trillen uitgeschakeld voor alle items behalve de wekker</string>
