@@ -177,6 +177,5 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="voice_input_error_other">Er is een fout opgetreden. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="wifi_assistant_wifi_no_internet">Dit Wi-Fi netwerk heeft geen toegang tot internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Tik om details weer te geven</string>
-  <string name="xspace_resolver_activity_title">Selecteer app</string>
   <string name="xspace_resolver_activity_title">App selecteren</string>
 </resources>
