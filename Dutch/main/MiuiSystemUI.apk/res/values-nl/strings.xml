@@ -131,6 +131,7 @@
   <string name="accessibility_quick_settings_airplane_off">Vliegmodus uitgeschakeld.</string>
   <string name="accessibility_quick_settings_airplane_on">Vliegmodus ingeschakeld.</string>
   <string name="accessibility_quick_settings_alarm">Alarm ingesteld voor %s.</string>
+  <string name="accessibility_quick_settings_alarm_on">Alarm ingesteld op.</string>
   <string name="accessibility_quick_settings_alarm_set">Alarm instellen.</string>
   <string name="accessibility_quick_settings_battery">Batterij %s.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -138,6 +139,7 @@
   <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth ingeschakeld.</string>
   <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth verbonden.</string>
   <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth verbinden.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Batterij van Bluetooth apparaat is %d procent.</string>
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth uitgeschakeld.</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ingeschakeld.</string>
   <string name="accessibility_quick_settings_close">Sluit het paneel.</string>

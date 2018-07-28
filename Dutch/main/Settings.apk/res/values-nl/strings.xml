@@ -965,7 +965,6 @@ Deze functie kan worden uitgeschakeld in [Instellingen]"</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_alert">Aanpassingen verwijderen?</string>
   <string name="cancel_button">Annuleren</string>
-  <string name="cancel_description">Annuleren</string>
   <string name="cancel_download_buton_text">Annuleren</string>
   <string name="cant_sync_dialog_message">Synchronisatie is op dit moment uitgeschakeld voor dit item. Als u deze instelling wilt wijzigen, schakelt u achtergrondgegevens en automatisch synchroniseren tijdelijk in.</string>
   <string name="cant_sync_dialog_title">Kan niet handmatig synchroniseren</string>
@@ -1100,7 +1099,6 @@ Deze functie kan worden uitgeschakeld in [Instellingen]"</string>
   <string name="confirm_action">Ok</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Toevoegen</string>
   <string name="confirm_convert_to_fbe_warning">Gebruikersgegevens wissen en converteren naar bestandsencryptie?</string>
-  <string name="confirm_description">Bevestigen</string>
   <string name="confirm_download_cancelation_dialog_message">Download annuleren?</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeschermingsfuncties zullen niet werken op dit apparaat als deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendelen toestaan?</string>
@@ -2776,9 +2774,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="navigation_guide_app_title">Actie van app triggeren</string>
   <string name="navigation_guide_appswitch_summary">Veeg naar links of rechts vanaf de rand van het scherm en houd even ingedrukt</string>
   <string name="navigation_guide_appswitch_title">Schakel over naar de vorige app</string>
-  <string name="navigation_guide_back_anim_summary">Animatie weergeven wanneer je vanaf de rand van het scherm veegt</string>
-  <string name="navigation_guide_back_anim_title">Animatie voor het teruggebaar</string>
-  <string name="navigation_guide_back_summary">Veeg naar links of rehchts vanaf de zijkant van het scherm</string>
+  <string name="navigation_guide_back_summary">Veeg naar links of rechts vanaf de zijkant van het scherm</string>
   <string name="navigation_guide_back_title">Terug</string>
   <string name="navigation_guide_dialog_dont_show_again">Niet opnieuw weergeven</string>
   <string name="navigation_guide_dialog_ok">Leren</string>
@@ -3143,6 +3139,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="picture_in_picture_title">Picture-in-picture</string>
   <string name="pin_failed">Bewerking met PIN code voor SIM kaart mislukt.</string>
   <string name="ping_test_label">Pingtest uitvoeren</string>
+  <string name="play_pause_description">Afspelen Pauze Knop</string>
   <string name="please_select_phase2">Fase 2 verificatie</string>
   <string name="please_type_passphrase">Wachtwoord</string>
   <string name="pointer_location">Cursorlocatie</string>
@@ -4638,8 +4635,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
   <string name="toast_need_login">Aanmelden op uw Mi account</string>
   <string name="total">Niet storen</string>
-  <string name="total_info">Demp geluid %1$s behalve de alarmen</string>
-  <string name="total_info_sub">and turn off vibration</string>
+  <string name="total_info">Demp geluid en zet trillen uit, behalve de alarmen</string>
+  <string name="total_info_no_vibrator">Geluid dempen behalve de alarmen</string>
   <string name="total_memory">Totaal geheugen</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>
