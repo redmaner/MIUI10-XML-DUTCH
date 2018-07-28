@@ -218,9 +218,6 @@
   <string name="trash_folder_reminder">De notities die je verwijdert zullen na 30 dagen permanant worden gewist.</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknown_source">Onbekende bron</string>
-  <string name="welcome_note_for_cm">"En meer geweldige functies!
-  - Sync. met Mi Cloud
-  - Herinneringen instellen"</string>
   <string name="widget_content_loading">Een momentje…</string>
   <string name="widget_havenot_content">Tik om een notitie te maken. Houd widget ingedrukt om het formaat te wijzigen.</string>
 </resources>

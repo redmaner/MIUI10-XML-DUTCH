@@ -58,6 +58,7 @@
   <string name="audio_focus_exit_button_text">Audiofocus sluiten</string>
   <string name="back_bokeh_use_hint">Zorg ervoor dat het object niet verder dan 1,5 meter is.</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Schoonheid</string>
+  <string name="beauty_fragment_tab_name_3d_makeup">Make-up</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
   <string name="beauty_fragment_tab_name_beauty">Schoonheid</string>
   <string name="beauty_fragment_tab_name_makeup">Geavanceerd</string>
@@ -119,13 +120,17 @@
   <string name="dual_camera_too_close_toast">De camera is te dichtbij het object.</string>
   <string name="dual_camera_use_hint">"De stereomodus helpt u de achtergrond te vervagen.
 Het object mag niet verder dan 2 meter zijn."</string>
+  <string name="edit_blusher">Rouge</string>
   <string name="edit_chin">Kin</string>
   <string name="edit_eye_large">Grote ogen</string>
+  <string name="edit_eyebrow_dye">Wenkbrauwen</string>
   <string name="edit_face_ruddy">Blozend</string>
   <string name="edit_face_slender">Slank</string>
+  <string name="edit_jelly_lips">Lip gloss</string>
   <string name="edit_lips">Lippen</string>
   <string name="edit_neck">Nek</string>
   <string name="edit_nose">Neus</string>
+  <string name="edit_pupil_line">Eyeliner</string>
   <string name="edit_risorius">Risorius</string>
   <string name="edit_skin_smooth">Glad</string>
   <string name="edit_skin_white">Toon</string>

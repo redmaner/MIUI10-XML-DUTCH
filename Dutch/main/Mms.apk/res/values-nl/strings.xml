@@ -354,11 +354,18 @@
   <string name="no_subject_view">(Geen onderwerp)</string>
   <string name="non_english_subject_limit">Maximaal 13 tekens</string>
   <string name="nosend_message">Niet versturen</string>
-  <string name="notification_channel_description">Meldingen van berichten</string>
-  <string name="notification_channel_name">Berichten</string>
+  <string name="notification_channel_msg_description">Bericht melding</string>
+  <string name="notification_channel_msg_name">Bericht</string>
+  <string name="notification_channel_other_description">Geen bericht melding</string>
+  <string name="notification_channel_other_name">Andere</string>
+  <string name="notification_channel_sim1_description">SIM1 bericht melding</string>
+  <string name="notification_channel_sim1_name">SIM1 bericht</string>
+  <string name="notification_channel_sim2_description">SIM2 bericht melding</string>
+  <string name="notification_channel_sim2_name">SIM2 bericht</string>
   <string name="notification_copy">OTP kopiëren</string>
   <string name="notification_failed_multiple">[%s]</string>
   <string name="notification_failed_multiple_title">Berichten niet verzonden</string>
+  <string name="notification_group_name">Berichten</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
   <string name="open_audio_record_panel">Paneel om geluid op te nemen openen</string>
@@ -642,6 +649,7 @@
   <string name="unstick">Vastprikken ongedaan maken</string>
   <string name="unstick_conversation">Vastprikken huidige conversatie ongedaan maken</string>
   <string name="unsticked_conversation">Conversatie is al losgemaakt</string>
+  <string name="unsubscribe">Uitschrijven</string>
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat.</string>
   <string name="url_fraud_dangerous_alert">De website die u probeert te bezoeken is een fraudelink, kan schadelijk zijn voor uw apparaat en eigendom, wilt u doorgaan? 
 %s"</string>

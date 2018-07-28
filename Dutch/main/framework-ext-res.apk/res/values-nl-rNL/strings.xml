@@ -170,7 +170,13 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="twohours">1 uur</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
+    <string name="voice_begin">Waar bent u naar op zoek?</string>
+  <string name="voice_button_action_down">Loslatern om te zoeken</string>
+  <string name="voice_button_action_up">Drukken om te spreken</string>
+  <string name="voice_input_error_network">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
+  <string name="voice_input_error_other">Er is een fout opgetreden. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="wifi_assistant_wifi_no_internet">Dit Wi-Fi netwerk heeft geen toegang tot internet</string>
-  <string name="wifi_assistant_wifi_no_internet_detail">Tik om details te bekijken</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Tik om details weer te geven</string>
+  <string name="xspace_resolver_activity_title">Selecteer app</string>
   <string name="xspace_resolver_activity_title">App selecteren</string>
 </resources>

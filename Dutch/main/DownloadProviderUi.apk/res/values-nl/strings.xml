@@ -33,6 +33,7 @@
   <string name="cancel">Annuleren</string>
   <string name="cancel_running_download">Annuleren</string>
   <string name="cancle">Annuleren</string>
+  <string name="choose_open_picture">Actie selecteren</string>
   <string name="choose_open_time">Kies wanneer je wilt beginnen</string>
   <string name="clear_data">Wissen</string>
   <string name="complete_time">Voltooid:</string>
@@ -225,7 +226,7 @@
   <string name="no_vip_show_info">Versnel downloads
 op al je apparaten met Xunlei</string>
   <string name="notify_disabled_net_by_app">Beperkte internet toegang</string>
-   <string name="notify_install_guide_forward_text">Openen</string>
+  <string name="notify_install_guide_forward_text">Openen</string>
   <string name="notify_install_guide_msg">Met succes geïnstalleerd</string>
   <string name="notify_install_guide_title">I%s met succes geïnstalleerd</string>
   <string name="notify_not_support">Zulke meldingen worden niet ondersteund, nu updaten</string>
@@ -252,7 +253,7 @@ op al je apparaten met Xunlei</string>
   <string name="paused_waiting_to_retry">Wachten op nieuwe poging</string>
   <string name="percent_title">%1$s personen gedownload</string>
   <string name="period_of_validity">Geldigheid:</string>
- <string name="pref_download_revert_default">Opslaan naar standaardlocatie</string>
+  <string name="pref_download_revert_default">Opslaan naar standaardlocatie</string>
   <string name="pref_download_settings_title">Downloaden met mobiele data is beperkt</string>
   <string name="pref_download_storage_path">Opslaan naar een aangepaste locatie</string>
   <string name="pref_sniff_shortcut">Snelkoppeling maken</string>
@@ -377,7 +378,7 @@ op al je apparaten met Xunlei</string>
   <string name="sniff_text_sniff_next_page">Doorgaan &gt;</string>
   <string name="sniff_vip_tip_speedup">U kunt de snelheidverhoging één keer gratis proberen</string>
   <string name="sniff_vip_tip_vip">Xunlei kan uw snelheid altijd verhogen</string>
-  <string name="speed_entrance">Test WLAN speed</string>
+  <string name="speed_entrance">Test de Wi-Fi snelheid</string>
   <string name="speed_result_broadband_text1">Huidige downloadsnelheid</string>
   <string name="speed_result_broadband_text2">%s van bandbreedte</string>
   <string name="speed_result_broadband_text3">Breedband</string>
@@ -389,7 +390,7 @@ op al je apparaten met Xunlei</string>
   <string name="speed_tip_netwrok_timeout">Verbinding verbroken, probeer opnieuw</string>
   <string name="speed_tip_no_netwrok">Kon geen verbinding maken met het netwerk. Maak verbinding en probeer opnieuw.</string>
   <string name="speed_title">Test Wi-Fi snelheid</string>
-  <string name="speed_title_result">Test Wi-Fi snelheid</string>
+  <string name="speed_title_result">Test de Wi-Fi snelheid</string>
   <string name="start_analysis">Nu controleren</string>
   <string name="start_download">Downloaden</string>
   <string name="start_xunlei_speedup_info">Aanmelden om je downloads te versnellen</string>
@@ -404,7 +405,7 @@ op al je apparaten met Xunlei</string>
   <string name="subfile_list">Bestanden</string>
   <string name="task_detail">Taken</string>
   <string name="task_detail_notfound_confirm">Ok</string>
-  <string name="task_fail">"Couldn't complete operation"</string>
+  <string name="task_fail">Kon bewerking niet voltooien</string>
   <string name="test_speed">Testen</string>
   <string name="test_speed_detail">Details</string>
   <string name="test_speed_please">Tik om de snelheid te testen…</string>
@@ -422,7 +423,7 @@ op al je apparaten met Xunlei</string>
   <string name="title_tips">Aandacht</string>
   <string name="title_unbind_xunlei">Xunlei Account verwijderen</string>
   <string name="toast_only_wifi_download">Verbinden met Wi-Fi om dit item te downloaden</string>
-   <string name="toast_update_data_limit_fail">Kon niet instellen</string>
+  <string name="toast_update_data_limit_fail">Kon niet instellen</string>
   <string name="toast_xunlei_engine_open">Xunlei download accelerator is ingeschakeld</string>
   <string name="torrent_file_error">Kon dit torrentbestand niet ontleden</string>
   <string name="torrent_no_subfile">Geen subbestanden in deze torrent</string>
