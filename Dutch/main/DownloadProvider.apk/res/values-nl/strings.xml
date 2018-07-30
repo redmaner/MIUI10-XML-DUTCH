@@ -7,6 +7,10 @@
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
   <string name="button_wait_for_wifi">Wachten</string>
+  <string name="channel_active">Actieve download</string>
+  <string name="channel_complete">Download voltooid</string>
+  <string name="channel_insufficient_space">Niet genoeg ruimte</string>
+  <string name="channel_waiting">Download in wachtrij</string>
   <string name="dialog_button_cancel">Annuleren</string>
   <string name="dialog_button_ok">Ok</string>
   <string name="dialog_content_limit0">Downloads beperken</string>

@@ -28,18 +28,6 @@
         <item quantity="other">Foute PUK code, %d resterende pogingen </item>
         <item quantity="one">Foute PUK code, %d resterende pogingen</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Ongeveer %d uur tot volledig opgeladen</item>
-        <item quantity="one">Ongeveer %d uur tot volledig opgeladen</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Ongeveer %d minuten tot volledig opgeladen​</item>
-        <item quantity="one">Ongeveer %d minuuttot volledig opgeladen​</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Ongeveer %1$d uur en %2$d minuten tot volledig opgeladen</item>
-        <item quantity="one">Ongeveer %1$d uur en %2$d minuut tot volledig opgeladen</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Ongeveer %d uur resterend</item>
         <item quantity="one">Ongeveer %d uur resterend</item>
