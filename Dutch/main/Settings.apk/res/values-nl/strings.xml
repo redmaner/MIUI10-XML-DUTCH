@@ -900,8 +900,6 @@ Sample Rate"</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
   <string name="bt_ldac_declaration">Wanneer een Bluetooth apparaat LDAC ondersteunt, wordt dit standaard verbonden. LDAC biedt een audio ervaring van hoge kwaliteit, maar verhoogt ook het stroomverbruik. Er kunnen problemen optreden tijdens het afspelen vanwege Bluetooth hardwarebeperkingen.</string>
-  <string name="bt_ldac_open_dialog_summary">LDAC biedt een audio ervaring van hoge kwaliteit, maar verhoogt ook het stroomverbruik. Er kunnen problemen optreden tijdens het afspelen vanwege Bluetooth hardwarebeperkingen.</string>
-  <string name="bt_ldac_open_dialog_title">LDAC inschakelen?</string>
   <string name="bt_ldac_open_dialog_summary">LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik. Afspelen kan optreden als gevolg van Bluetooth hardwarebeperkingen</string>
   <string name="bt_ldac_open_dialog_title">Weet je zeker dat je LDAC wenst in te schakelen?</string>
   <string name="bt_ldac_pre_summary">Zorg voor een audio ervaring van hoge kwaliteit</string>
