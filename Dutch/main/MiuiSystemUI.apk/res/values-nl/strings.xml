@@ -701,6 +701,7 @@ Zodra uw telefoon is afgekoeld, werkt deze terug normaal."</string>
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan tijdens een gesprek niet schakelen tussen ruimtes</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan tussen niet ruimtes schakelen wanneer ouderlijk toezicht ingeschakeld is</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet eerst naar de eertste ruimte gaan nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet openen vanuit het vergrendelscherm. Geef vanuit de eerste ruimte.</string>
   <string name="input_password_hint_text">Wac invoeren</string>
@@ -915,7 +916,6 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="lockscreen_shortcut_left">Linker snelkoppeling</string>
   <string name="lockscreen_shortcut_right">Rechter snelkoppeling</string>
   <string name="lockscreen_sim_error_message_short">Ongeldige kaart.</string>
-  <string name="lockscreen_storage_locked">Ontgrendel alle functies en gegevens</string>
   <string name="lockscreen_unlock_left">Linker snelkoppeling ontgrendeld ook</string>
   <string name="lockscreen_unlock_right">Rechter snelkoppeling ontgrendeld ook</string>
   <string name="long_screenshot_not_support_msg">Huidige app ondersteunt geen scrollende schermafdrukken.</string>
@@ -1108,12 +1108,12 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
   <string name="picture_color_mode">Beeld kleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
-  <string name="pip_close">PIP sluiten</string>
+  <string name="pip_close">PiP sluiten</string>
   <string name="pip_fullscreen">Volledig scherm</string>
   <string name="pip_menu_title">Picture in picture menu</string>
   <string name="pip_notification_message">Als u niet wilt dat %s deze functie gebruikt, tikt u op instellingen en uit te schakelen.</string>
   <string name="pip_notification_title">%s is in picture-in-picture</string>
-  <string name="pip_notification_unknown_title">(Geen titelprogramma)</string>
+  <string name="pip_notification_unknown_title">(Geen programmatitel)</string>
   <string name="pip_pause">Pauze</string>
   <string name="pip_phone_close">Sluiten</string>
   <string name="pip_phone_dismiss_hint">Naar beneden slepen om te verwijderen</string>
