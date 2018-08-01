@@ -106,11 +106,11 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="activate_status_title_activating_msim">SIM kaart %d activeren…</string>
   <string name="agree">Toestaan</string>
   <string name="app_name">Xiaomi SIM activatieservice</string>
-  <string name="checking_client">Controleren van de klantomgeving</string>
+  <string name="checking_client">Activeringsomgeving controleren</string>
   <string name="error_checking_client">Er is een fout opgetreden tijdens de activering</string>
   <string name="error_network_io">Er is een netwerkfout opgetreden</string>
   <string name="error_no_send_sms_permission">Xiaomi SIM Activation Service heeft toestemming nodig om een SMS te verzenden</string>
-  <string name="error_sim_not_in_service">Wachten tot de SIM geactiveerd is</string>
+  <string name="error_sim_not_in_service">Kan de SIM kaart niet activeren. Zorg ervoor dat uw voldoende saldo hebt.</string>
   <string name="explain_send_sms_permission_button">Bevestigen</string>
   <string name="explain_send_sms_permission_msg">Om %s in te schakelen, zal Xiaomi Service Framework een SMS sturen om uw telefoonnummer te verifiëren.</string>
   <string name="explain_send_sms_permission_title">Verifieer uw telefoonnummer</string>
@@ -123,5 +123,5 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="privacy_revoke_failed_msg">Activering vereist het verlenen van autorisatie, zodat Messaging uw telefoonnummer kan verkrijgen.</string>
   <string name="privacy_revoke_tips">Nadat u de autorisatie intrekt, stopt de app met het verzamelen van uw gegevens en worden al uw gegevens van de servers verwijderd. Synchronisatie met Mi Cloud, Mi Message en andere Messaging functies zijn niet langer beschikbaar. Toestemming intrekken?</string>
   <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
-  <string name="waiting_sim_in_service">Wachten op SIM in dienst</string>
+  <string name="waiting_sim_in_service">Wacht tot SIM wordt geactiveerd</string>
 </resources>

@@ -441,7 +441,7 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
   <string name="data_connection_no_internet">Niet verbonden met internet</string>
   <string name="data_saver">Data bespaarder</string>
-  <string name="data_saver_description">Om datagebruik te verminderen, voorkomt data bespaarder dat sommige apps op de achtergrond gegevens verzenden of ontvangen. Een app die u momenteel gebruikt, heeft toegang tot data, maar mogelijk minder vaak. Dit kan bijvoorbeeld betekenen dat afbeeldingen niet worden weergegeven totdat u erop tikt.</string>
+  <string name="data_saver_description">Om gegevensgebruik te verminderen, voorkomt Data Saver dat sommige apps op de achtergrond gegevens verzenden of ontvangen. Een app die u momenteel gebruikt, heeft toegang tot data, maar mogelijk minder vaak. Dit kan bijvoorbeeld betekenen dat afbeeldingen niet worden weergegeven totdat u erop tikt.</string>
   <string name="data_saver_enable_button">Inschakelen</string>
   <string name="data_saver_enable_title">Data bespaarder inschakelen?</string>
   <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. 

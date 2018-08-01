@@ -2916,7 +2916,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="notification_channel_badge_title">Notificatiepunt weergeven</string>
   <string name="notification_channel_sound_title">Geluid</string>
   <string name="notification_channel_title">Meldingscategorie</string>
-  <string name="notification_channels">Categorieën</string>
+  <string name="notification_channels">Meldingscategorieën</string>
   <string name="notification_channels_other">Andere</string>
   <string name="notification_content_block_summary">Nooit meldingen in de schaduw of op randapparatuur weergeven</string>
   <string name="notification_content_block_title">Meldingen weergeven</string>

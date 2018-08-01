@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_hide_mode">Over batterijbespaarder</string>
-  <string name="active_classify">Classificeren volgens actieve status</string>
+  <string name="active_classify">Sorteer op activiteitsstatus</string>
   <string name="app_list_title">Kies apps</string>
   <string name="app_name">Batterij en prestaties</string>
   <string name="app_preload_policies_summary">Gebruik machinaal leren om de apps te voorspellen die u waarschijnlijk gaat gebruiken en laad de bronnen vooraf.</string>
   <string name="app_preload_policies_title">A.I. Toepassen</string>
-  <string name="appconfig_active_app_dialog_title">Beheer van actieve appconfiguraties</string>
+  <string name="appconfig_active_app_dialog_title">Actieve apps beheren</string>
   <string name="base_info">Basisinfo</string>
   <string name="cloud_addr_info">Cloudinfo</string>
   <string name="cloud_china_addr">China serverdata updaten</string>
   <string name="cloud_international_addr">International serverdata updaten</string>
   <string name="cloud_staging_addr">Update staging server data</string>
-  <string name="config_classify">Classificeren door configureren</string>
+  <string name="config_classify">Sorteren op appinstellingen</string>
   <string name="config_description">MIUI kan apps met specifieke achtergrondprocessen (bijvoorbeeld berichten, navigatie-apps en mediaspelers) identificeren en batterijbesparing toepassen op een manier die geen invloed zal hebben op belangrijke achtergrondactiviteit.</string>
   <string name="config_mode_title">Kies configuratie</string>
   <string name="config_no_restrict_description">Batterijbesparingsfunctie zal appactiviteit niet beperken</string>

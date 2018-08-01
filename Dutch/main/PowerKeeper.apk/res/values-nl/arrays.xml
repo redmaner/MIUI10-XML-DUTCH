@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="pc_manage_active_app_items">
-        <item>Onmiddellijk slapen</item>
-        <item>Energiebesparende strategie</item>
+        <item>Zet apps in slaapstand</item>
+        <item>Energie sparen</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Aangepast</item>
@@ -17,8 +17,8 @@
         <item>Prestatiemodus</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Huidige temperatuurregelmodus</item>
-        <item>Huidige prestatiemodus</item>
+        <item>Geef prioriteit aan temperatuurregeling</item>
+        <item>Geef prioriteit aan prestaties</item>
     </string-array>
 	<string-array name="power_mode_entries">
         <item>Prestatiemodus</item>
