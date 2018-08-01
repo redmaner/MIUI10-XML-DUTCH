@@ -1001,10 +1001,10 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="same_folder_name_warning">Deze groep bestaat al</string>
   <string name="save_button_text">Opslaan</string>
   <string name="save_dialog_title">Opslaan</string>
-  <string name="save_file">%s bestand opslaan</string>
+  <string name="save_file">"Opslaan "</string>
   <string name="save_file_already_exist_alert_message">Bestand bestaat al, toch vervangen?</string>
   <string name="save_file_already_exist_alert_title">Bestand vervangen?</string>
-  <string name="save_file_suffix">bestand</string>
+  <string name="save_file_suffix">"bestand "</string>
   <string name="save_form_data_confirm_message">Deze functie uitschakelen zal effect hebben op uw verbruik.</string>
   <string name="save_image_failed">Afbeelding opslaan mislukt</string>
   <string name="save_image_success">Afbeelding opgeslagen</string>
