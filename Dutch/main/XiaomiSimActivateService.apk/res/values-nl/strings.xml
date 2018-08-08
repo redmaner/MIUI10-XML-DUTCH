@@ -110,7 +110,7 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="error_checking_client">Er is een fout opgetreden tijdens de activering</string>
   <string name="error_network_io">Er is een netwerkfout opgetreden</string>
   <string name="error_no_send_sms_permission">Xiaomi SIM Activation Service heeft toestemming nodig om een SMS te verzenden</string>
-  <string name="error_sim_not_in_service">Kan de SIM kaart niet activeren. Zorg ervoor dat uw voldoende saldo hebt.</string>
+  <string name="error_sim_not_in_service">Kan de SIM kaart niet activeren. Zorg ervoor dat u voldoende saldo hebt.</string>
   <string name="explain_send_sms_permission_button">Bevestigen</string>
   <string name="explain_send_sms_permission_msg">Om %s in te schakelen, zal Xiaomi Service Framework een SMS sturen om uw telefoonnummer te verifiëren.</string>
   <string name="explain_send_sms_permission_title">Verifieer uw telefoonnummer</string>

@@ -3142,7 +3142,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="picture_in_picture_title">Picture-in-picture</string>
   <string name="pin_failed">Bewerking met PIN code voor SIM kaart mislukt.</string>
   <string name="ping_test_label">Pingtest uitvoeren</string>
-  <string name="play_pause_description">Afspelen Pauze Knop</string>
+  <string name="play_pause_description">Afspelen/Pauze Knop</string>
   <string name="please_select_phase2">Fase 2 verificatie</string>
   <string name="please_type_passphrase">Wachtwoord</string>
   <string name="pointer_location">Cursorlocatie</string>

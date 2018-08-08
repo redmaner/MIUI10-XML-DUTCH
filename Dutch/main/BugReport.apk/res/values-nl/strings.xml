@@ -210,7 +210,7 @@
   <string name="mobile_data_note_dialog_cancel">Wachten op Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Uploaden</string>
   <string name="mobile_data_note_dialog_content">Het lijkt erop dat u bent verbonden met een betaald netwerk. Het uploaden van logboeken kan extra kosten met zich mee brengen..</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">Logs uploaden door gebruik te maken van mobiel internet zal %sMB aan data kosten.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Het lijkt erop dat u bent verbonden met een betaald netwerk. Het uploaden van logs vereist %s MB mobiele data..</string>
   <string name="mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
   <string name="modem_tool_log_dumping_desc">Tik op icoon om te stoppen</string>
   <string name="modem_tool_log_dumping_title">Modemlogs verzamelen</string>

@@ -555,7 +555,7 @@ Sample Rate"</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
-  <string name="data_plan">Mobiele data plannen</string>
+  <string name="data_plan">Mobiele data pakketen</string>
   <string name="data_usage_uninstalled_apps">Verwijderde apps</string>
   <string name="data_usage_uninstalled_apps_users">Verwijderde apps en gebruikers</string>
   <string name="dc_alert_dialog_message">Voor sommige apps is een mobiele gegevensverbinding nodig. U kunt contact opnemen met uw provider om te weten te komen welke %s voor u beschikbaar zijn.</string>
