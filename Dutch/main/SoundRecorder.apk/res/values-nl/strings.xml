@@ -71,6 +71,7 @@
   <string name="preference_scenes">Opnametype</string>
   <string name="preference_silent_mode">Stille modus bij opnemen</string>
   <string name="preference_tip_rename">Opnames handmatig benoemen</string>
+  <string name="privacy_policy_title">Privacybeleid</string>
   <string name="recognition_error_cancel">Geannuleerd</string>
   <string name="recognition_error_download_cancel">Later</string>
   <string name="recognition_error_download_fail">Download mislukt. Controleer netwerkinstellingen</string>

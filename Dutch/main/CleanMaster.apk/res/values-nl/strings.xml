@@ -118,6 +118,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">Geen</string>
+  <string name="clean_summary">%1$s opgeruimde bestanden</string>
   <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere verouderde items</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="clear_safe_notify">Widget op notificatiebalk</string>

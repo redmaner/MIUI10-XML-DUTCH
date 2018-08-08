@@ -1519,7 +1519,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_key_tethering_setting">Eenmalig datalimiet</string>
   <string name="pref_key_tethering_title">Eenmalig datalimiet</string>
   <string name="pref_manual_adjust">Dataverbruikstatistieken handmatig instellen</string>
-  <string name="pref_mi_sim_settings">Mi SIM instellingen</string>
+  <string name="pref_mi_sim_settings">%s pakket instellingen</string>
   <string name="pref_more_settings">Extra instellingen</string>
   <string name="pref_new_installed_preconfig_title">Standaard instellingen voor nieuwe apps</string>
   <string name="pref_normal_traffic_limit">Wanneer databundel is overschreden</string>
@@ -1533,7 +1533,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_roaming_setting_gategory">Settings</string>
   <string name="pref_special_package_setting">Aangepaste databundel</string>
   <string name="pref_special_package_setting_summary">Beheer data, opwaardeerpakketten, dagelijkse databundels en aangewezen data</string>
-  <string name="pref_summary_upload_data_usage">Geef uw statistieken over dataverbruik door om MIUI te helpen verbeteren. Dit gaat volgens ons privacybeleid.</string>
+  <string name="pref_summary_upload_data_usage">Rapporteer uw gegevensgebruiksinformatie om ons te helpen MIUI services te verbeteren. Het rapportageproces zal worden uitgevoerd in overeenstemming met ons Privacybeleid.</string>
   <string name="pref_title_declaration">Belangrijke voorwaarden</string>
   <string name="pref_title_diagnostics_show_float_notification">Zwevende meldingen</string>
   <string name="pref_title_manual_check_virus_db_update">Controleren op updates</string>
@@ -1541,7 +1541,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_title_traffic_limit_number">Aantal MB</string>
   <string name="pref_title_traffic_speed_state">Netwerksnelheid weergeven</string>
   <string name="pref_title_update_notification">Meldingen dataverbruik</string>
-  <string name="pref_title_upload_data_usage">Statistieken over dataverbruik doorgeven</string>
+  <string name="pref_title_upload_data_usage">Info over dataverbruik doorgeven</string>
   <string name="pref_traffic_manage_title">Datagebruik</string>
   <string name="pref_warning_values">Waarschuwen bij</string>
   <string name="pref_whitelist_setting">Uitzonderingen beheren</string>
@@ -1602,6 +1602,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="report_success">Bericht gerapporteerd</string>
   <string name="report_warning">"%1$s SMS rapporteren aan Mi? Deze berichten en de telefoonnummers waarnaar ze zijn verzonden, worden geüpload naar de servers van Mi voor herziening. Eventuele persoonlijke gegevens die verband houden met deze berichten worden altijd anoniem gehouden."</string>
   <string name="report_warning_title">Aandacht</string>
+  <string name="reset_data_dialog_message">Dit apparaat is niet gekoppeld aan je Mi account. Kan wachtwoord niet herstellen of opnieuw instellen. Maak een back-up van alle belangrijke items en voer een fabrieksherstel uit. Alle gegevens worden permanent verwijderd en uw SD kaart wordt geformatteerd tijdens de fabrieksherstel.</string>
+  <string name="reset_data_dialog_ok">Fabrieksherstel</string>
+  <string name="reset_data_title">Kan wachtwoord niet herstellen</string>
   <string name="resource_antispam">Zwarte lijst</string>
   <string name="resource_antivirus">Virusscan</string>
   <string name="resource_app_permissions">App toestemmingen</string>

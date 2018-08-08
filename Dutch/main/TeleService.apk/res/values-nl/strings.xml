@@ -476,7 +476,8 @@ Sample Rate"</string>
   <string name="cfnry_time_setting_title">Wacchttijd instellen</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Gesprekken altijd doorschakelen</string>
-  <string name="change_data_preference_4g_only_prompt">Het lijkt dat u enkel een 4G SIM kaart hebt. Instellen als standaard voor mobiele data?</string>
+  <string name="change_data_preference_4g_only_prompt">Het lijkt erop dat je een 4G SIM kaart hebt. Om ervoor te zorgen dat het normaal werkt, stelt u het in als standaard voor mobiele gegevens. Nu instellen?</string>
+  <string name="change_data_sim_4g_only_prompt">"SIM %1$s ondersteunt alleen 4G. Wanneer SIM %2$s niet uw standaard SIM is voor mobiele gegevens, werkt de SIM kaart mogelijk niet normaal. Nu overschakelen?"</string>
   <string name="change_default_data_card">Standaard mobiele data SIM</string>
   <string name="change_default_data_card_summary">Het lijkt dat u van SIM kaarten hebt gewisseld. Instellen als standaard voor mobiele data?</string>
   <string name="change_num">Bijwerken</string>
@@ -1026,6 +1027,8 @@ Voorkeursnetwerk wordt gebruikt."</string>
   <string name="onscreenSwapCallsText">Wisselen</string>
   <string name="onscreenVideoCallText">Video-oproep</string>
   <string name="open_miui">Openen</string>
+  <string name="opened_dual_4g_confirm_prompt">Het lijkt erop dat je een 4G SIM kaart hebt. Dual 4G is automatisch ingeschakeld.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s ondersteunt alleen 4G. Om ervoor te zorgen dat uw SIM kaart normaal werkt, is dual 4G ingeschakeld.</string>
   <string name="optional_summary">&lt;Optioneel&gt;</string>
   <string name="ota_activate">Activeren</string>
   <string name="ota_call_end">Terug</string>

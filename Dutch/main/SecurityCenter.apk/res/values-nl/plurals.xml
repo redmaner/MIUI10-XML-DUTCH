@@ -271,6 +271,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="zero">Geen apps gevonden</item>
         <item quantity="one">%d app gevonden</item>
     </plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Fabrieksinstellingen(%ds)</item>
+        <item quantity="one">Fabrieksinstellingen(%ds)</item>
+    </plurals>
 	<plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d vergrendelde apps wachten om gewist te worden</item>
         <item quantity="one">%d vergrendelde app wacht om gewist te worden</item>

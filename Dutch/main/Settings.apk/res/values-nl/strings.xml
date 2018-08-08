@@ -872,6 +872,8 @@ Sample Rate"</string>
   <string name="bootloader_locked_answer_2">"1. Controleer of u al een SIM kaart in uw apparaat hebt geplaatst.
 2. Tik hieronder op \"Account toevoegen " om uw Mi-account aan dit apparaat te koppelen.
 3. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1.Tik hieronder op \"Account toevoegen\" om uw Mi account aan dit apparaat te koppelen.
+2. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
   <string name="bootloader_locked_check_status">Account en apparaat toevoegen</string>
   <string name="bootloader_locked_question_1">Waarom zouden apparaten vergrendeld moeten worden?</string>
   <string name="bootloader_locked_question_2">Ik begrijp de risico\'s, maar wil nog steeds mijn apparaat ontgrendelen.</string>
@@ -3945,6 +3947,8 @@ Om schermpinning te gebruiken:
   <string name="security_encryption_progress_dialog_open">Coderen…</string>
   <string name="security_encryption_rejected_via_home_manager">Deze functie wordt niet ondersteund in de demoversie.</string>
   <string name="security_encryption_title">Apparaat versleutelen met vergrendelschermwachtwoord</string>
+  <string name="security_input">Beveiligingsinvoer</string>
+  <string name="security_input_hint">Gebruik een veiligheidsklavier en voer het wachtwoord in</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
   <string name="security_password_category_name">Schermvergrendeling</string>
   <string name="security_passwords_title">Wachtwoorden</string>
