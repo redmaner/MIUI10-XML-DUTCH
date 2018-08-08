@@ -122,7 +122,7 @@
   <string name="menu_item_sort_name">Naam</string>
   <string name="menu_item_sort_size">Grootte</string>
   <string name="msg_alert_cancel_restore">Items herstellen. Nu stoppen?</string>
-  <string name="msg_alert_restore_error">Kon items van Mi Cloud niet herstellen. Probeer opnieuw..</string>
+  <string name="msg_alert_restore_error">Kon items van Mi Cloud niet herstellen. Probeer opnieuw.</string>
   <string name="network_error">Verbind met het netwerk</string>
   <string name="no_account">Niet ingelogd op Mi Account.</string>
   <string name="no_backup">Geen back-ups op Mi Cloud.</string>

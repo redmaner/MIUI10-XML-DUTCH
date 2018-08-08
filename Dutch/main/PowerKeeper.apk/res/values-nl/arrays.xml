@@ -10,7 +10,7 @@
 	</string-array>
 	 <string-array name="hmode_app_classify2">
         <item>Actieve apps</item>
-        <item>Inctice apps</item>
+        <item>Inactive apps</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Standaard temperatuurcontrole modus</item>
