@@ -1090,7 +1090,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="oldman_airplane_mode_text">Vliegmodus</string>
   <string name="oldman_incall_text">Thuisontvangst</string>
   <string name="open_camera_hint_text">Veeg naar links om de camera te openen</string>
-  <string name="open_remote_center_hint_text">Veeg naar rechts om Mi Remote te openen</string>
+  <string name="open_remote_center_hint_text">Veeg naar rechts om de snelkoppelingen te openen</string>
   <string name="other">Andere</string>
   <string name="overlay_display_devices_title">Secundaire schermen simuleren</string>
   <string name="overview">Overzicht</string>
