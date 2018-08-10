@@ -304,6 +304,8 @@
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
+  <string name="memory_clean_icon_text">Geheugen wissen</string>
+  <string name="memory_clean_no_trash_tip">Alles ziet er goed uit</string>
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
   <string name="menu_install">Deze app installeren</string>
@@ -329,6 +331,12 @@
   <string name="notification_title_of_garbage_cleanup">%s aan afval</string>
   <string name="notify_when">Een melding krijgen wanneer de afval 100MB heeft bereikt</string>
   <string name="ok">Ok</string>
+  <string name="onekeyclean_boost_available">%s beschikbaar</string>
+  <string name="onekeyclean_boost_cleaned">%s gewist</string>
+  <string name="onekeyclean_boosted_title">Met succes gewist</string>
+  <string name="onekeyclean_boosting_title">Verhoogt de snelheid</string>
+  <string name="onekeyclean_card_btn">Nu opruimen</string>
+  <string name="onekeyclean_card_summery">Verwijder afval om ruimte vrij te maken</string>
   <string name="open">Inschakelen</string>
   <string name="open_app">Openen</string>
   <string name="open_browser">Openen in browser</string>
@@ -364,6 +372,7 @@
   <string name="pref_title_choose_engine">Definities</string>
   <string name="pref_title_clean_alert">Herinneren om op te ruimen</string>
   <string name="pref_title_cleanup_white_list">Uitzonderingen</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Snelkoppeling naar het beginscherm weergeven</string>
   <string name="pref_title_expand_cache_group">Gecachte items weergeven</string>
   <string name="pref_title_garbage_cleanup_check_size">Limiet afvalgrootte</string>
   <string name="pref_title_garbage_cleanup_check_time">Plannen</string>
