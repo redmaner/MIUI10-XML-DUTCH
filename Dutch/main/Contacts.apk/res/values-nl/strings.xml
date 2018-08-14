@@ -351,7 +351,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="device_import_progress_begin_message">Importeren…</string>
   <string name="device_import_progress_end_message">Geïmporteerd</string>
   <string name="device_import_progress_message">Importeren…</string>
-  <string name="device_import_progress_toast">%1$d contacten geïmporteerd</string>
   <string name="device_import_title">Importeren</string>
   <string name="device_list_title">Apparaat kiezen</string>
   <string name="device_other_guide">Ondersteunt de andere apparaat bluetooth?</string>
