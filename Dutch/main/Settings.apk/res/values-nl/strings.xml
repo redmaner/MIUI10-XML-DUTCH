@@ -1666,6 +1666,7 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="enhanced_4g_lte_mode_title">Verbeterde 4G LTE modus</string>
   <string name="enter_password">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
   <string name="enter_pattern">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
+  <string name="enterprise_mode">Enterprise modus</string>
   <string name="enter_pin">Voer uw pincode in om Android te starten</string>
   <string name="enterprise_privacy_always_on_vpn_device">VPN altijd aan ingeschakeld</string>
   <string name="enterprise_privacy_always_on_vpn_personal">VPN altijd aan ingeschakeld in uw persoonlijke profiel</string>

@@ -85,6 +85,9 @@
   <string name="accessibility_enter_lock_wallpaper">Tik om muziek te openen</string>
   <string name="accessibility_ethernet_connected">Ethernet is verbonden.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet is niet verbonden.</string>
+   <string name="accessibility_fingerprint_dialog_app_icon">Application icon</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">Vingerafdruk icoon</string>
+  <string name="accessibility_fingerprint_dialog_help_area">Help berichtengebied</string>
   <string name="accessibility_gps_acquiring">GPS verwerven.</string>
   <string name="accessibility_gps_enabled">GPS ingeschakeld.</string>
   <string name="accessibility_home">Startpagina</string>
@@ -613,6 +616,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="fingerprint_add_text">TDe vingerafdrukinterface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
   <string name="fingerprint_add_title">Vingerafdruk toevoegen</string>
   <string name="fingerprint_again_identified_msg">Uw vingerafdruk is nu actief. Gebruik het om het apparaat te ontgrendelen of voer een wachtwoord in.</string>
+  <string name="fingerprint_dialog_touch_sensor">Raak de vingerafdruk sensor aan</string>
   <string name="fingerprint_enter_second_psw_msg">Tweede ruimte wachtwoord invoeren na het rebooten om vingerafdrukherkenning te kunnen gebruiken</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Kan niet naar tweede ruimte gaan in de Lite modus</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord voor de tweede ruimte invoeren</string>
