@@ -158,6 +158,8 @@
   <string name="search_setting_description">Tekst in uw notities doorzoeken</string>
   <string name="select_account_prompt">Sync. notities</string>
   <string name="set_alarm_description">Alarm instellen</string>
+  <string name="setting_other">ANDERE</string>
+  <string name="setting_privacy">Privacybeleid</string>
   <string name="snippet_audio_stub">Spraak notitie</string>
   <string name="snippet_image_stub">Foto notitie</string>
   <string name="snippet_image_template">[Foto %1$s]</string>

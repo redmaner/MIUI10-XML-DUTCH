@@ -21,6 +21,8 @@
   <string name="description_title">Over schermrecorder</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
+ <string name="first_using_mic_dialog_message">De schermrecorder heeft toegang tot uw microfoon nodig om audio op te nemen. Toestaan?</string>
+  <string name="first_using_mic_dialog_title">Toestemmingen vereist</string> 
   <string name="fixed_frame_rate">Vaste frame rate</string>
   <string name="fixed_frame_rate_summary">Het opnemen van video\'s met een vaste frame rate verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij.</string>
   <string name="frames">Frame rate</string>
@@ -78,4 +80,6 @@
   <string name="storage_location">Opslag</string>
   <string name="storage_location_summary">Selecteer uw voorkeur opslagoptie </string>
   <string name="unchecked">Niet geselecteerd</string>
+  <string name="using_record_confirm_cancel">Beperken</string>
+  <string name="using_record_confirm_ok">Toestaan</string>
 </resources>
