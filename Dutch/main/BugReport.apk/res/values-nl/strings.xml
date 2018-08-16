@@ -19,7 +19,7 @@
   <string name="close_feedback_main">Verbergen</string>
   <string name="cta_cancel">Annuleren</string>
   <string name="cta_confirm">OK</string>
-  <string name="cta_dialog_content">Deze app heeft toegang tot het internet nodig om normaal te werken.</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"U slaat nu softwarelogboeken op dit apparaat op. Logboeken kunnen persoonlijke informatie en uw locatiegegevens bevatten. Deel geen logs met iemand anders als u niet wilt dat deze info wordt getoond. Als u \'Akkoord' \ selecteert, betekent dit dat u akkoord gaat met ons &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="cta_dialog_title">Internetverbinding</string>
   <string name="cta_not_show_again">Niet opnieuw tonen</string>
   <string name="customer_service_apply">Klantenservice verzoeken</string>
@@ -279,8 +279,8 @@
   <string name="select_system_app_tag">Selecteer een probleem</string>
   <string name="submit_dialog_cancel">Niet akkoord</string>
   <string name="submit_dialog_confirm">Akkoord</string>
-  <string name="submit_dialog_content">Uw feedback zal samen met bijlagen en logs verzonden worden naar MIUI\’s servers. Logs kunnen persoonlijke info bevatten.</string>
-  <string name="submit_dialog_content_global">Uw feedback zal samen met bijlagen en logs verzonden worden naar MIUI\’s servers. Logs kunnen persoonlijke info bevatten.</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Uw feedback, samen met bijlagen en logboeken, wordt naar de servers van MIUI verzonden. Het kan persoonlijke informatie en uw locatiegegevens bevatten. Als u \'Akkoord'\ selecteert, betekent dit dat u akkoord gaat met ons &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;"Uw feedback, samen met bijlagen (indien aanwezig) en logbestanden (u kunt de overeenkomstige vakken voor de items die u niet wilt uploaden uitvinken) uitvinken, worden naar de MIUI servers en een beperkt gedeelte van MIUI forum voor ontwikkelaars gestuurd. De informatie over uw discussies en forumactiviteit zal ook worden verzameld voor analyse en verdere communicatie. Logboeken kunnen persoonlijke informatie en uw locatiegegevens bevatten. Als u \'Akkoord'\ selecteert, betekent dit dat u akkoord gaat met ons &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Bugrapport versturen</string>
   <string name="submit_feedback_info_failed">Kon rapport niet verzenden</string>
   <string name="suggestion_description">Voeg beschrijving hier toe</string>
