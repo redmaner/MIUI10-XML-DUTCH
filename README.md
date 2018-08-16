@@ -1,4 +1,4 @@
-![logo](https://s8.postimg.cc/bhgria3lh/miui10.png) 
+![logo](https://drive.google.com/uc?export=download&id=1MP62Oo8j2xMvWNw6P8pgHDP1yWvZKD-T) 
 
 ---------------------------------------------------------------------------------------------
 
