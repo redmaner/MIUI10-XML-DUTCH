@@ -346,6 +346,7 @@
   <string name="output_videos">Export video\'s</string>
   <string name="phone_search">Google Search</string>
   <string name="positive_confirm">OK</string>
+  <string name="pref_about_privacy_title">Privacybeleid</string>
   <string name="pref_category_title_auto_clean_config_settings">Automatishe opruimingen</string>
   <string name="pref_category_title_auto_clean_settings">Herinneren om op te ruimen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Extra instellingen</string>
