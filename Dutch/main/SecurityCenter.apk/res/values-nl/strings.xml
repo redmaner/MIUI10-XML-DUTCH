@@ -1084,6 +1084,7 @@ om te reageren"</string>
   <string name="menu_charge_traffic">Buy data</string>
   <string name="menu_edit">Bewerken</string>
   <string name="menu_item_about_content">Versie: %s</string>
+  <string name="menu_item_about_privacy_title">Privacybeleid</string>
   <string name="menu_item_about_summary">Versie: %s</string>
   <string name="menu_item_about_title">Over</string>
   <string name="menu_item_app_details">Details</string>

@@ -263,6 +263,7 @@ op al je apparaten met Xunlei</string>
   <string name="pref_summary_no_limit_popup">Ongelimiteerd</string>
   <string name="pref_title_enable_max_bytes_popup">Dataverbruik direct weergeven</string>
   <string name="preferences_title">Instellingen</string>
+  <string name="privacy_policy">Privacybeleid</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geupload om te controleren of u een actieve abonnementen hebt op deze dienst"</string>
   <string name="privacy_tip_ok">Ok</string>
