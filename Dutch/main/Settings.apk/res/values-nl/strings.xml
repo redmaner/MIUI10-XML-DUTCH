@@ -1377,6 +1377,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Deze vingerafdruk verwijderen?</string>
   <string name="delete_rule">Regels verwijderen</string>
   <string name="delete_saved_network">Opgeslagen netwerken verwijderen</string>
+  <string name="delete_sound_effect">\"Verwijder\" geluid</string>
   <string name="deleted_apps">Verwijderde apps</string>
   <string name="deletion_helper_automatic_title">Automatisch</string>
   <string name="deletion_helper_manual_title">Handmatig</string>
@@ -2152,7 +2153,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_shortcuts_helper">Toetsenbord snelkoppeling helper</string>
   <string name="keyboard_shortcuts_helper_summary">Beschikbare snelkoppelingen weergeven</string>
   <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
-  <string name="keyguard_vertical_clock_title">Verticale klok</string>
+  <string name="keyguard_security_setting_others">Andere</string>
+  <string name="keyguard_security_setting_privacy_policy">Privacybeleid</string>
+   <string name="keyguard_vertical_clock_title">Verticale klok</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_airplane">Vliegtuig;Vliegmodus;Vliegtuig;Vliegmodus;Vlucht;Vliegmodus</string>
   <string name="keywords_all_apps">apps download applicaties systeem</string>

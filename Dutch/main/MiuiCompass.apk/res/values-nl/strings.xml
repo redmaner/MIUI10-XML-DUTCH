@@ -49,6 +49,8 @@
   <string name="mobiledata_alert_dialog_title">Waarschuwing dataverbruik</string>
   <string name="open_perm_msg">Kompas heeft toegang tot locatiegegevens en camera nodig. Dit is nodig om coördinaten te bepalen en live voorbeelden te geven. Toestaan?</string>
   <string name="open_perm_title">Toestemmingen vereist</string>
+  <string name="preference_other">Andere</string>
+  <string name="preference_privacy_title">Privacybeleid</string>
   <string name="pressure_title">Druk</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Schud om te kalibreren</string>

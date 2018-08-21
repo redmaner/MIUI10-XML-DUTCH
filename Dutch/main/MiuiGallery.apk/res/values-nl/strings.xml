@@ -738,8 +738,8 @@ om de galerij te personaliseren"</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Origineel</string>
   <string name="photo_editor_crop_and_rotate">Bijsnijden</string>
+  <string name="photo_editor_crop_auto">Automatisch</string>
   <string name="photo_editor_crop_reset">Resetten</string>
-  <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Tekenen</string>
   <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_label">Bewerken</string>
