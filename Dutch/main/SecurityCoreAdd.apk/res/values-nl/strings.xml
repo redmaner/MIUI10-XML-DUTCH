@@ -98,8 +98,13 @@ Zorg ervoor dat de naam van uw bedrijf correct is. Lees en ga akkoord met het ge
   <string name="ent_app_verified">Het lijkt erop dat er zakelijke apps op uw apparaat zijn geïnstalleerd. Enterprise modus activeren?</string>
   <string name="ent_confirm_dialog_content">U kunt niet teruggaan naar de huidige status van uw systeem nadat u de Enterprise modus hebt geactiveerd. Al uw gegevens worden echter nog steeds op dit apparaat opgeslagen. U moet uw apparaat opnieuw opstarten om de Enterprise modus te activeren. Nu activeren?</string>
   <string name="ent_disallow_running">De app is verboden om uit te voeren</string>
+  <string name="ent_download_install_dialog_content">U moet bedrijfs apps installeren om de Enterprise modus te activeren. Nu installeren?</string>
+  <string name="ent_download_install_dialog_title">Bedrijfs apps downloaden</string>
+  <string name="ent_downloading_message">Bezig %d%% aan het downloaden</string>
   <string name="ent_error_dialog_content">Ten minste één van de code die u hebt ingevoerd was onjuist. Controleer uw bedrijfs- en licentiecodes en voer ze opnieuw in.</string>
   <string name="ent_get_code_hint">U kunt bedrijfs- en licentiecodes krijgen van uw supervisor</string>
+  <string name="ent_install_dialog_content">Installeer apps en start nu je apparaat opnieuw op?</string>
+  <string name="ent_installing">Bezig met installeren…</string>
   <string name="ent_invalid_agency">Bedrijfscode is ongeldig.</string>
   <string name="ent_invalid_qr">QR code is ongeldig.</string>
   <string name="ent_licence_code">Licentie code</string>
@@ -171,6 +176,8 @@ U kan ze ook apart downloaden."</string>
   <string name="import_photo_suc">Geïmporteerde foto\'s</string>
   <string name="input_space_finger">Nu instellen</string>
   <string name="input_space_password">Nu instellen</string>
+  <string name="install">Installeren</string>
+  <string name="install_error">Kon niet installeren. Probeer opnieuw</string>
   <string name="invalid_qr_code">Ongeldige QR code</string>
   <string name="list_empty_text">Leeg</string>
   <string name="list_empty_text_xspace">Installeer WeChat/QQ/Weibo, dupliceer apps en probeer opnieuw.</string>

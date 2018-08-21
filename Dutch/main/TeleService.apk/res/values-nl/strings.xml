@@ -1203,6 +1203,7 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_type_title">Selectie netwerktype</string>
   <string name="preferred_phone_account">Voorkeursoproepaccount</string>
   <string name="preferred_wificall_title">Netwerkvoorkeuren</string>
+  <string name="privacy_policy_title">Privacybeleid</string>
   <string name="private_num">Privénummer</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE services zijn niet beschikbaar. Schakel VoLTE uit om te bellen.</string>

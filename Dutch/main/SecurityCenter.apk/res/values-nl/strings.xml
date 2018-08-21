@@ -255,7 +255,7 @@
   <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen in het geval je hem vergeten bent"</string>
   <string name="applock_add_account_setting">Account &amp; privacy</string>
   <string name="applock_bind_account_title">Wachtwoord vergeten</string>
-  <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het startscherm worden hersteld en het wachtwoord voor het vergrendelen van apps wordt verwijderd. App vergrendeling uitschakelen?</string>
+   <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het startscherm worden hersteld en uw wachtwoord voor het vergrendelen van apps wordt verwijderd. App vergrendeling uitschakelen?</string>
   <string name="applock_close_dialog_title">Appvergrendeling uitschakelen?</string>
   <string name="applock_exit_account_info">Account zal automatisch worden verwijderd wanneer je uitlogt</string>
   <string name="applock_header_text_less_than_half">Te klein. Sleep wat verder.</string>
@@ -704,6 +704,14 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="exit_dialog_scan_message">De prestatiescore van uw apparaat is lager dan 75 punten. Nu optimaliseren?</string>
   <string name="exit_dialog_scan_positive_button">Optimaliseer</string>
   <string name="exit_dialog_scan_title">Prestaties optimaliseren</string>
+  <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
+  <string name="extreme_add_white_list_title">Background exceptions</string>
+  <string name="extreme_power_save_description">&lt;li&gt;"Extreme batterijbesparing stopt alle achtergrondactiviteit van een app nadat u deze hebt verlaten en keert terug naar het startscherm. Deze app stuurt je geen meldingen of ontvangt geen updates."&lt;/li&gt;"
+"&lt;li&gt;Als u wilt dat een app op de achtergrond wordt uitgevoerd, vergrendelt u deze in 'Recent' of voegt u deze toe aan onderstaande achtergronduitzonderingen. Er kunnen maximaal 4 apps op de achtergrond worden uitgevoerd wanneer Extreme batterijbesparing is ingeschakeld.&lt;/li&gt;"
+"&lt;li&gt;Extreme batterijbesparing schakelt standaard NFC uit. U kunt dit wijzigen in Instellingen.&lt;/li&gt;"
+"&lt;li&gt;Om ervoor te zorgen dat u alle functies van uw apparaat normaal kunt gebruiken, wordt Extreme batterijbesparing automatisch uitgeschakeld wanneer uw batterij 30% is opgeladen.&lt;/li&gt;</string>
+  <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, stops sync, and reduces display colors.</string>
+  <string name="extreme_power_save_mode_title">Extreme battery saver</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
@@ -1233,12 +1241,15 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="note_sms_none">Geen berichten</string>
   <string name="notification_battery_consume_abnormal_summary">%2$s van de batterij gebruikt in de afgelopen %1$d minuten</string>
   <string name="notification_battery_consume_abnormal_title">Batterij loopt te snel leeg</string>
+  <string name="notification_exit_extreme_mode_text">Batterij is meer dan %s geladen</string>
+  <string name="notification_exit_extreme_mode_title">Extreme batterijbesparing uitschakelen</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
   <string name="notification_mask_summary">Meldingsinhoud niet weergeven op vergrendelscherm en in de notificatiebalk</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_masked_item">Meldingen verbergen</string>
   <string name="notification_masked_subtitle">Meldingen van apps beveiligd door appvergrendeling verbergen</string>
+  <string name="notification_open_extreme_mode_text">Extreme batterijbesparing inschakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
   <string name="notify_channel_name_security">Systeembeveiliging</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
@@ -1554,6 +1565,20 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Bericht maken</string>
   <string name="preferred_app_entries_music">Muziek</string>
+  <string name="privacy_apps">Verborgen apps</string>
+  <string name="privacy_apps_category_title">Verborgen apps</string>
+  <string name="privacy_apps_checkbox_remind_choice">Niet meer weergeven</string>
+  <string name="privacy_apps_close">Sluiten</string>
+  <string name="privacy_apps_enable_summary">Verplaats apps naar een verborgen map en verwijder de snelkoppelingen van het startscherm</string>
+  <string name="privacy_apps_go_to_use">Starten</string>
+  <string name="privacy_apps_manage">Verborgen apps beheren</string>
+  <string name="privacy_apps_manage_dialog_title">Over verborgen apps</string>
+  <string name="privacy_apps_manager_dialog_message">Voor het verbergen van apps moet je je app schermvergrendeling instellen. Meldingen voor verborgen apps worden uitgeschakeld. Deze app verbergen?</string>
+  <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Wanneer u een app verbergt, wordt deze verplaatst naar een verborgen map. De snelkoppeling naar het startscherm is goed verborgen.
+Deze functie wordt niet ondersteund voor systeem apps."</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Nadat u uw wachtwoord hebt ingevoerd, wordt de map met verborgen apps weergegeven.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Verspreid twee vingers op het scherm. Er wordt een bericht weergegeven waarin u wordt gevraagd uw app vergrendelingswachtwoord in te voeren.</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
   <string name="privacy_dialog_message">Wanneer u verbinding maakt met internet, wordt dit bericht samen met de providergegevens gecodeerd en geüpload naar de servers van Mi om ons te helpen bij het verbeteren van het bewaken van gegevensgebruik.</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>

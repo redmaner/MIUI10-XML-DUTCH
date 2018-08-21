@@ -276,6 +276,7 @@
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="back">Terug</string>
   <string name="battery">Batterij</string>
+  <string name="battery_can_use_time">Ongeveer %s resterend</string>
   <string name="battery_detail_charging_summary">Batterijbesparing is niet beschikbaar tijdens het opladen</string>
   <string name="battery_detail_switch_summary">Reduceert prestatie- en achtergrondgegevens</string>
   <string name="battery_detail_switch_title">Batterijbesparing</string>
@@ -504,10 +505,17 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="divider_menu_close">Sluiten</string>
   <string name="divider_menu_select_apps">Selecteren</string>
   <string name="divider_menu_swap_task">Wisselen</string>
+  <string name="dlg_cancel">Annuleren</string>
+  <string name="dlg_confirm">Inschakelen</string>
   <string name="dlg_confirm_kill_storage_users_text">Als u de USB opslag inschakelt, zullen sommige apps stoppen en niet beschikbaar zijn tot u de USB opslag uitschakelt.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB opslag uitschakelen</string>
   <string name="dlg_error_title">USB operatie gefaald</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">Ok</string>
+   <string name="dlg_summary_close_app">Beperk achtergrondactiviteit en meldingen</string>
+  <string name="dlg_summary_close_theme">Beperk geanimeerde thema\'s</string>
+  <string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth en draagbare hotspot uitschakelen</string>
+  <string name="dlg_summary_nfc">NFC uitschakelen</string>
+  <string name="dlg_summary_title">Extreme batterijbesparing stopt alle achtergrondactiviteit na het verlaten van een app en keert terug naar het startscherm. Als u wilt dat een app op de achtergrond wordt uitgevoerd, voegt u deze toe aan achtergronduitzonderingen.</string>
   <string name="dnd_is_off">Niet storen is uitgeschakeld</string>
   <string name="do_disclosure_generic">Dit apparaat wordt beheerd door uw organisatien</string>
   <string name="do_disclosure_with_name">Dit apparaat wordt beheerd door %s</string>
@@ -530,6 +538,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="enable_bluetooth_message">Als u het toetsenbord op uw tablet wilt aansluiten, schakelt u Bluetooth eerst in.</string>
   <string name="enable_bluetooth_title">Bluetooth inschakelen?</string>
   <string name="enable_demo_mode">Demomodus inschakelen</string>
+  <string name="enable_extreme_power_save_mode">Extreme batterijbesparing</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Ondersteuning voor experimentele freeform windows inschakelen.</string>
   <string name="enable_opengl_traces_title">OpenGL opsporen inschakelen</string>
@@ -1094,6 +1103,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="oldman_airplane_mode_text">Vliegmodus</string>
   <string name="oldman_incall_text">Thuisontvangst</string>
   <string name="open_camera_hint_text">Veeg naar links om de camera te openen</string>
+  <string name="open_extreme_power_save_mode_title">Extreme batterijbesparing inschakelen</string>
   <string name="open_remote_center_hint_text">Veeg naar rechts om de snelkoppelingen te openen</string>
   <string name="other">Andere</string>
   <string name="overlay_display_devices_title">Secundaire schermen simuleren</string>
@@ -1231,6 +1241,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_done">Gereed</string>
   <string name="quick_settings_drivemode_label">Car modus</string>
   <string name="quick_settings_edit_label">Meer</string>
+  <string name="quick_settings_extreme_batterysaver_label">Extreme batterijbesparing</string>
   <string name="quick_settings_flashlight_label">Zaklamp</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
   <string name="quick_settings_ime_label">Invoer methode</string>

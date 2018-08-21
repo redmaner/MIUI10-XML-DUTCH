@@ -10,6 +10,7 @@
 ga naar %s op een ander verbonden apparaat"</string>
   <string name="loading">Een momentje…</string>
   <string name="mibi_license">Mi Credit Gebruiksovereenkomst</string>
+  <string name="open_wifi_connect_and_use_data_summary">blijf data bruiken, tik om van Wi-Fi te wisselen en te verifiëren.</string>
   <string name="open_wifi_connect_summary">Tik om details weer te geven.</string>
   <string name="open_wifi_connect_title">Verbonden met %1$s</string>
   <string name="permdesc_accessDrm">Sta de app toe om toegang te krijgen tot DRM-beschermde inhoud.</string>

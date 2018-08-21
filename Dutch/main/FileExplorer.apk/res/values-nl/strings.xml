@@ -396,6 +396,7 @@
   <string name="operation_reply">Reageren</string>
   <string name="operation_send">Verzenden</string>
   <string name="operation_share">Delen</string>
+  <string name="operation_show_privacy_policy">Privacybeleid weergeven</string>
   <string name="operation_show_sys">Verborgen bestanden weergeven</string>
   <string name="operation_unfavorite">Uit favorieten verwijderen</string>
   <string name="original_user_desc">Upload regelmatig originele video\'s om de Creator status te krijgen</string>
