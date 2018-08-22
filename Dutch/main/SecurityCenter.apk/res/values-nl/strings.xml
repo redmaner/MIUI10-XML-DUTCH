@@ -707,7 +707,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
   <string name="extreme_add_white_list_title">Background exceptions</string>
   <string name="extreme_power_save_description">&lt;li&gt;"Extreme batterijbesparing stopt alle achtergrondactiviteit van een app nadat u deze hebt verlaten en keert terug naar het startscherm. Deze app stuurt je geen meldingen of ontvangt geen updates."&lt;/li&gt;"
-"&lt;li&gt;Als u wilt dat een app op de achtergrond wordt uitgevoerd, vergrendelt u deze in 'Recent' of voegt u deze toe aan onderstaande achtergronduitzonderingen. Er kunnen maximaal 4 apps op de achtergrond worden uitgevoerd wanneer Extreme batterijbesparing is ingeschakeld.&lt;/li&gt;"
+"&lt;li&gt;Als u wilt dat een app op de achtergrond wordt uitgevoerd, vergrendelt u deze in \'Recent\' of voegt u deze toe aan onderstaande achtergronduitzonderingen. Er kunnen maximaal 4 apps op de achtergrond worden uitgevoerd wanneer Extreme batterijbesparing is ingeschakeld.&lt;/li&gt;"
 "&lt;li&gt;Extreme batterijbesparing schakelt standaard NFC uit. U kunt dit wijzigen in Instellingen.&lt;/li&gt;"
 "&lt;li&gt;Om ervoor te zorgen dat u alle functies van uw apparaat normaal kunt gebruiken, wordt Extreme batterijbesparing automatisch uitgeschakeld wanneer uw batterij 30% is opgeladen.&lt;/li&gt;</string>
   <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, stops sync, and reduces display colors.</string>
