@@ -956,6 +956,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_privacy_enable_geolocation_summary">Browser toestaan om toegang te vragen tot uw locatie</string>
   <string name="pref_privacy_formdata_title">Formuliergegevens</string>
   <string name="pref_privacy_location_title">Locatietoegang</string>
+  <string name="pref_privacy_policy">Privacybeleid</string>
   <string name="pref_privacy_security_title">Privacy &amp; beveiliging</string>
   <string name="pref_save_bandwidth_mode_title">Dataverbruik verminderen</string>
   <string name="pref_security_accept_cookies">Cookies accepteren</string>
