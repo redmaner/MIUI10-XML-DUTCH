@@ -1783,6 +1783,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="section_title_system">Systeemveiligheid</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
+  <string name="see_more_content">Gamecentrum updaten bij om meer hoogtepunten te zien</string>
   <string name="set_applock_password">Wachtwoord instellen</string>
   <string name="set_mixed_password_name">Wachtwoord instellen</string>
   <string name="set_numeric_password_name">PIN instellen</string>

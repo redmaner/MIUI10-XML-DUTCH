@@ -61,6 +61,8 @@
   <string name="asset_sync_power_alert_message">Sluit oplader aan om nummers te back-uppen.</string>
   <string name="asset_sync_power_alert_title">Batterij bijna leeg</string>
   <string name="audio_picker_title">Kies een nummer</string>
+  <string name="auto_update">Automatisch updaten</string>
+  <string name="auto_update_tip">U kunt systeem apps bijwerken met mobiele data. Dit kan extra kosten meebrengen.</string>
   <string name="available_playlist_name_format">Nieuwe afspeellijst %d</string>
   <string name="avoid_to_use_traffic_summary">Gebruik nooit mobiele netwerken om muziek te streamen</string>
   <string name="avoid_to_use_traffic_title">Mij waarschuwen als ik mobiele data gebruik om nummers af te spelen</string>
@@ -87,7 +89,6 @@
   <string name="change_download_quality">Downloadkwaliteit wijzigen</string>
   <string name="checking_new_version">Controleren op updates…</string>
   <string name="choose_download_quality">Kies downloadkwaliteit</string>
-  <string name="choose_language">Taal selecteren</string>
   <string name="choose_stream_quality">Kies streamkwaliteit</string>
   <string name="click_to_shuffle">Tik om te shuffelen</string>
   <string name="close_music_time">"Resterende tijd: "</string>
@@ -365,6 +366,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
   <string name="home_tab_local">Mijn muziek</string>
   <string name="home_tab_online">Online muziek</string>
+  <string name="hungama_category_playlist">Afspeellijst</string>
   <string name="hungama_subscribe_message">Koop PRO lidmaatschap om muziek van hoge kwaliteit te downloaden.</string>
   <string name="hungama_subscribe_positive_button">Koop PRO lidmaatschap</string>
   <string name="hungama_subscribe_title">PRO lidmaatschap</string>
@@ -394,6 +396,10 @@ verzorgd door Ultimate Inc.</string>
   <string name="karaoke_title">Introductie karaoke</string>
   <string name="keep_queued_download">Behouden</string>
   <string name="ktv_playlist">KTV afspeellijst</string>
+  <string name="language_page_confirm">Bevestigen</string>
+  <string name="language_preference">Taalvoorkeuren</string>
+  <string name="language_preference_desc">Selecteer uw voorkeurstalen om meer relevante aanbevelingen te ontvangen</string>
+  <string name="languages">Talen</string>
   <string name="latest_song">Afspeelgeschiedenis (%d)</string>
   <string name="like">Leuk</string>
   <string name="list_item_play_all_tracks">Alles afspelen</string>
@@ -446,8 +452,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="miuishare_share_editor_title">Delen</string>
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
-  <string name="miuishare_wechat_timeline_title">WeChat momenten</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="mobile_recommended_title">Mobiele datagebruik</string>
   <string name="modify_lyric">Bewerk songteksten</string>
   <string name="modify_pic">Cover wijzigen</string>
@@ -458,12 +462,14 @@ verzorgd door Ultimate Inc.</string>
   <string name="more">Meer</string>
   <string name="more_add_song_list">Nummers toevoegen aan wachtrij</string>
   <string name="more_settings">Geavanceerde instellingen</string>
-  <string name="more_settings_summary">Sleep timer, filters voor bestanden, enz.</string>
+  <string name="more_settings_summary">Sleep timer, bestanden filteren, enz.</string>
   <string name="more_share">Delen</string>
   <string name="music_browser_label">Muziek</string>
   <string name="music_filter">Audiobestanden filteren</string>
   <string name="music_service">Muziekservice</string>
   <string name="music_settings">Muziek</string>
+  <string name="mv_metered_play_summary">Deze gegevensgebruikswaarschuwing niet meer weergeven</string>
+  <string name="mv_metered_play_title">Speel online video\'s met behulp van mobiele data</string>
   <string name="my_account">Mi account</string>
   <string name="my_music_empty">Afspeellijst is leeg.</string>
   <string name="my_music_empty_goto_online">Geen nummers gevonden</string>
@@ -485,12 +491,13 @@ verzorgd door Ultimate Inc.</string>
   <string name="no_online_song_selected">Geen nummers geselecteerd</string>
   <string name="no_results_return">Geen zoekresultaten</string>
   <string name="no_scanned_songs">Leeg</string>
-  <string name="no_song_downloaded">Verbinding met de server mislukt</string>
+  <string name="no_song_downloaded">Kon geen nummers niet vinden om te downloaden</string>
   <string name="no_song_subtitle">Dompel jezelf onder in geluid</string>
   <string name="no_song_title">Mi Music</string>
   <string name="no_system_cropper_find">Geen tool voor bijsnijden van afbeelding gevonden.</string>
   <string name="normal_quality">Goed</string>
   <string name="not_login">Niet aangemeld</string>
+  <string name="not_now">Nu niet</string>
   <string name="not_selected">Kies een nummer</string>
   <string name="nothing_changed_toast">Je hebt nog niets veranderd.</string>
   <string name="notif_title_file_size">%1$d totaal</string>
@@ -611,7 +618,9 @@ verzorgd door Ultimate Inc.</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_songs_count">Nummers: %d</string>
   <string name="search_title">Zoeken</string>
+  <string name="select">Selecteren</string>
   <string name="select_all">Alles selecteren</string>
+  <string name="select_desc_sub">U kan tot 3 talen selecteren</string>
   <string name="select_device">Kies apparaat</string>
   <string name="select_displayed_folders">Map kiezen om weer te geven</string>
   <string name="select_local_cover">Locale cover selecteren</string>
@@ -649,7 +658,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="share_end_note">Van Mi Muziek</string>
   <string name="share_failed">Kon niet delen</string>
   <string name="share_image_error">Kon afbeelding niet delen vanwege een download fout</string>
-  <string name="share_text_list">"Afspeelijst uit Mi Music:"</string>
+  <string name="share_text_list">"Afspeellijst uit Mi Music:"</string>
   <string name="share_text_song">"Nummer uit Mi Music:"</string>
   <string name="show_more">Toon %s meer</string>
   <string name="shuffle_music">Willekeurig afspelen</string>
@@ -712,7 +721,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="talkback_search">Zoeken</string>
   <string name="talkback_show_navigation_draw">Drawer weergeven</string>
   <string name="terms_of_service">Servicevoorwaarden</string>
-  <string name="text_separator">|</string>
+  <string name="test_mode">Test modus</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
   <string name="time_to_upgrade">Er is een update beschikbaar</string>
