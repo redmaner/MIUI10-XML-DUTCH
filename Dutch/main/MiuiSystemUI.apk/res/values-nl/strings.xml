@@ -631,7 +631,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord voor de tweede ruimte invoeren</string>
   <string name="fingerprint_not_identified_msg">Te veel mislukte pogingen. Voer nu een wachtwoord in of probeer binnen enkele seconden uw vingerafdruk te gebruiken.</string>
   <string name="fingerprint_not_identified_msg_lock">Te veel mislukte pogingen. Wachtwoord nu invoeren.</string>
-  <string name="fingerprint_not_identified_title">Wach invoeren</string>
+  <string name="fingerprint_not_identified_title">Wachtwoord invoeren</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet verifiëren, probeer het opnieuw.</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw</string>
@@ -717,7 +717,7 @@ Zodra uw telefoon is afgekoeld, werkt deze terug normaal."</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan tussen niet ruimtes schakelen wanneer ouderlijk toezicht ingeschakeld is</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet eerst naar de eertste ruimte gaan nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet openen vanuit het vergrendelscherm. Geef vanuit de eerste ruimte.</string>
-  <string name="input_password_hint_text">Wac invoeren</string>
+  <string name="input_password_hint_text">Wachtwoord invoeren</string>
   <string name="input_pattern_hint_text">Teken je ontgrendelingspatroon</string>
   <string name="input_pin_code">PIN invoeren</string>
   <string name="input_puk_code">Input PUK</string>
