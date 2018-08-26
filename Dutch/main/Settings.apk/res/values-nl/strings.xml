@@ -303,7 +303,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_list_memory_use">Appgebruik</string>
   <string name="app_list_preference_none">Geen</string>
   <string name="app_memory_use">Geheugengebruik</string>
-  <string name="app_mobile">Mobiel</string>
+  <string name="app_mobile">Mobiele data</string>
   <string name="app_name_label">App</string>
   <string name="app_name_na">Data gebruik</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
@@ -358,7 +358,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="apply_now_button_text">Updaten</string>
   <string name="apply_password_to_category_title">Ontgrendeling nodig</string>
   <string name="apply_update_fail">Kon niet updaten</string>
-  <string name="approve_title">Verificatie</string>
+  <string name="approve_title">Certificatie</string>
   <string name="apps_storage">Opslag voor apps</string>
   <string name="apps_summary">%1$d apps geïnstalleerd</string>
   <string name="apps_summary_example">24 apps geïnstalleerd</string>
@@ -872,6 +872,8 @@ Sample Rate"</string>
   <string name="bootloader_locked_answer_2">"1. Controleer of u al een SIM kaart in uw apparaat hebt geplaatst.
 2. Tik hieronder op \"Account toevoegen " om uw Mi-account aan dit apparaat te koppelen.
 3. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1.Tik hieronder op \"Account toevoegen\" om uw Mi account aan dit apparaat te koppelen.
+2. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
   <string name="bootloader_locked_check_status">Account en apparaat toevoegen</string>
   <string name="bootloader_locked_question_1">Waarom zouden apparaten vergrendeld moeten worden?</string>
   <string name="bootloader_locked_question_2">Ik begrijp de risico\'s, maar wil nog steeds mijn apparaat ontgrendelen.</string>
@@ -899,10 +901,7 @@ Sample Rate"</string>
   <string name="brightness_title">Helderheid</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
-  <string name="bt_ldac_declaration">Als het Bluetooth apparaat LDAC ondersteunt, is dit standaard verbonden. LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik. Afspelen kan optreden als gevolg van Bluetooth hardwarebeperkingen</string>
-  <string name="bt_ldac_dialog_summary">"LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik
-Deze functie kan worden uitgeschakeld in [Instellingen]"</string>
-  <string name="bt_ldac_dialog_title">Het huidige apparaat ondersteunt LDAC, die standaard verbonden is:</string>
+  <string name="bt_ldac_declaration">Wanneer een Bluetooth apparaat LDAC ondersteunt, wordt dit standaard verbonden. LDAC biedt een audio ervaring van hoge kwaliteit, maar verhoogt ook het stroomverbruik. Er kunnen problemen optreden tijdens het afspelen vanwege Bluetooth hardwarebeperkingen.</string>
   <string name="bt_ldac_open_dialog_summary">LDAC biedt een audio ervaring van hoge kwaliteit en zorgt ook voor een hoger stroomverbruik. Afspelen kan optreden als gevolg van Bluetooth hardwarebeperkingen</string>
   <string name="bt_ldac_open_dialog_title">Weet je zeker dat je LDAC wenst in te schakelen?</string>
   <string name="bt_ldac_pre_summary">Zorg voor een audio ervaring van hoge kwaliteit</string>
@@ -965,7 +964,6 @@ Deze functie kan worden uitgeschakeld in [Instellingen]"</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_alert">Aanpassingen verwijderen?</string>
   <string name="cancel_button">Annuleren</string>
-  <string name="cancel_description">Annuleren</string>
   <string name="cancel_download_buton_text">Annuleren</string>
   <string name="cant_sync_dialog_message">Synchronisatie is op dit moment uitgeschakeld voor dit item. Als u deze instelling wilt wijzigen, schakelt u achtergrondgegevens en automatisch synchroniseren tijdelijk in.</string>
   <string name="cant_sync_dialog_title">Kan niet handmatig synchroniseren</string>
@@ -1100,7 +1098,6 @@ Deze functie kan worden uitgeschakeld in [Instellingen]"</string>
   <string name="confirm_action">Ok</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Toevoegen</string>
   <string name="confirm_convert_to_fbe_warning">Gebruikersgegevens wissen en converteren naar bestandsencryptie?</string>
-  <string name="confirm_description">Bevestigen</string>
   <string name="confirm_download_cancelation_dialog_message">Download annuleren?</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeschermingsfuncties zullen niet werken op dit apparaat als deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendelen toestaan?</string>
@@ -1380,6 +1377,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Deze vingerafdruk verwijderen?</string>
   <string name="delete_rule">Regels verwijderen</string>
   <string name="delete_saved_network">Opgeslagen netwerken verwijderen</string>
+  <string name="delete_sound_effect">\"Verwijder\" geluid</string>
   <string name="deleted_apps">Verwijderde apps</string>
   <string name="deletion_helper_automatic_title">Automatisch</string>
   <string name="deletion_helper_manual_title">Handmatig</string>
@@ -1669,6 +1667,7 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="enhanced_4g_lte_mode_title">Verbeterde 4G LTE modus</string>
   <string name="enter_password">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
   <string name="enter_pattern">Voer huidige vergrendelschermwachtwoord in om apparaat te decoderen na opnieuw opstarten</string>
+  <string name="enterprise_mode">Enterprise modus</string>
   <string name="enter_pin">Voer uw pincode in om Android te starten</string>
   <string name="enterprise_privacy_always_on_vpn_device">VPN altijd aan ingeschakeld</string>
   <string name="enterprise_privacy_always_on_vpn_personal">VPN altijd aan ingeschakeld in uw persoonlijke profiel</string>
@@ -1902,6 +1901,12 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="forget">Vergeten</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
+  <string name="forget_password_dialog_button_text">Back</string>
+  <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Selecteren &amp;lt;font color=#e6e6e6&amp;gt;[Data wissen]&amp;lt;/font&amp;gt;, en wacht totdat je apparaat opnieuw wordt opgestart.&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Als u uw wachtwoord bent vergeten, kunt u het niet meer herstellen. U kunt uw wachtwoord echter opnieuw instellen nadat u &amp;lt;font color=#ec2700&amp;gt;alle data op uw apparaat gewist hebt&amp;lt;/font&amp;gt; (inclusief foto\'s, contacten, etc.). Maak een back-up van alle belangrijke data."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Schakel uw apparaat uit. Druk op de &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; knop en de &amp;lt;font color=#e6e6e6&amp;gt;[Volume+]&amp;lt;/font&amp;gt; knop tegelijkertijd ingedrukt houden totdat u het &amp;lt;img src=''&amp;gt; icoon ziet."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_two">Volg deze stappen om datat te wissen:</string>
+  <string name="forget_password_dialog_title">Stel je wachtwoord opnieuw in</string>
   <string name="forget_pattern">Patroon vergeten?</string>
   <string name="forget_privacy_password_setting">Mi Account toevoegen</string>
   <string name="forget_privacy_password_summary">Gebruik Mi Account om wachtwoord te resetten</string>
@@ -2148,6 +2153,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_shortcuts_helper">Toetsenbord snelkoppeling helper</string>
   <string name="keyboard_shortcuts_helper_summary">Beschikbare snelkoppelingen weergeven</string>
   <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
+  <string name="keyguard_security_setting_others">Andere</string>
+  <string name="keyguard_security_setting_privacy_policy">Privacybeleid</string>
+   <string name="keyguard_vertical_clock_title">Verticale klok</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_airplane">Vliegtuig;Vliegmodus;Vliegtuig;Vliegmodus;Vlucht;Vliegmodus</string>
   <string name="keywords_all_apps">apps download applicaties systeem</string>
@@ -2643,6 +2651,9 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_lab_features">MIUI lab functies</string>
   <string name="miui_lab_gallery_search_desc">Verbeterd naar afbeeldingen zoeken</string>
   <string name="miui_lab_gallery_search_title">Vind foto\'s in galerij</string>
+  <string name="miui_lab_install_drive_mode_error">Kon niet installeren, probeer opnieuw.</string>
+  <string name="miui_lab_install_drive_mode_summary">Auto modus is een systeem app. Installatie vereist geen internetverbinding.</string>
+  <string name="miui_lab_install_drive_mode_title">Auto modus installeren</string>
   <string name="miui_lab_slogan">Leer. Verken. Ontdek.</string>
   <string name="miui_lab_super_resolution_desc">Maak afbeeldingen scherper</string>
   <string name="miui_lab_super_resolution_title">Super resolutie</string>
@@ -2776,9 +2787,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="navigation_guide_app_title">Actie van app triggeren</string>
   <string name="navigation_guide_appswitch_summary">Veeg naar links of rechts vanaf de rand van het scherm en houd even ingedrukt</string>
   <string name="navigation_guide_appswitch_title">Schakel over naar de vorige app</string>
-  <string name="navigation_guide_back_anim_summary">Animatie weergeven wanneer je vanaf de rand van het scherm veegt</string>
-  <string name="navigation_guide_back_anim_title">Animatie voor het teruggebaar</string>
-  <string name="navigation_guide_back_summary">Veeg naar links of rehchts vanaf de zijkant van het scherm</string>
+  <string name="navigation_guide_back_summary">Veeg naar links of rechts vanaf de zijkant van het scherm</string>
   <string name="navigation_guide_back_title">Terug</string>
   <string name="navigation_guide_dialog_dont_show_again">Niet opnieuw weergeven</string>
   <string name="navigation_guide_dialog_ok">Leren</string>
@@ -2918,7 +2927,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="notification_channel_badge_title">Notificatiepunt weergeven</string>
   <string name="notification_channel_sound_title">Geluid</string>
   <string name="notification_channel_title">Meldingscategorie</string>
-  <string name="notification_channels">Categorieën</string>
+  <string name="notification_channels">Meldingscategorieën</string>
   <string name="notification_channels_other">Andere</string>
   <string name="notification_content_block_summary">Nooit meldingen in de schaduw of op randapparatuur weergeven</string>
   <string name="notification_content_block_title">Meldingen weergeven</string>
@@ -3143,6 +3152,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="picture_in_picture_title">Picture-in-picture</string>
   <string name="pin_failed">Bewerking met PIN code voor SIM kaart mislukt.</string>
   <string name="ping_test_label">Pingtest uitvoeren</string>
+  <string name="play_pause_description">Afspelen/Pauze Knop</string>
   <string name="please_select_phase2">Fase 2 verificatie</string>
   <string name="please_type_passphrase">Wachtwoord</string>
   <string name="pointer_location">Cursorlocatie</string>
@@ -3584,6 +3594,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="saved_wifi">Opgeslagen netwerken beheren</string>
   <string name="saved_wifi_delete">Verwijderen</string>
   <string name="scan_list_label">Scanresultaten:</string>
+  <string name="sccret_code_error">De ingevoerde code is niet juist.</string>
   <string name="screen">Scherm</string>
   <string name="screen_button">Schermknoppen</string>
   <string name="screen_button_tips">Naar beneden vegen om schermknoppen te verbergen</string>
@@ -3947,6 +3958,8 @@ Om schermpinning te gebruiken:
   <string name="security_encryption_progress_dialog_open">Coderen…</string>
   <string name="security_encryption_rejected_via_home_manager">Deze functie wordt niet ondersteund in de demoversie.</string>
   <string name="security_encryption_title">Apparaat versleutelen met vergrendelschermwachtwoord</string>
+  <string name="security_input">Beveiligingsinvoer</string>
+  <string name="security_input_hint">Gebruik een veiligheidsklavier en voer het wachtwoord in</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
   <string name="security_password_category_name">Schermvergrendeling</string>
   <string name="security_passwords_title">Wachtwoorden</string>
@@ -4227,7 +4240,7 @@ PIN code mogelijk onjuist.</string>
   <string name="sound_settings_summary">Belvolume op %1$s</string>
   <string name="sound_settings_summary_silent">Belvolume ingesteld op stil</string>
   <string name="sound_settings_summary_vibrate">Belvolume ingesteld om te trillen</string>
-  <string name="sound_stereo_mode_summary">Alleen beschikbaar wanneer u geluid met luidspreker afspeelt</string>
+  <string name="sound_stereo_mode_summary">Werkt alleen met de luidspreker</string>
   <string name="sound_stereo_mode_title">Stereo geluid</string>
   <string name="sound_vibrate_settings">Geluid &amp; trillen</string>
   <string name="sound_work_settings">Werkprofiel geluiden</string>
@@ -4270,7 +4283,9 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_basic_settings">Basisinstellingen</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi naam aanpassen</string>
-  <string name="status_bar_settings_enable_notification">Meldingen tonen</string>
+  <string name="status_bar_settings_enable_notification">Meldingen weergeven</string>
+  <string name="status_bar_settings_expand_top_notification">Bovenste meldingen uitbreiden</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Weergeven op veilig vergrendelscherm</string>
   <string name="status_bar_settings_long_click_sort">Tik &amp; houd ingedrukt om een schakelaar op te pakken</string>
   <string name="status_bar_settings_manage_notification">Appmeldingen</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
@@ -4282,6 +4297,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_shade_shortcut">Meldingskleur snelkoppeling</string>
   <string name="status_bar_settings_notification_sound">Geluid</string>
   <string name="status_bar_settings_notification_sound_custom">Aangepast geluid</string>
+  <string name="status_bar_settings_notification_use_app_icon">Gebrui app iconen voor meldingen</string>
   <string name="status_bar_settings_notification_vibrate">Trillen</string>
   <string name="status_bar_settings_show_carrier">Provider tonen</string>
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
@@ -4326,12 +4342,15 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_wimax_mac_address">4G MAC adres</string>
   <string name="status_write_success">Success!</string>
   <string name="statusbar_permission_desc">De volgende toestemmingen zijn alleen geldig voor belangrijke meldingen.</string>
+  <string name="stop_upload_audio_log">Finish getting audio log</string>
+  <string name="stop_upload_gps_log">Voltooi het krijgen van GPS log</string>
+  <string name="stop_upload_modem_log">Voltooi het krijgen van modem log</string>
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Gecachte gegevens</string>
   <string name="storage_detail_dialog_other">"Overig is inclusief gedeelde bestanden opgeslagen door apps, bestanden gedownload van het internet of Bluetooth, androidbestanden enzovoort.
 
-To see the entire contents of this ^1 te zien tik je op verkennen."</string>
+Om ^1 te zien tik op verkennen."</string>
   <string name="storage_detail_dialog_system">Systeem bevat bestanden die nodig zijn om Android versie %s te draaien</string>
   <string name="storage_detail_dialog_user">"^1 bevat mogelijk bewaarde foto's, muziek, films, apps, of andere data die ^2 aan ruimte opnemen.</string>
   <string name="storage_detail_explore">^1 verkennen</string>
@@ -4638,8 +4657,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
   <string name="toast_need_login">Aanmelden op uw Mi account</string>
   <string name="total">Niet storen</string>
-  <string name="total_info">Demp geluid %1$s behalve de alarmen</string>
-  <string name="total_info_sub">and turn off vibration</string>
+  <string name="total_info">Demp geluid en zet trillen uit, behalve de alarmen</string>
+  <string name="total_info_no_vibrator">Geluid dempen behalve de alarmen</string>
   <string name="total_memory">Totaal geheugen</string>
   <string name="total_size">%s totaal</string>
   <string name="total_size_label">Totaal</string>
@@ -4826,8 +4845,11 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="untitled_apn">Naamloos</string>
   <string name="update_new_version">Update is beschibaar</string>
   <string name="update_progress_for_updates">Updaten （%s）</string>
+  <string name="upload_audio_log">Begin met het verkrijgen van een audio log</string>
   <string name="upload_debug_log_summary">Gebruikstatistieken die ons helpen problemen op te sporen en op te lossen, bevatten mogelijk uw persoonlijke gegevens</string>
   <string name="upload_debug_log_title">Diagnostische data automatisch verzenden</string>
+  <string name="upload_gps_log">Begin met het verkrijgen van een GPS log</string>
+  <string name="upload_modem_log">Begin met het verkrijgen van een modem log</string>
   <string name="usage">Verbruik</string>
   <string name="usage_access">Gebruikstoegang</string>
   <string name="usage_access_description">Gebruikstoegang laat een app toe om bij te houden welke andere apps u gebruikt en hoe vaak, evenals uw provider, taalinstellingen en andere details.</string>
@@ -5198,6 +5220,7 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="wallpaper_settings_title">Achtergrond</string>
   <string name="wallpaper_suggestion_summary">Personaliseer uw scherm</string>
   <string name="wallpaper_suggestion_title">Achtergrond wijzigen</string>
+<<<<<<< HEAD
   <string name="wapi_auto_sel_cert">Automatish selecteren</string>
   <string name="wapi_auto_sel_cert_fail">Kan het certificaat niet automatisch selecteren. Selecteer een certificaat van de lijst en probeer te verbinden.</string>
   <string name="wapi_cert_is_not_selected">Selecteer eerst het certificaat</string>
@@ -5216,6 +5239,26 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="wapi_yes">ja</string>
   <string name="warm_color">Warm</string>
   <string name="web_action_enable_summary">Open links in apps, zelfs als deze niet zijn geïnstalleerd</string>
+=======
+  <string name="wapi_auto_sel_cert">Automatisch selecteren</string>
+  <string name="wapi_auto_sel_cert_fail">Kan certificaten niet automatisch selecteren. Selecteer een certificaat in de lijst en probeer vervolgens verbinding te maken.</string>
+  <string name="wapi_cert_is_not_selected">Selecteer eerst het certificaat</string>
+  <string name="wapi_cert_manage_summary">WAPI certificaat toevoegen of verwijderen</string>
+  <string name="wapi_cert_manage_title">WAPI certificaatbeheer</string>
+  <string name="wapi_cert_select">WAPI certificaat</string>
+  <string name="wapi_no">Nee</string>
+  <string name="wapi_no_vaild_cert">Lijkt erop dat vereiste certificaten niet zijn geïnstalleerd. Nu installeren?"</string>
+  <string name="wapi_password_empty">Wachtwoord invoeren</string>
+  <string name="wapi_password_hex_format_invalid">Ongeldige wachtwoordindeling</string>
+  <string name="wapi_password_hex_length_invalid">Het aantal hexadecimale tekens moet een even getal zijn</string>
+  <string name="wapi_password_length_invalid">Wachtwoord moet 8 tot 64 tekens lang zijn</string>
+  <string name="wapi_psk_type">Wachtwoord type</string>
+  <string name="wapi_psk_type_ascii">ASCII</string>
+  <string name="wapi_psk_type_hex">Hexadecimal</string>
+  <string name="wapi_yes">Ja</string>
+  <string name="warm_color">Warm</string>
+  <string name="web_action_enable_summary">Open links in apps, zelfs als ze niet zijn geïnstalleerd</string>
+>>>>>>> upstream/master
   <string name="web_action_enable_title">Instant apps</string>
   <string name="web_action_section_title">Instant apps</string>
   <string name="webview_disabled_for_user">(uitgeschakeld voor gebruiker %s)</string>

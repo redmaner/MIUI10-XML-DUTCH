@@ -31,8 +31,12 @@
         <item quantity="one">%1$d contact</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contacten geimporteerd</item>
-        <item quantity="one">%1$d contact geimporteerd</item>
+        <item quantity="other">%1$d contacten geïmporteerd</item>
+        <item quantity="one">%1$d contact geïmporteerd</item>
+    </plurals>
+	<plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">%1$d geïmporteerde contacte</item>
+        <item quantity="one">%1$d geïmporteerd contact</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">%1$d telefoonnummers blokkeren?</item>

@@ -165,6 +165,7 @@
   <string name="timer_alert_type_rain">Motregen</string>
   <string name="timer_alert_type_stove_fire">Knisperend vuur</string>
   <string name="timer_alert_type_summer_night">Zomernacht</string>
+  <string name="timer_can_continue_in_timer">Timer openen om door te gaan</string>
   <string name="timer_cancel_hint">Stoppen</string>
   <string name="timer_cancel_timer">Timer annuleren</string>
   <string name="timer_clock_alert_text">Stel timer in</string>
@@ -174,6 +175,7 @@
   <string name="timer_end_time_format">HH:mm dd MMM</string>
   <string name="timer_end_time_format_today">HH:mm</string>
   <string name="timer_got_it">Ok</string>
+  <string name="timer_is_paused">Timer is gepauzeerd</string>
   <string name="timer_item_duration_display">%1$d min %2$d sec</string>
   <string name="timer_item_label_hint">Timernaam</string>
   <string name="timer_new_item">Timer toevoegen</string>

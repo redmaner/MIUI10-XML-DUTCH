@@ -27,6 +27,8 @@
   <string name="app_label">Berichten</string>
   <string name="app_name">Apparatenbeheer</string>
   <string name="attach_image">Foto\'s</string>
+  <string name="attach_rcs_file">Bestand</string>
+  <string name="attach_rcs_location">Locatie</string>
   <string name="attach_record_sound">Audio opnemen</string>
   <string name="attach_record_video">Video opnemen</string>
   <string name="attach_slideshow">Diavoorstelling</string>
@@ -60,6 +62,7 @@
   <string name="button_resend_message">Opnieuw verzenden</string>
   <string name="button_unfold">Uitklappen</string>
   <string name="call_sender">Bel afzender</string>
+  <string name="can_not_send_by_rcs">Kan China Mobile Messaging niet gebruiken</string>
   <string name="cannot_add_picture_and_video">Kan video en afbeelding niet toevoegen aan een dia.</string>
   <string name="cannot_add_slide_anymore">Meer dia\'s toevoegen mislukt</string>
   <string name="cannot_forward_drm_obj">Het DRM object in het bericht kan niet worden doorgestuurd.</string>
@@ -119,6 +122,7 @@
   <string name="conversation_style">Bubbel</string>
   <string name="converting_to_picture_message">Converteren naar MMS bericht, hieraan zijn kosten verbonden</string>
   <string name="converting_to_text_message">Converteren naar SMS…</string>
+  <string name="converting_vcard_failed">Kan contact niet converteren</string>
   <string name="copy_message_text">Kopiëren</string>
   <string name="copy_message_text_success">Bericht gekopiëerd</string>
   <string name="copy_to_sdcard">Bijlage opslaan</string>
@@ -136,7 +140,15 @@
   <string name="delete_wild_sims_title">Geselecteerde nummers verwijderen</string>
   <string name="delivery_report_activity">Afleveringsrapport</string>
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
+  <string name="delivery_toast_body_more">Bericht ontvangen van %1$s en %2$d andere personen</string>
   <string name="dialog_message_fake_cell_detect_error">De informatie over dit bericht corrigeren? MIUI moet hiervoor het telefoonnummer (%1$s), de inhoud van het bericht en de informatie over de locatie in de buurt uploaden naar zijn servers.</string>
+  <string name="dialog_message_mx">Met Mi Message kunt u gratis berichten naar andere MIUI apparaten verzenden. Er is een uitgaand SMS nodig om Mi Message te activeren. Uw provider brengt dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt.</string>
+  <string name="dialog_message_mx_rcs">Met Mi Message kunt u gratis berichten verzenden naar andere MIUI apparaten en China Mobile gebruikers. Er is een uitgaand SMS nodig om Mi Message te activeren. Uw provider brengt dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s \" voordat je Mi Message gebruikt. Akkoord?</string>
+  <string name="dialog_message_networking">Mi Message moet verbinding met internet maken en toegang krijgen tot uw locatie om Smart Messaging, Sender ID herkenning en andere diensten te bieden. U moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat u deze diensten gebruikt. Toestaan?</string>
+  <string name="dialog_message_networking_mx">Met Mi Message kunt u gratis berichten naar andere MIUI apparaten verzenden. Er is een uitgaand SMS nodig om Mi Message te activeren. Uw provider brengt dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt. Mi Message moet verbinding met internet maken en toegang krijgen tot uw locatie om Smart Messaging, Sender ID herkenning en andere diensten te bieden. Toestaan?</string>
+  <string name="dialog_message_networking_mx_rcs">Met Mi Message kunt u berichten verzenden naar andere MIUI apparaten en China Mobile gebruikers zonder dat daarvoor kosten in rekening worden gebracht. Er is een uitgaand SMS nodig om Mi Message te activeren. Uw provider brengt u dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt. Mi Message moet verbinding met internet maken en toegang krijgen tot uw locatie om Smart Messaging, Sender ID herkenning en andere diensten te bieden. Toestaan?</string>
+  <string name="dialog_message_networking_rcs">China Mobile Messaging stelt u in staat om gratis berichten te verzenden naar andere Chinese mobiele gebruikers. U moet akkoord gaan met \"%1$s\" en \"%2$s \" voordat u China Mobile Messaging gebruikt. Berichten moeten verbinding met internet maken en toegang krijgen tot uw locatie om Smart Messaging, Sender ID herkenning en andere diensten te bieden. Toestaan?</string>
+  <string name="dialog_message_rcs">China Mobile Messaging stelt u in staat om berichten gratis te verzenden naar andere Chinese mobiele gebruikers. U moet akkoord gaan met \"%1$s\" en \"%2$s\" voordat u China Mobile Messaging gebruikt. Akkoord?</string>
   <string name="dialog_message_sms_report">"Spamberichten en informatie over de afzender zullen worden verstuurd aan MIUI wanneer je ze rapporteert. Ze zullen alleen worden gebruikt om MIUI's spamfilters te verbeteren."</string>
   <string name="dialog_title_fake_cell_detect_error">Correctie</string>
   <string name="disable_notifications_dialog_message">Dubbele SMS meldingen van standaardapp voor berichten stoppen?</string>
@@ -354,11 +366,18 @@
   <string name="no_subject_view">(Geen onderwerp)</string>
   <string name="non_english_subject_limit">Maximaal 13 tekens</string>
   <string name="nosend_message">Niet versturen</string>
-  <string name="notification_channel_description">Meldingen van berichten</string>
-  <string name="notification_channel_name">Berichten</string>
+  <string name="notification_channel_msg_description">Meldingen over berichten</string>
+  <string name="notification_channel_msg_name">Berichten</string>
+  <string name="notification_channel_other_description">Andere meldingen</string>
+  <string name="notification_channel_other_name">Andere</string>
+  <string name="notification_channel_sim1_description">Meldingen over SIM 1 berichten</string>
+  <string name="notification_channel_sim1_name">SIM 1 berichten</string>
+  <string name="notification_channel_sim2_description">Meldingen over SIM 2 berichten</string>
+  <string name="notification_channel_sim2_name">SIM 2 berichten</string>
   <string name="notification_copy">OTP kopiëren</string>
   <string name="notification_failed_multiple">[%s]</string>
   <string name="notification_failed_multiple_title">Berichten niet verzonden</string>
+  <string name="notification_group_name">Berichten</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
   <string name="open_audio_record_panel">Paneel om geluid op te nemen openen</string>
@@ -393,7 +412,7 @@
   <string name="pref_show_sms_template_entry_summary">Eenmalige wachtwoorden en geef de snelle menu\'s weer</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
-  <string name="pref_smart_messages_settings">Slimme berichten</string>
+  <string name="pref_smart_messages_settings">Slim berichten</string>
   <string name="pref_sms_storage_title">Opslag</string>
   <string name="pref_sms_theme_title">Thema-instellingen</string>
   <string name="pref_summary_allow_si_sl_push">Berichten toestaan om inhoud van websites te laden (SI/SL)</string>
@@ -642,6 +661,7 @@
   <string name="unstick">Vastprikken ongedaan maken</string>
   <string name="unstick_conversation">Vastprikken huidige conversatie ongedaan maken</string>
   <string name="unsticked_conversation">Conversatie is al losgemaakt</string>
+  <string name="unsubscribe">Uitschrijven</string>
   <string name="unsupported_media_format">Niet ondersteund %1$s formaat.</string>
   <string name="url_fraud_dangerous_alert">De website die u probeert te bezoeken is een fraudelink, kan schadelijk zijn voor uw apparaat en eigendom, wilt u doorgaan? 
 %s"</string>

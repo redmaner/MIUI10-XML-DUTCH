@@ -85,12 +85,15 @@
   <string name="accessibility_enter_lock_wallpaper">Tik om muziek te openen</string>
   <string name="accessibility_ethernet_connected">Ethernet is verbonden.</string>
   <string name="accessibility_ethernet_disconnected">Ethernet is niet verbonden.</string>
+   <string name="accessibility_fingerprint_dialog_app_icon">Application icon</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">Vingerafdruk icoon</string>
+  <string name="accessibility_fingerprint_dialog_help_area">Help berichtengebied</string>
   <string name="accessibility_gps_acquiring">GPS verwerven.</string>
   <string name="accessibility_gps_enabled">GPS ingeschakeld.</string>
   <string name="accessibility_home">Startpagina</string>
   <string name="accessibility_ime_switch_button">Wissel van invoermethode.</string>
   <string name="accessibility_key">Aangepaste navigatieknop</string>
-  <string name="accessibility_left_button">snelkoppeling</string>
+  <string name="accessibility_left_button">Snelkoppeling</string>
   <string name="accessibility_location_active">Locatieverzoeken actief</string>
   <string name="accessibility_managed_profile">Werkprofiel</string>
   <string name="accessibility_menu">Menu</string>
@@ -131,6 +134,7 @@
   <string name="accessibility_quick_settings_airplane_off">Vliegmodus uitgeschakeld.</string>
   <string name="accessibility_quick_settings_airplane_on">Vliegmodus ingeschakeld.</string>
   <string name="accessibility_quick_settings_alarm">Alarm ingesteld voor %s.</string>
+  <string name="accessibility_quick_settings_alarm_on">Alarm ingesteld op.</string>
   <string name="accessibility_quick_settings_alarm_set">Alarm instellen.</string>
   <string name="accessibility_quick_settings_battery">Batterij %s.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -138,6 +142,7 @@
   <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth ingeschakeld.</string>
   <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth verbonden.</string>
   <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth verbinden.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Batterij van Bluetooth apparaat is %d procent.</string>
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth uitgeschakeld.</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ingeschakeld.</string>
   <string name="accessibility_quick_settings_close">Sluit het paneel.</string>
@@ -259,7 +264,7 @@
   <string name="apn_settings_not_available">Instellingen voor Access Point namen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="app_info">App info</string>
   <string name="app_label">Systeem UI</string>
-  <string name="app_name">Keyguard</string>
+  <string name="app_name">Vergrendel scherm</string>
   <string name="app_process_limit_title">Achtergrond proceslimiet</string>
   <string name="as_important">Belangrijk</string>
   <string name="as_unimportant">Onbelangrijk</string>
@@ -271,6 +276,7 @@
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="back">Terug</string>
   <string name="battery">Batterij</string>
+  <string name="battery_can_use_time">Ongeveer %s resterend</string>
   <string name="battery_detail_charging_summary">Batterijbesparing is niet beschikbaar tijdens het opladen</string>
   <string name="battery_detail_switch_summary">Reduceert prestatie- en achtergrondgegevens</string>
   <string name="battery_detail_switch_title">Batterijbesparing</string>
@@ -439,7 +445,7 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
   <string name="data_connection_no_internet">Niet verbonden met internet</string>
   <string name="data_saver">Data bespaarder</string>
-  <string name="data_saver_description">Om datagebruik te verminderen, voorkomt data bespaarder dat sommige apps op de achtergrond gegevens verzenden of ontvangen. Een app die u momenteel gebruikt, heeft toegang tot data, maar mogelijk minder vaak. Dit kan bijvoorbeeld betekenen dat afbeeldingen niet worden weergegeven totdat u erop tikt.</string>
+  <string name="data_saver_description">Om gegevensgebruik te verminderen, voorkomt Data Saver dat sommige apps op de achtergrond gegevens verzenden of ontvangen. Een app die u momenteel gebruikt, heeft toegang tot data, maar mogelijk minder vaak. Dit kan bijvoorbeeld betekenen dat afbeeldingen niet worden weergegeven totdat u erop tikt.</string>
   <string name="data_saver_enable_button">Inschakelen</string>
   <string name="data_saver_enable_title">Data bespaarder inschakelen?</string>
   <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. 
@@ -499,10 +505,17 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="divider_menu_close">Sluiten</string>
   <string name="divider_menu_select_apps">Selecteren</string>
   <string name="divider_menu_swap_task">Wisselen</string>
+  <string name="dlg_cancel">Annuleren</string>
+  <string name="dlg_confirm">Inschakelen</string>
   <string name="dlg_confirm_kill_storage_users_text">Als u de USB opslag inschakelt, zullen sommige apps stoppen en niet beschikbaar zijn tot u de USB opslag uitschakelt.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB opslag uitschakelen</string>
   <string name="dlg_error_title">USB operatie gefaald</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">Ok</string>
+   <string name="dlg_summary_close_app">Beperk achtergrondactiviteit en meldingen</string>
+  <string name="dlg_summary_close_theme">Beperk geanimeerde thema\'s</string>
+  <string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth en draagbare hotspot uitschakelen</string>
+  <string name="dlg_summary_nfc">NFC uitschakelen</string>
+  <string name="dlg_summary_title">Extreme batterijbesparing stopt alle achtergrondactiviteit na het verlaten van een app en keert terug naar het startscherm. Als u wilt dat een app op de achtergrond wordt uitgevoerd, voegt u deze toe aan achtergronduitzonderingen.</string>
   <string name="dnd_is_off">Niet storen is uitgeschakeld</string>
   <string name="do_disclosure_generic">Dit apparaat wordt beheerd door uw organisatien</string>
   <string name="do_disclosure_with_name">Dit apparaat wordt beheerd door %s</string>
@@ -525,6 +538,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="enable_bluetooth_message">Als u het toetsenbord op uw tablet wilt aansluiten, schakelt u Bluetooth eerst in.</string>
   <string name="enable_bluetooth_title">Bluetooth inschakelen?</string>
   <string name="enable_demo_mode">Demomodus inschakelen</string>
+  <string name="enable_extreme_power_save_mode">Extreme batterijbesparing</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Ondersteuning voor experimentele freeform windows inschakelen.</string>
   <string name="enable_opengl_traces_title">OpenGL opsporen inschakelen</string>
@@ -611,12 +625,13 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="fingerprint_add_text">TDe vingerafdrukinterface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
   <string name="fingerprint_add_title">Vingerafdruk toevoegen</string>
   <string name="fingerprint_again_identified_msg">Uw vingerafdruk is nu actief. Gebruik het om het apparaat te ontgrendelen of voer een wachtwoord in.</string>
+  <string name="fingerprint_dialog_touch_sensor">Raak de vingerafdruk sensor aan</string>
   <string name="fingerprint_enter_second_psw_msg">Tweede ruimte wachtwoord invoeren na het rebooten om vingerafdrukherkenning te kunnen gebruiken</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Kan niet naar tweede ruimte gaan in de Lite modus</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord voor de tweede ruimte invoeren</string>
   <string name="fingerprint_not_identified_msg">Te veel mislukte pogingen. Voer nu een wachtwoord in of probeer binnen enkele seconden uw vingerafdruk te gebruiken.</string>
   <string name="fingerprint_not_identified_msg_lock">Te veel mislukte pogingen. Wachtwoord nu invoeren.</string>
-  <string name="fingerprint_not_identified_title">Wach invoeren</string>
+  <string name="fingerprint_not_identified_title">Wachtwoord invoeren</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet verifiëren, probeer het opnieuw.</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw</string>
@@ -699,9 +714,10 @@ Zodra uw telefoon is afgekoeld, werkt deze terug normaal."</string>
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan tijdens een gesprek niet schakelen tussen ruimtes</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan tussen niet ruimtes schakelen wanneer ouderlijk toezicht ingeschakeld is</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet eerst naar de eertste ruimte gaan nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet openen vanuit het vergrendelscherm. Geef vanuit de eerste ruimte.</string>
-  <string name="input_password_hint_text">Wac invoeren</string>
+  <string name="input_password_hint_text">Wachtwoord invoeren</string>
   <string name="input_pattern_hint_text">Teken je ontgrendelingspatroon</string>
   <string name="input_pin_code">PIN invoeren</string>
   <string name="input_puk_code">Input PUK</string>
@@ -776,7 +792,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_accessibility_pin_area">PIN gebied</string>
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN gebied</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK gebied</string>
-  <string name="keyguard_carrier_default">Geen service.</string>
+  <string name="keyguard_carrier_default">Geen service</string>
   <string name="keyguard_charged">Opgeladen</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
   <string name="keyguard_charging_info_click_to_detail">Details weergegeven</string>
@@ -789,7 +805,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_charging_info_tip_text2">Overlaad uw apparaat niet. Meerdere kortere ladingen zijn beter dan een nachtelijke lading.</string>
   <string name="keyguard_charging_info_tip_text3">Laad uw apparaat niet op als de omgevingstemperatuur lager is dan 0°C.</string>
   <string name="keyguard_charging_info_tip_text4">Gebruik uw apparaat niet actief terwijl het wordt opgeladen om oververhitting te voorkomen.</string>
-  <string name="keyguard_charging_info_tip_text5">Batterijen gaan langer mee als ze warmer worden dan normaal.</string>
+  <string name="keyguard_charging_info_tip_text5">Het neemt meer tijd in om de batterijen te laten als ze warmer worden dan normaal.</string>
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en laat uw apparaatmet rust om af te koelen.</string>
   <string name="keyguard_indication_charging_time">Opladen (%s tot volledig opgeladen)</string>
   <string name="keyguard_indication_charging_time_fast">Snelladen (%s tot volledig opgeladen)</string>
@@ -804,7 +820,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_missing_sim_instructions_long">De SIM kaart ontbreekt of is niet leesbaar. Plaats een SIM kaart.</string>
   <string name="keyguard_missing_sim_message">Geen SIM kaart in telefoon.</string>
   <string name="keyguard_missing_sim_message_short">Geen SIM kaart</string>
-  <string name="keyguard_network_locked_message">Netwerk vergrendeld</string>
+  <string name="keyguard_network_locked_message">Netwerk is vergrendeld</string>
   <string name="keyguard_password_enter_password_code">Wachtwoord invoeren om te ontgrendelen</string>
   <string name="keyguard_password_enter_pin_code">PIN code invoeren</string>
   <string name="keyguard_password_enter_pin_password_code">PIN invoeren om te ontgrendelen</string>
@@ -812,7 +828,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_password_enter_puk_code">SIM PUK en nieuwe PIN code invoeren</string>
   <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Tik om het wachtwoord in te voeren&lt;/font&gt;</string>
-  <string name="keyguard_password_wrong_pin_code">Foute PIN code.</string>
+  <string name="keyguard_password_wrong_pin_code">PIN code is niet juist.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Uw SIM kaart is permanent uitgeschakeld.
  Neem contact op met uw serviceprovider voor een andere SIM kaart."</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Onbruikbare SIM kaart.</string>
@@ -825,7 +841,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">De SIM kaart ontgrendelen…</string>
   <string name="keyguard_torch_cover_text">Houd de aan/uit-knop ingedrukt om de zaklamp aan te houden</string>
   <string name="keyguard_unlock">Veeg omhoog om te ontgrendelen</string>
-  <string name="kg_enter_confirm_pin_hint">Bevestig de gewenste PIN code</string>
+  <string name="kg_enter_confirm_pin_hint">Bevestig de nieuwe PIN code</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">U hebt ten onrechte geprobeerd de telefoon %1$d keer te ontgrendelen. Na %2$d meer mislukte pogingen wordt het werkprofiel verwijderd, waardoor alle profielgegevens worden verwijderd.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">U hebt ten onrechte geprobeerd de telefoon %1$d keer te ontgrendelen. Na %2$d meer mislukte pogingen, wordt deze gebruiker verwijderd, waardoor alle gebruikersgegevens worden verwijderd.</string>
   <string name="kg_failed_attempts_almost_at_login">"U hebt %1$d keer je ontgrendelingspatroonverkeert ingevoerd. Na %2$d meer mislukte pogingen, wordt u gevraagd om uw telefoon te ontgrendelen met behulp van een e-mailaccount.
@@ -842,9 +858,9 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="kg_invalid_sim_puk_hint">PUK code moet 8 cijfers of meer zijn.</string>
   <string name="kg_login_too_many_attempts">Te veel patroonpogingen</string>
   <string name="kg_password_instructions">Wachtwoord invoeren</string>
-  <string name="kg_password_pin_failed">SIM PIN actie mislukt!</string>
-  <string name="kg_password_puk_failed">SIM PUK actie mislukt!</string>
-  <string name="kg_password_wrong_pin_code_pukked">Onjuiste SIM PIN code u moet contact opnemen met uw provider om uw apparaat te ontgrendelen.</string>
+  <string name="kg_password_pin_failed">Kon niet ontgrendelen met SIM PIN</string>
+  <string name="kg_password_puk_failed">Kon niet ontgrendelen met SIM PUK</string>
+  <string name="kg_password_wrong_pin_code_pukked">SIM PIN code is niet juist. U moet contact opnemen met uw provider om uw apparaat te ontgrendelen.</string>
   <string name="kg_password_wrong_puk_code_dead">SIM is onbruikbaar. Neem contact op met uw provider.</string>
   <string name="kg_pattern_instructions">Teken uw patroon</string>
   <string name="kg_pin_accepted">Code geaccepteerd!</string>
@@ -860,9 +876,9 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="kg_prompt_reason_timeout_pattern">Patroon vereist voor extra beveiliging</string>
   <string name="kg_prompt_reason_timeout_pin">PIN vereist voor extra beveiliging</string>
   <string name="kg_prompt_reason_user_request">Apparaat is handmatig vergrendeld</string>
-  <string name="kg_puk_enter_pin_hint">Voer de gewenste  PIN code in</string>
-  <string name="kg_puk_enter_puk_hint">SIM is nu uitgeschakeld. Voer de PUK code in om door te gaan. Neem contact op met de provider voor meer informatie.</string>
-  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is nu uitgeschakeld. Voer de PUK code in om door te gaan. Neem contact op met de provider voor meer informatie.</string>
+  <string name="kg_puk_enter_pin_hint">Voer de nieuwe  PIN code in</string>
+  <string name="kg_puk_enter_puk_hint">SIM is nu uitgeschakeld. Voer de PUK code in om door te gaan. Neem contact op met uw provider voor meer informatie.</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is nu uitgeschakeld. Voer de PUK code in om door te gaan. Neem contact op met uw provider voor meer informatie.</string>
   <string name="kg_sim_pin_instructions">Voer SIM PIN in</string>
   <string name="kg_sim_pin_instructions_multi">Voer SIM PIN voor \"%1$s\" in</string>
   <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
@@ -912,8 +928,7 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="lockscreen_none">Geen</string>
   <string name="lockscreen_shortcut_left">Linker snelkoppeling</string>
   <string name="lockscreen_shortcut_right">Rechter snelkoppeling</string>
-  <string name="lockscreen_sim_error_message_short">Ongeldige kaart.</string>
-  <string name="lockscreen_storage_locked">Ontgrendel alle functies en gegevens</string>
+  <string name="lockscreen_sim_error_message_short">SIM kaart is ongeldig.</string>
   <string name="lockscreen_unlock_left">Linker snelkoppeling ontgrendeld ook</string>
   <string name="lockscreen_unlock_right">Rechter snelkoppeling ontgrendeld ook</string>
   <string name="long_screenshot_not_support_msg">Huidige app ondersteunt geen scrollende schermafdrukken.</string>
@@ -946,7 +961,6 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="miui_guide_dialog_message">Mediageluiden (muziek, video\'s enz.) worden nog steeds afgespeeld in stille modus. U kunt dit wijzigen in de instellingen.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door Bluetooth apparaat</string>
   <string name="miui_ringer_count_down">Timer</string>
-  <string name="miui_ringer_count_down_time">Timer: %s</string>
   <string name="miui_ringer_standard">Stille modus</string>
   <string name="miui_ringer_standard_description">Beltonen dempen voor inkomende oproepen en meldingen</string>
   <string name="miui_ringer_total_description">Geluid dempt en trillen uitgeschakeld voor alle items behalve de wekker</string>
@@ -1089,7 +1103,8 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="oldman_airplane_mode_text">Vliegmodus</string>
   <string name="oldman_incall_text">Thuisontvangst</string>
   <string name="open_camera_hint_text">Veeg naar links om de camera te openen</string>
-  <string name="open_remote_center_hint_text">Veeg naar rechts om Mi Remote te openen</string>
+  <string name="open_extreme_power_save_mode_title">Extreme batterijbesparing inschakelen</string>
+  <string name="open_remote_center_hint_text">Veeg naar rechts om de snelkoppelingen te openen</string>
   <string name="other">Andere</string>
   <string name="overlay_display_devices_title">Secundaire schermen simuleren</string>
   <string name="overview">Overzicht</string>
@@ -1107,12 +1122,12 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
   <string name="picture_color_mode">Beeld kleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
-  <string name="pip_close">PIP sluiten</string>
+  <string name="pip_close">PiP sluiten</string>
   <string name="pip_fullscreen">Volledig scherm</string>
   <string name="pip_menu_title">Picture in picture menu</string>
   <string name="pip_notification_message">Als u niet wilt dat %s deze functie gebruikt, tikt u op instellingen en uit te schakelen.</string>
   <string name="pip_notification_title">%s is in picture-in-picture</string>
-  <string name="pip_notification_unknown_title">(Geen titelprogramma)</string>
+  <string name="pip_notification_unknown_title">(Geen programmatitel)</string>
   <string name="pip_pause">Pauze</string>
   <string name="pip_phone_close">Sluiten</string>
   <string name="pip_phone_dismiss_hint">Naar beneden slepen om te verwijderen</string>
@@ -1225,7 +1240,8 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_dnd_priority_label">Alleen voorrang</string>
   <string name="quick_settings_done">Gereed</string>
   <string name="quick_settings_drivemode_label">Car modus</string>
-  <string name="quick_settings_edit_label">Bewerken</string>
+  <string name="quick_settings_edit_label">Meer</string>
+  <string name="quick_settings_extreme_batterysaver_label">Extreme batterijbesparing</string>
   <string name="quick_settings_flashlight_label">Zaklamp</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
   <string name="quick_settings_ime_label">Invoer methode</string>

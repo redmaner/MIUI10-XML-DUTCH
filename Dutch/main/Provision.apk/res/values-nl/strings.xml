@@ -3,6 +3,8 @@
   <string name="accessibility_enabled">Toegankelijkheid ingeschakeld.</string>
   <string name="agree">Akkoord</string>
   <string name="agree_terms">Ik heb de algemene voorwaarden gelezen en ga akkoord</string>
+   <string name="agree_terms_input_method_facemoji">Ik heb het Privacybeleid van Facemoji gelezen en ga ermee akkoord.</string>
+  <string name="agree_terms_input_method_kika">Ik heb het Privacybeleid van Kika gelezen en ga ermee akkoord.</string>
   <string name="app_name">Provisie</string>
   <string name="application_permissions">Apptoestemmingen</string>
   <string name="back">Terug</string>
@@ -77,10 +79,19 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
   <string name="terms_of_use">Algemene voorwaarden</string>
   <string name="terms_of_use_label">"Uw privacy is erg belangrijk voor ons. Lees onze Gebruiksvoorwaarden en Privacybeleid om te begrijpen welke informatie wij verzamelen, hoe we deze gebruiken en welke keuzes er voor u beschikbaar zijn.
 
-U moet akkoord gaan met onze Algemene voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, Miui Daemon, MAB en MSA systeemcomponenten, Vertaaldienst, Snelle apps, snelle kaarten, statistieken, smart cards, Mi Link, en Mi Account componenten zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
-  <string name="terms_of_use_label_gms">"Uw privacy is erg belangrijk voor ons. Lees onze Gebruiksvoorwaarden en Privacybeleid om te begrijpen welke informatie wij verzamelen, hoe we deze gebruiken en welke keuzes er voor u beschikbaar zijn.
+U moet akkoord gaan met onze Servicevoorwaarden en het Privacybeleid voordat u MIUI kunt gebruiken. %s en Mi Account componenten maken verbinding met internet en verkrijgen uw locatie."</string>
+  <string name="terms_of_use_label_systemhelper">, Zelfregistrerende service</string>
+  <string name="terms_of_use_lable_apps">Mi diensten, Mi SIM activeringsservices, Mi Cloud, Apparaat zoeken, Startscherm, Game Center, MAB, MIUI Daemon en MSA systeemcomponenten, Vertaaldiensten, Snelle apps, App kluis, statistieken, Mi Link</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-U moet akkoord gaan met onze Algemene voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, Miui Daemon, MAB en MSA systeemcomponenten, Vertaaldienst, Snelle apps, snelle kaarten, statistieken, smart cards, Mi Link, Mi Account componenten en Google Play Services zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
+U moet akkoord gaan met het Privacybeleid van Facemoji voordat u deze functie gebruikt."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+U moet akkoord gaan met het Privacybeleid van Kika voordat u deze functie gebruikt."</string>
+  <string name="terms_of_use_lable_gms">, Google Play services</string>
+  <string name="terms_of_use_lable_smart_cards">, Slimme Kaarten</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Facemoji Privacybeleid</string>
+  <string name="terms_privacy_policy_input_method_kika">Kika Privacybeleid</string>
   <string name="title_fingerprint">Wachtwoord instellen</string>
   <string name="user_agreement">Algemene voorwaarden</string>
   <string name="voice_assist_desp">Zeg \"Mi AI\". Mi AI zal je stem herkennen en vervolgens kan je je apparaat controleren.</string>

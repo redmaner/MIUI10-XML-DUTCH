@@ -1,4 +1,4 @@
-![logo](https://s1.postimg.org/at0rtaybz/MIUI_9_Banner.png) 
+![logo](https://drive.google.com/uc?export=download&id=1MP62Oo8j2xMvWNw6P8pgHDP1yWvZKD-T) 
 
 ---------------------------------------------------------------------------------------------
 

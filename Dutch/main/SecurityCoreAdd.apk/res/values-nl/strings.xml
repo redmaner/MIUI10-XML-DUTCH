@@ -6,6 +6,8 @@
 Berichten zullen enkel in de tweede ruimte worden weergegeven."</string>
   <string name="PrivacyContactDes2">"Indien u privéberichten in de eerste ruimte gebruikt,
 zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
+  <string name="about_ent_mode">Over Enterprise modus</string>
+  <string name="activate_ent_mode">Enterprise modus activeren</string>
   <string name="add_finger_print">Vingerafdruk toevoegen</string>
   <string name="air_space_created">Werkruimte aangemaakt</string>
   <string name="air_space_deleted">Werkruimte verwijderd</string>
@@ -83,8 +85,37 @@ kan op elk moment bekeken worden"</string>
   <string name="encrypt_space_delete_dialog_positive_text">Data verplaatsen</string>
   <string name="encrypt_space_delete_dialog_title">Attentie</string>
   <string name="encrypt_space_delete_notification_message">Verwijder uw tweede ruimteen maak een nieuwe om uw apparaat met bij te werken.</string>
-  <string name="encrypt_space_delete_notification_title">Tw ruimte</string>
+  <string name="encrypt_space_delete_notification_title">Tweede ruimte</string>
+  <string name="ent_activating">Bezig met activeren…</string>
+  <string name="ent_activation">Activeren</string>
+  <string name="ent_activation_hint">Voer uw bedrijfsnummer samen met de licentiecode in om de Enterprise modus te activeren. Hierna worden aangepaste bedrijfsdiensten ingeschakeld.</string>
+  <string name="ent_activation_hint_whit_licence">"AActiveer de Enterprise modus om aangepaste bedrijfsdiensten in te schakelen.
+Zorg ervoor dat de naam van uw bedrijf correct is. Lees en ga akkoord met het gerelateerde privacybeleid voordat u het activeert."</string>
+  <string name="ent_agency_code">Bedrijfs code</string>
+  <string name="ent_agency_code_hint">Bedrijfs code invoeren</string>
+  <string name="ent_agency_code_invalid">De bedrijfscode die u hebt ingevoerd is ongeldig.</string>
+  <string name="ent_agree_privacy_policy">Ik heb het Privacybeleid gelezen en ga hiermee akkoord</string>
+  <string name="ent_app_verified">Het lijkt erop dat er zakelijke apps op uw apparaat zijn geïnstalleerd. Enterprise modus activeren?</string>
+  <string name="ent_confirm_dialog_content">U kunt niet teruggaan naar de huidige status van uw systeem nadat u de Enterprise modus hebt geactiveerd. Al uw gegevens worden echter nog steeds op dit apparaat opgeslagen. U moet uw apparaat opnieuw opstarten om de Enterprise modus te activeren. Nu activeren?</string>
+  <string name="ent_disallow_running">De app is verboden om uit te voeren</string>
+  <string name="ent_download_install_dialog_content">U moet bedrijfs apps installeren om de Enterprise modus te activeren. Nu installeren?</string>
+  <string name="ent_download_install_dialog_title">Bedrijfs apps downloaden</string>
+  <string name="ent_downloading_message">Bezig %d%% aan het downloaden</string>
+  <string name="ent_error_dialog_content">Ten minste één van de code die u hebt ingevoerd was onjuist. Controleer uw bedrijfs- en licentiecodes en voer ze opnieuw in.</string>
+  <string name="ent_get_code_hint">U kunt bedrijfs- en licentiecodes krijgen van uw supervisor</string>
+  <string name="ent_install_dialog_content">Installeer apps en start nu je apparaat opnieuw op?</string>
+  <string name="ent_installing">Bezig met installeren…</string>
+  <string name="ent_invalid_agency">Bedrijfscode is ongeldig.</string>
+  <string name="ent_invalid_qr">QR code is ongeldig.</string>
+  <string name="ent_licence_code">Licentie code</string>
+  <string name="ent_licence_code_hint">Licentie code invoeren</string>
+  <string name="ent_licence_code_invalid">De licentiecode die u hebt ingevoerd is ongeldig.</string>
+  <string name="ent_mode_activated">Enterprise modus is geactiveerd</string>
+  <string name="ent_network_error">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
+  <string name="ent_next_step">Volgende</string>
+  <string name="ent_privacy_policy_notice">* Persoonlijke gegevens in deze modus worden verzameld volgens het beleid dat door uw bedrijf is vastgesteld. Xiaomi verzamelt geen persoonlijke gegevens in deze modus.</string>
   <string name="enter_air_space">Ga naar werkruimte</string>
+  <string name="enterprise_mode">Enterprise modus</string>
   <string name="entrance_reopen_toast_msg">De snelkoppeling tweede ruimte wordt weergegeven vanwege verschillende wachtwoordtypen</string>
   <string name="err_copy_contacts">Kon contacten niet kopiëren</string>
   <string name="err_copy_files">Kon bestanden niet kopiëren</string>
@@ -145,6 +176,8 @@ U kan ze ook apart downloaden."</string>
   <string name="import_photo_suc">Geïmporteerde foto\'s</string>
   <string name="input_space_finger">Nu instellen</string>
   <string name="input_space_password">Nu instellen</string>
+  <string name="install">Installeren</string>
+  <string name="install_error">Kon niet installeren. Probeer opnieuw</string>
   <string name="invalid_qr_code">Ongeldige QR code</string>
   <string name="list_empty_text">Leeg</string>
   <string name="list_empty_text_xspace">Installeer WeChat/QQ/Weibo, dupliceer apps en probeer opnieuw.</string>
@@ -153,6 +186,7 @@ U kan ze ook apart downloaden."</string>
   <string name="loading_space">Een momentje…</string>
   <string name="loading_success">Laden succesvol</string>
   <string name="lock_screen_open_second_space">Naar tweede ruimte gaan vanaf vergrendelscherm</string>
+  <string name="menu_item_about_privacy_title">Privacybeleid</string>
   <string name="messageData">Berichten</string>
   <string name="msg_switch_file">Deze bestanden verwijderen op de eerste ruimte na verplaatsen?</string>
   <string name="msg_switch_file_second">Deze bestanden verwijderen op de tweede ruimte na verplaatsen?</string>

@@ -44,12 +44,6 @@
   <string name="find_device_send_sms_alert">Als u van SIM kaart verwisselt zal er automatisch een SMS verstuurd worden om de functie te heractiveren.</string>
   <string name="find_device_service_title">Apparaat vinden</string>
   <string name="forget_password">Wachtwoord vergeten</string>
-  <string name="hybrid_check_network">Netwerkinstellingen</string>
-  <string name="hybrid_data_error">Er is een fout opgetreden</string>
-  <string name="hybrid_network_access_denied">Netwerktoegang geweigerd</string>
-  <string name="hybrid_network_unavaliable">Kan geen verbinding maken met het netwerk</string>
-  <string name="hybrid_service_unavailiable">Service onbeschikbaar</string>
-  <string name="hybrid_try_again">Probeer opnieuw</string>
   <string name="i_know">Ok</string>
   <string name="input_password_hint">Wachtwoord invoeren</string>
   <string name="internet_access_dspt">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
@@ -135,6 +129,7 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_dialog_sync_now_title">Verbind met Wi-Fi om te synchroniseren</string>
   <string name="micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren en om het apparaat te lokaliseren.</string>
   <string name="micloud_dspt_provision">Gebruik Mi Cloud om gegevens te synchroniseren, om het apparaat te lokaliseren en om te delen met vrienden.</string>
+  <string name="micloud_dspt_provision_xms">Gebruik Mi Cloud om data te synchroniseren.</string>
   <string name="micloud_find_device_close_alert_content">Als je deze functie uitschakelt, zal je je apparaat niet terug kunnen vinden als het kwijt is.</string>
   <string name="micloud_find_device_close_alert_negtive">Toch uitschakelen</string>
   <string name="micloud_find_device_close_alert_positive">Aanhouden</string>
@@ -174,6 +169,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_button_authorize">Autoriseren</string>
   <string name="micloud_main_button_set_internet">Instellingen</string>
   <string name="micloud_main_cancel_sync">Synchronisatie annuleren</string>
+  <string name="micloud_main_cancel_sync_now">Bezig met annuleren…</string>
   <string name="micloud_main_clear_now">Wissen</string>
   <string name="micloud_main_detail">Detail bekijken</string>
   <string name="micloud_main_error_activated_fail">SIM kaart activeren.</string>
@@ -203,6 +199,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_resume_sync_soon">Synchronisatie binnenkort voorzetten</string>
   <string name="micloud_main_see_unsynced_data">Controleer de gegevens die gesynchroniseerd moeten worden </string>
   <string name="micloud_main_set_internet">Netwerk</string>
+  <string name="micloud_main_simple_last_sync_time">Laast gesynchroniseerd： %s</string>
+  <string name="micloud_main_simple_off">Synchronisatie uitschakelen</string>
+  <string name="micloud_main_simple_pending">In afwachting</string>
+  <string name="micloud_main_simple_synced">Gesynchroniseerd</string>
+  <string name="micloud_main_simple_syncing">Bezig met synchroniseren</string>
   <string name="micloud_main_space_full_message">Koop meer opslagruimte op Mi Cloud.</string>
   <string name="micloud_main_space_full_title">Niet genoeg opslagruimte, synchronisatie is gepauzeerd</string>
   <string name="micloud_main_space_low">Bijna geen ruimte meer</string>

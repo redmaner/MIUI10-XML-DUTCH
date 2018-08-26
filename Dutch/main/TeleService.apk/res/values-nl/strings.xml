@@ -476,7 +476,8 @@ Sample Rate"</string>
   <string name="cfnry_time_setting_title">Wacchttijd instellen</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Gesprekken altijd doorschakelen</string>
-  <string name="change_data_preference_4g_only_prompt">Het lijkt dat u enkel een 4G SIM kaart hebt. Instellen als standaard voor mobiele data?</string>
+  <string name="change_data_preference_4g_only_prompt">Het lijkt erop dat je een 4G SIM kaart hebt. Om ervoor te zorgen dat het normaal werkt, stelt u het in als standaard voor mobiele gegevens. Nu instellen?</string>
+  <string name="change_data_sim_4g_only_prompt">"SIM %1$s ondersteunt alleen 4G. Wanneer SIM %2$s niet uw standaard SIM is voor mobiele gegevens, werkt de SIM kaart mogelijk niet normaal. Nu overschakelen?"</string>
   <string name="change_default_data_card">Standaard mobiele data SIM</string>
   <string name="change_default_data_card_summary">Het lijkt dat u van SIM kaarten hebt gewisseld. Instellen als standaard voor mobiele data?</string>
   <string name="change_num">Bijwerken</string>
@@ -554,11 +555,13 @@ Sample Rate"</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
   <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
-  <string name="data_plan">Mobiele data plannen</string>
+  <string name="data_plan">Mobiele data pakketen</string>
   <string name="data_usage_uninstalled_apps">Verwijderde apps</string>
   <string name="data_usage_uninstalled_apps_users">Verwijderde apps en gebruikers</string>
   <string name="dc_alert_dialog_message">Voor sommige apps is een mobiele gegevensverbinding nodig. U kunt contact opnemen met uw provider om te weten te komen welke %s voor u beschikbaar zijn.</string>
   <string name="dc_alert_dialog_title">Data gebruikswaarschuwing</string>
+  <string name="dds_switch_warning_message_data_off">"Kon %1$s niet vinden SIM %2$s is nu ingesteld als uw standaard mobiele datakaart mobiele data is nu uitgeschakeld."</string>
+  <string name="dds_switch_warning_message_data_on">"Kon SIM %1$s niet vinden. SIM %2$s is nu ingesteld als uw standaard mobiele datakaart. Mobiele data wordt uitgeschakeld om onnodige providerkosten te voorkomen."</string>
   <string name="deactivate_all">Alles annuleren</string>
   <string name="debug_app">Debugapp selecteren</string>
   <string name="debug_app_not_set">Geen debugapp ingesteld</string>
@@ -1026,6 +1029,8 @@ Voorkeursnetwerk wordt gebruikt."</string>
   <string name="onscreenSwapCallsText">Wisselen</string>
   <string name="onscreenVideoCallText">Video-oproep</string>
   <string name="open_miui">Openen</string>
+  <string name="opened_dual_4g_confirm_prompt">Het lijkt erop dat je een 4G SIM kaart hebt. Dual 4G is automatisch ingeschakeld.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s ondersteunt alleen 4G. Om ervoor te zorgen dat uw SIM kaart normaal werkt, is dual 4G ingeschakeld.</string>
   <string name="optional_summary">&lt;Optioneel&gt;</string>
   <string name="ota_activate">Activeren</string>
   <string name="ota_call_end">Terug</string>
@@ -1198,6 +1203,7 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_type_title">Selectie netwerktype</string>
   <string name="preferred_phone_account">Voorkeursoproepaccount</string>
   <string name="preferred_wificall_title">Netwerkvoorkeuren</string>
+  <string name="privacy_policy_title">Privacybeleid</string>
   <string name="private_num">Privénummer</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE services zijn niet beschikbaar. Schakel VoLTE uit om te bellen.</string>

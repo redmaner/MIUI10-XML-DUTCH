@@ -84,6 +84,9 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="miui_screen_ratio_hint_message">Deze app heeft toegang om op volledig scherm weer te geven. Dit kan ervoor zorgen dat de app onjuist wordt weergegeven. Je kan dit veranderen in instellingen &gt; Extra instellingen &gt; Knoppen.</string>
   <string name="miui_screen_ratio_hint_ok">Ok</string>
   <string name="miui_upgrading_notification_title">Systeem laden, sommige functies werken misschien niet</string>
+  <string name="miui_warning_button_cancel">Annuleren</string>
+  <string name="miui_warning_button_ok">Ok</string>
+  <string name="miui_warning_tip_info">Er is een fout opgetreden in %1$s. Deze app nu sluiten?</string>
   <string name="onehour">30 minuten</string>
   <string name="package_delete_confirm_step_1">%s verwijderen?</string>
   <string name="package_delete_confirm_step_2">Deze app verwijderen kan ertoe leiden dat uw systeem instabiel wordt.</string>
@@ -170,7 +173,12 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="twohours">1 uur</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
+    <string name="voice_begin">Waar bent u naar op zoek?</string>
+  <string name="voice_button_action_down">Loslatern om te zoeken</string>
+  <string name="voice_button_action_up">Drukken om te spreken</string>
+  <string name="voice_input_error_network">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
+  <string name="voice_input_error_other">Er is een fout opgetreden. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="wifi_assistant_wifi_no_internet">Dit Wi-Fi netwerk heeft geen toegang tot internet</string>
-  <string name="wifi_assistant_wifi_no_internet_detail">Tik om details te bekijken</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Tik om details weer te geven</string>
   <string name="xspace_resolver_activity_title">App selecteren</string>
 </resources>

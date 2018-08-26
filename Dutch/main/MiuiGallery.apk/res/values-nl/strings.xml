@@ -738,8 +738,8 @@ om de galerij te personaliseren"</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Origineel</string>
   <string name="photo_editor_crop_and_rotate">Bijsnijden</string>
+  <string name="photo_editor_crop_auto">Automatisch</string>
   <string name="photo_editor_crop_reset">Resetten</string>
-  <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Tekenen</string>
   <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_label">Bewerken</string>
@@ -1191,9 +1191,9 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_smart_effect_movie">Film</string>
   <string name="video_editor_smart_effect_none">Geen</string>
   <string name="video_editor_smart_effect_rhythm">Impuls</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">U kunt dit effect toepassen op video\'s die maximaal 40 seconden lang zijn.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Dit effect kan worden toegepast op video\'s die niet langer zijn dan 40 seconden. Lengte automatisch aanpassen.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">U kunt dit effect toepassen op video\'s die minstens 6 seconden lang zijn.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">U kunt dit effect toepassen op video\'s die maximaal 60 seconden lang zijn.</string>
+   <string name="video_editor_smart_effect_time_limit_txt_60">Dit effect kan worden toegepast op video\'s die niet langer zijn dan 60 seconden. Lengte automatisch aanpassen.</string>
   <string name="video_editor_template_family">Familie</string>
   <string name="video_editor_template_forbidden_tips">Kan dit niet doen als je een template gebruikt</string>
   <string name="video_editor_template_oldfilm">Vintage</string>

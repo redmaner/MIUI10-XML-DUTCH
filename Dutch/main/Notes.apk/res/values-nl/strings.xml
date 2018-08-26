@@ -158,6 +158,8 @@
   <string name="search_setting_description">Tekst in uw notities doorzoeken</string>
   <string name="select_account_prompt">Sync. notities</string>
   <string name="set_alarm_description">Alarm instellen</string>
+  <string name="setting_other">ANDERE</string>
+  <string name="setting_privacy">Privacybeleid</string>
   <string name="snippet_audio_stub">Spraak notitie</string>
   <string name="snippet_image_stub">Foto notitie</string>
   <string name="snippet_image_template">[Foto %1$s]</string>
@@ -196,8 +198,9 @@
   <string name="toast_cancel_to_insert_image">Kon afbeelding niet toevoegen.</string>
   <string name="toast_message_add_image_fail">Kon afbeelding niet toevoegen</string>
   <string name="toast_notes_delete_success">Met succes verwijderd</string>
-  <string name="toast_notes_hidden">Met succes verborgen</string>
   <string name="toast_notes_hidden_count">%1$s met succes verborgen</string>
+  <string name="toast_notes_hidden_edit">Deze notitie is met succes verborgen. Trek naar beneden om verborgen notities te bekijken.</string>
+  <string name="toast_notes_hidden_home">Deze notitie is met succes verborgen. Trek naar beneden om verborgen notities te bekijken.</string>
   <string name="toast_notes_unhidden">Met succes zichtbaar gemaakt</string>
   <string name="toast_notes_unhidden_count">%1$s met succes zichtbaar gemaakt</string>
   <string name="toast_reach_text_limit_attachment">De inhoud van deze notitie is te lang om nieuwe bijlagen toe te voegen</string>
@@ -218,9 +221,6 @@
   <string name="trash_folder_reminder">De notities die je verwijdert zullen na 30 dagen permanant worden gewist.</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknown_source">Onbekende bron</string>
-  <string name="welcome_note_for_cm">"En meer geweldige functies!
-  - Sync. met Mi Cloud
-  - Herinneringen instellen"</string>
   <string name="widget_content_loading">Een momentje…</string>
   <string name="widget_havenot_content">Tik om een notitie te maken. Houd widget ingedrukt om het formaat te wijzigen.</string>
 </resources>

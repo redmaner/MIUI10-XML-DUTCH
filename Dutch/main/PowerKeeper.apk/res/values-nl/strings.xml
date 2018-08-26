@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="about_extreme_mode">Extreme batterijbesparing</string>
   <string name="about_hide_mode">Over batterijbespaarder</string>
+  <string name="active_classify">Sorteer op activiteitsstatus</string>
   <string name="app_list_title">Kies apps</string>
   <string name="app_name">Batterij en prestaties</string>
   <string name="app_preload_policies_summary">Gebruik machinaal leren om de apps te voorspellen die u waarschijnlijk gaat gebruiken en laad de bronnen vooraf.</string>
   <string name="app_preload_policies_title">A.I. Toepassen</string>
+  <string name="appconfig_active_app_dialog_title">Actieve apps beheren</string>
   <string name="base_info">Basisinfo</string>
   <string name="cloud_addr_info">Cloudinfo</string>
   <string name="cloud_china_addr">China serverdata updaten</string>
   <string name="cloud_international_addr">International serverdata updaten</string>
   <string name="cloud_staging_addr">Update staging server data</string>
+  <string name="config_classify">Sorteren op appinstellingen</string>
   <string name="config_description">MIUI kan apps met specifieke achtergrondprocessen (bijvoorbeeld berichten, navigatie-apps en mediaspelers) identificeren en batterijbesparing toepassen op een manier die geen invloed zal hebben op belangrijke achtergrondactiviteit.</string>
   <string name="config_mode_title">Kies configuratie</string>
   <string name="config_no_restrict_description">Batterijbesparingsfunctie zal appactiviteit niet beperken</string>
@@ -27,11 +31,12 @@
   <string name="empty_title_apps_container_list">Geen apps</string>
   <string name="enable_sleep_mode">Schakel de slaapstand in om batterijverbruik te optimaliseren</string>
   <string name="error_filename_too_long">De bestandsnaam die je invoerde is te lang.</string>
+  <string name="extreme_mode_max_item_alert">Slechts 4 apps kunnen worden geselecteerd om op de achtergrond te worden uitgevoerd in de extreme batterijbesparingsmodus</string>
   <string name="extreme_power_config_mode_category">Extreme modus</string>
   <string name="extreme_power_config_mode_desc">Wissel naar extreme modus om synchronisatie, bluetooth, GPS, NFC, dubbeltikken, knopverlichting, ontwaken van scherm bij meldingen en LED laten knipperen uit te schakelen. MIUI zal focussen op batterijbesparing.</string>
   <string name="extreme_power_config_mode_title">Extreme modus</string>
   <string name="failure">Mislukt</string>
-  <string name="hide_mode_desc">Wanneer een app in de achtergrond loopt, worden de activiteiten bijgehouden om batterijverbruik te verminderen.</string>
+  <string name="hide_mode_desc">&lt;font color="#000000"&gt;Wanneer een app op de achtergrond wordt uitgevoerd, worden de activiteiten gecontroleerd om het batterijgebruik te verminderen. Deze functie krijgt en gebruikt gebruikersgegevens volgens %s&lt;/font&gt;</string>
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="hints_loading_text">Een momentje…</string>
   <string name="important_warning">Let op</string>
@@ -64,6 +69,7 @@
   <string name="power_mode">Batterij-instellingen</string>
   <string name="power_usage">Batterijgebruik</string>
   <string name="pref_config_title">Prestaties optimaliseren</string>
+  <string name="privacy">Privacybeleid</string>
   <string name="scenario_policies_summary">Verschillende besparingsmodi instellen voor verschillende scenario\'s.</string>
   <string name="scenario_policies_title">Slimme scenario\'s</string>
   <string name="scenario_policies_warmcontrol">Temperatuurcontrole</string>

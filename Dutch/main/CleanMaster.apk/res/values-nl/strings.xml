@@ -118,6 +118,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">Geen</string>
+  <string name="clean_summary">%1$s opgeruimde bestanden</string>
   <string name="clear_bigfiles">Verwijder grote bestanden, dubbele foto\'s en andere verouderde items</string>
   <string name="clear_immediately">Nu opruimen</string>
   <string name="clear_safe_notify">Widget op notificatiebalk</string>
@@ -130,7 +131,7 @@
   <string name="deep_clean_completed_tips">Met succes opgeruimd</string>
   <string name="deep_clean_data_path_clean_title">Cache wissen</string>
   <string name="deep_clean_uninstall_completed_tips">Met succes verwijderd</string>
-  <string name="deepclean_1_k_clean">Snel opruimen</string>
+  <string name="deepclean_1_k_clean">Geheugen opruimen</string>
   <string name="deepclean_apk_content">APK\'s of onnodige apps verwijderen</string>
   <string name="deepclean_apk_summary_empty">Alles ziet er goed uit, geen APK\'s om te verwijderen​</string>
   <string name="deepclean_apk_version_error">Onbekend</string>
@@ -298,11 +299,13 @@
   <string name="low_memory_warning_dialog_ok_button">Wissen</string>
   <string name="low_memory_warning_dialog_title">Niet genoeg opslagruimte</string>
   <string name="main_title_filesize">%1$s afval</string>
-  <string name="main_total_garbage">Totale afval</string>
+  <string name="main_total_garbage">Afval grootte</string>
   <string name="mainbtn_text_no_trash">Overslaan</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
+  <string name="memory_clean_icon_text">Geheugen wissen</string>
+  <string name="memory_clean_no_trash_tip">Alles ziet er goed uit</string>
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
   <string name="menu_install">Deze app installeren</string>
@@ -328,6 +331,12 @@
   <string name="notification_title_of_garbage_cleanup">%s aan afval</string>
   <string name="notify_when">Een melding krijgen wanneer de afval 100MB heeft bereikt</string>
   <string name="ok">Ok</string>
+  <string name="onekeyclean_boost_available">%s beschikbaar</string>
+  <string name="onekeyclean_boost_cleaned">%s gewist</string>
+  <string name="onekeyclean_boosted_title">Met succes gewist</string>
+  <string name="onekeyclean_boosting_title">Verhoogt de snelheid</string>
+  <string name="onekeyclean_card_btn">Nu opruimen</string>
+  <string name="onekeyclean_card_summery">Verwijder afval om ruimte vrij te maken</string>
   <string name="open">Inschakelen</string>
   <string name="open_app">Openen</string>
   <string name="open_browser">Openen in browser</string>
@@ -337,6 +346,7 @@
   <string name="output_videos">Export video\'s</string>
   <string name="phone_search">Google Search</string>
   <string name="positive_confirm">OK</string>
+  <string name="pref_about_privacy_title">Privacybeleid</string>
   <string name="pref_category_title_auto_clean_config_settings">Automatishe opruimingen</string>
   <string name="pref_category_title_auto_clean_settings">Herinneren om op te ruimen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Extra instellingen</string>
@@ -363,6 +373,7 @@
   <string name="pref_title_choose_engine">Definities</string>
   <string name="pref_title_clean_alert">Herinneren om op te ruimen</string>
   <string name="pref_title_cleanup_white_list">Uitzonderingen</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Snelkoppeling naar het beginscherm weergeven</string>
   <string name="pref_title_expand_cache_group">Gecachte items weergeven</string>
   <string name="pref_title_garbage_cleanup_check_size">Limiet afvalgrootte</string>
   <string name="pref_title_garbage_cleanup_check_time">Plannen</string>

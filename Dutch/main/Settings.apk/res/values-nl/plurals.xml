@@ -220,6 +220,10 @@
         <item quantity="other">Er zullen %1$d schakelaars worden weergegeven in het meldingenscherm</item>
         <item quantity="one">Er zal %1$d schakelaar worden weergegeven in het meldingenscherm</item>
     </plurals>
+	<plurals name="show_audio_logcat_countdown">
+        <item quantity="other">Nog %1$d stappen voordat je een audio log kan verkrijgen</item>
+        <item quantity="one">Nog %1$d stap voordat je een audio log kan verkrijgen</item>
+    </plurals>
 	<plurals name="show_cit_countdown">
         <item quantity="other">U bent %1$d stappen verwijderd van het invoeren van CIT.</item>
         <item quantity="one">U bent %1$d stap verwijderd van het invoeren van CIT.</item>
@@ -227,6 +231,14 @@
     <plurals name="show_dev_countdown">
         <item quantity="other">Je bent %1$d stappen verwijderd van het worden van ontwikkelaar.</item>
         <item quantity="one">Je bent %1$d stap verwijderd van het worden van ontwikkelaar.</item>
+    </plurals>
+	<plurals name="show_gps_logcat_countdown">
+        <item quantity="other">Nog %1$d stappen voordat je een GPS log kan verkrijgen</item>
+        <item quantity="one">Nog %1$d stap voordat je een GPS log kan verkrijgen</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">Nog %1$d stappen voordat je een modem log kan verkrijgen</item>
+        <item quantity="one">Nog %1$d stappen voordat je een modem log kan verkrijgen</item>
     </plurals>
 	<plurals name="show_pho_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van de telefooninfo."</item>

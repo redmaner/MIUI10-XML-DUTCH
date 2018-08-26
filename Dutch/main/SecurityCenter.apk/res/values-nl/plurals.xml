@@ -271,6 +271,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="zero">Geen apps gevonden</item>
         <item quantity="one">%d app gevonden</item>
     </plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Fabrieksinstellingen(%ds)</item>
+        <item quantity="one">Fabrieksinstellingen(%ds)</item>
+    </plurals>
 	<plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d vergrendelde apps wachten om gewist te worden</item>
         <item quantity="one">%d vergrendelde app wacht om gewist te worden</item>
@@ -326,5 +330,21 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
 	    <plurals name="gb_signed_days_sum">
         <item quantity="other">%d dagen op rij gecontroleert</item>
         <item quantity="one">%d geleden gecontroleert</item>
+    </plurals>
+	<plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d karakters meer</item>
+        <item quantity="one">    +%1$d karakter meer</item>
+    </plurals>
+	<plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Kan %d apps verbergen</item>
+        <item quantity="one">Kan %d app verbergen</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d apps zijn verborgen</item>
+        <item quantity="one">%d app is verborgen</item>
+    </plurals>
+	<plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemen vereisen optimalisatie</item>
+        <item quantity="one">%1$d probleem vereist optimalisatie</item>
     </plurals>
 </resources>

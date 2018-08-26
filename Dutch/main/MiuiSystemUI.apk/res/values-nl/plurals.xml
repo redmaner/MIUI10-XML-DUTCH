@@ -28,18 +28,6 @@
         <item quantity="other">Foute PUK code, %d resterende pogingen </item>
         <item quantity="one">Foute PUK code, %d resterende pogingen</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Ongeveer %d uur tot volledig opgeladen</item>
-        <item quantity="one">Ongeveer %d uur tot volledig opgeladen</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Ongeveer %d minuten tot volledig opgeladen​</item>
-        <item quantity="one">Ongeveer %d minuuttot volledig opgeladen​</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Ongeveer %1$d uur en %2$d minuten tot volledig opgeladen</item>
-        <item quantity="one">Ongeveer %1$d uur en %2$d minuut tot volledig opgeladen</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Ongeveer %d uur resterend</item>
         <item quantity="one">Ongeveer %d uur resterend</item>
@@ -73,8 +61,8 @@
         <item quantity="one">SIM is nu uitgeschakeld. Voer de PUK code in om door te gaan. U hebt nog een resterende poging van %d uitgevoerd voordat de simkaart permanent onbruikbaar wordt. Neem contact op met de aanbieder voor meer informatie.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Foute SIM PIN code, u hebt %d resterende pogingen.</item>
-        <item quantity="one">Foute SIM PIN code, u hebt %d een resterende poging voordat je contact moet opnemen met je provider om je apparaat te ontgrendelen.</item>
+        <item quantity="other">Foute SIM PIN code. U hebt nog %d resterende pogingen.</item>
+        <item quantity="one">Foute SIM PIN code. U hebt nog %d een resterende poging voordat je contact moet opnemen met je provider om je apparaat te ontgrendelen.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Foute SIM PUK code, u hebt %d resterende pogingen voordat de SIM permanent onbruikbaar wordt.</item>
