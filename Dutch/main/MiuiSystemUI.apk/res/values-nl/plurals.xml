@@ -53,20 +53,20 @@
         <item quantity="one">%1$d uur en %2$d minuut</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">SIM PIN invoeren, u hebt %d pogingen over.</item>
-        <item quantity="one">SIM PIN invoeren, u hebt  %d een resterende poging voordat je contact moet opnemen met je provider om je apparaat te ontgrendelen.</item>
+        <item quantity="other">Voer pincode in. %d pogingen over.</item>
+        <item quantity="one">Voer pincode in. %d poging over.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">SIM is nu uitgeschakeld. Voer de PUK code in om door te gaan. U hebt %d resterende pogingen voordat de SIM permanent onbruikbaar wordt. Neem contact op met de aanbieder voor meer informatie.</item>
         <item quantity="one">SIM is nu uitgeschakeld. Voer de PUK code in om door te gaan. U hebt nog een resterende poging van %d uitgevoerd voordat de simkaart permanent onbruikbaar wordt. Neem contact op met de aanbieder voor meer informatie.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Foute SIM PIN code. U hebt nog %d resterende pogingen.</item>
-        <item quantity="one">Foute SIM PIN code. U hebt nog %d een resterende poging voordat je contact moet opnemen met je provider om je apparaat te ontgrendelen.</item>
+        <item quantity="other">Foute PIN code. U hebt nog %d resterende pogingen.</item>
+        <item quantity="one">Foute PIN code. U hebt nog %d resterende poging voordat je contact moet opnemen met je provider om je apparaat te ontgrendelen.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Foute SIM PUK code, u hebt %d resterende pogingen voordat de SIM permanent onbruikbaar wordt.</item>
-        <item quantity="one">Foute SIM PUK code, je hebt nog %d poging voordat de simkaart permanent onbruikbaar wordt.</item>
+        <item quantity="other">Foute PUK code, u hebt %d resterende pogingen voordat de SIM permanent onbruikbaar wordt.</item>
+        <item quantity="one">Foute PUK code, u hebt nog %d poging voordat de simkaart permanent onbruikbaar wordt.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
         <item quantity="other">Apparaat is gedurende %d uur niet ontgrendeld. Bevestig wachtwoord.</item>

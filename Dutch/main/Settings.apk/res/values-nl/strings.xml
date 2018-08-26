@@ -3879,7 +3879,7 @@ Om schermpinning te gebruiken:
   <string name="search_sms_received_sound_title">SMS ontvangen;berichtgeluid;ontvangen bericht;beltoon bericht</string>
   <string name="search_sound_effects_enable_title">Aanraakgeluiden;Aanraakgeluiden inschakelen</string>
   <string name="search_sound_settings">Geluid;Volumes;trillen;Ruis onderdrukken;ruis;onderdrukken</string>
-  <string name="search_status_bar_settings">Meldingen &amp; status bar;Meldingen;Status bar</string>
+  <string name="search_status_bar_settings">Meldingen &amp; statusbalk;Meldingen;Statusbalk</string>
   <string name="search_status_bar_settings_custom_carrier">Providernaam bewerken;Providernaam</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Weergeven op het vergrendelscherm;weergeven op het vergrendelscherm</string>
   <string name="search_status_bar_settings_manage_notification">Appmeldingen;Meldingen</string>
@@ -4239,11 +4239,11 @@ PIN code mogelijk onjuist.</string>
   <string name="sound_settings_example_summary">Belvolume op 80%</string>
   <string name="sound_settings_summary">Belvolume op %1$s</string>
   <string name="sound_settings_summary_silent">Belvolume ingesteld op stil</string>
-  <string name="sound_settings_summary_vibrate">Belvolume ingesteld om te trillen</string>
+  <string name="sound_settings_summary_vibrate">Belvolume ingesteld op trillen</string>
   <string name="sound_stereo_mode_summary">Werkt alleen met de luidspreker</string>
-  <string name="sound_stereo_mode_title">Stereo geluid</string>
+  <string name="sound_stereo_mode_title">Stereogeluid</string>
   <string name="sound_vibrate_settings">Geluid &amp; trillen</string>
-  <string name="sound_work_settings">Werkprofiel geluiden</string>
+  <string name="sound_work_settings">Geluiden werkprofiel</string>
   <string name="special_access">Speciale toegang</string>
   <string name="spell_checker_not_selected">Niet geselecteerd</string>
   <string name="spellchecker_language">Taal</string>
@@ -4285,19 +4285,19 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi naam aanpassen</string>
   <string name="status_bar_settings_enable_notification">Meldingen weergeven</string>
   <string name="status_bar_settings_expand_top_notification">Bovenste meldingen uitbreiden</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Weergeven op veilig vergrendelscherm</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Weergeven op vergrendelscherm</string>
   <string name="status_bar_settings_long_click_sort">Tik &amp; houd ingedrukt om een schakelaar op te pakken</string>
   <string name="status_bar_settings_manage_notification">Appmeldingen</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
   <string name="status_bar_settings_notification_bar">Notificatiescherm</string>
   <string name="status_bar_settings_notification_led">Ledlicht</string>
-  <string name="status_bar_settings_notification_led_custom">Aangepast kleur</string>
+  <string name="status_bar_settings_notification_led_custom">Aangepaste kleur</string>
   <string name="status_bar_settings_notification_priority">Prioriteit</string>
   <string name="status_bar_settings_notification_priority_summary">Meldingen weergeven bovenaan de lijst</string>
-  <string name="status_bar_settings_notification_shade_shortcut">Meldingskleur snelkoppeling</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Snelkoppeling meldingsscherm</string>
   <string name="status_bar_settings_notification_sound">Geluid</string>
   <string name="status_bar_settings_notification_sound_custom">Aangepast geluid</string>
-  <string name="status_bar_settings_notification_use_app_icon">Gebrui app iconen voor meldingen</string>
+  <string name="status_bar_settings_notification_use_app_icon">Gebruik appiconen voor meldingen</string>
   <string name="status_bar_settings_notification_vibrate">Trillen</string>
   <string name="status_bar_settings_show_carrier">Provider tonen</string>
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
@@ -5215,13 +5215,13 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="wallpaper_live">Live achtergrond</string>
   <string name="wallpaper_lockscreen">Vergrendelscherm</string>
   <string name="wallpaper_settings_fragment_title">Achtergrond kiezen van</string>
-  <string name="wallpaper_settings_summary_custom">Custom</string>
-  <string name="wallpaper_settings_summary_default">Default</string>
+  <string name="wallpaper_settings_summary_custom">Aangepast</string>
+  <string name="wallpaper_settings_summary_default">Standaard</string>
   <string name="wallpaper_settings_title">Achtergrond</string>
   <string name="wallpaper_suggestion_summary">Personaliseer uw scherm</string>
   <string name="wallpaper_suggestion_title">Achtergrond wijzigen</string>
   <string name="wapi_auto_sel_cert">Automatisch selecteren</string>
-  <string name="wapi_auto_sel_cert_fail">Kan certificaten niet automatisch selecteren. Selecteer een certificaat in de lijst en probeer vervolgens verbinding te maken.</string>
+  <string name="wapi_auto_sel_cert_fail">Kan certificaten niet automatisch selecteren. Selecteer een certificaat van de lijst en probeer vervolgens verbinding te maken.</string>
   <string name="wapi_cert_is_not_selected">Selecteer eerst het certificaat</string>
   <string name="wapi_cert_manage_summary">WAPI certificaat toevoegen of verwijderen</string>
   <string name="wapi_cert_manage_title">WAPI certificaatbeheer</string>
@@ -5232,9 +5232,9 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="wapi_password_hex_format_invalid">Ongeldige wachtwoordindeling</string>
   <string name="wapi_password_hex_length_invalid">Het aantal hexadecimale tekens moet een even getal zijn</string>
   <string name="wapi_password_length_invalid">Wachtwoord moet 8 tot 64 tekens lang zijn</string>
-  <string name="wapi_psk_type">Wachtwoord type</string>
+  <string name="wapi_psk_type">Type wachtwoord</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
-  <string name="wapi_psk_type_hex">Hexadecimal</string>
+  <string name="wapi_psk_type_hex">Hexadecimaal</string>
   <string name="wapi_yes">Ja</string>
   <string name="warm_color">Warm</string>
   <string name="web_action_enable_summary">Open links in apps, zelfs als ze niet zijn geïnstalleerd</string>
@@ -5292,17 +5292,18 @@ Kan u geen beschermingsfuncties van het apparaat activeren.</string>
   <string name="wifi_ask_disable">%s wil Wi-Fi uitschakelen</string>
   <string name="wifi_ask_enable">%s wil Wi-Fi inschakelen</string>
   <string name="wifi_assistant">Wi-Fi assistent</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Dit Wi-Fi netwerk heeft geen toegang tot internet. Uw apparaat gebruikt in plaats daarvan mobiele data. U kunt Wi-Fi assistent uitschakelen in Instellingen.</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Dit Wi-Fi netwerk heeft geen toegang tot internet. Uw apparaat gebruikt in plaats daarvan mobiel internet. U kunt Wi-Fi assistent uitschakelen in Instellingen.</string>
   <string name="wifi_assistant_confirm_always">Niet meer weergeven</string>
   <string name="wifi_assistant_confirm_connection_title">Bevestigen</string>
-  <string name="wifi_assistant_data_prompt">Waarschuwing voor dataverbruik weergeven</string>
-  <string name="wifi_assistant_data_prompt_summary">Datagebruikswaarschuwing weergeven wanneer de Wi-Fi assistent overschakelt naar mobiele data</string>
-  <string name="wifi_assistant_description">"Hier is hoe Wi-Fi assistent werkt:
-1.Als de Wi-Fi verbinding slecht is, probeert de Wi-Fi assistent uw apparaat aan te sluiten op andere beschikbare Wi-Finetwerken.
-2. Als alle beschikbare Wi-Fi verbindingen slecht blijken te zijn en mobiele data zijn ingeschakeld, schakelt Wi-Fi assistent over op mobiele data."</string>
+  <string name="wifi_assistant_data_prompt">Waarschuwing weergeven</string>
+  <string name="wifi_assistant_data_prompt_summary">Waarschuwing over datagebruik weergeven wanneer de Wi-Fi assistent overschakelt naar mobiele data</string>
+  <string name="wifi_assistant_description">"Wi-Fi assistent werkt als volgt:
+1. Als de Wi-Fi verbinding slecht is, probeert de Wi-Fi assistent uw apparaat aan te sluiten op andere beschikbare Wi-Fi netwerken.
+
+2. Als alle beschikbare Wi-Fi verbindingen slecht blijken te zijn en mobiel internet is ingeschakeld, schakelt Wi-Fi assistent over op mobiel internet."</string>
   <string name="wifi_assistant_disconnect">Verbinding verbreken</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">Dit WLAN netwerk heeft geen toegang tot internet. Mobiele data gebruiken?</string>
-  <string name="wifi_assistant_explicitly_confirm_disconnect">Dit WLAN netwerk heeft geen toegang tot internet. Verbinding nu verbreken?</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Dit Wi-Fi netwerk heeft geen toegang tot internet. Mobiele data gebruiken?</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">Dit Wi-Fi netwerk heeft geen toegang tot internet. Verbinding nu verbreken?</string>
   <string name="wifi_assistant_explicitly_confirm_wifi_message">Dit Wi-Fi netwerk heeft geen toegang tot internet. Andere Wi-Fi netwerken zijn beschikbaar. Van netwerk wisselen?</string>
   <string name="wifi_assistant_keep_connection">Blijf verbonden</string>
   <string name="wifi_assistant_off">Uit</string>
