@@ -86,6 +86,7 @@
   <string name="all_address_choose_hint">Alle nummers in deze provincie</string>
   <string name="already_close_gamebooster">Snelheidsboost voor gamen is uitgeschakeld</string>
   <string name="anti_disturb_msg_detail">Schakel alle aanmeldingen uit met uitzondering van inkomende oproepen</string>
+  <string name="anti_disturb_msg_title">Niet storen</string>
   <string name="antispam_mode_details">Details zwarte lijst</string>
   <string name="antispam_notificaiton_type_show_all">Alle nummers</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Nummers die niet op de zwarte lijst staan</string>
@@ -136,14 +137,14 @@
   <string name="app_manager_app_info_label">Appinfo</string>
   <string name="app_manager_app_info_name">Appnaam</string>
   <string name="app_manager_app_info_pkg">APK naam</string>
-  <string name="app_manager_app_power">"Batterij gebruik: "</string>
+  <string name="app_manager_app_power">"Batterijgebruik: "</string>
   <string name="app_manager_app_storage">"Oplag: "</string>
-  <string name="app_manager_app_traffic">"Data opslag: "</string>
+  <string name="app_manager_app_traffic">"Data-opslag: "</string>
   <string name="app_manager_app_update">Updates</string>
   <string name="app_manager_app_version_name">Versie:</string>
   <string name="app_manager_appupdate_remind">Melden wanneer er updates zijn</string>
   <string name="app_manager_as_dlg_msg">Toestaan dat apps automatisch mogen opstarten kan voor extra RAM- en batterijgebruik zorgen. Toch toestaan?</string>
-  <string name="app_manager_as_dlg_title">Opgelet</string>
+  <string name="app_manager_as_dlg_title">Waarschuwing</string>
   <string name="app_manager_back">Terug</string>
   <string name="app_manager_bipartition">Gedupliceerde apps</string>
   <string name="app_manager_cache_size">Cache</string>
@@ -182,7 +183,7 @@
   <string name="app_manager_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_manager_force_stop_dlg_text">Als u een app gedwongen stopt, kan deze zich onverwacht gedragen.</string>
   <string name="app_manager_force_stop_dlg_title">Gedwongen stoppen?</string>
-  <string name="app_manager_globel_other_perm_title">Other permissions</string>
+  <string name="app_manager_globel_other_perm_title">Andere toestemmingen</string>
   <string name="app_manager_globel_perm_summary">Toestemmingen gerelateerd aan locatie, opslag, bellen, berichten en contacten beheren.</string>
   <string name="app_manager_globel_perm_title">Apptoestemmingen</string>
   <string name="app_manager_has_not_data">Geen data</string>
@@ -225,7 +226,7 @@
   <string name="app_manager_reset_app_preferences_title">Appvoorkeuren herstellen?</string>
   <string name="app_manager_search_prompt">Kon je geen resultaten vinden? Probeer resultaten van alle apps weer te geven.</string>
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
-  <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
+  <string name="app_manager_show_all_apps_opened">Resultaten van alle apps…</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_start_by">Gestart door %s</string>
   <string name="app_manager_system_mobile_disable">Data uitschakelen</string>
@@ -352,7 +353,7 @@
   <string name="back_sound_fail">Kon niet instellen. Providerinstellingen zijn veranderd. Stel de huidige SIM kaart in als data SIM kaart, verbind met het netwerk en probeer opnieuw.</string>
   <string name="back_sound_success">Instellen gelukt</string>
   <string name="back_sound_support">Het netwerk van de provider ondersteunt deze instelling niet.</string>
-  <string name="background_restrict_app_dialog_message">Netwerktoegang op de achtergrond beperken voor deze appkan ervoor zorgen dat de app niet meer normaal werkt, geen berichten meer kan ontvangen, niet meer kan downloaden, etc. Toch beperken?</string>
+  <string name="background_restrict_app_dialog_message">Netwerktoegang op de achtergrond beperken voor deze app kan ervoor zorgen dat de app niet meer normaal werkt, geen berichten meer kan ontvangen, niet meer kan downloaden, etc. Toch beperken?</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
   <string name="battery_capacity_title">Batterijcapaciteit</string>
@@ -585,8 +586,8 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="data_usage_warning_title_notify">Je hebt het datalimiet overschreden</string>
   <string name="databooster_tips_message">Schakel in om alle SIM kaarten te beperken behalve diegene met mobiele data. Schakel deze functie uit als er tijdens het gamen fouten optreden.</string>
   <string name="databooster_tips_title">Waarschuwing</string>
-  <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik te volgen, maar geeft geen garantie om extra kosten te voorkomen. Voor het beste resultaat stelt u een limiet in.</string>
-  <string name="deep_clean_disconnect_data_title">Mobiele data uitschakelen wanneer apparaat is vergrendeld</string>
+  <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik bij te houden, maar geeft geen garantie om extra kosten te voorkomen. Voor het beste resultaat stelt u een datalimiet in.</string>
+  <string name="deep_clean_disconnect_data_title">Mobiel internet uitschakelen wanneer apparaat is vergrendeld</string>
   <string name="deep_clean_memory_clean_title">Cache wissen wanneer apparaat is vergrendeld</string>
   <string name="deep_clean_never_memory_clean">Nooit</string>
   <string name="deep_save_memory_clean_summary">Cache wissen als u het apparaat vergrendeld om te voorkomen dat apps batterij verbruiken</string>
@@ -605,8 +606,8 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="dialog_msg_auto_start_declare">Sommige beveiligingsapps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps, gaat u naar Instellingen &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Virusscan stoppen voordat hij klaar is?</string>
   <string name="dialog_no_longer_alert">Niet opnieuw weergeven</string>
-  <string name="dialog_restrict_all_mobile_summary">%s De mobiele dataverbinding zal hierna worden beperkt voor alle apps.</string>
-  <string name="dialog_restrict_all_mobile_title">Beperk %s mobiele dataverbinding</string>
+  <string name="dialog_restrict_all_mobile_summary">Dit zorgt ervoor dat geen enkele app meer kan verbinden met mobiel internet. Toch beperken?.</string>
+  <string name="dialog_restrict_all_mobile_title">Mobiele dataverbinding beperken</string>
   <string name="dialog_restrict_all_wlan_summary">De Wi-Fi verbinding zal hierna worden beperkt voor alle apps.</string>
   <string name="dialog_restrict_all_wlan_title">Wi-Fi verbinding beperken</string>
   <string name="dialog_restrict_negative">Beperken</string>
@@ -764,7 +765,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="firewall_partial">Laat sommige apps verbinding maken op de volgende methode​</string>
   <string name="firewall_restrict_all">Beperk de verbinding voor alle apps op de volgende methode</string>
   <string name="firewall_restrict_android_dialog_content">Om er zeker van te zijn dat uw apparaat normaal werkt, verbinden er nog een paar Android systeemapplicaties met internet. Deze apps gebruiken uw mobiele dataverbinding en kunnen kleine kosten meebrengen van uw provider.</string>
-  <string name="firewall_restrict_android_dialog_title">Opgelet</string>
+  <string name="firewall_restrict_android_dialog_title">Waarschuwing</string>
   <string name="firewall_restrict_data">Mobiel datagebruik bepereken</string>
   <string name="firewall_restrict_notify_title">%s kan netwerk niet gebruiken</string>
   <string name="firewall_restrict_wlan">Wi-Fi verbinding beperken</string>
@@ -1031,7 +1032,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="legal_workday_message">(Vakanties overslaan)</string>
   <string name="leisure_usage_dialog_message">"Je hebt je datalimiet bereikt.
 
-Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele netwerk."</string>
+Je provider kan kosten in rekening brengen als u verbinding maakt met het mobiele netwerk."</string>
   <string name="leisure_usage_dialog_title">Je hebt het datalimiet overschreden, mobiele data is uitgeschakeld</string>
   <string name="list_empty_text">Leeg</string>
   <string name="load_only_under_wlan">Alleen laden wanneer verbonden met Wi-Fi</string>
@@ -1074,7 +1075,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="lockscreen_glogin_submit_button">Aanmelden</string>
   <string name="loding">Gegevens laden</string>
   <string name="long_click_dialog_summary">Houd de resultaten in de lijst om ze toe te voegen aan uitzonderingen</string>
-  <string name="long_click_dialog_title">Opgelet</string>
+  <string name="long_click_dialog_title">Waarschuwing</string>
   <string name="low_memory_warning_dialog_cancel_button">Annuleren</string>
   <string name="low_memory_warning_dialog_msg">Maak ruimte vrij om door te gaan</string>
   <string name="low_memory_warning_dialog_ok_button">Wissen</string>
@@ -1103,7 +1104,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="main_primary_message_leisure_overlimit">Datalimiet overschreden</string>
   <string name="main_primary_message_leisure_remain">Data</string>
   <string name="main_primary_message_traffic_overlimit">Datalimiet overschreden</string>
-  <string name="main_primary_message_traffic_remain">Mobiele data</string>
+  <string name="main_primary_message_traffic_remain">Mobiele data resterend</string>
   <string name="main_primary_message_traffic_warning">Waarschuwing mobiele data</string>
   <string name="main_purchase_tips">Aanbieding</string>
   <string name="main_tc_over">Gekalibreerd</string>
@@ -1112,7 +1113,7 @@ om te kalibreren"</string>
   <string name="main_tc_wait_result">"Wacht op de provider
 om te reageren"</string>
   <string name="main_tobe_added_desc">Mobiele data vanaf ¥0.03/MB</string>
-  <string name="main_today_used">Vandaag gebruikt</string>
+  <string name="main_today_used">vandaag gebruikt</string>
   <string name="main_toolbar_firewall">Dataverbruik beperken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobiele data</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
@@ -1120,8 +1121,8 @@ om te reageren"</string>
   <string name="main_toolbar_purchase">Herladen</string>
   <string name="main_toolbar_statistic">Statistieken</string>
   <string name="man_add_application">Apps voor automatisch starten handmatig toevoegen</string>
-  <string name="manage_hybrid_permissions">App rechten beheren</string>
-  <string name="managed_user_title">Alle werk apps</string>
+  <string name="manage_hybrid_permissions">Apprechten beheren</string>
+  <string name="managed_user_title">Alle werkapps</string>
   <string name="manual_input_free_traffic">Dataverbruik daluren instellen</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
   <string name="manual_item_white_list_summary">Voorkom dat geselecteerde apps worden geoptimaliseerd</string>
@@ -1211,7 +1212,7 @@ om te reageren"</string>
   <string name="menu_summary_garbage_cleanup_3">Afval nu opruimen</string>
   <string name="menu_summary_networkassistants">Beheer uw databundel</string>
   <string name="menu_summary_networkassistants_2">Datalimiet overschreden</string>
-  <string name="menu_summary_networkassistants_3">Je hebt nog voldoende data over van je bundel</string>
+  <string name="menu_summary_networkassistants_3">Je hebt nog voldoende data over</string>
   <string name="menu_summary_networkassistants_4">Databundel overschreden</string>
   <string name="menu_summary_power_manager">Accubesparing geeft u meer tijd tussen de oplaadbeurten</string>
   <string name="menu_summary_power_manager_1">Batterij is volledig opgeladen</string>
@@ -1624,7 +1625,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_pkg_begin_date">Resetdatum verbruik</string>
   <string name="pref_roaming_daily_limit_setting">Dagelijks dataroaminglimiet</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dagelijks datalimiet</string>
-  <string name="pref_roaming_setting_gategory">Settings</string>
+  <string name="pref_roaming_setting_gategory">Instellingen</string>
   <string name="pref_special_package_setting">Aangepaste databundel</string>
   <string name="pref_special_package_setting_summary">Beheer data, opwaardeerpakketten, dagelijkse databundels en aangewezen data</string>
   <string name="pref_summary_upload_data_usage">Rapporteer uw gegevensgebruiksinformatie om ons te helpen MIUI services te verbeteren. Het rapportageproces zal worden uitgevoerd in overeenstemming met ons Privacybeleid.</string>
@@ -1719,7 +1720,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="resource_auto_restart">Automatisch starten beheren</string>
   <string name="resource_buy_flow">Koop mobiele data</string>
   <string name="resource_cleanmaster">Opruimer</string>
-  <string name="resource_gamebooster">Game speed booster</string>
+  <string name="resource_gamebooster">Snelheid opvoeren om te gamen</string>
   <string name="resource_networkassistant_1">Dataverbruik</string>
   <string name="resource_networkassistant_2">Databundel kalibreren</string>
   <string name="resource_networkassistant_4">Netwerk testen</string>

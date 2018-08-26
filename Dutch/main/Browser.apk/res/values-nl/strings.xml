@@ -113,7 +113,7 @@
   <string name="block_ads_choice_continue">Doorgaan</string>
   <string name="block_ads_message">Wilt u berichten van deze website blokkeren?</string>
   <string name="block_ads_title">Inhoud kan advertenties bevatten</string>
-  <string name="bookmark">Bladwijzer</string>
+  <string name="bookmark">Bladwijzers</string>
   <string name="bookmark_add_to">Toevoegen aan</string>
   <string name="bookmark_btn_select_all">Alles selecteren</string>
   <string name="bookmark_btn_select_none">Alles deselecteren</string>
@@ -125,7 +125,7 @@
   <string name="bookmark_needs_url">Bladwijzer moet een URL bevatten</string>
   <string name="bookmark_not_saved">Kon niet toevoegen aan bladwijzers</string>
   <string name="bookmark_rename_group">Groepsnaam wijzigen</string>
-  <string name="bookmark_saved">Bladwijzers toegevoegd</string>
+  <string name="bookmark_saved">Bladwijzer toegevoegd</string>
   <string name="bookmark_title">Bladwijzernaam</string>
   <string name="bookmark_title_lable">Titel</string>
   <string name="bookmark_url_already_exisit">Deze URL staat al bij favorieten</string>
@@ -206,19 +206,18 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
-  <string name="custom_head_card_text">Geloof altijd dat er iets wonderbaarlijks staat te gebeuren</string>
   <string name="custom_head_pull_down_text">Voer infoFlow in</string>
   <string name="data_monitor">Dataverbruik bijhouden</string>
   <string name="data_monitor_dialog_message">Het lijkt erop dat iets veel mobiele data gebruikt. Open de startpagina om dit te stoppen.</string>
   <string name="data_traffic_continue">Doorgaan</string>
   <string name="data_traffic_goto">Gratis dataverkeer</string>
-  <string name="data_traffic_prompt_free_data">Als u uw mobiele gegevensverbinding gebruikt om door video\'s te bladeren, neemt uw gegevensgebruik toe. Verkrijg gratis dataverkeer.</string>
-  <string name="data_traffic_prompt_message">Als u uw mobiele gegevensverbinding gebruikt om door video\'s te bladeren, neemt uw gegevensgebruik toe. Als u de limiet voor het gebruik van uw gegevens overschrijdt, kan uw provider extra kosten in rekening brengen.</string>
-  <string name="data_traffic_prompt_title">Mobiele data wordt gebruikt</string>
+  <string name="data_traffic_prompt_free_data">Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan.</string>
+  <string name="data_traffic_prompt_message">Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan. Als u het datalimiet overschrijdt kan uw provider extra kosten in rekening brengen.</string>
+  <string name="data_traffic_prompt_title">Mobiel internet wordt gebruikt</string>
   <string name="data_traffic_stop">Stop</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_bookmark">Verwijderen</string>
-  <string name="delete_bookmark_action_warning">Bladwijzers verwijderen?</string>
+  <string name="delete_bookmark_action_warning">Bladwijzer verwijderen?</string>
   <string name="delete_bookmark_group_warning">\"%s\" verwijderen? Alle bladwijzers in deze groep zullen worden verwijderd.</string>
   <string name="delete_bookmark_warning">Bladwijzer \"%s\" verwijderen?</string>
   <string name="delete_download">Verwijderen</string>
@@ -227,8 +226,8 @@
   <string name="dialog_confirm_delete_downloads_message">%s taken verwijderen?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Deze taak verwijderen?</string>
   <string name="dialog_failed_body">Later opnieuw proberen of dit bestand verwijderen uit de downloadwachtrij?</string>
-  <string name="dialog_file_already_exists">U hebt dit bestand reeds gedownload</string>
-  <string name="dialog_file_missing_body">Kon bestand niet vinden. Hebt u het verplaatst of verwijderd?</string>
+  <string name="dialog_file_already_exists">U hebt dit bestand al gedownload</string>
+  <string name="dialog_file_missing_body">Kon bestand niet vinden. Misschien is het verplaatst of verwijderd?</string>
   <string name="dialog_file_missing_title">Kon bestand niet openen</string>
   <string name="dialog_insufficient_space_on_cache">Kon niet downloaden</string>
   <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op verwijderbare opslag</string>
@@ -329,7 +328,7 @@
   <string name="firstUsingSearchEngineTips">Zoekmachine wijzigen?</string>
   <string name="fling_on_border_gesture_hint">Je kan de functie van dit gebaar instellen in Instellingen</string>
   <string name="force_quick_search_title">Zoeken</string>
-  <string name="force_touch_bookmark_history_title">Bladwijzer &amp; geschiedenis</string>
+  <string name="force_touch_bookmark_history_title">Bladwijzers &amp; geschiedenis</string>
   <string name="force_touch_infoflow_title">Nieuws</string>
   <string name="forward_description">Vooruit</string>
   <string name="geolocation_permissions_prompt_dont_share">Weigeren</string>
@@ -829,7 +828,7 @@ Wil je deze pagina verlaten?"</string>
   <string name="nav_screen_incognito_message">"Je browse- en zoekgeschiedenis wordt niet opgeslagen in incognitomodus.
 Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat wel worden bewaard."</string>
   <string name="nav_screen_incognito_title">Incognitomodus</string>
-  <string name="navigation_delete_all">Veeg naar links en rechts om alle tabbladen te sluiten</string>
+  <string name="navigation_delete_all">Veeg naar links of rechts om alle tabbladen te sluiten</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuleren</string>
   <string name="navigationbar_rightbutton_actiontext_go">Ga</string>
   <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>

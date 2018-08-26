@@ -38,7 +38,9 @@
   <string name="aqi_quality_ambient_air_quality">Luchtkwaliteit in de omgeving</string>
   <string name="aqi_quality_co_desc">Koolstofmonoxide</string>
   <string name="aqi_quality_detail_15_days">Verwachting voor 15 dagen</string>
+  <string name="aqi_quality_detail_24_hours">Verwachting voor 24 uur</string>
   <string name="aqi_quality_detail_48_hours">Verwachting voor 48 uur</string>
+  <string name="aqi_quality_detail_5_days">Verwachting voor 5 dagen</string>
   <string name="aqi_quality_major_pollutants">Grote vervuilers</string>
   <string name="aqi_quality_map_title">Map voor luchtkwaliteit</string>
   <string name="aqi_quality_no2_desc">Stikstofdioxide</string>
