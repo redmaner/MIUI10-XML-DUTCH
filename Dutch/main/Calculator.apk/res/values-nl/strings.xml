@@ -142,6 +142,8 @@
   <string name="preference_feedback_title">FAQ</string>
   <string name="preference_follow_us">Volg ons</string>
   <string name="preference_follow_web_title">Officiële website</string>
+  <string name="preference_other">Andere</string>
+  <string name="preference_privacy_title">Privacybeleid</string>
   <string name="preference_settings">Instellingen</string>
   <string name="preference_use_degress_summary">Vervang radialen met hoeken in trigonometrische functies</string>
   <string name="preference_use_degress_title">Hoeken gebruiken</string>

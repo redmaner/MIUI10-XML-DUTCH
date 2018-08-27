@@ -1753,6 +1753,8 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="factory_reset_summary">Wis alle gegevens van de interne opslag</string>
   <string name="failed_to_check_find_device_status_content">Kon zoekstatus van het apparaat niet controleren, wacht een minuut of twee en probeer opnieuw.</string>
   <string name="failed_to_check_find_device_status_title">Kon zoekstatus niet controleren</string>
+  <string name="failed_to_erase_text">Schakel het wachtwoord voor het vergrendelscherm uit voordat u 1217 gebruikt.</string>
+  <string name="failed_to_erase_title">Verboden actie</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
   <string name="failed_to_shut_down_find_device_content">Kon apparaat zoeken niet uitschakelen. Wacht een minuutje of twee en probeer opnieuw.</string>
   <string name="failed_to_shut_down_find_device_title">Kon niet uitschakelen</string>
@@ -2785,6 +2787,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="nature_color">Standaard</string>
   <string name="navigation_guide_app_summary">Veeg naar rechts of links vanaf de rand van het scherm in het bovenste gedeelte</string>
   <string name="navigation_guide_app_title">Actie van app triggeren</string>
+  <string name="navigation_guide_appswitch_anim_summary">Veeg over het scherm vanaf de rand om terug te gaan naar de vorige app</string>
+  <string name="navigation_guide_appswitch_anim_title">Terug naar vorige app</string>
+  <string name="navigation_guide_appswitch_click">Eerst \"Ga terug naar de vorige app\" inschakelen</string>
   <string name="navigation_guide_appswitch_summary">Veeg naar links of rechts vanaf de rand van het scherm en houd even ingedrukt</string>
   <string name="navigation_guide_appswitch_title">Schakel over naar de vorige app</string>
   <string name="navigation_guide_back_summary">Veeg naar links of rechts vanaf de zijkant van het scherm</string>
@@ -3142,7 +3147,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="pick_up_gesture_wakeup_title">Opneem gebaar om te ontwaken</string>
   <string name="picture_color_mode">Beeldkleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
-  <string name="picture_in_picture_app_detail_summary">Toestaan dat deze app een Picture-in-Picture venster maakt terwijl de app is geopend of nadat je deze hebt verlaten (bijvoorbeeld om door te gaan met het bekijken van een video). Dit venster wordt weergegeven bovenop andere apps</string>
+  <string name="picture_in_picture_app_detail_summary">Toestaan dat deze app een Picture-in-Picture venster maakt terwijl de app is geopend of nadat je deze hebt verlaten (bijvoorbeeld om door te gaan met het bekijken van een video). Dit venster wordt weergegeven bovenop andere apps die u gebruikt</string>
   <string name="picture_in_picture_app_detail_switch">Picture-in-picture toestaan</string>
   <string name="picture_in_picture_app_detail_title">Picture-in-picture</string>
   <string name="picture_in_picture_empty_text">Geen geïnstalleerde apps die Picture-in-Picture ondersteunen</string>

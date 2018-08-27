@@ -394,7 +394,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialer_useDtmfDialpad">Gebruik toetsenblok</string>
   <string name="dialog_import">Contacten importeren</string>
   <string name="dialog_import_export">Contacten importeren/exporteren</string>
-  <string name="dialog_new_contact_account">Contact in account maken</string>
+  <string name="dialog_new_contact_account">Contacten in account maken</string>
   <string name="dialog_new_group_account">Groep in account maken</string>
   <string name="dialog_phone_call_prohibited_message">Gesprek niet uitgevoerd</string>
   <string name="dialog_sync_add">Synchronisatiegroep toevoegen</string>
