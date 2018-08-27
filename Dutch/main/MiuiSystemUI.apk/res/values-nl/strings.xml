@@ -794,6 +794,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK gebied</string>
   <string name="keyguard_carrier_default">Geen service</string>
   <string name="keyguard_charged">Opgeladen</string>
+  <string name="keyguard_charging_back_to_lockscreen">Terug naar vergrendelingscherm</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
   <string name="keyguard_charging_info_click_to_detail">Details weergegeven</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Gedraineerd</string>
@@ -1167,7 +1168,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
 - Voorkom onderbreking van het volledige scherm
 - Nooit gluren
 - Nooit geluid maken of trillen 
-- Verbergen van vergrendelingsscherm en statusbalk 
+- Verbergen van vergrendelingscherm en statusbalk 
 - Onderaan de meldingslijst weergeven
 
 "&lt;b&gt;Level 0&lt;/b&gt;" 
@@ -1533,7 +1534,7 @@ d MMMM"</string>
   <string name="structure_face_unlock_really_person">Het lijkt erop dat je je gezicht hebt vervangen door een voorwerp.</string>
   <string name="switch_bar_off">Uit</string>
   <string name="switch_bar_on">Aan</string>
-  <string name="symbol_colon">:</string>
+  <string name="switch_system_user">Eerste ruimte openen</string>
   <string name="system_ui_tuner">Systeem UI Tuner</string>
   <string name="task_access_locked_app_msg">Appvergrendeling inschakelen</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>
