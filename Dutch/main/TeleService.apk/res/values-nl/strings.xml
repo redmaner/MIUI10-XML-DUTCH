@@ -560,7 +560,7 @@ Sample Rate"</string>
   <string name="data_usage_uninstalled_apps_users">Verwijderde apps en gebruikers</string>
   <string name="dc_alert_dialog_message">Voor sommige apps is een mobiele gegevensverbinding nodig. U kunt contact opnemen met uw provider om te weten te komen welke %s voor u beschikbaar zijn.</string>
   <string name="dc_alert_dialog_title">Data gebruikswaarschuwing</string>
-  <string name="dds_switch_warning_message_data_off">"Kon %1%s niet vinden SIM %2$s is nu ingesteld als uw standaard mobiele datakaart mobiele data is nu uitgeschakeld."</string>
+  <string name="dds_switch_warning_message_data_off">"Kon %1$s niet vinden SIM %2$s is nu ingesteld als uw standaard mobiele datakaart mobiele data is nu uitgeschakeld."</string>
   <string name="dds_switch_warning_message_data_on">"Kon SIM %1$s niet vinden. SIM %2$s is nu ingesteld als uw standaard mobiele datakaart. Mobiele data wordt uitgeschakeld om onnodige providerkosten te voorkomen."</string>
   <string name="deactivate_all">Alles annuleren</string>
   <string name="debug_app">Debugapp selecteren</string>

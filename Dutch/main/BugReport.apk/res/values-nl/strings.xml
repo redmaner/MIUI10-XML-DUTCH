@@ -9,7 +9,6 @@
   <string name="app_search">Apps zoeken</string>
   <string name="btn_send">Verzenden</string>
   <string name="bugreport_dialog_not_show_again">Niet meer tonen</string>
-  <string name="bugreport_dialog_submit_content">"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed."</string>
   <string name="bugreport_dump_complete_notification_summary">Tik om te bekijken.</string>
   <string name="bugreport_dump_complete_notification_title">Bugreport gemaakt</string>
   <string name="bugreport_dump_start_notification_summary">Dit kan enkele minuten duren.</string>

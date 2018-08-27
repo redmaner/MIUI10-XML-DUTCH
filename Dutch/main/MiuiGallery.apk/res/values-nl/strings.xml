@@ -116,13 +116,13 @@
   <string name="baby_album_needs_auto_backup_tip">Kan automatische back-up voor babyalbum niet uitschakelen</string>
   <string name="baby_album_new_photo_remind">Er zijn nieuwe foto\'s in het babyalbum.</string>
   <string name="baby_album_setting_title">Babyinfo</string>
-  <string name="baby_album_settings">Baby album instellingen</string>
+  <string name="baby_album_settings">Baby-album instellingen</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s gedeelde %5$s's album met jou"</string>
   <string name="baby_album_sharer_recommand_face">"Bestaande foto's van %1$s toevoegen?"</string>
   <string name="baby_album_sharers_page_title">Delen met familie</string>
   <string name="baby_birthday">Verjaardag</string>
-  <string name="baby_face_desc">Baby album</string>
+  <string name="baby_face_desc">Baby-album</string>
   <string name="baby_lock_wallpaper">Achtergrond vergrendelscherm</string>
   <string name="baby_lock_wallpaper_cancelled">Overgeschakeld naar standaard achtergrond vergrendelscherm</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Huidige instellingen toepassen?</string>
@@ -298,7 +298,7 @@
   <string name="correct_time_success">Aanpassen gelukt</string>
   <string name="correct_time_tip">Datum en tijd aanpassen…</string>
   <string name="create_baby_album">Maak een babyalbum aan</string>
-  <string name="create_baby_album_dialog_msg">Maak een album voor \"%s\"?</string>
+  <string name="create_baby_album_dialog_msg">Album maken voor \"%s\"?</string>
   <string name="create_baby_album_later_toast">U kunt altijd een babyalbum maken in Instellingen</string>
   <string name="create_new_album">Album aanmaken</string>
   <string name="create_new_album_failed">Kon geen aanmaken</string>
@@ -316,7 +316,7 @@
   <string name="define_by_user">Aangepast</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_album_failed">Kon album niet verwijderen</string>
-  <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s %3$s?</string>
+  <string name="delete_album_msg_format">Album \"%2$s\" verwijderen?</string>
   <string name="delete_album_success">Album verwijderd</string>
   <string name="delete_finish_format">%d items verwijderd</string>
   <string name="delete_from_all_devices_and_cloud">Van alle apparaten en Mi Cloud</string>
