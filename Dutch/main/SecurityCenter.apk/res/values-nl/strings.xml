@@ -738,8 +738,8 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
 "&lt;li&gt;Als u wilt dat een app op de achtergrond wordt uitgevoerd, vergrendelt u deze in \'Recent\' of voegt u deze toe aan onderstaande achtergronduitzonderingen. Er kunnen maximaal 4 apps op de achtergrond worden uitgevoerd wanneer Extreme batterijbesparing is ingeschakeld.&lt;/li&gt;"
 "&lt;li&gt;Extreme batterijbesparing schakelt standaard NFC uit. U kunt dit wijzigen in Instellingen.&lt;/li&gt;"
 "&lt;li&gt;Om ervoor te zorgen dat u alle functies van uw apparaat normaal kunt gebruiken, wordt Extreme batterijbesparing automatisch uitgeschakeld wanneer uw batterij 30% is opgeladen.&lt;/li&gt;</string>
-  <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, stops sync, and reduces display colors.</string>
-  <string name="extreme_power_save_mode_title">Extreme battery saver</string>
+  <string name="extreme_power_save_mode_summary">Extreme batterijbesparing beperkt de achtergrondactiviteit en stopt de synchronisatie.</string>
+  <string name="extreme_power_save_mode_title">Extreme batterijbesparing</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>

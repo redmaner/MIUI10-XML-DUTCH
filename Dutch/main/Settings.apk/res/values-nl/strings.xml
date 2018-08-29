@@ -1008,7 +1008,8 @@ Sample Rate"</string>
   <string name="charge_length_format">%1$s geleden</string>
   <string name="charging_sounds_title">Oplaadgeluiden</string>
   <string name="check_find_device_status_failure_confirm">Ok</string>
-  <string name="check_importance">Markeren als belangrijk?</string>
+  <string name="check_importance">Regels voor gegroepeerde meldingen</string>
+  <string name="check_importance_dialog_cancel">Annuleren</string>
   <string name="check_update">Controleren op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="checking_decryption">Controleren…</string>
@@ -1034,8 +1035,11 @@ Sample Rate"</string>
   <string name="clear_instant_app_data">App wissen</string>
   <string name="clear_uri_btn_text">Toegang wissen</string>
   <string name="clear_user_data_text">Gegevens wissen</string>
+  <string name="close_aod">"Deze functie kan niet worden gecombineerd met \"Altijd aan modus\". Schakel eerst \"Altijd aan modus\" uit."</string>
   <string name="close_app">Huidige app sluiten</string>
   <string name="close_demo_mode">Annuleren</string>
+  <string name="close_fod">U kan uw apparaat niet ontgrendelen met uw vingerafdruk wanneer het scherm is uitgeschakeld. Vingerafdrukontgrendeling werkt alleen als het scherm is ingeschakeld.</string>
+  <string name="close_fod_aod">"U kan uw apparaat niet ontgrendelen met uw vingerafdruk wanneer het scherm is uitgeschakeld. \"Altijd aan modus\" is ook niet beschikbaar. Ontgrendeling met vingerafdruk werkt alleen als het scherm is ingeschakeld."</string>
   <string name="close_gesture">Sluiten door middel van gebaar</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_optimization_message">Tekstindeling, accounts en andere delen van MIUI kunnen worden beïnvloed nadat u deze functie uitschakelt.</string>
@@ -1999,6 +2003,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="handy_mode_enable">Eén-hand modus</string>
   <string name="handy_mode_size">Schermgrootte</string>
   <string name="handy_mode_tips">Veeg naar links of rechts vanaf de homeknop om het scherm dichter naar de ene kant te trekken.</string>
+  <string name="handy_mode_tips_full_screen">Wanneer u bewegingen op het volledige scherm gebruikt, kan u de modus voor één hand inschakelen met Quick ball. U kunt ook overschakelen naar het gebruik van knoppen in plaats van gebaren op volledig scherm.</string>
   <string name="haptic_feedback_enable_title">Trillen bij aanraking</string>
   <string name="haptic_feedback_level">Trillen</string>
   <string name="hardkeyboard_category">Instellingen voor vast toetsenbord</string>
@@ -4659,6 +4664,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="title_hdmi_color_calibration">Kleurcorrectie voorkeuze</string>
   <string name="title_layout_current">Tekstgrootte</string>
   <string name="title_layout_current2">Tekstgrootte</string>
+  <string name="to_close">Uitschakelen</string>
   <string name="toast_lockscreen_glogin_empty_password">Wachtwoord invoeren</string>
   <string name="toast_need_login">Aanmelden op uw Mi account</string>
   <string name="total">Niet storen</string>
