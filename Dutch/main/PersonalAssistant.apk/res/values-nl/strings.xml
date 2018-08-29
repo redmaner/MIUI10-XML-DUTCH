@@ -352,10 +352,12 @@ Controleer het trackingnummer."</string>
   <string name="express_region_pick_title">Kies regio</string>
   <string name="express_select_addressee">Naar</string>
   <string name="express_select_city">Kies stad</string>
+  <string name="express_select_send_providers">Kies een provider</string>
   <string name="express_select_sender">Van</string>
   <string name="express_send">Verzenden</string>
   <string name="express_send_mms">Versturen</string>
   <string name="express_send_mms_format">Pakket afgeleverd door %1$s | Trackingnummer: %2$s</string>
+  <string name="express_send_not_available">Service is tijdelijk niet beschikbaar. Probeer later opnieuw</string>
   <string name="express_send_notice">Verboden items</string>
   <string name="express_sender_info">Afzenderinfo</string>
   <string name="express_sender_name">Afzendernaam</string>
