@@ -856,7 +856,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="kg_invalid_confirm_pin_hint">PIN codes komen niet overeen</string>
   <string name="kg_invalid_puk">Voer de juiste PUK code opnieuw in. Herhaalde pogingen zullen de SIM permanent uitschakelen.</string>
   <string name="kg_invalid_sim_pin_hint">Typ een PIN die uit 4 tot 8 cijfers bestaat.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK code moet 8 cijfers of meer zijn.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK code moet 8 cijfers zijn.</string>
   <string name="kg_login_too_many_attempts">Te veel patroonpogingen</string>
   <string name="kg_password_instructions">Wachtwoord invoeren</string>
   <string name="kg_password_pin_failed">Kon niet ontgrendelen met SIM PIN</string>

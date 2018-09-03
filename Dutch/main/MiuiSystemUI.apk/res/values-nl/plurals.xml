@@ -52,6 +52,18 @@
         <item quantity="other">%1$d uur en %2$d minuten</item>
         <item quantity="one">%1$d uur en %2$d minuut</item>
     </plurals>
+	<plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other"> %d uur resterend</item>
+        <item quantity="one">%d uur resterend</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minuten resterend</item>
+        <item quantity="one">%d minuut resterend</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Remaining %1$d h %2$d m</item>
+        <item quantity="one">Remaining %1$d h %2$d m</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Voer pincode in. %d pogingen over.</item>
         <item quantity="one">Voer pincode in. %d poging over.</item>

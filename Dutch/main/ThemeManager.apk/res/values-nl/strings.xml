@@ -84,6 +84,9 @@
   <string name="download_failed">Kon niet downloaden</string>
   <string name="download_preview_failed">Voorbeelden laden mislukt</string>
   <string name="download_success">Download voltooid</string>
+  <string name="exit_extreme_mode_dialog_agree">Akkoord</string>
+  <string name="exit_extreme_mode_dialog_cancel">Annuleren</string>
+  <string name="exit_extreme_mode_dialog_title">Extreme modus uitschakelen</string>
   <string name="exo_controls_fastforward_description">Snel vooruit</string>
   <string name="exo_controls_fullscreen_description">Volledig scherm modus</string>
   <string name="exo_controls_next_description">Volgend nummer</string>
@@ -105,6 +108,9 @@
   <string name="exo_track_selection_title_text">Tekst</string>
   <string name="exo_track_selection_title_video">Video</string>
   <string name="exo_track_unknown">Onbekend</string>
+  <string name="extreme_mode_dialog_message">Deze functie is niet beschikbaar in de extreme modus. Schakel de extreme modus uit om het te kunnen gebruiken.</string>
+  <string name="extreme_mode_dialog_ok">Begrepen</string>
+  <string name="extreme_mode_dialog_title">Alarm</string>
   <string name="fail_to_add_account">Kan account niet toevoegen</string>
   <string name="favorite_list">Favorieten</string>
   <string name="favorite_list_format">%1$s toegevoegd aan favorieten</string>

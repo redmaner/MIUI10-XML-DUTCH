@@ -4662,6 +4662,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="title_font_current2">Systeemlettertype</string>
   <string name="title_font_size">Lettergrootte</string>
   <string name="title_hdmi_color_calibration">Kleurcorrectie voorkeuze</string>
+  <string name="title_jeejen">Jeejen startscherm</string>
   <string name="title_layout_current">Tekstgrootte</string>
   <string name="title_layout_current2">Tekstgrootte</string>
   <string name="to_close">Uitschakelen</string>
@@ -4843,7 +4844,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
   <string name="unlock_set_unlock_pattern_summary">Teken een simpel patroon om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
-  <string name="unlock_set_unlock_pin_summary">Voer 4 cijfers in om apparaat te ontgrendelen</string>
+  <string name="unlock_set_unlock_pin_summary">Voer 4-16 cijfers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Schermwachtwoord instellen voor wachtwoordbeveiliging</string>
   <string name="unlock_setup_wizard_fingerprint_details">Als u schermvergrendeling eenmaal hebt ingesteld, kunt u ook uw vingerafdruk instellen in instellingen &gt; Veiligheid.</string>
