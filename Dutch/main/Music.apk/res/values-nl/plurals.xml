@@ -12,6 +12,16 @@
         <item quantity="other">Nummers back-uppen, %1$d nummers resterend (%2$.1fMB)</item>
         <item quantity="one">Nummers back-uppen, %1$d nummer resterend (%2$.1fMB)</item>
     </plurals>
+	<plurals name="Ndialog_renew_content">
+        <item quantity="other">"Uw abonnement verloopt over %d dagen.
+Wilt u dat wij helpen om te vernieuwen?"</item>
+        <item quantity="one">"Uw abonnement verloopt in %d dagen.
+Wilt u dat wij helpen om te vernieuwen?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
+        <item quantity="one">You can download %1$d free song. Download %2$s now?</item>
+    </plurals>
 	<plurals name="Nquit_warning">
         <item quantity="other">Speler zal binnen %d minuten stoppen</item>
         <item quantity="one">Speler zal binnen %d minuut stoppen</item>

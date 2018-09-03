@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_and_cloud">Account</string>
+  <string name="abc_action_bar_home_description">Ga naar startscherm</string>
+  <string name="abc_action_bar_up_description">Ga omhoog</string>
+  <string name="abc_action_menu_overflow_description">Meer opties</string>
+  <string name="abc_action_mode_done">Klaar</string>
+  <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+  <string name="abc_activitychooserview_choose_application">Kies een app</string>
+  <string name="abc_capital_off">UIT</string>
+  <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Zoeken…</string>
+  <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+  <string name="abc_searchview_description_query">Zoekopdracht</string>
+  <string name="abc_searchview_description_search">Zoeken</string>
+  <string name="abc_searchview_description_submit">Zoekopdracht indienen</string>
+  <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
+  <string name="abc_shareactionprovider_share_with">Delen met</string>
+  <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+  <string name="abc_toolbar_collapse_description">Inklappen</string>
   <string name="action_item_add">Toevoegen aan</string>
   <string name="action_item_add_song">Toevoegen aan afspeellijst</string>
   <string name="action_item_add_to_current_playlist">Wachtrij</string>
@@ -73,10 +90,6 @@
   <string name="backup_song_title">Selecteer nummers om te back-uppen</string>
   <string name="bluetooth_device">Bluetooth audio-apparaat</string>
   <string name="browser_error">Tijdelijk niet beschikbaar, probeer het binnenkort opnieuw</string>
-  <string name="btn_earlier_items">Recente berichten laden</string>
-  <string name="btn_earlier_items_progress">Recente berichten aan het laden…</string>
-  <string name="btn_more_items">Meer berichten laden</string>
-  <string name="btn_more_items_progress">Meer berichten aan het laden…</string>
   <string name="buffering">In buffer opslaan…</string>
   <string name="button_cancel_download">Annuleren</string>
   <string name="button_download_now">Nu downloaden</string>
@@ -169,6 +182,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Niet genoeg ruimte op de SD-kaart.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
+  <string name="dialog_renew_failure">Sorry, bewerking is mislukt</string>
+  <string name="dialog_renew_success">Bedankt voor de bevestiging</string>
   <string name="dialog_song_sort_type">Nummers sorteren</string>
   <string name="dialog_song_sort_type_name">Op naam</string>
   <string name="dialog_song_sort_type_playing_times">Op aantal keer afgespeeld</string>
@@ -211,6 +226,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="download_confirm_text">Mi Music zal \"%s\" downloaden en installeren</string>
   <string name="download_connect_wifi_dialog_message">Je hebt Wi-Fi nodig om dit nummer te downloaden. Nu verbinden?</string>
   <string name="download_connect_wifi_dialog_title">Verbinden met Wi-Fi</string>
+  <string name="download_dialog_fail">Kon niet downloaden</string>
+  <string name="download_dialog_success">Met succes gedownload</string>
   <string name="download_done_btn">Gedownload</string>
   <string name="download_error">Mislukt</string>
   <string name="download_error_insufficient_space">Niet genoeg ruimte</string>
@@ -258,6 +275,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="downloading_apk">Wordt al gedownload… Je kan de voortgang in de notificatiebalk zien.</string>
   <string name="downloading_empty">Leeg</string>
   <string name="downloading_pause_apk">Gepauzeerd. Hervat de download in de notificatiebalk.</string>
+  <string name="due_date">Vervaldatum: %s</string>
   <string name="edit_playlist_info">Info afspeellijst bewerken</string>
   <string name="empty_page_no_album">Geen albums.</string>
   <string name="empty_page_no_artist">Geen artiesten.</string>
@@ -281,8 +299,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="eq_preset_select">Kies een preset</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
-  <string name="err_media_handle">Sorry, we konden de media niet ophalen. Probeer opnieuw.</string>
-  <string name="err_offline_on_playback">Sorry, je moet online zijn om deze media af te afspelen.</string>
   <string name="error_forbidden">Synch. is uitgeschakeld wegens problemen met uw Mi Account.</string>
   <string name="error_not_acceptable">Sync. is uitgeschakeld.</string>
   <string name="error_title">Sync. mislukt</string>
@@ -357,6 +373,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="global_search_title_prenatal">Prenatale muziek</string>
   <string name="global_search_title_radar">Muziekherkenning</string>
   <string name="handle_later">Niet nu</string>
+  <string name="hd_quality_audio">HD kwaliteitsaudio</string>
   <string name="headset_and_audio_effect_category">Koptelefoons &amp; audio effecten</string>
   <string name="headset_and_audio_effect_summary">Koptelefoons &amp; equalizer</string>
   <string name="headset_and_audio_effect_title">Koptelefoons &amp; audio effecten</string>
@@ -366,7 +383,9 @@ verzorgd door Ultimate Inc.</string>
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
   <string name="home_tab_local">Mijn muziek</string>
   <string name="home_tab_online">Online muziek</string>
+  <string name="hungama_batch_download_alert_summary">Alleen PRO leden kunnen meerdere nummers downloaden. Nu een PRO lidmaatschap verkrijgen?</string>
   <string name="hungama_category_playlist">Afspeellijst</string>
+  <string name="hungama_free_download_out_summary">Je kunt geen gratis nummers meer downloaden. Een PRO lidmaatschap ontvangen om onbeperkt nummers te downloaden?</string>
   <string name="hungama_subscribe_message">Koop PRO lidmaatschap om muziek van hoge kwaliteit te downloaden.</string>
   <string name="hungama_subscribe_positive_button">Koop PRO lidmaatschap</string>
   <string name="hungama_subscribe_title">PRO lidmaatschap</string>
@@ -379,6 +398,10 @@ verzorgd door Ultimate Inc.</string>
   <string name="impunity_declaration_summary">Gebruiksvoorwaarden tonen elke keer als de muziekapp opent</string>
   <string name="impunity_declaration_title">Algemene voorwaarden</string>
   <string name="in_searching_please_wait">Zoeken…</string>
+  <string name="individuation_card_login_button">Aanmelden</string>
+  <string name="individuation_card_login_message">Aanmelden om meer nummers te vinden die je leuk vindt</string>
+  <string name="individuation_card_title">Voor jou</string>
+  <string name="individuation_cart_login_title">Wilt u meer aanbevelingen zien?</string>
   <string name="individuation_recommend_message">Schakel aanbevelingen in om gepersonaliseerde suggesties te ontvangen gebaseerd op je voorkeuren.</string>
   <string name="individuation_recommend_switch_message">Als u deze functie uitschakelt heeft dat invloed op gepersonaliseerde Mi Muziekservices. Toch uitschakelen?</string>
   <string name="individuation_recommend_title">Aanbevelingen</string>
@@ -426,8 +449,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="menu_title_pause_all">Alle pauzeren</string>
   <string name="menu_title_resume_all">Alle starten</string>
   <string name="message_delete_playlist">Afspeellijst %s verwijderen?</string>
-  <string name="message_timestamp">dd MMM</string>
-  <string name="message_ws_response_error">Er is een probleem opgetreden bij het verwerken van uw verzoek en/of serverreactie</string>
   <string name="metered_alert">Dataverbruik waarschuwing</string>
   <string name="metered_alert_msg">U gebruikt mobiele data om nummers af te spelen. Toch afspelen?</string>
   <string name="metered_alert_msg_with_data">U hebt %s aan mobiele data over. Mobiele data gebruiken om muziek af te spelen?</string>
@@ -573,6 +594,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart, indien beschikbaar</string>
   <string name="privacy_policy">Privacybeleid</string>
   <string name="project_device">Mi Telefoon</string>
+  <string name="pro_member">PRO Lid</string>
   <string name="prompt_grant_write_settings_permission">Toestaan om systeeminstellingen te wijzigen</string>
   <string name="pulluprefreshrecyclerview_loading_error">Kon niet laden</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Afspeellijst geladen</string>
@@ -591,6 +613,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="recommended_no_file_size_download_in_mobile">Uw mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_download">Verwijderen</string>
+  <string name="renew_dialog_title">"Ga voor PRO
+Wees blij"</string>
   <string name="repeat_all_notif">Alle nummers herhalen.</string>
   <string name="repeat_current_notif">Huidige nummer herhalen.</string>
   <string name="request_share_info">Een momentje…</string>
@@ -616,6 +640,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="search_hint">Zoek naar artiesten, nummers, albums en aanbevelingen</string>
   <string name="search_history_clear_all">Wissen</string>
   <string name="search_instant_online_music">Online</string>
+  <string name="search_menu_title">Zoeken</string>
   <string name="search_songs_count">Nummers: %d</string>
   <string name="search_title">Zoeken</string>
   <string name="select">Selecteren</string>
@@ -628,7 +653,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="select_none">Alles deselecteren</string>
   <string name="selected_count">%1$d geselecteerd uit %2$d</string>
   <string name="send_to_title">Verzenden naar (%1$s)</string>
-  <string name="server_connection_failed">Sorry, je moet online zijn om deze functie te gebruiken</string>
   <string name="server_error">Er is een fout opgetreden, waacht een minuut en probeer opnieuw.</string>
   <string name="service_and_settings">Service en instellingen</string>
   <string name="session_create_error">Server heeft SESSION CREATE ERROR code geretourneerd, neem contact op met SDK ontwikkelaars!</string>
@@ -741,6 +765,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="ultra_high_quality">Hoogste</string>
   <string name="unknown_album_name">Onbekend album</string>
   <string name="unknown_artist_name">Onbekende artiest</string>
+  <string name="unlimited_downloads">Onbeperkte downloads</string>
+  <string name="unlimited_offline_songs">Onbeperkte offline nummers</string>
   <string name="update_now">NU UPDATEN</string>
   <string name="upgrade_music">Muziek updaten</string>
   <string name="upgrade_music_message">Updates zijn klaar. Herstart om te updaten.</string>
@@ -751,16 +777,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="video_replay_btn">Opnieuw afspelen</string>
   <string name="video_retry_btn">Probeer opnieuw</string>
   <string name="view_album">Album bekijken</string>
-  <string name="vip_after_tomorrow_auto_renew_message">"Uw muziek abonnement wordt automatisch 's avonds vernieuwd. Zorg ervoor dat u genoeg Mi Credits in uw account hebt om deze betaling te voltooien."</string>
-  <string name="vip_after_tomorrow_renew_message">U zal geen hoge kwaliteit audio meer kunnen streamen, maar u kan nog steeds nummers streamen in normale kwaliteit.</string>
-  <string name="vip_auto_renew_message">Uw muziekabonnement zal vanavond automatisch vernieuwd worden. Wees u er van bewust dat u genoeg Mi Credits op uw account moet hebben om deze betaling te voltooien.</string>
-  <string name="vip_auto_renew_title">Abonnements vernieuwing</string>
-  <string name="vip_renew_message">U zal geen hoge kwaliteits audio meer kunnen streamen, maar u kan nog steeds nummers streamen in normale kwaliteit</string>
-  <string name="vip_renew_title">Abonnement vervallen</string>
   <string name="vip_required">Premium muziekpakket verkrijgen om dit nummer af te spelen. Nummer voorlopig overgeslagen.</string>
-  <string name="vip_required_with_song">Premium muziekpakket verkrijgen om “%s” af te spelen. Nummer voorlopig overgeslagen.</string>
-  <string name="vip_tomorrow_auto_renew_message">Uw muziekabonnement wordt automatisch morgenavond verlengd. Zorg ervoor dat u genoeg Mi Credits in uw account hebt om deze betaling te voltooien.</string>
-  <string name="vip_tomorrow_renew_message">U zal geen hoge kwaliteit audio meer kunnen streamen, maar u kan nog steeds nummers streamen in normale kwaliteit.</string>
+   <string name="vip_required_with_song">%s is alleen beschikbaar voor PRO leden. Dit nummer nu overgeslaan.</string>
   <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze %s download te voltooien.
 
 Tik op %s om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>

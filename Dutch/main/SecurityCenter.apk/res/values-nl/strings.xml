@@ -346,6 +346,7 @@
   <string name="auto_task_operation_sync">Synchroniseren</string>
   <string name="auto_task_operation_vibration">Trillen</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="auto_task_result_summary_text">Stel geautomatiseerde taken in voor batterijbesparing</string>
   <string name="back_app_name">Terug naar appvergrendeling</string>
   <string name="back_description_securitycenter">Terug</string>
   <string name="back_modifypassword">Terug naar wachtwoord wijzigen</string>
@@ -738,6 +739,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
 "&lt;li&gt;Als u wilt dat een app op de achtergrond wordt uitgevoerd, vergrendelt u deze in \'Recent\' of voegt u deze toe aan onderstaande achtergronduitzonderingen. Er kunnen maximaal 4 apps op de achtergrond worden uitgevoerd wanneer Extreme batterijbesparing is ingeschakeld.&lt;/li&gt;"
 "&lt;li&gt;Extreme batterijbesparing schakelt standaard NFC uit. U kunt dit wijzigen in Instellingen.&lt;/li&gt;"
 "&lt;li&gt;Om ervoor te zorgen dat u alle functies van uw apparaat normaal kunt gebruiken, wordt Extreme batterijbesparing automatisch uitgeschakeld wanneer uw batterij 30% is opgeladen.&lt;/li&gt;</string>
+  <string name="extreme_power_save_mode_card_summary">Schakel de extreme modus in om energie te besparen wanneer de batterij bijna leeg is.</string>
   <string name="extreme_power_save_mode_summary">Extreme batterijbesparing beperkt de achtergrondactiviteit en stopt de synchronisatie.</string>
   <string name="extreme_power_save_mode_title">Extreme batterijbesparing</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
@@ -956,10 +958,15 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="guide_wait_setting">Niet nu</string>
   <string name="handle_bar_summary_wifi_unknown">Onbekend</string>
   <string name="handle_bar_title_system">Systeem</string>
+  <string name="handle_title_abnormal">Batterij loopt leeg</string>
+  <string name="handle_title_app">Apps</string>
+  <string name="handle_title_details">Details batterijgebruik</string>
   <string name="handle_title_network">Wi-Fi veiligheid</string>
   <string name="handle_title_pay_env">Betaalomgeving</string>
   <string name="handle_title_privacy">Privébeveiliging</string>
+  <string name="handle_title_system">Systeem batterijgebruik</string>
   <string name="hide_mode_app_background_setting_text">App batterijbespaarder</string>
+  <string name="hide_mode_result_summary_text">Pas batterbespaarder instellingen voor afzonderlijke apps aan</string>
   <string name="hide_mode_summary_text">De achtergrondactiviteit van apps beheren om batterij te besparen</string>
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="hint_antispam_mode_edit">Aangepaste modus</string>
@@ -1486,6 +1493,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pc_activity_title">Batterij optimaliseren</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Installeren via USB</string>
+  <string name="pc_main_activity_back">Terug</string>
+  <string name="pc_settings_title">Batterijbepaarder instellingen</string>
   <string name="pc_to_phone_install">Installatie geblokkeerd van %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Datalimiet instellen</string>
   <string name="permission_action_accept">Toestaan</string>
@@ -1520,12 +1529,29 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_center_auto_shutdown">Schema voor in-/uitschakelen</string>
   <string name="power_center_back">Terug</string>
   <string name="power_center_charge_time">%1$s tot volledig opgeladen</string>
-  <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_hints_scan_danger_result">Je kunt problemen met de batterij nu oplossen</string>
+  <string name="power_center_list_item_auto_brightness">Pas de helderheid van het scherm automatisch aan</string>
+  <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
+  <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
+  <string name="power_center_list_item_set_lockscreen_time">Zet het scherm in slaapstand na 30 seconden inactiviteit</string>
   <string name="power_center_ontime_boot">Opstarten op een tijdstip</string>
   <string name="power_center_ontime_shutdown">Uitschakelen op een tijdstip</string>
   <string name="power_center_repeat">Herhalen</string>
+   <string name="power_center_scan_item_title_GPS">GPS nauwkeurigheid aanpassen</string>
+  <string name="power_center_scan_item_title_abnormal">Batterij problemen</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Abnormale energieverbruikstoepassing</string>
+  <string name="power_center_scan_item_title_auto_invoke">Ketting start</string>
+  <string name="power_center_scan_item_title_auto_start">Automatisch starten</string>
+  <string name="power_center_scan_item_title_battery_details">Details batterijgebruik</string>
+  <string name="power_center_scan_item_title_brightness">Schermhelderheid aanpassen</string>
+  <string name="power_center_scan_item_title_clean_memory">Geheugen wissen</string>
+  <string name="power_center_scan_item_title_hide">Batterijgebruik beheren</string>
+  <string name="power_center_scan_item_title_power_saver">Batterijbepaarder inschakelen</string>
+  <string name="power_center_scan_item_title_running_app">Apps die op de achtergrond worden uitgevoerd</string>
+  <string name="power_center_scan_result_safe">Geen batterij problemen gevonden</string>
   <string name="power_center_state_off">Uit</string>
   <string name="power_center_state_on">Aan</string>
+  <string name="power_center_stop_scan_title">Scannen stoppen</string>
   <string name="power_center_time_to_boot">Opstarten op een tijdstip</string>
   <string name="power_center_time_to_shutdown">Uitschakelen op een tijdstip</string>
   <string name="power_center_title">Batterijgebruik</string>
@@ -1565,6 +1591,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_save_mode_summary" formatted="false">"Achtergrondprocessen controleren en synchronisatie uitschakelen. Batterijbespaarder zal automatisch uitschakelen wanneer batterij 60% of 100% is opgeladen."</string>
   <string name="power_save_on_time_end_time_summary_na">Tot</string>
   <string name="power_save_on_time_start_time_summary_na">Van</string>
+  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Batterijbesparing is ingeschakeld. Het vermindert de achtergrondactiviteit van apps, stopt de synchronisatie en minimaliseert systeemanimaties."</string>
   <string name="power_save_summary_text">Schakel batterijbespaarder in om de achtergrondactiviteit van apps te verminderen, sync. te stoppen en systeemanimaties te minimaliseren.</string>
   <string name="power_save_title_text">Batterijbespaarder</string>
   <string name="power_screen">Scherm</string>
@@ -1784,7 +1811,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="section_title_system">Systeemveiligheid</string>
   <string name="security_scan_optimizing">Optimaliseren…</string>
   <string name="see_detail">Details</string>
-  <string name="see_more_content">Gamecentrum updaten bij om meer hoogtepunten te zien</string>
+  <string name="see_more_content">Games updaten om meer hoogtepunten te zien</string>
   <string name="set_applock_password">Wachtwoord instellen</string>
   <string name="set_mixed_password_name">Wachtwoord instellen</string>
   <string name="set_numeric_password_name">PIN instellen</string>

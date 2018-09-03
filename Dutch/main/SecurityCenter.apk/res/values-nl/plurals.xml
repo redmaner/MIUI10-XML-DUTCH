@@ -120,6 +120,14 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d batterijproblemen gevonden, herstel ze</item>
         <item quantity="one">%d batterijprobleem gevonden, herstel ze</item>
     </plurals>
+	<plurals name="power_center_menu_text">
+        <item quantity="other">items</item>
+        <item quantity="one">item</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">%d minuten toevoegen</item>
+        <item quantity="one">%d minuut toevoegen</item>
+    </plurals>
 	<plurals name="people">
         <item quantity="other">Gedownload door %1$d personen</item>
     </plurals>
