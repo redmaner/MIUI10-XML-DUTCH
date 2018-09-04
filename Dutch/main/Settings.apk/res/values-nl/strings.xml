@@ -4293,9 +4293,11 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_basic_settings">Basisinstellingen</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi naam aanpassen</string>
+  <string name="status_bar_settings_customer_feedback">feedback</string>
   <string name="status_bar_settings_enable_notification">Meldingen weergeven</string>
   <string name="status_bar_settings_expand_top_notification">Bovenste meldingen uitbreiden</string>
   <string name="status_bar_settings_expandable_under_keyguard">Weergeven op vergrendelscherm</string>
+  <string name="status_bar_settings_function_description">Over deze functie</string>
   <string name="status_bar_settings_long_click_sort">Tik &amp; houd ingedrukt om een schakelaar op te pakken</string>
   <string name="status_bar_settings_manage_notification">Appmeldingen</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
@@ -4326,6 +4328,11 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_toggle_collapse_after_clicked">Inklappen na aanraken</string>
   <string name="status_bar_settings_toggle_position">Positie schakelaars</string>
   <string name="status_bar_settings_user_fold">Meldingenfolder</string>
+  <string name="status_bar_settings_user_fold_description1">De map meldingen is geïntroduceerd in MIUI 9. Deze functie filtert onbelangrijke meldingen en plaatst deze in een aparte map.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI onthoudt op welke meldingen u tikt en gebruikt vervolgens meerdere criteria om te bepalen of ze belangrijk zijn.</string>
+  <string name="status_bar_settings_user_fold_description3">Als de meldingen die u belangrijk vindt nog steeds in de map meldingen worden geplaatst, moet u ervoor zorgen dat u dergelijke problemen bij ons meldt. We stellen uw feedback op prijs.</string>
+  <string name="status_bar_settings_user_fold_disable">Uit</string>
+  <string name="status_bar_settings_user_fold_enable">Aan</string>
   <string name="status_bar_settings_user_fold_summary">Alle onbelangrijke meldingen zullen gegroepeerd worden in een aparte folder</string>
   <string name="status_bar_style_list">Gecombineerd</string>
   <string name="status_bar_style_page">Gescheiden</string>
