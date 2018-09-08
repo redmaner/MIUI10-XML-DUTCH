@@ -494,8 +494,6 @@
   <string name="toast_select_white_need_remove">Kies de items die je wilt verwijderen</string>
   <string name="toast_selecte_group_restore_succeed">Foto\'s hersteld</string>
   <string name="toast_uninstall_success">Verwijderen voltooid</string>
-  <string name="toast_updater_close_4g_text">Apps worden niet geüpdatet over mobiele data (4G)</string>
-  <string name="toast_updater_open_4g_text">Apps worden geüpdatet over mobiele data (4G)</string>
   <string name="total_clean">Totaal opgeruimd: %s</string>
   <string name="total_clean_text">Opruimen</string>
   <string name="unlike">Nee bedankt</string>

@@ -94,11 +94,8 @@ U moet akkoord gaan met het Privacybeleid van Kika voordat u deze functie gebrui
   <string name="terms_privacy_policy_input_method_kika">Kika Privacybeleid</string>
   <string name="title_fingerprint">Wachtwoord instellen</string>
   <string name="user_agreement">Algemene voorwaarden</string>
-  <string name="voice_assist_advice">Met Mi AI kun je spraakbediening gebruiken, maar het verbruikt meer stroom(+1% per uur).</string>
-  <string name="voice_assist_condition">"In deze gevallen kun je Mi AI gebruiken:
-1.Wanneer het scherm aan staat.
-2. When you're listening to music with your screen off."</string>
   <string name="voice_assist_desp">Zeg \"Mi AI\". Mi AI zal je stem herkennen en vervolgens kan je je apparaat controleren.</string>
+  <string name="voice_assist_desp_screen_light">Nadat het scherm oplicht, zegt u \"Mi AI\" op in detelefoon. Mi AI herkent je stem en kan je apparaat bedienen.</string>
   <string name="voice_assist_title">Ontwaken met je stem</string>
   <string name="welcome">Welkom</string>
 </resources>

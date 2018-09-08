@@ -966,7 +966,6 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="miui_ringer_standard">Stille modus</string>
   <string name="miui_ringer_standard_description">Beltonen dempen voor inkomende oproepen en meldingen</string>
   <string name="miui_ringer_total_description">Geluid dempt en trillen uitgeschakeld voor alle items behalve de wekker</string>
-  <string name="miui_screen_rotation_freeze_message">Automatisch draaien is uitgeschakeld.</string>
   <string name="miui_toast_zen_dnd_to_off">Niet storen uitgeschakeld</string>
   <string name="miui_toast_zen_standard_to_off">Stille modus uitgeschakeld</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Beltonen, meldingen en mediageluiden worden afgespeeld.</string>
@@ -1430,8 +1429,6 @@ gecontroleerd worden "</string>
   <string name="status_bar_clear_all_button">Wisssen</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
-  <string name="status_bar_clock_date_time_format">mm:H MMMM d</string>
-  <string name="status_bar_clock_date_time_format_12">mm:aah MMMM d</string>
   <string name="status_bar_date_format">"EEEE 
 d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE 
