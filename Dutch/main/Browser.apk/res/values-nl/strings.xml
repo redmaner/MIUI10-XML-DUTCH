@@ -210,6 +210,9 @@
   <string name="data_monitor">Dataverbruik bijhouden</string>
   <string name="data_monitor_dialog_message">Het lijkt erop dat iets veel mobiele data gebruikt. Open de startpagina om dit te stoppen.</string>
   <string name="data_traffic_continue">Doorgaan</string>
+  <string name="data_traffic_download_cancel">Annuleren</string>
+  <string name="data_traffic_download_prompt">Huidige video kan enkel over Wi-Fi gedownload worden</string>
+  <string name="data_traffic_download_setting">Instellingen</string>
   <string name="data_traffic_goto">Gratis dataverkeer</string>
   <string name="data_traffic_prompt_free_data">Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan.</string>
   <string name="data_traffic_prompt_message">Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan. Als u het datalimiet overschrijdt kan uw provider extra kosten in rekening brengen.</string>

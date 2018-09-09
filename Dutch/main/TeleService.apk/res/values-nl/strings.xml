@@ -419,7 +419,7 @@ Sample Rate"</string>
   <string name="card_title_MOcall_forwarding">Uitgaande doorgeschakelde oproepen</string>
   <string name="card_title_MTcall_forwarding">Inkomende oproep is doorgeschakeld</string>
   <string name="card_title_call_deflected">Oproep afgewezen</string>
-  <string name="card_title_call_ended">Oproep beëindigd</string>
+  <string name="card_title_call_ended">"Oproep beëindigd "</string>
   <string name="card_title_callconnectedect">Oproep verbonden door beltransfer</string>
   <string name="card_title_callconnectingect">Oproep verbinden door beltransfer</string>
   <string name="card_title_calliswaiting">Gesprek in de wacht</string>
@@ -439,7 +439,7 @@ Sample Rate"</string>
   <string name="card_title_incoming_barred">Inkomende gesprekken worden geblokkeerd</string>
   <string name="card_title_incoming_call">Inkomende oproep</string>
   <string name="card_title_multipartycall">Groepsgesprek</string>
-  <string name="card_title_on_hold">In wacht</string>
+  <string name="card_title_on_hold">"In wacht "</string>
   <string name="card_title_outgoing_barred">Uitgaande gesprekken geblokkeerd</string>
   <string name="card_title_redialing">Nummerherhaling</string>
   <string name="card_title_unconditionalCF">Onvoorwaardelijk oproep doorschakelen is ingeschakeld</string>
