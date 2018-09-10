@@ -258,6 +258,9 @@
   <string name="cloudfolder_name_reserved">Deze albumnaam is al in gebruik</string>
   <string name="collage__talkback_effect">%d effect</string>
   <string name="collage_choose">Selecteren</string>
+  <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+  <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+  <string name="collage_drawable_rect_date_year">yyyy</string>
   <string name="collage_margin_text">Marges</string>
   <string name="collage_mirror">Spiegel</string>
   <string name="collage_poster_global_cat_text">HUISDIEREN</string>
@@ -857,6 +860,10 @@ om de galerij te personaliseren"</string>
   <string name="play_gif_desc">GIF afspelen</string>
   <string name="play_video_desc">Video afspelen</string>
   <string name="preparing_data">Een momentje…</string>
+  <string name="privacy_permission_request_message">Galerij heeft toegang nodig tot %3$s. De informatie die we verzamelen, zal worden gebruikt in overeenstemming met onze %1$s en %2$s. Toestaan?</string>
+  <string name="privacy_permission_request_negative">Beperken</string>
+  <string name="privacy_permission_request_positive">Toestaan</string>
+  <string name="privacy_permission_request_title">Toestemming nodig</string>
   <string name="projection_cancel">Annuleren</string>
   <string name="projection_checkbox_text">Herinner deze weergave</string>
   <string name="projection_device_connection_failed">Kon niet verbinden met projector</string>
@@ -1180,6 +1187,8 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Soundtracks downloaden met mobiele data?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Gebruik maken van mobiele data</string>
   <string name="video_editor_res_not_load_dialog_msg">Om deze functie te gebruiken moet je soundtracks downloaden (meer dan 20MB).</string>
+   <string name="video_editor_return">Terug</string>
+  <string name="video_editor_save">Opslaan</string>
   <string name="video_editor_smart_effect_beat">Beats</string>
   <string name="video_editor_smart_effect_big_film">Episch</string>
   <string name="video_editor_smart_effect_cadence">Ritme</string>

@@ -238,12 +238,15 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="another_migration_already_in_progress">Een andere migratie is al aan de gang.</string>
   <string name="anti_spam">Zwarte lijst</string>
+  <string name="aod_close_color_inversion">Deze functie kan niet worden gecombineerd met kleurinversie. Schakel eerst kleurinversie uit.</string>
+  <string name="aod_got_it">Begrepen</string>
   <string name="aod_mode_summary">Tijd, datum en berichten altijd weergeven wanneer het scherm is uitgeschakeld.</string>
   <string name="aod_mode_time_summary">Plan de tijd in waarop uw apparaat moet overschakelen naar de altijd aan modus</string>
   <string name="aod_mode_time_title">Planning</string>
   <string name="aod_mode_title">Altijd aan modus</string>
   <string name="aod_mode_turn_off">Uit</string>
   <string name="aod_mode_turn_on">Aan</string>
+  <string name="aod_to_close">Uitschakelen</string>
   <string name="apn_auth_type">Verificatietype</string>
   <string name="apn_auth_type_none">Geen</string>
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
@@ -297,9 +300,9 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_launch_open_domain_urls_title">Ondersteunde links openen</string>
   <string name="app_launch_other_defaults_title">Andere standaardapps</string>
   <string name="app_launch_supported_domain_urls_title">Ondersteunde links</string>
-  <string name="app_link_open_always">Openen in deze app</string>
+  <string name="app_link_open_always">Openen</string>
   <string name="app_link_open_ask">Elke keer vragen</string>
-  <string name="app_link_open_never">Niet openen in deze app</string>
+  <string name="app_link_open_never">Niet openen</string>
   <string name="app_list_memory_use">Appgebruik</string>
   <string name="app_list_preference_none">Geen</string>
   <string name="app_memory_use">Geheugengebruik</string>
@@ -1357,8 +1360,8 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="default_app">(Standaard)</string>
   <string name="default_apps_title">Standaardapps</string>
   <string name="default_assist_title">Assistapp</string>
-  <string name="default_browser_title">Browserapp</string>
-  <string name="default_browser_title_none">Geen standaardbrowser</string>
+  <string name="default_browser_title">Browser</string>
+  <string name="default_browser_title_none">Nee</string>
   <string name="default_calendar_app_title">Calendar app</string>
   <string name="default_contacts_app_title">Contacts app</string>
   <string name="default_emergency_app">Noodapp</string>
@@ -1368,7 +1371,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="default_launcher_title">Standaard Launcher</string>
   <string name="default_map_app_title">Map app</string>
   <string name="default_notification_assistant">Notification assistant</string>
-  <string name="default_phone_title">Telefoonapp</string>
+  <string name="default_phone_title">Bellen</string>
   <string name="default_rule_name">Timer 1</string>
   <string name="default_sound">Standaardgeluid</string>
   <string name="default_spell_checker">Standaard spellingcontrole</string>
@@ -1860,6 +1863,7 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="floating_window_switch_label_disable">Verberg pop-upschermen</string>
   <string name="fluency_mode">Systeemanimaties</string>
   <string name="fluency_mode_confirm_and_reboot">Nu herstarten</string>
+  <string name="following_us_title">Volg ons</string>
   <string name="font_size_exhuge">Gigantisch</string>
   <string name="font_size_huge">Nog groter</string>
   <string name="font_size_large">Groter</string>
@@ -2052,7 +2056,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="high_power_system">Batterij-optimalisatie niet beschikbaar</string>
   <string name="history_details_title">Geschiedenisdetails</string>
   <string name="home">Startscherm instellingen</string>
-  <string name="home_app">Startscherm-app</string>
+  <string name="home_app">Launcher</string>
   <string name="home_key">Startscherm</string>
   <string name="home_work_profile_not_supported">Ondersteunt geen werkprofielen</string>
   <string name="http_invoke_app">Webapps</string>
@@ -2904,7 +2908,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_connected_devices">Geen verbonden apparaten</string>
   <string name="no_data_usage">Geen data gebruikt</string>
   <string name="no_default_apps">Geen standaardapps.</string>
-  <string name="no_default_home">Geen standaard startscherm</string>
+  <string name="no_default_home">Niet geselecteerd</string>
   <string name="no_device_admins">Geen apparaatbeheerders beschikbaar</string>
   <string name="no_internet_access_remember">Niet opnieuw vragen voor dit netwerk</string>
   <string name="no_internet_access_text">Wi-Fi netwerk %1$s heeft geen verbinding met internet. Verbonden blijven?</string>
@@ -4226,7 +4230,7 @@ PIN code mogelijk onjuist.</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smartcovermodus</string>
   <string name="smartcover_sensitive_summary">Vergrendel of ontgrendel de telefoon automatisch met smartcover</string>
   <string name="smartcover_sensitive_title">Smartcover</string>
-  <string name="sms_application_title">SMS app</string>
+  <string name="sms_application_title">Berichten</string>
   <string name="sms_change_default_dialog_text">%1$s gebruiken in plaats van %2$s als uw SMS app?</string>
   <string name="sms_change_default_dialog_title">SMS app wijzigen?</string>
   <string name="sms_change_default_no_previous_dialog_text">Wilt u %s gebruiken als standaard SMS app?</string>
