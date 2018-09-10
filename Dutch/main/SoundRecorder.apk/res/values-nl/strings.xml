@@ -11,7 +11,7 @@
   <string name="clear_records">Gesynchroniseerde opnames verwijderen</string>
   <string name="cloud_record_open">Synchroniseer opnames</string>
   <string name="cloud_record_tip">Synchroniseer opnames met Mi Cloud.</string>
-  <string name="cloud_service_state_open_reminder">Schakel synchronisatie met Mi Cloud in om opnamebestanden te synchroniseren.</string>
+  <string name="cloud_service_state_open_reminder">Schakel synchronisatie met Mi Cloud in om te synchroniseren.</string>
   <string name="cloud_status_full_dialog_cancel">Niet nu</string>
   <string name="cloud_status_full_dialog_msg">Uw cloudopslag is vol, kan opnames niet synchroniseren. Upgrade uw account om meer opslagruimte te verkrijgen.</string>
   <string name="cloud_status_full_dialog_ok">Upgraden</string>
@@ -31,7 +31,7 @@
   <string name="error_file_access">Bestand bestaat niet of is corrupt</string>
   <string name="error_filename_illegal_char">Bestandsnaam bevat ongeldige karakters.</string>
   <string name="error_filename_too_long">Bestandsnaam is te lang</string>
-  <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
+  <string name="error_sdcard_access">Kan geen toegang krijgen tot de SD kaart</string>
   <string name="error_sdcard_unmounted">SD-kaart losgekoppeld, verwijder de SD-kaart</string>
   <string name="export_to_note">Exporteren</string>
   <string name="head_set_tip_dialog_msg">Koppel koptelefoon los om geluid op te nemen met bepaalde presets (bijv. muziek, spraak).</string>
