@@ -611,7 +611,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="face_unlock_offset_top">Til je telefoon een beetje op</string>
   <string name="face_unlock_open_eye">Open je ogen een beetje breder</string>
   <string name="face_unlock_passwork">Gebruik wachtwoord</string>
-  <string name="face_unlock_passwork_and_fingerprint">Gebruik wachtwoord- of gezichtsgegevens</string>
+  <string name="face_unlock_passwork_and_fingerprint">Gebruik wachtwoord- of vingerafdruk</string>
   <string name="face_unlock_quality">Kon je gezicht niet duidelijk zien</string>
   <string name="face_unlock_reenter_content">Gezichtsontgrendelingsalgoritme wordt bijgewerkt. Tik om opnieuw gezichtsgegevens te registreren.</string>
   <string name="face_unlock_reenter_title">Neem uw gezichtsgegevens opnieuw op.</string>
@@ -620,6 +620,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="face_unlock_rise">Laat je hoofd zakken</string>
   <string name="face_unlock_rotated_left">Draai je hoofd naar rechts</string>
   <string name="face_unlock_rotated_right">Draai je hoofd naar links</string>
+  <string name="face_unlock_sc_status">Duw het scherm naar beneden om de camera te openen</string>
   <string name="face_unlock_stay_away_screen">Blijf op 25 tot 40 cm afstand van het scherm</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen van %1$s mislukt</string>
   <string name="fingerprint_add_text">TDe vingerafdrukinterface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
@@ -1431,7 +1432,7 @@ gecontroleerd worden "</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
   <string name="status_bar_clock_date_time_format">mm:H MMMM d</string>
-  <string name="status_bar_clock_date_time_format_12">mm:aah MMMM d</string>
+  <string name="status_bar_clock_date_time_format_12">mmaa:h MMMM d</string>
   <string name="status_bar_date_format">"EEEE d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE d MMMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>

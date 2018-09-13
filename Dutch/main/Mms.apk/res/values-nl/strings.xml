@@ -47,9 +47,9 @@
   <string name="batch_deleting_progress_message">Berichten verwijderen…</string>
   <string name="block_messaging_entry_title">Geblokkeerde SMS</string>
   <string name="block_support_text">Ondersteund door Antiy.</string>
-  <string name="bookmark">Favorieten</string>
-  <string name="bookmark_confirm_delete_message">Berichten verwijderen uit favorieten?</string>
-  <string name="bookmark_empty">Geen favorieten</string>
+  <string name="bookmark">Toegevoegd aan favorieten</string>
+  <string name="bookmark_confirm_delete_message">Geselecteerde berichten verwijderen uit favorieten?</string>
+  <string name="bookmark_empty">Geen berichten in favorieten</string>
   <string name="bookmark_list_title">Favorieten</string>
   <string name="button_emoji_creature">Dierlijke emoji\'s</string>
   <string name="button_emoji_lifestyle">Lifestyle emoji\'s</string>
@@ -78,6 +78,7 @@
   <string name="cloud_state_disabled">Schakel synchronisatie met Mi Cloud in om berichten te synchroniseren</string>
   <string name="cloud_state_sync_finished">Gesynchroniseerd met Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniseren met Mi Cloud…</string>
+  <string name="cmcc_privacy">China Mobiele Provider Privacy Overeenkomst</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacybeleid</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren…</string>
   <string name="confirm">Bevestigen</string>
@@ -95,8 +96,8 @@
   <string name="confirm_dlg_title">Apparaten beheer</string>
   <string name="confirm_export_dialog_description">Alle gesprekken met dit nummer worden niet langer verborgen.</string>
   <string name="confirm_export_dialog_title">Verwijderen uit privé contacten</string>
-  <string name="confirm_no_block_positive">Niet blokkeren en herstellen</string>
-  <string name="confirm_no_block_title">Geselecteerde nummers deblokkeren ? Ze worden toegevoegd aan uitzonderingen, maar eerder geblokkeerde items worden niet weergegeven in berichten Inbox.</string>
+  <string name="confirm_no_block_positive">Deblokkeren</string>
+  <string name="confirm_no_block_title">Ontgrendel geselecteerde nummers? Ze worden toegevoegd aan uitzonderingen, maar eerder geblokkeerde items worden niet weergegeven in Berichteninbox.</string>
   <string name="confirm_rate_limit">Er wordt een groot aantal multimediaberichten verzonden.</string>
   <string name="confirm_restore_all_title">Alle berichten herstellen van dit nummer?</string>
   <string name="confirm_restore_checkbox">Geblokkeerde berichten herstellen</string>
@@ -142,9 +143,9 @@
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
   <string name="delivery_toast_body_more">Bericht ontvangen van %1$s en %2$d andere personen</string>
   <string name="dialog_message_fake_cell_detect_error">De informatie over dit bericht corrigeren? MIUI moet hiervoor het telefoonnummer (%1$s), de inhoud van het bericht en de informatie over de locatie in de buurt uploaden naar zijn servers.</string>
-  <string name="dialog_message_mx">Met Mi Message kunt u gratis berichten naar andere MIUI apparaten verzenden. Er is een uitgaand SMS nodig om Mi Message te activeren. Uw provider brengt dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt.</string>
-  <string name="dialog_message_networking">Berichten moet verbinding maken met internet en toegang krijgen tot uw locatie om Smart Messaging, Zender ID herkenning en andere services te bieden. Akkoord?</string>
-  <string name="dialog_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere Chinese. U moet akkoord gaan met  \"%1$s\" voordat u China Mobile Messaging gebruikt.</string>
+  <string name="dialog_message_mx">Met Mi Message kunt u gratis berichten verzenden naar andere MIUIgebruikers . Er is een uitgaand SMS bericht vereist om Mi Message te activeren. Uw provider brengt u dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt.</string>
+  <string name="dialog_message_networking">Berichten moeten Gele pagina\'s gebruiken om de identificatie van de zende ID te kunnen bieden. Berichten en gele pagina\'s moeten verbinding met internet maken en toegang krijgen tot uw locatie om normaal te werken. Toestaan?</string>
+  <string name="dialog_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere China Mobile gebruikers op het vasteland van China. U moet akkoord gaan met \"%1$s\" voordat u China Mobile Messaging gebruikt.</string>
   <string name="dialog_message_sms_report">"Spamberichten en informatie over de afzender zullen worden verstuurd aan MIUI wanneer je ze rapporteert. Ze zullen alleen worden gebruikt om MIUI's spamfilters te verbeteren."</string>
   <string name="dialog_title_fake_cell_detect_error">Correctie</string>
   <string name="disable_notifications_dialog_message">Dubbele SMS meldingen van standaardapp voor berichten stoppen?</string>
@@ -170,12 +171,12 @@
   <string name="edit_slide_activity">Dia bewerken</string>
   <string name="edit_slideshow_activity">Diavoorstelling bewerken</string>
   <string name="enabled">Aan</string>
-  <string name="english_subject_limit">Maximum 40 tekens</string>
+  <string name="english_subject_limit">40 tekens</string>
   <string name="enter_edit_mode">Bericht bewerken</string>
   <string name="error_code_label">"Foutcode: "</string>
   <string name="error_state">Tegenstrijdige staat</string>
   <string name="error_state_text">De status van threads en ontvangers is tegenstrijdig. Registreer dit als bug via http://go/droidanizer</string>
-  <string name="error_timed_msg">Kan geen tijdstip in verleden instellen.</string>
+  <string name="error_timed_msg">Ongeldige tijd</string>
   <string name="ex_type_mx">Cloudbericht</string>
   <string name="exceed_message_size_limitation">Limiet berichtgrootte bereikt.</string>
   <string name="exceed_message_size_limitation_add_slide">Grootte van bericht is niet groot genoeg om nog een dia toe te voegen</string>
@@ -191,7 +192,7 @@
   <string name="fake_cell_checking_hint">Veiligheid controleren…</string>
   <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fake_cell_timeout_hint">Kon veiligheid niet controleren</string>
-  <string name="favorite_at_time">Gemarkeerd als favoriet op: %1s</string>
+  <string name="favorite_at_time">Toegevoegd aan favorieten op: %1s</string>
   <string name="fdn_check_failure">U kunt alleen berichten verzenden naar uw vaste nummers.</string>
   <string name="festival_sms_loading">Laden…</string>
   <string name="fetion_prefix">[Openen]</string>
@@ -230,7 +231,7 @@
   <string name="hybrid_pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>
   <string name="hybrid_service_unavailiable">Dienst is niet beschikbaar</string>
   <string name="hybrid_try_again">Probeer opnieuw</string>
-  <string name="i_know">Ok</string>
+  <string name="i_know">Begrepen</string>
   <string name="importing_progress_private_message">Berichten importeren naar privé Berichtenbox…</string>
   <string name="in_sms">Bericht</string>
   <string name="insufficient_drm_rights">Onvoldoende DRM rechten gedetecteerd.</string>
@@ -243,6 +244,7 @@
   <string name="loading_conversations">Een momentje…</string>
   <string name="loading_mms">Een momentje…</string>
   <string name="manage_permission_app_label">Machtigingen voor apparaat</string>
+  <string name="mark_number_by_own_dialog_subtitle">Gemerkt als %1$s</string>
   <string name="me">Ik</string>
   <string name="menu_add_black">Blokkeer dit number</string>
   <string name="menu_add_contact">Toevoegen aan bestaand contact</string>
@@ -252,7 +254,7 @@
   <string name="menu_delete_messages">Berichten verwijderen</string>
   <string name="menu_edit">Bewerken</string>
   <string name="menu_forward">Doorsturen</string>
-  <string name="menu_lock">Vergrendelen</string>
+  <string name="menu_lock">Toegevoegen aan favorieten</string>
   <string name="menu_mark">Markeren</string>
   <string name="menu_more">Meer</string>
   <string name="menu_new_contact">Nieuw contact</string>
@@ -260,7 +262,7 @@
   <string name="menu_pick_from_contact">Selecteren uit contacten</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_send_as_common">Verzenden als SMS</string>
-  <string name="menu_unlock">Ontgrendelen</string>
+  <string name="menu_unlock">Verwijderen uit favorieten</string>
   <string name="menu_view_contact">Contact bekijken</string>
   <string name="message_class_label">"Berichtklasse: "</string>
   <string name="message_contact">Contact:</string>
@@ -296,7 +298,7 @@
   <string name="msglist_release_to_more">Loslaten om meer weer te geven</string>
   <string name="multimedia_message">MMS bericht</string>
   <string name="multimedia_notification">Melding van MMS</string>
-  <string name="mx_activate_allow_notice">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt wordt om de gratis bericht- en spraakdienst te activeren. Bovendien heeft deze dienst toegang tot het netwerk nodig om normaal te werken.</string>
+  <string name="mx_activate_allow_notice">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt wordt om de gratis bericht- en spraakdienst te activeren. Behalve wanneer deze functie is ingeschakeld, is een kleine hoeveelheid mobiele data nodig om te controleren of de andere gebruiker online is. Akkoord?.</string>
   <string name="mx_activate_dlg_title">Activeer Mi Message</string>
   <string name="mx_activate_dlg_title_ex">Activeer Mi Message &amp; Stem</string>
   <string name="mx_activate_error_malformed_info">Heractiveren Mi bericht nodig.</string>
@@ -309,7 +311,7 @@
   <string name="mx_activate_int_hint_malformed_info">Uw provider kan internationele kosten aanrekenen voor dit SMS bericht om het Mi bericht te heractiveren.</string>
   <string name="mx_activate_int_hint_server">Uw provider kan internationele kosten aanrekenen voor dit SMS bericht  om het Mi bericht te heractiveren.</string>
   <string name="mx_activate_int_hint_sim_change">Het lijkt erop dat je SIM kaarten hebt omgewisseld. Uw provider kan kosten aanrekenen voor een SMS bericht om het Mi bericht te heractiveren.</string>
-  <string name="mx_activate_network_allow_notice">Deze dienst heeft toegang tot het mobiele netwerk nodig om normaal te werken.</string>
+  <string name="mx_activate_network_allow_notice">Wanneer deze functie is ingeschakeld, is een kleine hoeveelheid mobiele data nodig om te controleren of de andere gebruiker online is. Akkoord?</string>
   <string name="mx_activate_status_desc_activating_now">Bezig met activeren…</string>
   <string name="mx_activate_status_desc_check_net_connection">Kon niet verbinden met netwerk</string>
   <string name="mx_activate_status_desc_fail">Kon Mi Message niet activeren</string>
@@ -327,7 +329,7 @@
   <string name="mx_current_status">Instellingen</string>
   <string name="mx_dspt">SMS en MMS berichten versturen naar andere MIUI apparaten zonder bijkomende kosten wanneer u bent verbonden met Wi-Fi.</string>
   <string name="mx_dspt_listview">Berichten versturen naar andere MIUI apparaten zonder bijkomende kosten</string>
-  <string name="mx_dspt_provision">Met Mi Message kunt u berichten over internet naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren. Daarnaast heeft deze service toegang tot mobiele data nodig om normaal te kunnen werken</string>
+  <string name="mx_dspt_provision">Met Mi Message kunt u berichten over internet naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren. Bovendien, wanneer deze functie is ingeschakeld, is een kleine hoeveelheid mobiele data nodig om te controleren of de andere gebruiker online is. Akkoord?</string>
   <string name="mx_dspt_provision_ex2">Privacybeleid</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Stem</string>
@@ -344,7 +346,7 @@
   <string name="mx_reactivate">Heractiveer Mi Message</string>
   <string name="mx_recommend_msg">Tik om Mi Message in te schakelen</string>
   <string name="mx_stranger_recommend_msg">Tik om Mi berichten van onbekende nummers te blokkeren</string>
-  <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder kosten</string>
+  <string name="mx_type_guide">Verzend gratis berichten naar andere MIUI apparaten</string>
   <string name="need_download">Synchroniseren…</string>
   <string name="networking_allow_continue">Toestaan</string>
   <string name="networking_allow_desc">Mi Message heeft verbinding met internet nodig om normaal te werken. Om gratis bericht- en spraakdiensten te leveren, onbekende nummers te herkennen, spam te filteren en andere functies in te schakelen moet Mi Message de gele gids gebruiken. Wilt u toestaan dat de gele gids verbinding met internet kan maken, toegang heeft tot uw locatiegegevens en uw contacten kan lezen?</string>
@@ -360,7 +362,7 @@
   <string name="no_delivery_report">Geen afleveringsrapport</string>
   <string name="no_subject">(Geen onderwerp)</string>
   <string name="no_subject_view">(Geen onderwerp)</string>
-  <string name="non_english_subject_limit">Maximaal 13 tekens</string>
+  <string name="non_english_subject_limit">13 tekens</string>
   <string name="nosend_message">Niet versturen</string>
   <string name="notification_channel_msg_description">Meldingen over berichten</string>
   <string name="notification_channel_msg_name">Berichten</string>
@@ -473,7 +475,7 @@
   <string name="private_message">Privébericht</string>
   <string name="private_new_notification">Nieuw melding privébericht</string>
   <string name="private_protect">Privacy bescherming</string>
-  <string name="private_settings">Privéberichten instellingen</string>
+  <string name="private_settings">Instellingen</string>
   <string name="processing">Bezig…</string>
   <string name="prvate_contact">Privécontacten</string>
   <string name="quick_reply">Beantwoorden</string>
@@ -482,7 +484,8 @@
   <string name="rcs_auto_resend_sms">Naar SMS converteren</string>
   <string name="rcs_auto_resume">Onderbroken uploads automatisch hervatten</string>
   <string name="rcs_auto_resume_only_by_wifi">Uploads hervatten alleen wanneer verbonden met wifi</string>
-  <string name="rcs_dspt">Nadat China Mobile gebruikers zijn ingeschakeld, verzendt u standaard berichten via Wi-Fi of mobiel netwerk.</string>
+  <string name="rcs_dspt">Verzend en ontvang berichten via Wi-Fi of China Mobile network</string>
+  <string name="rcs_dspt_unavailable">Ik kan deze functie nu niet gebruiken. China Mobiele SIM kaart is niet uw standaard datakaart.</string>
   <string name="rcs_forward_faild">Kon niet doorsturen</string>
   <string name="rcs_forward_successful">Met succes doorgestuurd</string>
   <string name="rcs_message_disable">Kan dit bericht in de tweede ruimte niet bekijken</string>
@@ -496,6 +499,7 @@
   <string name="rcs_send_rms_remind_change">Instellingen</string>
   <string name="rcs_send_rms_remind_desp">China Mobile Messaging is een instant berichtendienst van China Mobile. U kunt deze functie uitschakelen in Instellingen.</string>
   <string name="rcs_send_rms_remind_title">Verzend berichten met China Mobile Messaging</string>
+  <string name="rcs_service_agreement">Serviceovereenkomst</string>
   <string name="rcs_setting">China Mobile Messaging instellingen</string>
   <string name="rcs_silence_message">Silence message notifications</string>
   <string name="rcs_summary_auto_resend_mms">Converteer China Mobiele multimediaberichten naar SMS nadat het oorspronkelijke bericht niet kon worden verzonden. Uw provider brengt dit bericht in rekening.</string>
@@ -506,7 +510,13 @@
   <string name="received_label">"Ontvangen: "</string>
   <string name="recipient_label">"Ontvanger: "</string>
   <string name="recipients_over_size">Teveel onvangers.</string>
-  <string name="recording_failed">Kan niet opnemen</string>
+  <string name="recommend_bar_cancel">Negeren</string>
+  <string name="recommend_bar_message_mx">Met Mi Message kunt u gratis berichten naar andere MIUI gebruikers verzenden.</string>
+  <string name="recommend_bar_message_mx_rcs">Mi Message stelt u in staat om gratis  berichten naar andere MIUI gebruikers en China Mobile gebruikers op het vasteland van China te verzenden.</string>
+  <string name="recommend_bar_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere China Mobile gebruikers op het vasteland van China</string>
+  <string name="recommend_bar_message_smart_message">Kopieer eenmalige wachtwoorden, volg pakketten, gebruik slimme menu\'s en meer</string>
+  <string name="recommend_bar_ok">Inschakelen</string>
+    <string name="recording_failed">Kan niet opnemen</string>
   <string name="refill_now">Nu opwaarderen</string>
   <string name="refreshing">Vernieuwen…</string>
   <string name="release_cancel">Loslaten om te annuleren</string>

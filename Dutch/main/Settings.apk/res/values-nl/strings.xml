@@ -97,6 +97,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_shortcut_description">Wanneer de snelkoppeling is ingeschakeld, kunt u beide volumeknoppen 3 seconden ingedrukt houden om een toegankelijkheidsfunctie te starten.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Toestaan vanop vergrendelscherm</string>
   <string name="accessibility_shortcut_service_title">Snelkoppelingsservice</string>
+  <string name="accessibility_summary_source">Geleverd door %s</string>
   <string name="accessibility_summary_state_disabled">UIT</string>
   <string name="accessibility_summary_state_enabled">AAN</string>
   <string name="accessibility_sync_disabled">Synchronisatie is uitgeschakeld</string>
@@ -866,15 +867,19 @@ Sample Rate"</string>
   <string name="bootloader_device_bind_fail">Kon niet verifiëren, wacht en minuutje of twee en probeer opnieuw</string>
   <string name="bootloader_device_bind_msg">Voorbereiden om account en apparaat toe te voegen…</string>
   <string name="bootloader_device_bind_no_account">Eerst op uw Mi Account aanmelden</string>
+  <string name="bootloader_device_bind_no_data_network">Schakel Wi-Fi uit en voeg uw account en apparaat toe met mobiele data.</string>
   <string name="bootloader_device_bind_no_network">Verbind met het netwerk en probeer opnieuw</string>
   <string name="bootloader_device_bind_no_sim">Plaats de SIM kaart en probeer opnieuw.</string>
   <string name="bootloader_device_bind_server_code">Kon niet toevoegen. Foutcode:</string>
+  <string name="bootloader_device_bind_server_token_expired_1">Kon niet verifiëren. Probeer uw account en apparaat opnieuw toe te voegen.</string>
+  <string name="bootloader_device_bind_server_token_expired_2">Kon niet verifiëren. Meld u opnieuw aan bij uw account en begin opnieuw.</string>
   <string name="bootloader_device_bind_sim_invalid">SIM kaart is ongeldig. Vervang deze en probeer opnieuw.</string>
   <string name="bootloader_locked_answer_1">We vergrendelen apparaten om ervoor te zorgen dat ze veilig zijn en uw persoonlijke informatie niet aan derden bekendgemaakt wordt. Als u in Fastboot modus gaat en uw apparaat flashed, kunt u het ontgrendelen.</string>
   <string name="bootloader_locked_answer_1_warning">"Vergeet niet: U zult niet in staat \ "Apparaat vinden \" te gebruiken. Nadat de telefoon ontgrendeld is".</string>
   <string name="bootloader_locked_answer_2">"1. Controleer of u al een SIM kaart in uw apparaat hebt geplaatst.
-2. Tik hieronder op \"Account toevoegen " om uw Mi-account aan dit apparaat te koppelen.
-3. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
+2. Schakel Wi-Fi uit en schakel mobiele data in. Zorg ervoor dat uw apparaat verbinding met internet kan maken met behulp van mobiele data.
+3. Tik hieronder op \"Account toevoegen\" om uw Mi account aan dit apparaat te koppelen.
+4. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1.Tik hieronder op \"Account toevoegen\" om uw Mi account aan dit apparaat te koppelen.
 2. Download de ontgrendel tool van onze website. Merk op dat je apparaten moet ontgrendelen met behulp van een computer. Hier downloaden:"</string>
   <string name="bootloader_locked_check_status">Account en apparaat toevoegen</string>
@@ -1165,7 +1170,7 @@ Druk op 'Wissen en converteren…' om door te gaan."</string>
   <string name="credentials_reset_warning_plural">Onjuist wachtwoord. U heeft nog %1$d pogingen voordat de opslag van referenties wordt gewist.</string>
   <string name="credentials_settings_not_available">Referenties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="credentials_title">Opslag van referenties</string>
-  <string name="credentials_unlock"/>
+  <string name="credentials_title_verification">Verificatie</string>
   <string name="credentials_unlock_hint">Typ het wachtwoord voor referentieopslag.</string>
   <string name="credentials_wrong_password">Onjuist wachtwoord.</string>
   <string name="crypt_keeper_button_text">Apparaat versleutelen</string>
@@ -1760,8 +1765,8 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="factory_reset_summary">Wis alle gegevens van de interne opslag</string>
   <string name="failed_to_check_find_device_status_content">Kon zoekstatus van het apparaat niet controleren, wacht een minuut of twee en probeer opnieuw.</string>
   <string name="failed_to_check_find_device_status_title">Kon zoekstatus niet controleren</string>
-  <string name="failed_to_erase_text">Schakel het wachtwoord voor het vergrendelscherm uit voordat u 1217 gebruikt.</string>
-  <string name="failed_to_erase_title">Verboden actie</string>
+  <string name="failed_to_erase_text">Schakel het wachtwoord voor het vergrendelscherm uit voordat u \"1217\" gebruikt.</string>
+  <string name="failed_to_erase_title">Kan deze actie niet voltooien</string>
   <string name="failed_to_open_app_settings_toast">Instellingen openen voor %1$s mislukt</string>
   <string name="failed_to_shut_down_find_device_content">Kon apparaat zoeken niet uitschakelen. Wacht een minuutje of twee en probeer opnieuw.</string>
   <string name="failed_to_shut_down_find_device_title">Kon niet uitschakelen</string>
@@ -3972,8 +3977,8 @@ Om schermpinning te gebruiken:
   <string name="security_encryption_progress_dialog_open">Coderen…</string>
   <string name="security_encryption_rejected_via_home_manager">Deze functie wordt niet ondersteund in de demoversie.</string>
   <string name="security_encryption_title">Apparaat versleutelen met vergrendelschermwachtwoord</string>
-  <string name="security_input">Beveiligingsinvoer</string>
-  <string name="security_input_hint">Gebruik een veiligheidsklavier en voer het wachtwoord in</string>
+  <string name="security_input">Beveiligd toetsenbord</string>
+  <string name="security_input_hint">Gebruik een beveiligd toetsenbord en voer het wachtwoord in</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
   <string name="security_password_category_name">Schermvergrendeling</string>
   <string name="security_passwords_title">Wachtwoorden</string>

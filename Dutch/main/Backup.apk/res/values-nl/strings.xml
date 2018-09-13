@@ -396,7 +396,8 @@ Maak tenminste %s vrij."</string>
   <string name="trans_calculating_media_description">Media bestanden</string>
   <string name="trans_calculating_tip">%s berekenen…</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
-   <string name="trans_cancel_selection_message">Als u Mi Mover afsluit, wordt de lopende overdracht onderbroken. Wacht tot de overdracht voltooid is.</string>
+   <string name="trans_cancel_dialog_survey_title">Waarom heb je de overdracht onderbroken?</string>
+  <string name="trans_cancel_selection_message">Als u Mi Mover afsluit, wordt de lopende overdracht onderbroken. Wacht tot de overdracht voltooid is.</string>
   <string name="trans_cancel_selection_title">In Mi Mover blijven</string>
   <string name="trans_cancelling">Annuleren…</string>
   <string name="trans_connect_failed_device_incompatible">Apparaat is niet compatibel. Annuleer en probeer opnieuw.</string>
@@ -432,6 +433,7 @@ Maak tenminste %s vrij."</string>
   <string name="trans_device_auto_reconnecting">Verbinding met apparaat verboken. Automatisch verbinding herstellen…</string>
   <string name="trans_device_disconnected">Verbinding is verbroken</string>
   <string name="trans_device_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw om verder te gaan.</string>
+  <string name="trans_dialog_survey_finish">Verzenden</string>
   <string name="trans_disconnected_tips_message">Verbinding met apparaat verboken. Maak handmatig opnieuw verbinding of annuleer de overdracht.</string>
   <string name="trans_disconnected_tips_title">Verbinding met apparaat verboken</string>
   <string name="trans_failed_details_page_title">Mislukte transfers</string>
@@ -556,9 +558,14 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
   <string name="trans_start_failed_message">Kon transfer niet starten, probeer opnieuw of herstart het apparaat</string>
   <string name="trans_start_failed_title">Kon transfer niet starten</string>
-  <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
+  <string name="trans_success_dialog_button_market_comment">Opmerking</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Beoordeel Mi Mover</string>
+  <string name="trans_success_dialog_button_survey">Enquête</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">Vertel ons wat u van Mi Mover vindt.</string>
   <string name="trans_success_dialog_market_comment_title">"Je nieuwe apparaat voelt nu als je oude.
 Vond je Mi Mover leuk?"</string>
+  <string name="trans_success_dialog_survey_title">We appreciate your feedback</string>
+  <string name="trans_success_survey_hint">Fill in all fields first.</string>
   <string name="trans_switching_5g">Wisselen naar 5GHz Wi-Fi…</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"Tijd besteed: %s"</string>

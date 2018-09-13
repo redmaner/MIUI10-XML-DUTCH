@@ -600,7 +600,11 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="descx_quick_scan_cancel">Scan geannuleerd</string>
   <string name="descx_quick_scan_preparation">Een momentje…</string>
   <string name="detail_app_button">Appinfo</string>
-  <string name="details_subtitle">Details</string>
+  <string name="details_subtitle">Details gebruiken</string>
+  <string name="device_manager_apply_step_1">Apparaatbeheerder voor deze app activeren?</string>
+  <string name="device_manager_apply_step_2">"Het activeren van de apparaatbeheerder voor deze app kan leiden tot de blootstelling van uw persoonlijke gegevens.
+Alle gegevens op uw apparaat kunnen worden gewist en uw vergrendelchermwachtwoord kan worden gereset."</string>
+  <string name="device_manager_apply_step_3">Zorg ervoor dat u alle mogelijke risico\'s begrijpt voordat u verdergaat. Apparaatbeheerder voor deze app nu activeren?</string>
   <string name="diagnostic_attention_dialog_message">"Diagnose voor %1$s is bezig. Wachten tot het klaar is en probeer opnieuw."</string>
   <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen alleen apps die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
   <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
@@ -785,15 +789,10 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="first_aid_card_apn_title">Kan geen verbinding maken met netwerk</string>
   <string name="first_aid_card_consume_power_button1">Beperken</string>
   <string name="first_aid_card_consume_power_button2">Uitschakelen</string>
-  <string name="first_aid_card_consume_power_button3">Uitschakelen</string>
-  <string name="first_aid_card_consume_power_button4">Uitschakelen</string>
   <string name="first_aid_card_consume_power_summary1">Meer dan 5 apps kunnen automatisch starten. Beperken om de batterij te sparen.</string>
   <string name="first_aid_card_consume_power_summary2">Schakel draagbare hotspot uitom de batterij te sparen</string>
-  <string name="first_aid_card_consume_power_summary3">Schakel Bluetooth uit om de batterij te sparen</string>
-  <string name="first_aid_card_consume_power_summary4">Schakel GPS uit om de batterij te sparen</string>
   <string name="first_aid_card_consume_power_title">Batterijgebruik</string>
   <string name="first_aid_card_float_window_button">Beperken</string>
-  <string name="first_aid_card_float_window_summary">%s kan verkeerd worden weergegeven. Zwevende meldingen beperken.</string>
   <string name="first_aid_card_float_window_title">Je hebt zwevende meldingen toegestaan</string>
   <string name="first_aid_card_kadun_button1">Maak ruimte vrij</string>
   <string name="first_aid_card_kadun_button2">Beperken</string>
@@ -819,9 +818,10 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="first_aid_item4_content">Batterij</string>
   <string name="first_aid_item5_content">Andere problemen</string>
   <string name="first_aid_result_feedback_button">Indienen</string>
-  <string name="first_aid_result_feedback_summary">Ik kan problemen met mijn apparaat niet oplossen.</string>
+  <string name="first_aid_result_feedback_summary">Eerste hulp scan kon geen problemen vinden. Ik heb er echter een aantal opgemerkt.</string>
   <string name="first_aid_result_feedback_title">Feedback</string>
   <string name="first_aid_result_summary_normal">Alles ziet er goed uit!</string>
+  <string name="first_aid_result_summary_not_finished">Scannen is niet voltooid. Sommige risico\'s kunnen onopgemerkt blijven.</string>
   <string name="first_aid_scanning_item1">Controleren op prestatieproblemen…</string>
   <string name="first_aid_scanning_item2">Controleren op netwerkproblemen…</string>
   <string name="first_aid_scanning_item3">Controleren op onjuiste instellingen…</string>
@@ -1537,9 +1537,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_center_ontime_boot">Opstarten op een tijdstip</string>
   <string name="power_center_ontime_shutdown">Uitschakelen op een tijdstip</string>
   <string name="power_center_repeat">Herhalen</string>
-   <string name="power_center_scan_item_title_GPS">GPS nauwkeurigheid aanpassen</string>
+  <string name="power_center_scan_item_title_GPS">GPS nauwkeurigheid aanpassen</string>
   <string name="power_center_scan_item_title_abnormal">Batterij problemen</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Abnormale energieverbruikstoepassing</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Apps die batterij leegmaken</string>
   <string name="power_center_scan_item_title_auto_invoke">Ketting start</string>
   <string name="power_center_scan_item_title_auto_start">Automatisch starten</string>
   <string name="power_center_scan_item_title_battery_details">Details batterijgebruik</string>
@@ -1591,7 +1591,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_save_mode_summary" formatted="false">"Achtergrondprocessen controleren en synchronisatie uitschakelen. Batterijbespaarder zal automatisch uitschakelen wanneer batterij 60% of 100% is opgeladen."</string>
   <string name="power_save_on_time_end_time_summary_na">Tot</string>
   <string name="power_save_on_time_start_time_summary_na">Van</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Batterijbesparing is ingeschakeld. Het vermindert de achtergrondactiviteit van apps, stopt de synchronisatie en minimaliseert systeemanimaties."</string>
+  <string name="power_save_started_summary_text">Batterijbesparing is ingeschakeld. Het vermindert de achtergrondactiviteit van apps, stopt de synchronisatie en minimaliseert systeemanimaties.</string>
   <string name="power_save_summary_text">Schakel batterijbespaarder in om de achtergrondactiviteit van apps te verminderen, sync. te stoppen en systeemanimaties te minimaliseren.</string>
   <string name="power_save_title_text">Batterijbespaarder</string>
   <string name="power_screen">Scherm</string>
@@ -1685,7 +1685,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="privacy_apps_manage_dialog_title">Over verborgen apps</string>
   <string name="privacy_apps_manager_dialog_message">Icoon van deze app wordt niet weergegeven op het startscherm nadat je deze app hebt verborgen. Deze app nu verbergen?</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Wanneer u een app verbergt, wordt deze verplaatst naar een verborgen map. De snelkoppeling naar het startscherm is goed verborgen.
+  <string name="privacy_apps_tutorial_prompt_pageone">"Wanneer u een app verbergt, wordt deze verplaatst naar een verborgen map. De snelkoppeling naar het startscherm is ook verborgen.
 Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Nadat u uw wachtwoord hebt ingevoerd, wordt de map met verborgen apps weergegeven.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Verspreid twee vingers op het scherm. Er wordt een bericht weergegeven waarin u wordt gevraagd uw app vergrendelingswachtwoord in te voeren.</string>

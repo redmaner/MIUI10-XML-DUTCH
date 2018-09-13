@@ -57,7 +57,7 @@
   <string name="ai_scene_mode_use_hint_text">"Open de Ai-Scene Camera, identificeer de scène voor je
   en optimaliseer de foto op basis van de scène"</string>
   <string name="audio_focus_exit_button_text">Audiofocus sluiten</string>
-  <string name="back_bokeh_use_hint">Zorg ervoor dat het object niet verder dan 1,5 meter is.</string>
+  <string name="back_bokeh_use_hint">Houd het object binnen 1,5 meter voor het beste effect</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Schoonheid</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Make-up</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
@@ -168,6 +168,7 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="face_beauty_intelligent_level_3">Hoog</string>
   <string name="face_beauty_smart">Slim</string>
   <string name="face_score_info">Score: %.1f</string>
+  <string name="fps960_toast">De slow-motion opname start wanneer de timer de witte stip bereikt</string>
   <string name="front_camera_hint_text_place">"Selfies nemen zal gemakkelijker zijn
 als je je telefoon draait"</string>
   <string name="front_camera_hint_text_rotate">Draai je telefoon</string>
@@ -240,6 +241,8 @@ in de portretmodus"</string>
   <string name="portrait_mode_too_far_hint">Plaats het object binnen 2 meter</string>
   <string name="portrait_mode_use_hint">"Portretmodus vervaagt de achtergronden
 brengt de mensen naar voren."</string>
+  <string name="portrait_mode_use_hint_for_bokeh">"Probeer de portretmodus.
+Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_advance_settings">Extra instellingen</string>
   <string name="pref_ai_detect">AI detectie</string>
   <string name="pref_audio_focus_entry_front">Voor</string>
@@ -359,7 +362,7 @@ brengt de mensen naar voren."</string>
   <string name="pref_camera_peak_entry_off">Uit</string>
   <string name="pref_camera_peak_entry_on">Aan</string>
   <string name="pref_camera_peak_title">Focus Peaking</string>
-   <string name="pref_camera_picturesize_entry_fullscreen">Volledig scherm 16:9</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Volledig scherm 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standaard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Cameraframe</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretmodus is uitgeschakeld</string>
@@ -452,6 +455,7 @@ brengt de mensen naar voren."</string>
   <string name="pref_front_mirror_title">Spiegel camera aan de voorkant</string>
   <string name="pref_groupshot_with_primitive_title">Originele foto\'s ook opslaan in groepselfiemodus</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">Je kunt alleen 720P video\'s opnemen met 240FPS</string>
   <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
   <string name="pref_qc_focus_position_title">Focus</string>
   <string name="pref_retain_camera_mode_summary">Schakel de camera naar de eerder gebruikte modus wanneer u de app opent.</string>

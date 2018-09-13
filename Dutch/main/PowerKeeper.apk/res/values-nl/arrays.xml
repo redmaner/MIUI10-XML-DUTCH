@@ -23,7 +23,7 @@
     <string-array name="thermal_summaries">
         <item>Geef prioriteit aan temperatuurregeling</item>
         <item>Geef prioriteit aan prestaties</item>
-		<item>Configuratie uitgeschakeld in de extreme energiemodus</item>
+		<item>Werkt niet in de extreme modus</item>
     </string-array>
 	<string-array name="power_mode_entries">
         <item>Prestatiemodus</item>

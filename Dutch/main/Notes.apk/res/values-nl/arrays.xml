@@ -42,11 +42,15 @@
         <item>Op aangepaste datum</item>
     </string-array>
 	<string-array name="second_guide_contents">
-        <item>Spraak notities</item>
+        <item>Spraaknotities</item>
         <item>Maak notities met behulp van onze ingebouwde spraak-naar-tekst-engine die de originele opnames van uw stem aan de notities koppelt.</item>
     </string-array>
 	<string-array name="second_guide_contents_pad_or_inter">
-        <item>Spraak notities</item>
-        <item>U kan nu spraak notities maken. Klik op het icoon, neem uw stem op en sla het audiobestand op in de notitie.</item>
+        <item>Spraaknotities</item>
+        <item>U kunt nu spraaknotities maken. Tik gewoon op het pictogram, neem uw stem op en sla het audiobestand in de notitie op.</item>
+    </string-array>
+	<string-array name="second_guide_contents_pad_or_inter">
+        <item>Spraaknotities</item>
+        <item>U kan nu spraaknotities maken. Klik op het icoon, neem uw stem op en sla het audiobestand op in de notitie.</item>
     </string-array>
 </resources>

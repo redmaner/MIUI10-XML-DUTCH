@@ -118,10 +118,10 @@
   <string name="count_down">Aftelprocedure: %1$s</string>
   <string name="create_shortcut_success">Snelkoppeling met succes toegevoegd</string>
   <string name="daily_clockin">Aanmelden</string>
-  <string name="data_consumption_cancel">Afsluiten</string>
+  <string name="data_consumption_cancel">Niet akkoord</string>
   <string name="data_consumption_checkbox_hint">Niet meer tonen</string>
   <string name="data_consumption_confirm">Ok</string>
-  <string name="data_consumption_message">Deze app heeft verbinding met internet nodig via Wi-Fi om normaal te kunnen werken.</string>
+  <string name="data_consumption_message">Bestandsbeheer moet verbinding maken met netwerk terwijlbij gebruik. Akkoord?</string>
   <string name="data_consumption_message1">File Manager heeft verbinding met internet nodig om populaire stickers en video\'s beschikbaar te maken.</string>
   <string name="data_consumption_title">Internetverbinding</string>
   <string name="decompress_cancel">Annuleren</string>

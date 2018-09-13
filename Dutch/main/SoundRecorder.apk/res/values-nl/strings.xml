@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_clear_records">Geselecteerde opnames verwijderen?</string>
+  <string name="alert_message_delete_local_record">Deze opname verwijderen?</string>
   <string name="alert_message_delete_record">De opname verwijderen van uw apparaat zal hem ook verwijderen van Mi Cloud. Nu verwijderen?</string>
   <string name="alert_message_delete_record_title">Opname verwijderen?</string>
   <string name="app_name">Geluidsrecorder</string>
@@ -11,7 +12,7 @@
   <string name="clear_records">Gesynchroniseerde opnames verwijderen</string>
   <string name="cloud_record_open">Synchroniseer opnames</string>
   <string name="cloud_record_tip">Synchroniseer opnames met Mi Cloud.</string>
-  <string name="cloud_service_state_open_reminder">Schakel synchronisatie met Mi Cloud in om te synchroniseren.</string>
+  <string name="cloud_service_state_open_reminder">Schakel synchronisatie met Mi Cloud in om opnames te synchroniseren.</string>
   <string name="cloud_status_full_dialog_cancel">Niet nu</string>
   <string name="cloud_status_full_dialog_msg">Uw cloudopslag is vol, kan opnames niet synchroniseren. Upgrade uw account om meer opslagruimte te verkrijgen.</string>
   <string name="cloud_status_full_dialog_ok">Upgraden</string>

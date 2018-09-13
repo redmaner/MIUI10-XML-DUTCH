@@ -200,7 +200,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_see_unsynced_data">Controleer de gegevens die gesynchroniseerd moeten worden </string>
   <string name="micloud_main_set_internet">Netwerk</string>
   <string name="micloud_main_simple_last_sync_time">Laast gesynchroniseerd： %s</string>
-  <string name="micloud_main_simple_off">Synchronisatie uitschakelen</string>
+  <string name="micloud_main_simple_off">Synchronisatie is uitschakelen</string>
   <string name="micloud_main_simple_pending">In afwachting</string>
   <string name="micloud_main_simple_synced">Gesynchroniseerd</string>
   <string name="micloud_main_simple_syncing">Bezig met synchroniseren</string>

@@ -45,6 +45,8 @@ zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
   <string name="confirmDelete">Verwijderen</string>
   <string name="confirmSecondSpacePassword">Bevestig wachtwoord tweede ruimte</string>
   <string name="confirm_airspace_password">Bevestig %s wachtwoord</string>
+  <string name="confirm_close_password_desc">U kan niet naar de tweede ruimte vanuit het vergrendelscherm nadat u het wachtwoord hebt uitgeschakeld. Toch uitschakelen?</string>
+  <string name="confirm_close_password_title">Wachtwoord uitschakelen</string>
   <string name="confirm_main_space_password">Bevestig wachtwoord eerste ruimte</string>
   <string name="confirm_restore">Niet weergeven</string>
   <string name="contactData">Contacten</string>

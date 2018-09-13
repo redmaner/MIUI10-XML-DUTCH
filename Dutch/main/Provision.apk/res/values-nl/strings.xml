@@ -3,8 +3,16 @@
   <string name="accessibility_enabled">Toegankelijkheid ingeschakeld.</string>
   <string name="agree">Akkoord</string>
   <string name="agree_terms">Ik heb de algemene voorwaarden gelezen en ga akkoord</string>
-   <string name="agree_terms_input_method_facemoji">Ik heb het Privacybeleid van Facemoji gelezen en ga ermee akkoord.</string>
+  <string name="agree_terms_input_method_facemoji">Ik heb het Privacybeleid van Facemoji gelezen en ga ermee akkoord.</string>
   <string name="agree_terms_input_method_kika">Ik heb het Privacybeleid van Kika gelezen en ga ermee akkoord.</string>
+  <string name="ai_button_desc">Gebruik deze knop om Mi AI te activeren en taken op je telefoon te voltooien met alleen je stem</string>
+  <string name="ai_button_double_press">Dubbel klikken</string>
+  <string name="ai_button_double_press_desc">Stel Mi AI functies in</string>
+  <string name="ai_button_long_press">Houd ingedrukt</string>
+  <string name="ai_button_long_press_desc">Spreek je opdracht uit en laat de knop los</string>
+  <string name="ai_button_single_press">Drukken</string>
+  <string name="ai_button_single_press_desc">Mi AI activeren</string>
+  <string name="ai_button_title">Over AI knop</string>
   <string name="app_name">Provisie</string>
   <string name="application_permissions">Apptoestemmingen</string>
   <string name="back">Terug</string>
@@ -54,6 +62,7 @@
   <string name="other_settings_user_experience">Gebruikerservaring</string>
   <string name="other_settings_user_experience_summary">Help ons onze producten en services te verbeteren door uw gebruiksstatistieken met ons te delen. Details weergeven</string>
   <string name="other_settings_user_experience_summary_index">Details weergeven</string>
+  <string name="poco_agree_terms_other">(Inclusief het privacybeleid en de gebruikersovereenkomst van POCO Launcher)</string>
   <string name="pref_title_data_slot">Voorkeur voor data SIM kaart</string>
   <string name="pref_title_voice_slot">Voorkeur voor gesprek SIM kaart</string>
   <string name="privacy_policy">Privacybeleid</string>
