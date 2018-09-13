@@ -28,7 +28,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Altijd</item>
-        <item>Alleen indien stil</item>
+        <item>Alleen stille modus</item>
         <item>Nooit</item>
     </string-array>
     <string-array name="select_dialog_items">

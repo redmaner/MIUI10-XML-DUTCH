@@ -3,8 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP onafhankelijke verificatie</string>
   <string name="SMTP_password_text">Wachtwoord</string>
   <string name="SMTP_username_text">Gebruikersnaam</string>
-  <string name="accessibility_guide_first">Selecteer op het volgende scherm \"Diensten\" tab om de 139 Mailbox Automatishe Configuratie te activeren</string>
-  <string name="accessibility_guide_second">En klik dan op de knop in de rechter bovenhoek, tik op \"Bevestigen\" om verder te gaan.</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_failure">Sessie verlopen</string>
@@ -50,6 +48,7 @@ Nu bijwerken?"</string>
   <string name="account_settings_notify_summary">Melding tonen wanneer er een e-mail binnenkomt</string>
   <string name="account_settings_param">Accountinstellingen</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
+  <string name="account_settings_preference_add_account">E-mail account toevoegen</string>
   <string name="account_settings_preference_att_save_path">Standaardlocatie voor bijlagen</string>
   <string name="account_settings_preference_head_icon">Profiel foto\'s</string>
   <string name="account_settings_preference_notify">Melding</string>
@@ -89,7 +88,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_exchange_certificate_title">Clientcertificaat</string>
   <string name="account_setup_exchange_device_id_label">Mobiel apparaat ID</string>
   <string name="account_setup_exchange_no_certificate">Geen</string>
-  <string name="account_setup_failed_auth_required">Verificatiemethoden worden niet ondersteund door de server.</string>
+  <string name="account_setup_failed_auth_required">Deze verificatiemethode wordt niet ondersteund door de server.</string>
   <string name="account_setup_failed_certificate_inaccessible">Het certificaat is ongeldig of niet toegankelijk.</string>
   <string name="account_setup_failed_certificate_required">Er is een clientcertificaat vereist. Wilt u verbinding maken met de server met een client certificaat?</string>
   <string name="account_setup_failed_check_credentials_message">De server heeft een fout geretourneerd. Controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw.</string>
@@ -216,10 +215,7 @@ Nu bijwerken?"</string>
   <string name="auto_advance_summary">Kies welk bericht je wilt zien nadat een bericht is verwijderd</string>
   <string name="auto_login_fail">Kon niet automatisch inloggen</string>
   <string name="auto_login_fail_to_retry">Kon niet automatisch inloggen, probeer opnieuw.</string>
-  <string name="auto_mail_describe">139 E-mail service Automatische Configuratie kan u helpen bij het invullen van de inloggegevens naar de mailbox. Wilt u deze functie inschakelen?</string>
-  <string name="auto_mail_disable_txt">Uitschakelen</string>
   <string name="auto_mail_enable_txt">Instellingen starten</string>
-  <string name="auto_mail_go_email">Mailbox</string>
   <string name="auto_mail_name">AutoMail</string>
   <string name="auto_mail_title_note">Vind de optie \"139 Mailbox Automatische Configuratie\" en klik erop om te starten.</string>
   <string name="auto_mail_window_description">139 E-mail service Automatische Configuratie</string>
@@ -259,6 +255,7 @@ Nu bijwerken?"</string>
   <string name="chat_item_msg_people_unit">Personen</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Serverinstellingen valideren…"</string>
+  <string name="chinese">Chinees</string>
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear">Verwijderen</string>
   <string name="clear_display_images_whitelist_dialog_message">Niet langer online afbeeldingen weergeven van afzenders die u eerder heeft toegestaan.</string>
@@ -266,7 +263,6 @@ Nu bijwerken?"</string>
   <string name="clear_display_images_whitelist_title">"Goedkeuringen voor foto's verwijderen"</string>
   <string name="click_download_all_content">[Tik om inhoud te downloaden]</string>
   <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
-  <string name="close">Afsluiten</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
   <string name="compose">Opstellen</string>
   <string name="compose_attachment_number_limit">Kan niet meer dan 10 bijlagen toevoegen</string>
@@ -403,8 +399,6 @@ Nu bijwerken?"</string>
   <string name="due_date_text">Laatste afbetaling</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="edit_signature">Handtekening wijzigen</string>
-  <string name="elided_padding_token"> </string>
-  <string name="email_address">E-mail adres</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
@@ -448,7 +442,6 @@ Nu bijwerken?"</string>
   <string name="file_save_path_dialog_ok">Nu wijzigen</string>
   <string name="file_save_term">Voorwaarden voor het opslaan van bestanden</string>
   <string name="first_quick_default_reply">Tik op de knop om \"%s\" te verzenden naar alle personen in de conversatie</string>
-  <string name="float_window_content">Gedetecteerd dat u de mailbox gebruikt, klik op Bevestig voor het automatisch invullen van 139 E-mailaccount en wachtwoord.</string>
   <string name="float_window_info">"Bij het configureren van de 139 mailbox, gebruik de telefoon niet, bij configuratiefouten."</string>
   <string name="float_window_title">Configuratie………</string>
   <string name="folder_drafts_name_cn0">Concepten</string>
@@ -519,7 +512,6 @@ Nu bijwerken?"</string>
   <string name="header_category_other">Geef uw mening</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
-  <string name="help_config">Zelf configuratie</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_password">Wachtwoord verbergen</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
@@ -546,7 +538,7 @@ Nu bijwerken?"</string>
   <string name="login139">Aanmelden met China Mobile</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
   <string name="login_failed_title">Kan niet inloggen</string>
-  <string name="login_mail">Aanmelden bij mail</string>
+  <string name="login_mail">Aanmelden</string>
   <string name="login_support_tip_text">Alle veelvoorkomende mailboxaccounts ondersteunen</string>
   <string name="long_press_to_select_tip">"Blijf aanraken om één gesprek te selecteren en raak aan om meer te selecteren."</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
@@ -555,8 +547,10 @@ Nu bijwerken?"</string>
   <string name="mail_description_content">Mail is een e-mailclient die meerdere accounts kan beheren, e-mails kan verzenden en ontvangen en kalendergegevens en contacten kan synchroniseren. Zorg ervoor dat je zonder deze functies kan voordat je deze app verwijderd. Uw Exchange contacten en kalendergegevens zullen ook worden verwijderd.</string>
   <string name="mail_description_title">E-mailintroductie</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
+  <string name="mail_search_lab">zoek label</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerde accounts</string>
   <string name="mailbox_name_display_ad">Adv</string>
+   <string name="mailbox_name_display_add_account">E-mail account toevoegen</string>
   <string name="mailbox_name_display_circular">Meldingen</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
@@ -681,10 +675,9 @@ Schakel over naar een ander e-mailaccount."</string>
   <string name="no_matched_attachment">Geen overeenkomende bijlagen</string>
   <string name="no_recognize_describe">"kon geen e-mails vinden die tickets of boekingen bevatten.
 Probeer een andere inbox."</string>
-  <string name="no_remind">Niet herinneren</string>
   <string name="not_subject">(Geen onderwerp)</string>
   <string name="not_synced_title">Account niet gesynchroniseerd</string>
-  <string name="note_text">"Mogelijke via het netwerk van China Mobile of SMS verificatie, kunnen extra kosten opleveren om te sturen of SMS'en."</string>
+  <string name="note_text">Via het netwerk van China Mobile of SMS verificatie, kunnen extra kosten opleveren om te sturen of SMS\'en.</string>
   <string name="note_title">139 Email Automatishe Configuratie</string>
   <string name="notification_action_archive">Archiveren</string>
   <string name="notification_action_delete">Verwijderen</string>
@@ -695,6 +688,9 @@ Probeer een andere inbox."</string>
   <string name="notification_action_undo_delete">Verwijderd</string>
   <string name="notification_action_undo_remove_label">Tag verwijderd</string>
   <string name="notification_exchange_calendar_added">Uitwissel kalender toegevoegd</string>
+  <string name="notify_channel_new_mail">Nieuwe berichten melden</string>
+  <string name="notify_channel_permission_notice">Toestemmingsmelding herinnering</string>
+  <string name="notify_channel_send_fail">Mislukte levering melden</string>
   <string name="oauth_error_description">Kon niet authentificeren</string>
   <string name="oauth_gmail_login_notify">Voer uw Google account gebruikersnaam en wachtwoord in op de volgende pagina</string>
   <string name="oauth_login_continue">Doorgaan</string>
@@ -709,10 +705,10 @@ Probeer een andere inbox."</string>
   <string name="open_external_storage_and_calendar_permission">Sta toe dat Mail de opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Sta toe dat Mail de contacten, opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_permission">Sta toe dat Mail de opslag en contacten kan lezen in instellingen</string>
-  <string name="open_notification_kingagent">Open de melding van de begraafplaats</string>
-  <string name="optimization_suggestion">Suggesties doorgeven</string>
-  <string name="others_mail">Overige</string>
-  <string name="others_mail_des">(Meer dan 60,0000 mails converteren)</string>
+  <string name="open_notification_kingagent">Begraafpuntmeldingen inschakelen</string>
+  <string name="optimization_suggestion">Optimalisatiesuggesties</string>
+  <string name="others_mail">Andere</string>
+  <string name="others_mail_des">(Compatibel met 600K maildiensten)</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_certificate_error">Contacteer je email systeemadministrator en update je certificaat.</string>
@@ -741,7 +737,8 @@ Probeer een andere inbox."</string>
   <string name="over_due">Achterstallig</string>
   <string name="overlays_fail_tip">Het spijt ons dat uw mailbox niet met succes geconfigureerd is , open de floating Windows toestemmingen en probeer opnieuw</string>
   <string name="overlays_ok">Toestemmingen openen</string>
-  <string name="overlays_tip">Open de floating Windows toestemmingen en geniet onmiddellijk van 139 mailbox om de extreme ervaring automatisch te configureren.</string>
+  <string name="overlays_tip">Telefooninstellingen - App - App details - open zwevende Windows toestemmingen in de toestemmingsmanager en geniet onmiddellijk van 139 mailboxen om automatisch de extreme ervaring te configureren.</string>
+  <string name="overlays_tip_23">Open zwevende Windows toestemmingen en geniet onmiddellijk van de 139 mailboxen om de extreme ervaring automatisch te configureren.</string>
   <string name="overlays_title">Open floating Windows toestemmingen</string>
   <string name="parase_setup_data">Gegevens verkrijgen…</string>
   <string name="parse_bill_discribe">Verwerking van creditcardrekeningen…</string>
@@ -834,9 +831,9 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="push_wps_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
   <string name="push_wps_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
-  <string name="qq_authorization_help_get">Help me om te verkrijgen</string>
-  <string name="qq_authorization_know">De autorisatiecode begrijpen</string>
-  <string name="qq_authorization_tips">Niet langer prompt</string>
+  <string name="qq_authorization_help_get">Code verktijgen</string>
+  <string name="qq_authorization_know">Over de code</string>
+  <string name="qq_authorization_tips">Niet meer weergeven</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Gekopieerd. Ga terug naar de inlogpagina en plak de code in het wachtwoordveld.</string>
   <string name="qq_auto_login_failed_dialog_message">Kopieer de verificatiecode, tik op \"Gebruikersnaam en wachtwoord invullen om in te loggen\" op de inlogpagina en plak de code in het wachtwoordveld.</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Code kopiëren</string>
@@ -952,7 +949,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kan SD-kaart niet gebruiken</string>
-  <string name="search_bar_text">Zoek afzender of zoek contact</string>
+  <string name="search_bar_text">Zoek op bverichten of contact</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">"Resultaten "</string>
   <string name="search_tabs_name_all">Alle</string>
@@ -1004,6 +1001,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="shortcut_name_title">Snelkoppeling naar map een naam geven</string>
   <string name="show_elided">▶ Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="show_images">Afbeeldingen weergeven</string>
+  <string name="show_more_attachment">Meer bijlagen</string>
   <string name="show_password">Wachtwoord tonen</string>
   <string name="signature_black_shark">Verzonden vanaf mijn Blackshark telefoon</string>
   <string name="silent_ringtone">Stil</string>
@@ -1084,8 +1082,9 @@ Account verwijderen?"</string>
   <string name="unread_string">Conversatie ongelezen</string>
   <string name="unzip_file_failed">Kon dit bestand niet unzippen</string>
   <string name="update_date_format_templete">dd MMMM, HH:mm</string>
+  <string name="update_to_wps_mail">Geniet van meer functies WPS Mail</string>
   <string name="updated_at">Laatst bijgewerkt op %1$s</string>
-  <string name="upload_log">Logs indienen</string>
+  <string name="upload_log">Logs uploaden</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="upload_log_no">Annuleren</string>
   <string name="upload_log_success">Met succes verzonden. We nemen spoedig contact met u op.</string>

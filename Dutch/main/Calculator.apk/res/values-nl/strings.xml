@@ -208,6 +208,8 @@
   <string name="tax_social_insurance">Sociale verzekering</string>
   <string name="tax_thershold_foreign">%s (vreemdelingen)</string>
   <string name="tax_thershold_native">%s (China)</string>
+  <string name="tax_thershold_native_new">%s (nieuw)</string>
+  <string name="tax_thershold_native_new_description">Belastingen worden berekend volgens de nieuwe belastingwet vanaf 1 oktober 2018</string>
   <string name="tax_threshold">Belastingvrije drempel</string>
   <string name="tax_total_insurance_provident_fund">Verzekering &amp; woningfonds</string>
   <string name="tax_unemployment">Werkloosheid</string>

@@ -50,6 +50,10 @@
         <item quantity="other">SIM kaart kan %1$d contacten bewaren.</item>
         <item quantity="one">SIM kaart kan %1$d contact bewaren.</item>
     </plurals>
+	<plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Meer dan %d contacten gevonden.</item>
+        <item quantity="one">Meer dan %d contact gevonden.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d contacten toegevoegd</item>
         <item quantity="one">%1$d contact toegevoegd</item>
@@ -89,6 +93,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacten met telefoonnummers</item>
         <item quantity="one">1 contact met telefoonnummer</item>
+    </plurals>
+	<plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contacten met gedeeltelijk identieke info</item>
+        <item quantity="one">%1$d contact met gedeeltelijk identieke info</item>
     </plurals>
 	<plurals name="merge_info">
         <item quantity="other">samengevoegd van %0$d bronnen</item>
@@ -138,6 +146,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d contacten gevonden</item>
         <item quantity="one">1 contact gevonden</item>
+    </plurals>
+	<plurals name="select_all_exceed_plurals">
+        <item quantity="other">Niet meer dan %1$d selecteren, kan niet alles selecteren</item>
+        <item quantity="one">Niet meer dan %1$d selecteren, kan niet alles selecteren</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Niet meer dan %1$d selecteren</item>
+        <item quantity="one">Niet meer dan %1$d selecteren</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d personen</item>

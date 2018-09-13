@@ -280,8 +280,8 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d app gevonden</item>
     </plurals>
 	<plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Fabrieksinstellingen(%ds)</item>
-        <item quantity="one">Fabrieksinstellingen(%ds)</item>
+        <item quantity="other">Fabrieksinstellingen (%ds)</item>
+        <item quantity="one">Fabrieksinstellingen (%ds)</item>
     </plurals>
 	<plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d vergrendelde apps wachten om gewist te worden</item>
@@ -350,6 +350,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d apps zijn verborgen</item>
         <item quantity="one">%d app is verborgen</item>
+    </plurals>
+	<plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d apps kunnen onjuist worden weergegeven. Zwevende meldingen beperken.</item>
+        <item quantity="one">%d app kan onjuist worden weergegeven. Zwevende meldingen beperken.</item>
     </plurals>
 	<plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemen vereisen optimalisatie</item>

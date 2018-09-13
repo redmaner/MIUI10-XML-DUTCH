@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="about_extreme_mode">Extreme batterijbesparing</string>
+<string name="about_extreme_mode">Extreme modus</string>
   <string name="about_hide_mode">Over batterijbespaarder</string>
   <string name="active_classify">Sorteer op activiteitsstatus</string>
   <string name="app_list_title">Kies apps</string>
@@ -31,7 +31,7 @@
   <string name="empty_title_apps_container_list">Geen apps</string>
   <string name="enable_sleep_mode">Schakel de slaapstand in om batterijverbruik te optimaliseren</string>
   <string name="error_filename_too_long">De bestandsnaam die je invoerde is te lang.</string>
-  <string name="extreme_mode_max_item_alert">Slechts 4 apps kunnen worden geselecteerd om op de achtergrond te worden uitgevoerd in de extreme batterijbesparingsmodus</string>
+  <string name="extreme_mode_max_item_alert">U kunt maximaal 4 apps selecteren om op de achtergrond te werken in Extreme modus</string>
   <string name="extreme_power_config_mode_category">Extreme modus</string>
   <string name="extreme_power_config_mode_desc">Wissel naar extreme modus om synchronisatie, bluetooth, GPS, NFC, dubbeltikken, knopverlichting, ontwaken van scherm bij meldingen en LED laten knipperen uit te schakelen. MIUI zal focussen op batterijbesparing.</string>
   <string name="extreme_power_config_mode_title">Extreme modus</string>
@@ -42,6 +42,7 @@
   <string name="important_warning">Let op</string>
   <string name="lasttime_applist_cloud">Geupdatete apps:</string>
   <string name="lasttime_feature_cloud">Geupdatete functies:</string>
+  <string name="message_i_know">Begrepen</string>
   <string name="nonui_mode_config_description">Scherm niet ontwaken voor meldingen. Ook meldingslicht, vingerafdruksensor en reageren op aanraken uitschakelen om batterij te besparen wanneer MIUI detecteert dat je je apparaat niet gebruikt.</string>
   <string name="nonui_mode_config_title">Non-interactieve modus</string>
   <string name="performance_category">Prestaties</string>

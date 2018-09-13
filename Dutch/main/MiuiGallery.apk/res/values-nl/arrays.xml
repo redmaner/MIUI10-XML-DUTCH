@@ -29,4 +29,89 @@
         <item>Grootvader van moederszijde</item>
         <item>Grootmoeder van moederszijde</item>
       </string-array>
+	  <string-array name="card_last_week_day">
+        <item>Afgelopen maandag</item>
+        <item>Afgelopen dinsdag</item>
+        <item>Afgelopen woensdag</item>
+        <item>Afgelopen donderdag</item>
+        <item>Afgelopen vrijdag</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>Vorige Chinese oudejaarsavond</item>
+        <item>Vorige Chinees nieuwjaar</item>
+        <item>Vorige lantaarn festival</item>
+        <item>Vorige Dragon Boat Festival</item>
+        <item>Vorige Qixi Festival</item>
+        <item>Vorige Mid herfst festival</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>Chinese oudejaarsavond door de jaren heen</item>
+        <item>Chinees nieuwjaar door de jaren heen</item>
+        <item>Lantaarnfestival door de jaren heen</item>
+        <item>Dragon Boat Festival door de jaren heen</item>
+        <item>Qixi Festival door de jaren heen</item>
+        <item>Mid herfst Festival door de jaren heen</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>Vorige nieuwjaarsdag</item>
+        <item>Vorige Valentijnsdag</item>
+        <item>Vorige dag van de Arbeid</item>
+        <item>Vorige dag van het kind</item>
+        <item>Vorige nationale feestdag</item>
+        <item>Vorige Kerst</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>Nieuwjaar door de jaren heen</item>
+        <item>Valentijnsdag door de jaren heen</item>
+        <item>Dag van de Arbeid door de jaren heen</item>
+        <item>Dag van het kind door de jaren heen</item>
+        <item>Nationale feestdag door de jaren heen</item>
+        <item>Kerst door de jaren heen</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Afgelopen Januari</item>
+        <item>Afgelopen February</item>
+        <item>Afgelopen Maaart</item>
+        <item>Afgelopen April</item>
+        <item>Afgelopen Mei</item>
+        <item>Afgelopen Juni</item>
+        <item>Afgelopen Juli</item>
+        <item>Afgelopen Augustus</item>
+        <item>Afgelopen September</item>
+        <item>Afgelopen Oktober</item>
+        <item>Afgelopen November</item>
+        <item>Afgelopen December</item>
+    </string-array>
+    <string-array name="month_past_year">
+        <item>Januari herinneringen</item>
+        <item>Februari herinneringen</item>
+        <item>Maart herinneringen</item>
+        <item>April herinneringen</item>
+        <item>Mei herinneringen</item>
+        <item>Juni herinneringen</item>
+        <item>Juli herinneringen</item>
+        <item>Augustus herinneringen</item>
+        <item>September herinneringen</item>
+        <item>Oktober herinneringen</item>
+        <item>November herinneringen</item>
+        <item>December herinneringen</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Afgelopen lente</item>
+        <item>Afgelopen zomer</item>
+        <item>Afgelopen herfst</item>
+        <item>Afgelopen winter</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Spring herinneringen</item>
+        <item>Summer herinneringen</item>
+        <item>Autumn herinneringen</item>
+        <item>Winter herinneringen</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Voorjaarsoverzicht</item>
+        <item>Zomeroverzicht</item>
+        <item>Herfstoverzicht</item>
+        <item>Winteroverzicht</item>
+    </string-array>
 </resources>
