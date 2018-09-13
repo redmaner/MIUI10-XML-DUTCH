@@ -78,7 +78,6 @@
   <string name="cloud_state_disabled">Schakel synchronisatie met Mi Cloud in om berichten te synchroniseren</string>
   <string name="cloud_state_sync_finished">Gesynchroniseerd met Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniseren met Mi Cloud…</string>
-  <string name="cmcc_privacy">China Mobiele Provider Privacy Overeenkomst</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacybeleid</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren…</string>
   <string name="confirm">Bevestigen</string>
