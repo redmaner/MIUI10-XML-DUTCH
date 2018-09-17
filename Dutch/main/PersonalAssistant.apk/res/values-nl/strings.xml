@@ -32,7 +32,6 @@
   <string name="agenda_settings_credit">Creditcardrekeningen weergeven</string>
   <string name="agenda_settings_elecbill">Elektriciteit &amp; gasrekeningen weergeven</string>
   <string name="agenda_settings_loan">Informatie over loonbetaling weergeven</string>
-  <string name="agree">Instemmen</string>
   <string name="already">Afgerond:</string>
   <string name="app_label">App kluis</string>
   <string name="apps">Appsuggesties</string>
@@ -657,7 +656,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="notification_title">Toegevoegd aan favorieten</string>
   <string name="notification_title_fail">Kon betaling niet toevoegen</string>
   <string name="notification_title_success">Betaling toegevoegd</string>
-  <string name="open_installed_app">Openen</string>
   <string name="opened">Aan</string>
   <string name="paycode_sdk_parent">Snelkoppeling betaling</string>
   <string name="paycode_sdk_parent_title">Snelle betaling</string>
@@ -780,8 +778,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="search_tip">Zoeken…</string>
   <string name="security">Veiligheid</string>
   <string name="send_action_title">Toevoegen aan favorieten</string>
-  <string name="send_shortcut_failed">Kon niet verzenden</string>
-  <string name="send_shortcut_success">Op startpagina geplaatst</string>
   <string name="service_unavailiable">Controleer verbinding en probeer opnieuw.</string>
   <string name="setting_address">Vaakbezochte plekken toevoegen</string>
   <string name="setting_authorization_canceled_dialog_cancel">Annuleren</string>
@@ -970,7 +966,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="upgrade_now_bottom">Nu installeren</string>
   <string name="uploads_disabled">Kan bestanden niet uploaden</string>
   <string name="user_id">GebruikersID: %s</string>
-  <string name="user_notice_title">Aandacht</string>
   <string name="walk">Lopen</string>
   <string name="weibo_name">Nieuwe post</string>
   <string name="weibo_parent">Weibo</string>
@@ -994,6 +989,5 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="xspace_resolver_activity_title">Selecteer app</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
-  <string name="yellow_page_website">Officiele website</string>
   <string name="yesterday">Gisteren</string>
 </resources>

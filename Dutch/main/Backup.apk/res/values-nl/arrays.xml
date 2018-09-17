@@ -23,4 +23,27 @@
         <item>Ik heb de overdracht per ongeluk gestart</item>
         <item>Andere</item>
     </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Algemene beoordeling</item>
+        <item>Duur van de overdracht</item>
+        <item>Eenvoud van het proces</item>
+        <item>Duidelijkheid van instructies</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Zeer ontevreden</item>
+        <item>Een beetje ontevreden</item>
+        <item>Neutraal</item>
+        <item>Een beetje tevredend</item>
+        <item>zeer tevreden</item>
+    </string-array>
+    <string-array name="trans_cancel_survey_title">
+        <item>Overdracht duurt te lang</item>
+        <item>Verbinding werd onderbroken</item>
+        <item>Ik heb verkeerde items geselecteerd om over te zetten</item>
+        <item>Te veel stappen</item>
+        <item>De batterij van mijn telefoon is bijna leeg</item>
+        <item>Overgedragen items zijn beschadigd</item>
+        <item>Ik heb de overdracht per ongeluk gestart</item>
+        <item>Andere</item>
+    </string-array>
 </resources>

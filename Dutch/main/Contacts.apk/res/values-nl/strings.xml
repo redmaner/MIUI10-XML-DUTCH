@@ -181,7 +181,7 @@
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw apparaat heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
-  <string name="conference_call_disable_tip">Kan geeen oproepen maken. Zorg ervoor dat uw apparaat verbonden is met een 4G netwerk met VoLTE ondersteuning.</string>
+  <string name="conference_call_disable_tip">Kan geen oproepen maken. Zorg ervoor dat uw apparaat verbonden is met een 4G netwerk met VoLTE ondersteuning.</string>
   <string name="confirm_delete_contact_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_selected_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>

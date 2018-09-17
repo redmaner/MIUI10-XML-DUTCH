@@ -1640,7 +1640,6 @@ Uw telefoon wordt mogelijk te warm als u dat doet:
   <string name="usb_debugging_title">USB foutopsporing toestaan?</string>
   <string name="usb_device_confirm_prompt">%1$s openen wanneer dit USB apparaat wordt aangesloten?</string>
   <string name="usb_device_permission_prompt">De app %1$s toegang geven tot het USB apparaat?</string>
-  <string name="usb_function_charging_text">Verbinden in oplaadmodus</string>
   <string name="usb_mode_dont_ask">Keuze onthouden</string>
   <string name="usb_mode_mount_storage_title">Open USB opslag automatisch?</string>
   <string name="usb_mode_notification">USB Opslag</string>

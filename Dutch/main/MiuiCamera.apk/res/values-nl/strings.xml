@@ -455,7 +455,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_front_mirror_title">Spiegel camera aan de voorkant</string>
   <string name="pref_groupshot_with_primitive_title">Originele foto\'s ook opslaan in groepselfiemodus</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
-  <string name="pref_new_slow_motion_video_quality_240_720only">Je kunt alleen 720P video\'s opnemen met 240FPS</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">Je kunt alleen 720P video\'s opnemen met 240Ffps</string>
   <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
   <string name="pref_qc_focus_position_title">Focus</string>
   <string name="pref_retain_camera_mode_summary">Schakel de camera naar de eerder gebruikte modus wanneer u de app opent.</string>

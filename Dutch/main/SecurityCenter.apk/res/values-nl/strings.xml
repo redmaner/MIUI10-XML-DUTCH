@@ -484,6 +484,7 @@
   <string name="card_main_deepclean_wechat_action">Wissen</string>
   <string name="card_main_deepclean_wechat_summary">WeChat cache wissen om ruimte vrij te maken</string>
   <string name="card_main_deepclean_wechat_title">WeChat cache</string>
+  <string name="card_main_deepclean_whatsapp_title">WhatsApp opruimer</string>
   <string name="card_main_gamebooster_summary">Stabiliteit van verbinding verbeteren</string>
   <string name="card_main_gamebooster_title">Prestaties verbeteren voor games</string>
   <string name="card_main_hbassistant_summary">Gebruik dit gereedschap om de enveloppen sneller te grijpen</string>
