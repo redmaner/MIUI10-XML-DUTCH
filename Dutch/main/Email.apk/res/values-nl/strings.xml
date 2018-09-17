@@ -216,7 +216,6 @@ Nu bijwerken?"</string>
   <string name="auto_login_fail">Kon niet automatisch inloggen</string>
   <string name="auto_login_fail_to_retry">Kon niet automatisch inloggen, probeer opnieuw.</string>
   <string name="auto_mail_enable_txt">Instellingen starten</string>
-  <string name="auto_mail_name">AutoMail</string>
   <string name="auto_mail_title_note">Vind de optie \"139 Mailbox Automatische Configuratie\" en klik erop om te starten.</string>
   <string name="auto_mail_window_description">139 E-mail service Automatische Configuratie</string>
   <string name="auto_mail_window_label">139 Mailbox Automatische Configuratie</string>
@@ -831,7 +830,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="push_wps_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
   <string name="push_wps_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
-  <string name="qq_authorization_help_get">Code verktijgen</string>
+  <string name="qq_authorization_help_get">Code verkrijgen</string>
   <string name="qq_authorization_know">Over de code</string>
   <string name="qq_authorization_tips">Niet meer weergeven</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Gekopieerd. Ga terug naar de inlogpagina en plak de code in het wachtwoordveld.</string>
@@ -949,7 +948,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kan SD-kaart niet gebruiken</string>
-  <string name="search_bar_text">Zoek op bverichten of contact</string>
+  <string name="search_bar_text">Zoek op berichten of contact</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">"Resultaten "</string>
   <string name="search_tabs_name_all">Alle</string>

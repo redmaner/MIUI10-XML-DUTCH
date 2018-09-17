@@ -564,8 +564,8 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_success_dialog_market_comment_and_survey_title">Vertel ons wat u van Mi Mover vindt.</string>
   <string name="trans_success_dialog_market_comment_title">"Je nieuwe apparaat voelt nu als je oude.
 Vond je Mi Mover leuk?"</string>
-  <string name="trans_success_dialog_survey_title">We appreciate your feedback</string>
-  <string name="trans_success_survey_hint">Fill in all fields first.</string>
+  <string name="trans_success_dialog_survey_title">Wij waarderen uw feedback</string>
+  <string name="trans_success_survey_hint">Errst alle velden invullen.</string>
   <string name="trans_switching_5g">Wisselen naar 5GHz Wi-Fi…</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"Tijd besteed: %s"</string>

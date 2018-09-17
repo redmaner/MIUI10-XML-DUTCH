@@ -63,7 +63,7 @@
   <string name="button_settings_confirm_to_revoke_title">Autorisatie intrekken?</string>
   <string name="button_sure_abandon">Wijzigingen ongedaan maken?</string>
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
-  <string name="china_version_first_start_network_msg">Door dit product te gebruiken ga je akkoord met Xiaomi\'s %1$s en %2$s. Om u te helpen nauwkeuriger weersinformatie te krijgen, krijgt het weer uw locatiegegevens en gaat u ermee om en moet u verbinding maken met het netwerk. Bent u akkoord?</string>
+  <string name="china_version_first_start_network_msg">Je moet akkoord gaan met Xiaomi's %1$s en %2$s om Weer te kunnen gebruiken. Het weer moet toegang hebben tot uw locatie en verbinding maken met internet om normaal te werken. Akkoord?</string>
   <string name="city_exceeded_warning">U kan tot 10 steden toevoegen</string>
   <string name="clear_net_mock_success">Net nep duidelijk succes</string>
   <string name="common_loading_text">Een momentje…</string>
@@ -72,8 +72,9 @@
   <string name="content_desc_activity_main_add_city_manage">Steden beheren</string>
   <string name="content_desc_activity_main_more_settings">Meer instellingen</string>
   <string name="content_desc_back_button">Terug</string>
+   <string name="content_desc_city_manage_del">Verwijderen</string>
+  <string name="content_desc_city_manage_edit">Steden beheren</string>
   <string name="content_desc_close_button">Sluiten</string>
-  <string name="content_desc_edit_city_manage">Steden beheren</string>
   <string name="daily_forcast_no_stable_direction">Geen wind</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
   <string name="daily_forcast_whirl_wind">Wervelwind</string>
@@ -198,6 +199,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="update_setting_title_text">Weergegevens updaten</string>
   <string name="updated_a_moment_ago">Zojuist bijgewerkt</string>
   <string name="updating">Bijwerken…</string>
+  <string name="user_agreement">Gebruikersovereenkomst</string>
   <string name="view_forecast_item_yesterday">Gisteren</string>
   <string name="view_indexes_item_today">Vandaag</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
