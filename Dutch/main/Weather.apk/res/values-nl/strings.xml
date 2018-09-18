@@ -63,7 +63,7 @@
   <string name="button_settings_confirm_to_revoke_title">Autorisatie intrekken?</string>
   <string name="button_sure_abandon">Wijzigingen ongedaan maken?</string>
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
-  <string name="china_version_first_start_network_msg">Je moet akkoord gaan met Xiaomi's %1$s en %2$s om Weer te kunnen gebruiken. Het weer moet toegang hebben tot uw locatie en verbinding maken met internet om normaal te werken. Akkoord?</string>
+  <string name="china_version_first_start_network_msg">"Je moet akkoord gaan met Xiaomi's %1$s en %2$s om Weer te kunnen gebruiken. Het weer moet toegang hebben tot uw locatie en verbinding maken met internet om normaal te werken. Akkoord?"</string>
   <string name="city_exceeded_warning">U kan tot 10 steden toevoegen</string>
   <string name="clear_net_mock_success">Net nep duidelijk succes</string>
   <string name="common_loading_text">Een momentje…</string>
