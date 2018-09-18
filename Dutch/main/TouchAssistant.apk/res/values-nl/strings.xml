@@ -8,7 +8,6 @@
   <string name="close_panel">Quick ball sluiten</string>
   <string name="customize_entries">Snelkoppelingen selecteren</string>
   <string name="enable_touch_assistant">Quick ball inschakelen</string>
-  <string name="enabled_for_pad_hint">Werkt wanneer \"Navigatieknoppen blokkeren in landschapmodus\" is ingeschakeld</string>
   <string name="function_settings">Snelkoppelinginstellingen</string>
   <string name="handy_mode_default_to_close_whether_open">Eén-handmodus is standaard uitgeschakeld. Eén-handmodus inschakelen?</string>
   <string name="hide_touch_assistant">Automatisch verbergen</string>

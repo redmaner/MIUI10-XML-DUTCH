@@ -38,6 +38,8 @@
   <string name="failure">Mislukt</string>
   <string name="hide_mode_desc">&lt;font color="#000000"&gt;Wanneer een app op de achtergrond wordt uitgevoerd, worden de activiteiten gecontroleerd om het batterijgebruik te verminderen. Deze functie krijgt en gebruikt gebruikersgegevens volgens %s&lt;/font&gt;</string>
   <string name="hide_system_app">Systeemapps verbergen</string>
+  <string name="high_temp_state">Hoge temperatuur</string>
+  <string name="high_temp_state_message">Bescherming tegen hoge temperaturen, data, wifiap, gps, camera enz. zullen beperkt worden</string>
   <string name="hints_loading_text">Een momentje…</string>
   <string name="important_warning">Let op</string>
   <string name="lasttime_applist_cloud">Geupdatete apps:</string>
