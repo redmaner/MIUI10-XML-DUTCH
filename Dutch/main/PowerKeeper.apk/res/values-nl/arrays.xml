@@ -11,6 +11,7 @@
 	 <string-array name="hmode_app_classify2">
         <item>Actieve apps</item>
         <item>Inactive apps</item>
+		<item>Geselecteerde apps</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Standaard temperatuurcontrole modus</item>

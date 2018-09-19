@@ -504,19 +504,10 @@
   <string name="card_main_xspace_action">Gebruiken</string>
   <string name="card_main_xspace_summary">Maak dubbele accounts aan voor ondersteunende apps</string>
   <string name="card_main_xspace_title">Apps dupliceren</string>
-  <string name="card_sms_report">Rapporteren via SMS</string>
   <string name="card_tc_failed">Kan niet kalibreren</string>
-  <string name="card_tc_failed_content">"Mogelijke redenen:
- 1. Providers reageren langzamer aan het begin en aan het eind van de maand. Probeer opnieuw over een paar dagen.
- 2. Een netwerkaanvraag template is vereist wanneer je voor de eerste keer kalibreert. Verbind met het netwerk en probeer opnieuw.
- 3. Het zou kunnen dat uw provider het niet ondersteunt om berichten te versturen met de resterende data en belminuten. Neem contact op met uw provider om meer te weten te komen.
- 4. Er zou een fout kunnen zitten in de gegevens van de provider. Probeer providerdiagnostiek om dit te verhelpen.
- 5. Lijkt niets te helpen? Tik op \"Rapporteren via SMS\" om feedback naar Xiaomi te versturen in een SMS."</string>
-  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Laatste keer opgeladen "</string>
   <string name="charging_text_battery_nearly_full">Bijna opgeladen</string>
   <string name="charging_text_battery_perfect">Volledig opgeladen</string>
-  <string name="check_network_state">Netwerk testen</string>
   <string name="choose">Kies</string>
   <string name="clean_immediately">Wissen</string>
   <string name="cleaned">Gewist</string>
@@ -1123,9 +1114,6 @@ om te reageren"</string>
   <string name="main_tobe_added_desc">Mobiele data vanaf ¥0.03/MB</string>
   <string name="main_today_used">vandaag gebruikt</string>
   <string name="main_toolbar_firewall">Dataverbruik beperken</string>
-  <string name="main_toolbar_internet_by_mobiledata">Mobiele data</string>
-  <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
-  <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
   <string name="main_toolbar_purchase">Herladen</string>
   <string name="main_toolbar_statistic">Statistieken</string>
   <string name="man_add_application">Apps voor automatisch starten handmatig toevoegen</string>
@@ -2018,7 +2006,6 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="status_bar_network_flow_phone_balance">"   Belminuten:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Kopen &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Databundel instellen &gt;"</string>
-  <string name="status_bar_network_flow_today">Vandaag: %1$s</string>
   <string name="still_retain_btn">Behouden</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="suggest_app_tolock_masked">Verborgen</string>
@@ -2304,7 +2291,6 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>
   <string name="traffic_setting_fragment_city">Stad</string>
   <string name="traffic_setting_fragment_default">Selecteren</string>
-  <string name="traffic_setting_fragment_find_brand">"Bent u niet zeker van de provider?"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Niet meer tonen</string>
   <string name="traffic_setting_fragment_operator">Provider</string>
   <string name="traffic_setting_fragment_operator_setting">Providerinstellingen</string>
