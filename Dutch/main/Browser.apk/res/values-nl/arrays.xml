@@ -87,4 +87,9 @@
         <item>Regen</item>
         <item>Sneeuw</item>
     </string-array>
+	<string-array name="pref_tab_restore_array">
+        <item>Altijd vragen</item>
+        <item>Openen</item>
+        <item>Sluiten</item>
+    </string-array>
 </resources>
