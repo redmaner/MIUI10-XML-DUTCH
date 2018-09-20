@@ -103,4 +103,8 @@
         <item quantity="other">%d werkdagen</item>
         <item quantity="one">%d werkdag</item>
     </plurals>
+	<plurals name="event_reminders_to_max">
+        <item quantity="other">Kan %d herinneringen instellen</item>
+        <item quantity="one">Kan %d herinnering instellen</item>
+    </plurals>
 </resources>
