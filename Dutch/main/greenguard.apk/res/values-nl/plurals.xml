@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_today_steps_start">
+        <item quantity="other">U hebt vandaag %d gedaan .</item>
+        <item quantity="one">U hebt vandaag %d gedaan.</item>
+    </plurals>
+</resources>

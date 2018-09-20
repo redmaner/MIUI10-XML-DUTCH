@@ -177,6 +177,7 @@
   <string name="edit_event_confirm_message">Wijzigingen ongedaan maken?</string>
   <string name="edit_event_countdown_name_empty_hint">Voer beschrijving in</string>
   <string name="edit_event_countdown_name_hint">Gebeurtenis</string>
+  <string name="edit_event_dislike_title">Waarom hebt u geannuleerd??</string>
   <string name="edit_event_from_label">Van</string>
   <string name="edit_event_input_year">Jaar invoeren</string>
   <string name="edit_event_label">Details</string>
@@ -222,7 +223,6 @@
   <string name="event_lunar_month">Maand</string>
   <string name="event_reminder_allday_day_zero">Op de dag zelf om %2$s</string>
   <string name="event_reminder_value_zero">Op tijd van afspraak</string>
-  <string name="event_reminders_to_max">Je kan maximaal %d herinneringen instellen</string>
   <string name="event_title">Titel</string>
   <string name="event_view">Afspraak weergeven</string>
   <string name="every_weekday">Werkdagen (ma-vr)</string>

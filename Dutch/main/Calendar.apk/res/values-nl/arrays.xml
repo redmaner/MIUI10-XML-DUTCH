@@ -314,4 +314,11 @@
         <item>Transparant</item>
         <item>Witte achtergrond</item>
 	</string-array>
+	<string-array name="edit_event_dislike">
+        <item>Geen gebeurtenistype die ik wil maken</item>
+        <item>Meer instellingen</item>
+        <item>Sommige instellingen kunnen niet worden bepaald</item>
+        <item>Kijk maar rond</item>
+        <item>Vertel het je niet</item>
+    </string-array>
 </resources>

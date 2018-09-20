@@ -8,7 +8,7 @@
   <string name="abc_activitychooserview_choose_application">Kies een app</string>
   <string name="abc_capital_off">UIT</string>
   <string name="abc_capital_on">AAN</string>
-  <string name="abc_search_hint">zoeken…</string>
+  <string name="abc_search_hint">Zoeken…</string>
   <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
   <string name="abc_searchview_description_query">Zoekopdracht</string>
   <string name="abc_searchview_description_search">Zoeken</string>
@@ -34,7 +34,7 @@
   <string name="cancel">Annuleren</string>
   <string name="cancel_international">Annuleren</string>
   <string name="cancel_lockscreen">Annuleren</string>
-   <string name="carousel_declaration_btn_text">Achtergrondcarrousel inschakelen</string>
+  <string name="carousel_declaration_btn_text">Achtergrondcarrousel inschakelen</string>
   <string name="carousel_declaration_cta">"Achtergrondcarrousel vereist dat de internetverbinding normaal werkt. Om toegang tot online inhoud te krijgen, moet u akkoord gaan met onze &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Privacy Policy&lt;/a&gt;. Akkoord?"</string>
   <string name="carousel_declaration_cta_btn_text">Akkoord gaan en inschakelen</string>
   <string name="carousel_declaration_des">Zie mooie plaatsen en krijg spannende verrassingen met de achtergrondcarrousel</string>
