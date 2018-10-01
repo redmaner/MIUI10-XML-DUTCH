@@ -264,7 +264,6 @@
   <string name="no_recommend_data">no recommended video now</string>
   <string name="not_show">"Don't show again"</string>
   <string name="notify_apk_installed">Downloaded successfully</string>
-  <string name="ntp_host_address">pool.ntp.org</string>
   <string name="off">[off]</string>
   <string name="ok">OK</string>
   <string name="ovp_alert_dialog_download_install_task">Downloading HD plug-in…</string>
