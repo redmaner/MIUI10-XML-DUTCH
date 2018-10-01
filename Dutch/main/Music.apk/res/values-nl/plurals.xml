@@ -8,10 +8,6 @@
         <item quantity="other">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
         <item quantity="one">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
     </plurals>
-	<plurals name="Nbackup_songs">
-        <item quantity="other">Nummers back-uppen, %1$d nummers resterend (%2$.1fMB)</item>
-        <item quantity="one">Nummers back-uppen, %1$d nummer resterend (%2$.1fMB)</item>
-    </plurals>
 	<plurals name="Ndialog_renew_content">
         <item quantity="other">"Uw abonnement verloopt over %d dagen.
 Wilt u dat wij helpen om te vernieuwen?"</item>
@@ -32,10 +28,6 @@ Wilt u dat wij helpen om te vernieuwen?"</item>
         <item quantity="one">"Gemaakt op %1$s
 %2$d nummer totaal"</item>
     </plurals>
-	<plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d nummers zijn niet geback-upt naar Mi Cloud. Nu stoppen?</item>
-        <item quantity="one">%d nummer is niet geback-upt naar Mi Cloud. Nu stoppen?</item>
-    </plurals>
 	<plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d nummers toegevoegd aan afspeellijst</item>
         <item quantity="one">>%d nummer toegevoegd aan afspeellijst</item>
@@ -51,14 +43,6 @@ Wilt u dat wij helpen om te vernieuwen?"</item>
 	<plurals name="Ntracks_similar_count">
         <item quantity="other">%d gelijkaardige nummers</item>
         <item quantity="one">%d gelijkaardig nummer</item>
-    </plurals>
-	<plurals name="Nunbackup_audios">
-        <item quantity="other">"%1$d nummers zijn niet geback-upt (%2$.1fMB)\""</item>
-        <item quantity="one">"%1$d nummer is niet geback-upt (%2$.1fMB)"</item>
-    </plurals>
-	<plurals name="Nupload_song_button">
-        <item quantity="other">Back-up %1$d nummers (%2$.1fMB)</item>
-        <item quantity="one">Back-up %1$d nummer (%2$.1fMB)</item>
     </plurals>
 	<plurals name="comment_count">
         <item quantity="other">%d opmerkingen</item>
@@ -81,10 +65,6 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
 	<plurals name="dialog_remove_descript">
         <item quantity="other">%d nummers verwijderen?</item>
         <item quantity="one">%d nummer verwijderen?</item>
-    </plurals>
-	<plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">%d nummers van Mi Cloud verwijderen? Ze zullen ook worden verwijderd uit lokale afspeellijsten.</item>
-        <item quantity="one">%d nummer van Mi Cloud verwijderen? Het zal ook worden verwijderd van lokale afspeellijsten.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">%d nummers gedownload</item>
