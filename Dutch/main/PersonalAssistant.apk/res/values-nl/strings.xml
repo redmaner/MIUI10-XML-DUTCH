@@ -70,7 +70,6 @@
   <string name="ball_football_world_cup">Wereldbeker</string>
   <string name="ball_net_errot">Kon niet verbinden met het netwerk.</string>
   <string name="ball_recent_no_data">Geen informatie over de komende wedstrijden.</string>
-  <string name="battery_history">Batterij</string>
   <string name="beijing">Peking</string>
   <string name="bicycle">Fietsen</string>
   <string name="book_assistant">Book a trip</string>
@@ -607,7 +606,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="miuishare_share_editor_title">Delen</string>
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
-  <string name="miuishare_wechat_timeline_title">Wechat mommenten</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Tijdlijn</string>
   <string name="month_day_format">dd/MM</string>
   <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
   <string name="month_format_en">dd/MM</string>
