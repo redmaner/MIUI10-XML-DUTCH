@@ -361,7 +361,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_skip_login">Overslaan</string>
   <string name="passport_skip_register">Inschrijven overslaan</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
-  <string name="passport_skip_setup_account_title">Installatie overslaan</string>
+  <string name="passport_skip_setup_account_title">Mi Cloud niet gebruiken?</string>
   <string name="passport_sms_send_success">Verzonden</string>
   <string name="passport_sms_verification_code_login">Inloggen met SMS</string>
   <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>

@@ -35,7 +35,7 @@
   <string name="action_menu_text_bandwidth">Databespaarder</string>
   <string name="action_menu_text_bandwidth_off">Databespaarder</string>
   <string name="action_menu_text_bandwidth_on">Databespaarder</string>
-  <string name="action_menu_text_bookmark_add_off">Kon website niet toevoegen.</string>
+  <string name="action_menu_text_bookmark_removed">Favoriet verwijderen</string>
   <string name="action_menu_text_bookmark_added">Bladwijzer toegevoegd</string>
   <string name="action_menu_text_copy_url">URL kopiëren</string>
   <string name="action_menu_text_create_qr_code">QR code</string>
@@ -44,6 +44,8 @@
   <string name="action_menu_text_exit">Afsluiten</string>
   <string name="action_menu_text_find_in_page">Op pagina zoeken</string>
   <string name="action_menu_text_fullscreen">Volledig scherm</string>
+   <string name="action_menu_text_fullscreen_enter">Ga naar volledig scherm</string>
+  <string name="action_menu_text_fullscreen_exit">Volledig scherm verlaten</string>
   <string name="action_menu_text_history">Bladwijzers &amp; geschiedenis</string>
   <string name="action_menu_text_nightmode">Nachtmodus</string>
   <string name="action_menu_text_nightmode_off">Nachtmodus</string>
@@ -60,7 +62,18 @@
   <string name="action_menu_user_center">Profiel</string>
   <string name="action_modify_bookmark">Bladwijzer bewerken</string>
   <string name="action_put_in_search_box">%s in de zoekbalk zetten</string>
-  <string name="action_skip">Skip</string>
+  <string name="action_skip">Overslaan</string>
+   <string name="action_text_all_select_bookmark">Alles selecteren</string>
+  <string name="action_text_all_select_bookmark_cancel">Alles deselecteren</string>
+  <string name="action_text_change_textsize_bigger">Lettertypen vergroten</string>
+  <string name="action_text_change_textsize_smaller">Kleiner lettertype</string>
+  <string name="action_text_edit_bookmark_exit">Favoriet bewerken afsluiten</string>
+  <string name="action_text_nightmode_change">Overschakelen naar nachtmodus</string>
+  <string name="action_text_readmode_bookmark_add">Voeg een bladwijzer voor leesmodus toe</string>
+  <string name="action_text_readmode_exit">Leesmodus afsluietn</string>
+  <string name="action_text_readmode_more">Meer</string>
+  <string name="action_text_readmode_theme_head">Achtergrond instellen</string>
+  <string name="action_text_theme_and_textsize_change">Lettergrootte en thema aanpassing</string>
   <string name="adblock_force_updating_rules_toast">Adblocker updaten</string>
   <string name="adblock_notification">%d advertenties geblokkeerd</string>
   <string name="adblock_rules_not_updated_toast">Kon niet updaten</string>
@@ -118,6 +131,7 @@
   <string name="bookmark_btn_select_all">Alles selecteren</string>
   <string name="bookmark_btn_select_none">Alles deselecteren</string>
   <string name="bookmark_cannot_save_url">Deze URL kan niet worden toegevoegd aan bladwijzers.</string>
+  <string name="bookmark_deleted">Bladwijzer verwijderen</string>
   <string name="bookmark_folder_needs_title">Voer een groepsnaam in</string>
   <string name="bookmark_group_lable">Groep</string>
   <string name="bookmark_move_to">Verplaatsen naar</string>
@@ -130,6 +144,7 @@
   <string name="bookmark_title_lable">Titel</string>
   <string name="bookmark_url_already_exisit">Deze URL staat al bij favorieten</string>
   <string name="bookmark_url_can_not_null">URL invoeren</string>
+  <string name="bookmark_url_not_exisit">U hebt deze URL al verwijderd</string>
   <string name="bookmark_url_not_valid">Ongeldige URL</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
   <string name="bookmarks_management">Bladwijzers</string>
@@ -179,6 +194,8 @@
   <string name="comment_max_length">Je reactie is te lang.</string>
   <string name="comment_menu">Opmerking</string>
   <string name="comment_num_description">Opmerkingsnummer</string>
+  <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
+  <string name="common_use_phrase_bottom_bar_text_previous">Vorige</string>
   <string name="context_menu_add_to_desk_id">Toevoegen aan startscherm</string>
   <string name="context_menu_orientation_portrait_swap_id">V/H scherm</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
@@ -209,7 +226,7 @@
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
   <string name="custom_head_pull_down_text">Voer infoFlow in</string>
-  <string name="data_monitor">Dataverbruik bijhouden</string>
+  <string name="data_monitor">Herinnering voor verkeersmonitoring</string>
   <string name="data_monitor_dialog_message">Het lijkt erop dat iets veel mobiele data gebruikt. Open de startpagina om dit te stoppen.</string>
   <string name="data_traffic_continue">Doorgaan</string>
   <string name="data_traffic_download_cancel">Annuleren</string>
@@ -358,19 +375,20 @@
   <string name="green_kid_block_request">Toegang tot deze website is beperkt.</string>
   <string name="guide_chosen_type_main_title">Vertel ons wat u leuk vindt</string>
   <string name="guide_chosen_type_subtitle">Tag uw interesses om relevante aanbevelingen te ontvangen</string>
-  <string name="guide_entertainment_text">amusement</string>
-  <string name="guide_fashion_text">Mode</string>
+  <string name="guide_entertainment_text">amuseren</string>
+  <string name="guide_fashion_text">mode</string>
+  <string name="guide_fiction_text">fictie</string>
   <string name="guide_finance_text">financieel</string>
+  <string name="guide_flash_type_main_title">Bliksemsnel</string>
+  <string name="guide_flash_type_subtitle">Verbazingwekkende snelheid, soepele gebruikersinterface</string>
   <string name="guide_games_text">games</string>
   <string name="guide_history_text">geschiedenis</string>
-  <string name="guide_human_type_main_title">De browser die u begrijpt</string>
-  <string name="guide_human_type_subtitle">Ontvang geweldige aanbevelingen</string>
+  <string name="guide_know_type_main_title">De browser die u begrijpt</string>
+  <string name="guide_know_type_subtitle">Ontvang geweldige aanbevelingen</string>
   <string name="guide_label_chosen_hint">U kunt maximaal %d categorieën kiezen</string>
   <string name="guide_military_text">leger</string>
   <string name="guide_motor_text">motor</string>
   <string name="guide_politics_text">politiek</string>
-  <string name="guide_rocket_type_main_title">Bliksemsnel</string>
-  <string name="guide_rocket_type_subtitle">Verbazingwekkende snelheid, soepele gebruikersinterface</string>
   <string name="guide_skip">Overslaan</string>
   <string name="guide_sports_text">sport</string>
   <string name="guide_start_experience">Start</string>
@@ -831,11 +849,14 @@ Wil je deze pagina verlaten?"</string>
   <string name="nav_bottom_bar_close_all">Alles sluiten</string>
   <string name="nav_bottom_bar_close_description">Sluiten</string>
   <string name="nav_bottom_bar_new_tab">Nieuwe tab</string>
+  <string name="nav_close_index_tab">Item %d verwijderen</string>
   <string name="nav_screen_container_tab_incognito">Incognitotab</string>
   <string name="nav_screen_container_tab_normal">Normale tab</string>
   <string name="nav_screen_incognito_message">"Je browse- en zoekgeschiedenis wordt niet opgeslagen in incognitomodus.
 Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat wel worden bewaard."</string>
   <string name="nav_screen_incognito_title">Incognitomodus</string>
+  <string name="nav_screen_tab_incognito_enter">Naar incognitotab gaan</string>
+  <string name="nav_screen_tab_incognito_exit">Incognitotab afsluiten</string>
   <string name="navigation_delete_all">Veeg naar links of rechts om alle tabbladen te sluiten</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuleren</string>
   <string name="navigationbar_rightbutton_actiontext_go">Ga</string>
@@ -859,7 +880,9 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="open_cloud_sync">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="open_cloud_sync_desc">Bladwijzer toegevoegd. Schakel synchronisatie met Mi Cloud in om bladwijzers toegevoegd op andere apparaten te synchroniseren. Inloggen en inschakelen?</string>
   <string name="open_file_explorer_failed">Kan File Explorer niet openen.</string>
-  <string name="open_voice_permission">Spraak netwerktoestemming openen</string>
+  <string name="open_voice_permission">De microfoon toelaten om verbinding te maken met internet</string>
+  <string name="page_hang_message">De huidige pagina blijft hangen, u moet de browser opnieuw opstarten.</string>
+  <string name="page_hang_title">Pagina blijft hangen</string>
   <string name="page_info">Pagina-informatie</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Pagina-informatie weergeven</string>
@@ -871,7 +894,9 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="paused_waiting_to_retry">Wachten om opnieuw te proberen…</string>
   <string name="pay_failed_toast">Betaling mislukt</string>
   <string name="pay_success_toast">Betaling voltooid</string>
+  <string name="permission_alert_window">Om de functie te gebruiken, opent u de systeemoptie Pop-upvenster weergeven.</string>
   <string name="permission_notification">meldingen sturen.</string>
+  <string name="permission_unknown">Onbekende optie</string>
   <string name="permissions_prompt_message">%s wil</string>
   <string name="play_pause_video">Video afspelen of pauzeren</string>
   <string name="play_video">Video afspelen</string>
@@ -880,6 +905,8 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="positive_confirm_message">Toch uitschakelen</string>
   <string name="pref_accept_quicklink_push">Nieuwsfeed</string>
   <string name="pref_accessibility_title">Toegankelijkheid</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">Normale lettercombinaties kunnen met één tik in de adresbalk worden ingevoerd</string>
+  <string name="pref_accessibility_url_shortcut_enter_title">Snelle URL input</string>
   <string name="pref_adblock_counts">%d geblokkeerd</string>
   <string name="pref_adblock_title">Adv blokker</string>
   <string name="pref_advert_null">Geen items gemarkeerd als advertentie. Houd een item op de webpagina ingedrukt om te markeren.</string>
@@ -907,6 +934,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_content_night_read_mode">Nachtmodus</string>
   <string name="pref_content_search_engine">Zoekmachine in adresbalk</string>
   <string name="pref_content_search_engine_summary">Selecteer een zoekmachine</string>
+  <string name="pref_download_setting">Instelling downloaden</string>
   <string name="pref_enable_adblock_notification">Meldingen van adblocker tonen</string>
   <string name="pref_enable_news">Nieuws</string>
   <string name="pref_enable_novels">Boeken</string>
@@ -922,7 +950,6 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_file_downlaod_save_reset_default_settings">Standaardlocatie herstellen</string>
   <string name="pref_file_download_default_path_prefix">Standaardlocatie: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadlocatie</string>
-  <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Vegen vanaf de rand</string>
   <string name="pref_fling_on_border_title_summary">Veeg naar links of rechts</string>
   <string name="pref_font_size_category">Tekstgrootte</string>
@@ -977,7 +1004,6 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_security_show_security_warning">Beveiligingswaarschuwingen weergeven</string>
   <string name="pref_security_show_security_warning_summary">Waarschuwing weergeven als er een probleem is met het certificaat van een website</string>
   <string name="pref_set_homepage_to">Ingesteld op</string>
-  <string name="pref_setting_title">Pagina instellingen</string>
   <string name="pref_slide_back_forward">Schuif terug of vooruit</string>
   <string name="pref_tab_restore">Herstel de laatste open pagina bij het opstarten</string>
   <string name="pref_ua_string">Gebruikersagent</string>

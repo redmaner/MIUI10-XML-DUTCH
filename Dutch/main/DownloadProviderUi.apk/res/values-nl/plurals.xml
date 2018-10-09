@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="sniff_find_resource">
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d downloads verwijderen?</item>
+        <item quantity="one">%d download verwijderen?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%s downloads met succes verwijderd</item>
+        <item quantity="one">%s downloads met succes verwijderd</item>
+    </plurals>
+	<plurals name="sniff_find_resource">
         <item quantity="other">%d items gevonden</item>
         <item quantity="one">1 item gevonden</item>
     </plurals>

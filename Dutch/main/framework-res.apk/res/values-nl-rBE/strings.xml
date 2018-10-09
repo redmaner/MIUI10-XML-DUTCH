@@ -743,6 +743,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="notification_channel_voice_mail">Voicemailberichten</string>
   <string name="notification_channel_vpn">VPN status</string>
   <string name="notification_channel_wfc">Wi-Fi bellen</string>
+  <string name="notification_description">Spraakoproep status</string>
   <string name="notification_hidden_by_policy_text">Inhoud verborgen door beleid</string>
   <string name="notification_hidden_text">Inhoud verborgen</string>
   <string name="notification_listener_binding_label">Listener voor meldingen</string>
@@ -1241,6 +1242,8 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="ssl_ca_cert_noti_managed">Door %s</string>
   <string name="ssl_certificate">Beveiligingscertificaat</string>
   <string name="ssl_certificate_is_valid">Dit certificaat is geldig.</string>
+  <string name="status_communication_speaker_summary">Er is een handsfree gesprek bezig. Audio wordt nog steeds via de luidspreker afgespeeld wanneer een hoofdtelefoon is aangesloten.</string>
+  <string name="status_communication_summary">Er is een gesprek bezig. U kunt het belvolume nu alleen aanpassen.</string>
   <string name="stk_cc_ss_to_dial">SS verzoek is aangepast naar DIAL verzoek .</string>
   <string name="stk_cc_ss_to_ss">SS verzoek is aangepast naar nieuw SS verzoek.</string>
   <string name="stk_cc_ss_to_ussd">SS verzoek is aangepast naar USSD verzoek.</string>

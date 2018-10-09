@@ -1230,8 +1230,8 @@ om te reageren"</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
-  <string name="midrop_post_notification_contentText">Probeer Mi Drop. Het is snel en reclamevrij.</string>
-  <string name="midrop_post_notification_contentTitle">Bestanden overzetten?</string>
+  <string name="midrop_post_notification_contentText">Probeer Mi Drop, met overdrachtssnelheid tot 50 M/s.</string>
+  <string name="midrop_post_notification_contentTitle">Bestanden delen?</string>
   <string name="mixed_need_to_confirm">Voer opnieuw in om te bevestigen</string>
   <string name="mixed_password_confirmed_header_confirm">Instellen gelukt. Tik om te bevestigen.</string>
   <string name="mixed_password_confirmed_header_continue">Instellen gelukt. Tik \"volgende\".</string>

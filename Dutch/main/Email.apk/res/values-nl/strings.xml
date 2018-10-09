@@ -167,6 +167,7 @@ Nu bijwerken?"</string>
   <string name="add_account_keywords">Account toevoegen;emailaccount toevoegen</string>
   <string name="add_attachment">Bijlage toevoegen</string>
   <string name="add_calendar">Herinneren</string>
+  <string name="add_file_exception">Uitzondering toevoegen. Probeer het via een andere manier om toe te voegen.</string>
   <string name="add_label">Map toevoegen</string>
   <string name="add_pre_message_attachments">Voeg de bijlagen toe van het vorige bericht?</string>
   <string name="add_pre_message_attachments_no">Niet toevoegen</string>

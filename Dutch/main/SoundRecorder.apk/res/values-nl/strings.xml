@@ -48,9 +48,9 @@
   <string name="mark_point_list_title">Markeringen</string>
   <string name="menu">Menu</string>
   <string name="message_file_size_error">Opname heeft de maximale opnametijd van %s bereikt</string>
-  <string name="network_tip_dialog_cancel">Annuleren</string>
-  <string name="network_tip_dialog_content">Recorder heeft verbinding met internet nodig en moet uw contacten lezen om normaal te werken. Toestaan?</string>
-  <string name="network_tip_dialog_ok">Toestaan</string>
+  <string name="network_tip_dialog_cancel">Niet akkoord</string>
+  <string name="network_tip_dialog_content">De recorder moet verbinding met internet maken om normaal te kunnen werken. Akkoord?</string>
+  <string name="network_tip_dialog_ok">Akkoord</string>
   <string name="network_tip_dialog_title">Internetverbinding is nodig</string>
   <string name="new_record_name">Nieuwe opname</string>
   <string name="no_file">Geen opnames</string>

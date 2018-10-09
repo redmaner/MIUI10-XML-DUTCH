@@ -129,6 +129,7 @@
   <string name="negDesc">Wissel tussen temperaturen onder en boven nul</string>
   <string name="network_confirm_content">"Valuta, belastingen en hypotheek berekenen heeft een werkende netwerkverbinding en toegang tot locatieservices nodig om normaal te werken."</string>
   <string name="network_confirm_title">Toestemmingen vereist</string>
+  <string name="not_supported_due_to_language">Deze functie is alleen beschikbaar voor de Chinese taal</string>
   <string name="percentDesc">procent</string>
   <string name="plusDesc">plus</string>
   <string name="powerDesc">macht</string>
