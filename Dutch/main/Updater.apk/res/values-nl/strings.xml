@@ -36,7 +36,7 @@ Gegevens zullen niet worden gewist."</string>
   <string name="new_version">Nieuwe update gevonden!</string>
   <string name="no_info">Geen informatie beschikbaar.</string>
   <string name="no_network">Geen netwerktoegang.</string>
-  <string name="no_update">Je hebt alle updates al geinstalleerd!</string>
+  <string name="no_update">U bent up-to-date of er is een serverprobleem, kijk op xiaomi.eu voor een nieuwe versie!</string>
   <string name="no_xioamieu">"Je gebruikt niet de ROM van xiaomi.eu!
 Updates zijn niet beschikbaar voor jou!"</string>
   <string name="notif_cancel">Annuleren</string>

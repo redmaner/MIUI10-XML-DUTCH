@@ -1423,6 +1423,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="snooze_option_30_min">30 minuten</string>
   <string name="snooze_undo">ONGEDAAN MAKEN</string>
   <string name="snoozed_for_time">Snoozen voor %1$s</string>
+  <string name="sos_status_bar_summary">klik om af te sluiten</string>
   <string name="speed_bump_explanation">Minder belangerijke meldingen hieronder</string>
   <string name="ssl_ca_cert_warning">"Netwerk kan 
 gecontroleerd worden "</string>
