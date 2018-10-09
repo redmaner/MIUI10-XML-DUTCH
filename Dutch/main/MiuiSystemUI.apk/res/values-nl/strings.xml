@@ -525,7 +525,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Splitscreen is niet ondersteund op het vergrendelscherm.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Deze app ondersteunt geen splitscreen.</string>
   <string name="drag_to_add_tiles">Sleep om tegels toe te voegen</string>
-  <string name="drag_to_remove_tiles">Sleep hier om te verwijderen</string>
+  <string name="drag_to_remove_tiles">Ingedrukt houden om items toe te voegen of opnieuw in te delen</string>
   <string name="drive_mode_tip">Automodus is ingeschakeld</string>
   <string name="drive_mode_tip_idle">Automodus is ingeschakeld</string>
   <string name="drive_mode_tip_idle_notch">Automodus</string>
@@ -910,9 +910,11 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">De wachtwoorden komen niet overeen</string>
   <string name="local_backup_password_toast_success">Nieuwe back-up wachtwoord ingesteld</string>
   <string name="local_backup_password_toast_validation_failure">Kon back-up wachtwoord niet instellen</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Vliegmodus</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
-  <string name="lock_screen_no_sim_card">Geen SIM kaart</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Alleen noodoproep</string>
+  <string name="lock_screen_no_sim_card_no_service">Geen service</string>
   <string name="lock_wallpaper_enter">Invoeren</string>
   <string name="lock_wallpaper_learn_more">Meer</string>
   <string name="lockscreen_access_pattern_area">Patroongebied.</string>
@@ -1280,6 +1282,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_time_label">Tijd</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Als u een item wilt toevoegen, houdt u het ingedrukt en sleept u het naar het bovenste gedeelte van het paneel.</string>
   <string name="quick_settings_user_label">Ik</string>
   <string name="quick_settings_user_new_user">Nieuwe gebruiker</string>
   <string name="quick_settings_user_title">Gebruiker</string>
@@ -1307,7 +1310,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="recents_accessibility_split_screen_top">Splits scherm naar boven</string>
   <string name="recents_app_info_button_label">Appinfo</string>
   <string name="recents_caption_resize">Selecteer nieuwe taaklayout</string>
-  <string name="recents_drag_hint_message">Sleep apps hier naartoe</string>
+  <string name="recents_drag_hint_message">App ingedrukt houden en hierheen slepen.</string>
   <string name="recents_empty_message">Geen recente apps</string>
   <string name="recents_empty_message_dismissed_all">Je hebt alle apps gewist</string>
   <string name="recents_empty_message_multi_window">Open apps van het startscherm</string>
@@ -1562,6 +1565,7 @@ Uw telefoon wordt mogelijk te warm als u dat doet:
   <string name="torch_activity_hint">Houd de HOME toets ingedrukt op het vergrendelscherm om de zaklamp in te schakelen</string>
   <string name="torch_activity_name">Zaklamp</string>
   <string name="torch_closed">Zaklamp uitgeschakeld</string>
+  <string name="torch_high_temperature_warning">Uw apparaat is oververhit. Kan de zaklamp nu niet gebruiken.</string>
   <string name="torch_opened">Zaklamp ingeschakeld</string>
   <string name="track_frame_time">Profiel GPU rendering</string>
   <string name="transition_animation_scale_title">Overgangsanimatieschaal</string>
