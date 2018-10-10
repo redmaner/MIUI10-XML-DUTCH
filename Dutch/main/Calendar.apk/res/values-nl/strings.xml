@@ -21,19 +21,13 @@
   <string name="accessibility_all_day">Afspraak die de hele dag duurt</string>
   <string name="accessibility_pick_start_date">Startdatum</string>
   <string name="accessibility_pick_time_zone">Tijdzone</string>
-  <string name="accessibility_reminder_time">Herinneringstijd</string>
   <string name="accessibility_remove_attendee">Deelnemer verwijderen</string>
   <string name="accessibility_repeats">Herhalingen</string>
   <string name="accessibility_sync_cal">Agenda synchroniseren</string>
   <string name="account_and_calendar">Accounts</string>
-  <string name="accounts">Accounts en synchronisatie</string>
-  <string name="acct_not_synced">Dit account wordt niet gesynchroniseerd. Uw kalenders zijn mogelijk niet bijgewerkt.</string>
-  <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
   <string name="action_bar_date_button_title">Datum berekenen</string>
-  <string name="action_bar_more_menu_view_description">Meer</string>
   <string name="action_bar_return">Terug</string>
   <string name="action_text_card_manager">Abonnementen</string>
-  <string name="action_text_today">Vandaag</string>
   <string name="ad_card_connecting">Verbinding</string>
   <string name="ad_card_download_count">%1$s personen downloaden</string>
   <string name="ad_card_download_count_million">%1$s miljoen downloads</string>
@@ -52,7 +46,6 @@
   <string name="agenda_today">VANDAAG, %1$s</string>
   <string name="agenda_tomorrow">MORGEN, %1$s</string>
   <string name="agenda_view">Gebeurtenissen</string>
-  <string name="agenda_yesterday">GISTEREN, %1$s</string>
   <string name="alarm_label">Afwijzen</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Verlopen</string>
@@ -79,12 +72,6 @@
   <string name="birthday_term">Verjaardag</string>
   <string name="book_card_free">Gratis</string>
   <string name="book_card_rating_text">|   %1$s gratis</string>
-  <string name="button_day">Dag</string>
-  <string name="button_month">Maand</string>
-  <string name="button_week">Week</string>
-  <string name="calculate_result">Resultaat</string>
-  <string name="calendar_network_error">Netwerkfout</string>
-  <string name="calendar_refresh">Vernieuwen</string>
   <string name="can_not_create_long_event">Naam van afspraak is te lang</string>
   <string name="can_not_modify_allday_event">Kan de dagafspraken niet wijzigen</string>
   <string name="can_not_modify_event">Kan afspraak niet wijzigen</string>
@@ -95,7 +82,6 @@
   <string name="card_detail_dialog_title">Nu abonneren?</string>
   <string name="card_detail_hint">Na de inschrijving, zal de te weergeven inhoud naar de homepage dagelijks bijgewerkt worden</string>
   <string name="card_detail_title">Inschrijving details</string>
-  <string name="card_manager">Abonnementenbeheer</string>
   <string name="card_manager_no_data">Geen abonnement kaart :)</string>
   <string name="card_title_change">Wijzigen</string>
   <string name="change_response_title">Antwoord wijzigen</string>
@@ -147,10 +133,8 @@
   <string name="date_today">" (vandaag)"</string>
   <string name="day_view_new_event_hint">Nieuwe afspraak</string>
   <string name="default_reminder_mode">Herinneringen</string>
-  <string name="delete_calendar">Uitschrijven</string>
   <string name="delete_recurring_event_title">%s verwijderen?</string>
   <string name="delete_this_event_title">Deze afspraak verwijderen?</string>
-  <string name="deleting_calendar">Uitschrijven</string>
   <string name="description_calendar">Systeemapps/Kalender</string>
   <string name="description_calendar_edit_event">Systeemapps/Kalender/Agenda</string>
   <string name="directory_searching_fmt">%s zoeken…</string>
@@ -158,8 +142,6 @@
   <string name="does_not_repeat">Eenmalige afspraak</string>
   <string name="done">Terug</string>
   <string name="download">Download</string>
-  <string name="download_finished">Download voltooid</string>
-  <string name="downloaded">Gedownload</string>
   <string name="downloading">Bezig met downloaden…</string>
   <string name="edit_date_calculate_days_backward_error_hint">Kan niet vooruit rekenen</string>
   <string name="edit_date_calculate_days_empty_hint">Het aantal dagen invoeren</string>
@@ -170,8 +152,6 @@
   <string name="edit_event_birthday_import_from_contact">Verjaardag importeren uit contacten</string>
   <string name="edit_event_birthday_name_empty_hint">Voer een naam in</string>
   <string name="edit_event_birthday_name_hint">Naam</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Herinner ook 3 dagen van tevoren</string>
-  <string name="edit_event_birthday_reminder_time">Herinneringstijd</string>
   <string name="edit_event_calendar_label">Agenda</string>
   <string name="edit_event_choose_date">Datum selecteren</string>
   <string name="edit_event_confirm_message">Wijzigingen ongedaan maken?</string>
@@ -227,7 +207,6 @@
   <string name="event_view">Afspraak weergeven</string>
   <string name="every_weekday">Werkdagen (ma-vr)</string>
   <string name="festival_detail_title">Festival</string>
-  <string name="force_touch_title_add_new_event">Gebeurtenis toevoegen</string>
   <string name="fortune_birthday">Verjaardag</string>
   <string name="fortune_card_caiwei">Financiële positie:</string>
   <string name="fortune_card_set_bazi">Geboortedatums instellen</string>
@@ -303,7 +282,6 @@
   <string name="match_not_started">Niet gestart</string>
   <string name="match_select_activity_label">Wedstrijden selecteren</string>
   <string name="menu_general_preferences">Algemene instellingen</string>
-  <string name="menu_preferences">Instellingen</string>
   <string name="menu_reminder_preferences">Herinneringen</string>
   <string name="missing_name">(Geen naam)</string>
   <string name="missing_required_permission">Je hebt vereiste toestemmingen uitgeschakeld.</string>
@@ -347,8 +325,6 @@
   <string name="movie_event_title">Film:</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="new_event_description">Nieuw</string>
-  <string name="new_event_dialog_label">Nieuwe afspraak</string>
-  <string name="new_event_dialog_option">Nieuwe afspraak</string>
   <string name="no_contact_birthday_hint">Geen verjaardagen om te importeren</string>
   <string name="no_events_hint">Geen afspraken</string>
   <string name="no_network">Geen netwerk. Netwerk vernieuwen :)</string>
@@ -357,7 +333,6 @@
   <string name="no_visiable_calendar_message">U moet een kalenderaccount toevoegen. Tik op account toevoegen om door te gaan.</string>
   <string name="no_visiable_calendar_select_account">Account toevoegen</string>
   <string name="no_visiable_calendar_title">Account toevoegen</string>
-  <string name="not_synced">Niet gesynchroniseerd</string>
   <string name="olympic_rank">Ranking</string>
   <string name="olympic_total">Totaal</string>
   <string name="olympic_vs">VS</string>
@@ -389,7 +364,6 @@
   <string name="preferences_use_home_tz_title">Eigen tijdzone gebruiken</string>
   <string name="preferences_week_start_day_dialog">Week begint op</string>
   <string name="preferences_week_start_day_title">Week begint op</string>
-  <string name="provided_ad">Advertentie</string>
   <string name="pull_to_refresh_hint">Trek naar beneden om afspraken van %1$d te laden</string>
   <string name="receive_net_mock_success">Net mock ontvangt succes</string>
   <string name="recommend_card_add">Abonneer je nu</string>
@@ -425,14 +399,12 @@
   <string name="response_yes">Ja</string>
   <string name="saving_event">Afspraak opgeslagen</string>
   <string name="saving_event_with_guest">Updates verzenden…</string>
-  <string name="search">Zoeken</string>
   <string name="search_calendar">"Datum;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Herinnering;Vakantie;Vakantie;Verjaardag;2016;2017;Spring Festival;Nieuwjaarsdag;International Labour Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">Meeting;Herinnering;Agenda</string>
   <string name="search_calendar_huangli"/>
   <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
   <string name="search_calendar_subscribe_group"/>
   <string name="select_date">Springen naar datum</string>
-  <string name="select_synced_calendars_title">Agenda\'s om te synchroniseren</string>
   <string name="setting_about_calendar_version">Kalenderversie:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI versie:</string>
@@ -452,8 +424,6 @@
   <string name="subscribe_card_success">Abonnementen succes, kan thuis worden bekeken </string>
   <string name="subscribe_card_success_for_homepage">Abonnementen"%1$s”succes</string>
   <string name="subscribe_channel_bottom_hint">—— Mi Kalender ——</string>
-  <string name="subscribe_channel_click_hint">Abonneer je om te lezen</string>
-  <string name="subscribe_channel_footer_button">Abonnementenbeheer</string>
   <string name="subscribe_channel_footer_desc">Bekijk je abonnementen of meld je af</string>
   <string name="subscribe_channel_footer_title">Geabonneerd</string>
   <string name="subscribe_channel_footer_view">Bekijken</string>
@@ -464,7 +434,6 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="subscribe_channel_title">Abonnementen</string>
   <string name="subscribing_card">Abonnementen</string>
   <string name="swipe_up_guide_hint_text">Omhoog vegen</string>
-  <string name="synced">Gesynchroniseerd</string>
   <string name="tab_title_agenda">Evenementen</string>
   <string name="tab_title_day">Dag</string>
   <string name="tab_title_month">Maand</string>
@@ -473,7 +442,6 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="talk_back_read_date">%1$s (%2$s volgens de maankalender).</string>
   <string name="talk_back_setting">Instelling</string>
   <string name="template_announce_item_index">Afspraak %1$s van %2$s.</string>
-  <string name="template_week_num">Week %1$s</string>
   <string name="text_year">Jaarlijks</string>
   <string name="ticket_card_date">%1$s maand %2$sJapan</string>
   <string name="ticket_card_description">Vandaag de dag kunnen worden geboekt</string>

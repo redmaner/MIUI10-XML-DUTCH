@@ -4,4 +4,16 @@
         <item quantity="other">%d gesprekken opgenomen.</item>
         <item quantity="one">%d gesprek opgenomen.</item>
     </plurals>
+	<plurals name="duration_seconds">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
 </resources>

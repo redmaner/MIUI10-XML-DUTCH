@@ -592,7 +592,7 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="descx_quick_scan_cancel">Scan geannuleerd</string>
   <string name="descx_quick_scan_preparation">Een momentje…</string>
   <string name="detail_app_button">Appinfo</string>
-  <string name="details_subtitle">Details gebruiken</string>
+  <string name="details_subtitle">Gebruiksdetails</string>
   <string name="device_manager_apply_step_1">Apparaatbeheerder voor deze app activeren?</string>
   <string name="device_manager_apply_step_2">"Het activeren van de apparaatbeheerder voor deze app kan leiden tot de blootstelling van uw persoonlijke gegevens.
 Alle gegevens op uw apparaat kunnen worden gewist en uw vergrendelchermwachtwoord kan worden gereset."</string>
@@ -1230,7 +1230,7 @@ om te reageren"</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
-  <string name="midrop_post_notification_contentText">Probeer Mi Drop, met overdrachtssnelheid tot 50 M/s.</string>
+  <string name="midrop_post_notification_contentText">Zet bestanden over met een overdrachtssnelheid tot 50 M/s.</string>
   <string name="midrop_post_notification_contentTitle">Bestanden delen?</string>
   <string name="mixed_need_to_confirm">Voer opnieuw in om te bevestigen</string>
   <string name="mixed_password_confirmed_header_confirm">Instellen gelukt. Tik om te bevestigen.</string>
