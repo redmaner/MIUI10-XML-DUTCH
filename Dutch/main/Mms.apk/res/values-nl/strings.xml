@@ -6,7 +6,7 @@
   <string name="addBlackList">Blokkeren</string>
   <string name="add_attachment">Bijlagen toevoegen</string>
   <string name="add_contact">vCard</string>
-  <string name="add_miui_contact">Mi kaart</string>
+  <string name="add_miui_contact">Contact</string>
   <string name="add_music">Muziek toevoegen</string>
   <string name="add_number_to_sender">Nummer toeoegen aan %s</string>
   <string name="add_picture">Foto toevoegen</string>
@@ -140,7 +140,6 @@
   <string name="delete_wild_sims_title">Geselecteerde nummers verwijderen</string>
   <string name="delivery_report_activity">Afleveringsrapport</string>
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
-  <string name="delivery_toast_body_more">Bericht ontvangen van %1$s en %2$d andere personen</string>
   <string name="dialog_message_fake_cell_detect_error">De informatie over dit bericht corrigeren? MIUI moet hiervoor het telefoonnummer (%1$s), de inhoud van het bericht en de informatie over de locatie in de buurt uploaden naar zijn servers.</string>
   <string name="dialog_message_mx">Met Mi Message kunt u gratis berichten verzenden naar andere MIUIgebruikers . Er is een uitgaand SMS bericht vereist om Mi Message te activeren. Uw provider brengt u dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt.</string>
   <string name="dialog_message_networking">Berichten moeten Gele pagina\'s gebruiken om de identificatie van de zende ID te kunnen bieden. Berichten en gele pagina\'s moeten verbinding met internet maken en toegang krijgen tot uw locatie om normaal te werken. Toestaan?</string>
@@ -501,9 +500,10 @@
   <string name="rcs_service_agreement">Serviceovereenkomst</string>
   <string name="rcs_setting">China Mobile Messaging instellingen</string>
   <string name="rcs_silence_message">Silence message notifications</string>
-  <string name="rcs_summary_auto_resend_mms">Converteer China Mobiele multimediaberichten naar SMS nadat het oorspronkelijke bericht niet kon worden verzonden. Uw provider brengt dit bericht in rekening.</string>
+  <string name="rcs_summary_auto_resend_mms">China Mobile multimediaberichten converteren naar MMS nadat het oorspronkelijke bericht niet kon worden verzonden. Uw provider rekend kosten aan voor dit bericht.</string>
   <string name="rcs_summary_auto_resend_sms">China mobiele SMS berichten naar SMS converteren nadat het oorspronkelijke bericht niet kon worden verzonden. Uw provider brengt dit bericht in rekening.</string>
   <string name="rcs_summary_silence_message">Stil berichtmeldingen wanneer desktop client werkt</string>
+  <string name="rcs_unavailable">Kan China Mobile Messaging nu niet gebruiken. China Mobiele simkaart is niet uw standaard datakaart.</string>
   <string name="rcs_wait_for_retry_text">Wachten…</string>
   <string name="received_at_time">Ontvangen op: %1s</string>
   <string name="received_label">"Ontvangen: "</string>
