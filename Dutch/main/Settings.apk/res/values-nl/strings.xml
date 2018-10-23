@@ -1632,6 +1632,8 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enableNetwork">Netwerk inschakelen</string>
   <string name="enable_adb">USB foutopsporing</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB verbinding</string>
+  <string name="enable_atrace">ATrace inschakelen</string>
+  <string name="enable_atrace_summary">>Leg kernelgebeurtenissen vast met ATrace</string>
   <string name="enable_compatibility">App schalen</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Activeer ondersteuning voor experimentele freeform windows.</string>
@@ -4388,6 +4390,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_shade_shortcut">Snelkoppeling meldingsscherm</string>
   <string name="status_bar_settings_notification_sound">Geluid</string>
   <string name="status_bar_settings_notification_sound_custom">Aangepast geluid</string>
+  <string name="status_bar_settings_notification_style">Meldingsstijl</string>
   <string name="status_bar_settings_notification_use_app_icon">Gebruik appiconen voor meldingen</string>
   <string name="status_bar_settings_notification_vibrate">Trillen</string>
   <string name="status_bar_settings_peek_notification_icon">Iconen voor inkomende meldingen weergeven</string>

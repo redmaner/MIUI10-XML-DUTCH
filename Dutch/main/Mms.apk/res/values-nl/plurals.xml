@@ -22,6 +22,10 @@
         <item quantity="zero">Items selecteren</item>
 		<item quantity="one">%d geselecteerd</item>
     </plurals>
+	<plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Bericht ontvangen door %1$s en %2$d andere personen</item>
+        <item quantity="one">Bericht ontvangen door %1$s en %2$d ander persoon</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Kon niet naar %d contacten verzenden</item>
         <item quantity="one">Kon niet naar %d contact verzenden</item>

@@ -534,6 +534,8 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="empty_shade_text">Geen meldingen</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debugmodus wanneer verbonden met USB</string>
+  <string name="enable_atrace">ATrace inschakelen</string>
+  <string name="enable_atrace_summary">Leg kernelgebeurtenissen vast met ATrace</string>
   <string name="enable_bluetooth_confirmation_ok">Inschakelen</string>
   <string name="enable_bluetooth_message">Als u het toetsenbord op uw tablet wilt aansluiten, schakelt u Bluetooth eerst in.</string>
   <string name="enable_bluetooth_title">Bluetooth inschakelen?</string>

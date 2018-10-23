@@ -1317,7 +1317,6 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="note_call_none">Geen oproepen</string>
   <string name="note_list_none">Lijst is leeg</string>
   <string name="note_sms_none">Geen berichten</string>
-  <string name="notification_battery_consume_abnormal_summary">%2$s van de batterij gebruikt in de afgelopen %1$d minuten</string>
   <string name="notification_battery_consume_abnormal_title">Batterij loopt te snel leeg</string>
   <string name="notification_exit_extreme_mode_text">Batterij is meer dan %s geladen</string>
   <string name="notification_exit_extreme_mode_title">Extreme batterijbesparing uitschakelen</string>
