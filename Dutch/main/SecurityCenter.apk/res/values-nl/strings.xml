@@ -26,8 +26,7 @@
   <string name="access_control_app_is_launching">App start op</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Voer je wachtwoord in voordat je ontgrendelt met een nieuwe vingerafdruk</string>
   <string name="access_control_fingerprint_not_identified_msg">Kon vingerafdruk niet lezen</string>
-  <string name="access_control_need_password">"%s met succes toegevoegd
-"</string>
+  <string name="access_control_need_password">"%s met succes toegevoegd"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appvergrendeling in</string>
   <string name="accessibility_gameboosterservice_description">Inschakelen om inkomende WeChat oproepen te dempen wanneer u games speelt</string>
   <string name="accessibility_service_description"/>
@@ -57,6 +56,7 @@
   <string name="activity_title_virus_settings">Instellingen</string>
   <string name="activity_title_white_list">Uitzonderingen</string>
   <string name="ad_btn_default_text">Meer leren</string>
+   <string name="ad_split_screen_title">Schakel over naar de volledig scherm modus om te ontgrendelen</string>
   <string name="ad_update_time">Laatst geupdate %s</string>
   <string name="ad_update_time_unKnown">Laatste update onbekend</string>
   <string name="adb_install_no_network">Verbinden met netwerk en probeer opnieuw</string>
@@ -776,9 +776,6 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="first_aid_card_airplane_button">Uitschakelen</string>
   <string name="first_aid_card_airplane_summary">Schakel de vliegmodus uit om te kunnen bellen en verbinding te maken met netwerk</string>
   <string name="first_aid_card_airplane_title">Kan niet bellen of verbinding maken met netwerk</string>
-  <string name="first_aid_card_apn_button">Herstellen</string>
-  <string name="first_aid_card_apn_summary">APN\'s zijn gewijzigd. Herstel om verbinding met netwerk te kunnen maken.</string>
-  <string name="first_aid_card_apn_title">Kan geen verbinding maken met netwerk</string>
   <string name="first_aid_card_consume_power_button1">Beperken</string>
   <string name="first_aid_card_consume_power_button2">Uitschakelen</string>
   <string name="first_aid_card_consume_power_summary1">Meer dan 5 apps kunnen automatisch starten. Beperken om de batterij te sparen.</string>
@@ -867,6 +864,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gamebooster_main_activity_back">Terug</string>
   <string name="gamebooster_network_dialog_message">Laat beveiliging toe om verbinding te maken met het netwerk om alle functies van de Game speed booster te gebruiken?</string>
   <string name="gamebooster_network_dialog_title">Sommige functies zijn niet beschikbaar</string>
+  <string name="gamebox_app_not_find">Eesrt app installeren.</string>
   <string name="gamebox_qq_not_find">Installeer QQ en probeer opnieuw.</string>
   <string name="gamebox_type_close">Niet weergeven</string>
   <string name="gamebox_type_float">Vaste snelkoppeling</string>
@@ -937,6 +935,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gs_game_shortcut">Verbeter uw game-ervaring</string>
   <string name="gs_gamebox">In-game snelkoppelingen</string>
   <string name="gs_gamebox_detail">In-game snelkoppelingspaneel weergeven</string>
+   <string name="gs_gamebox_slip">Duw het scherm naar beneden om te openen</string>
   <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om batterij te sparen voor gaming</string>
   <string name="gs_open_game_booster">Snelheid opvoeren</string>
   <string name="gs_open_game_booster_summary">Boost snelheid van het netwerk voor games</string>
@@ -2044,6 +2043,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="summary_permission">Vermijd ongewenste betalingen en bescherm uw persoonlijke data</string>
   <string name="summary_permission_root">Het lijkt erop dat uw apparaat roottoegang heeft. Het kan de beveiliging van uw apparaat negatief beinvloeden</string>
   <string name="summary_power_optimizer">Verminder prestaties van uw toestel wanneer batterij bijna leeg is</string>
+  <string name="summary_rcs_switch">Stuur een gratis SMS naar China Mobile gebruikers</string>
   <string name="summary_realname_verify">Verifieer uw identiteit om betalingen veiliger te maken.</string>
   <string name="summary_restrict_data_usage">U beperkte het datagebruik voor deze app.</string>
   <string name="summary_show_notification">Cache wissen, batterijstatus bekijken en items blokkeren in de meldingsbalk</string>
@@ -2213,6 +2213,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="title_permission_root">Roottoegang</string>
   <string name="title_permission_yes">Toestemmingsbeheer aan</string>
   <string name="title_power_optimizer">Batterijbespaarder</string>
+  <string name="title_rcs_switch">China Mobile Messaging inschakelen</string>
   <string name="title_realname_verify">ID verificatie</string>
   <string name="title_reply">Reactie</string>
   <string name="title_restrict_data_usage">%s kan niet verbinden met internet?</string>

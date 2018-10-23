@@ -76,6 +76,10 @@
         <item quantity="other">%d video\'s</item>
         <item quantity="one">%d video</item>
     </plurals>
+	<plurals name="creation_max_image">
+        <item quantity="other">Selecteer maximum %d foto\'s</item>
+        <item quantity="one">Selecteer maximum %d foto</item>
+    </plurals>
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>

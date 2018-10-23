@@ -261,7 +261,7 @@
   <string name="cloud_storage_ok_append_desc">%s beschikbaar</string>
   <string name="cloud_storage_ok_desc">%s Mi Cloud opslag</string>
   <string name="cloud_storage_ok_title">Genoeg opslag op Mi Cloud</string>
-  <string name="cloud_storage_photo_title">Foto\s</string>
+  <string name="cloud_storage_photo_title">Foto\'s</string>
   <string name="cloud_storage_subtitle">Alle items zijn geback-upt naar Mi Cloud</string>
   <string name="cloud_storage_title">Mi Cloud opslag</string>
   <string name="cloud_storage_video_title">Video\'s</string>
@@ -288,6 +288,7 @@
   <string name="collage_poster_global_summer_flower_text">ZOMER</string>
   <string name="collage_poster_global_tea_text">THEEPAUZE</string>
   <string name="collage_rotate">Draaien</string>
+  <string name="collage_select_image_range">Collages kunnen 1 tot 4 foto\'s bevatten</string>
   <string name="collage_title_layout">Layout</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collaps_people">Verbergen</string>
@@ -552,6 +553,7 @@ zijn beschikbaar"</string>
   <string name="finish_fill_baby">Aanmaken</string>
   <string name="flash_off">Geen flits</string>
   <string name="flash_on">Flits gebruikt</string>
+  <string name="frame_not_support_image_ratio">Deze beeldverhouding wordt niet ondersteund</string>
   <string name="gallery_setting">Instellingen</string>
   <string name="gallery_sync_disable_toast">Synchronisatie van galerij is uitgeschakeld</string>
   <string name="get_album_info_in_process">Details van gedeelde album opvragen</string>
@@ -721,6 +723,7 @@ om de galerij te personaliseren"</string>
   <string name="operation_in_process">Bezig…</string>
   <string name="operation_move_to_other_albums">Verplaatsen naar andere albums</string>
   <string name="operation_not_show_in_photos_tab">Niet weergeven in foto\'s</string>
+  <string name="operation_produce">Creativiteit</string>
   <string name="operation_projection">Casten</string>
   <string name="operation_remove_face">Verwijderen</string>
   <string name="operation_remove_from_face_album">Uit album verwijderen</string>
@@ -762,9 +765,11 @@ om de galerij te personaliseren"</string>
   <string name="photo_editor_beauty_compare">Origineel</string>
   <string name="photo_editor_crop_and_rotate">Bijsnijden</string>
   <string name="photo_editor_crop_auto">Automatisch</string>
+  <string name="photo_editor_crop_auto_tips">Automatisch bijgesneden</string>
   <string name="photo_editor_crop_reset">Resetten</string>
   <string name="photo_editor_doodle">Tekenen</string>
   <string name="photo_editor_filter">Filter</string>
+  <string name="photo_editor_frame">Kader</string>
   <string name="photo_editor_label">Bewerken</string>
   <string name="photo_editor_long_crop">Bijsnijden</string>
   <string name="photo_editor_miui_beauty">Verfraaien</string>
@@ -819,6 +824,7 @@ om de galerij te personaliseren"</string>
   <string name="photo_editor_talkback_redo">Herhalen</string>
   <string name="photo_editor_talkback_undo">Ongedaan maken</string>
   <string name="photo_editor_text">Tekst</string>
+  <string name="photo_movie_select_image_range">Clips kunnen 3 tot 6 foto\'s bevatten</string>
   <string name="photo_page_save_uri_image_fail">Kon niet opslaan naar galerij</string>
   <string name="photo_page_save_uri_image_ok">Foto opgeslagen in galerij</string>
   <string name="photo_print_menu_loading">Plug-in laden…</string>
@@ -928,7 +934,7 @@ om de galerij te personaliseren"</string>
   <string name="remove_from_secret_successful">Verwijderd uit verborgen album</string>
   <string name="remove_to_album_title">Samenvoegen met</string>
   <string name="remove_to_other_album">Samenvoegen met een andere persoon</string>
-   <string name="removed_from_favorites_desc">Verwijderd uit favorieten</string>
+  <string name="removed_from_favorites_desc">Verwijderd uit favorieten</string>
   <string name="remover_edit_type_free">Objecten</string>
   <string name="remover_edit_type_line">Lijnen</string>
   <string name="remover_erase_aera_too_big">Het te wissen gebied is te groot</string>
@@ -1024,8 +1030,9 @@ om de galerij te personaliseren"</string>
   <string name="secret_reason_too_large">Bestand is te groot</string>
   <string name="secret_reason_type_not_support">Dit bestandstype wordt niet ondersteund</string>
   <string name="secret_reason_unknow_reasons">Onbekende fout</string>
-   <string name="secret_reason_video_not_support">Kan geen video\'s toevoegen aan verborgen album</string>
+  <string name="secret_reason_video_not_support">Kan geen video\'s toevoegen aan verborgen album</string>
   <string name="see_ignore_faces">Bekijk personen die je hebt genegeerd</string>
+  <string name="select_image_operation">Foto\'s toevoegen</string>
   <string name="select_item_face">"Is dit '%s'?"</string>
   <string name="select_origin_tip">Origineel bestand (%s)</string>
   <string name="send_file_beautify_failed">Kon niet delen</string>
@@ -1156,6 +1163,7 @@ om de galerij te personaliseren"</string>
   <string name="unpublish_failed">Publiceren ongedaan maken mislukt</string>
   <string name="unpublish_succeeded">Publicatie album ongedaan gemaakt</string>
   <string name="unpublishing">Annuleren…</string>
+  <string name="unsupport_video">"%s werkt niet met video\'s"</string>
   <string name="user_agree">Akkoord</string>
   <string name="user_agreement2">Servicevoorwaarden</string>
   <string name="user_agreement4">Privacybeleid</string>

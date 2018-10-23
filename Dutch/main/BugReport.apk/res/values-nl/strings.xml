@@ -15,6 +15,33 @@
   <string name="bugreport_dump_start_notification_title">Bugreport maken…</string>
   <string name="bugreport_tool_log_dumping_desc">Duurt ongeveer een minuut</string>
   <string name="bugreport_tool_log_dumping_title">Bugrapport maken</string>
+  <string name="catch_full_log_action_cancel">Annuleren</string>
+  <string name="catch_full_log_action_complete">Afwerken en uploaden</string>
+  <string name="catch_full_log_action_start">Log aanmaken</string>
+  <string name="catch_full_log_add_original_photo">Foto toevoegen</string>
+  <string name="catch_full_log_add_photo">Foto toevoegen</string>
+  <string name="catch_full_log_add_photo_dialog_content">>Als het probleem dat u meldt, te maken heeft met de beeldkwaliteit van de camera, voeg dan een originele voorbeeldfoto toe (niet-gekopieerd) om ons te helpen het probleem op te sporen. Nu een foto toevoegen?</string>
+  <string name="catch_full_log_dialog_confirm_text">Ga naar startscherm</string>
+  <string name="catch_full_log_dialog_content">"MIUI maakt een logbestand aan. Dit kan van invloed zijn op de algehele productiviteit van uw apparaat.Als u het probleem dat u wilt melden niet kunt reproduceren, gaat u terug naar de logboeken en tikt u op \"Annuleren\"."</string>
+  <string name="catch_full_log_dump_hprof_failed">Kan lagging logbestand niet aanmaken</string>
+  <string name="catch_full_log_item_content_catch_direct">"Stappen:
+1. Ga terug naar de functie die u wilt melden en reproduceer deze.
+2. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
+  <string name="catch_full_log_item_content_need_open">"Stappen:
+1. Tik op \"Log aanmaken\".
+2. Ga terug naar de functie die u wilt melden en reproduceer deze.
+3. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
+  <string name="catch_full_log_item_title_audio">Audio, geluidsopname- en oproepgeluid</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">Lagging</string>
+  <string name="catch_full_log_item_title_gps">Locatie diensten</string>
+  <string name="catch_full_log_item_title_sensor">Sensoren</string>
+  <string name="catch_full_log_item_title_signal">Telefoon, signaal- en mobiele netwerken</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi en Mi Drop</string>
+  <string name="catch_full_log_notification_content">Tik om terug te gaan naar logs</string>
+  <string name="catch_full_log_notification_title">Log aanmaken…</string>
+  <string name="catch_full_log_start_dump_hprof">Lagging log aanmaken</string>
+  <string name="catch_full_log_submit_directly">Indienen</string>
   <string name="close_feedback_main">Verbergen</string>
   <string name="cta_cancel">Annuleren</string>
   <string name="cta_confirm">OK</string>
@@ -295,6 +322,7 @@
   <string name="title_nonsystem_app">Andere apps</string>
   <string name="title_same_question_feedback_main">Vergelijkbare problemen op het MIUI forum</string>
   <string name="title_system_app">MIUI apps</string>
+   <string name="toast_catch_full_log_catching">U kan slechts één log per keer aanmaken.</string>
   <string name="toast_description_required">Omschrijving is vereist</string>
   <string name="toast_feedback_collect_store">Logs aan het verzamelen…</string>
   <string name="toast_feedback_network_unavailable">Kan geen verbinding maken met netwerk</string>

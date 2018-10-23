@@ -163,6 +163,10 @@
   <string name="timer_alarm_cancel_pad">Tik op het scherm om het alarm te stoppen</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten</string>
+  <string name="timer_alert_mute_off">Alarm gaat af wanneer de timer stopt</string>
+  <string name="timer_alert_mute_on">Alarm gaat niet af wanneer de timer stopt</string>
+  <string name="timer_alert_mute_remind">Tik om alarm te dempen</string>
+  <string name="timer_alert_mute_switch">Wisselen om timer alarmen te dempen</string>
   <string name="timer_alert_type_beach">Strand</string>
   <string name="timer_alert_type_forest">Bos</string>
   <string name="timer_alert_type_mute">Standaard</string>
@@ -203,7 +207,7 @@
   <string name="volume_button_setting_title">Volumeknoppen</string>
   <string name="workday_alarm_clock">Alarm op werkdagen</string>
   <string name="worldclock_empty_text">Geen wereldklok</string>
-  <string name="worldclock_input_hint_text">Stad invoeren</string>
+  <string name="worldclock_input_hint_text">Zoek naar land of stad</string>
   <string name="worldclock_search_city">Stad selecteren</string>
   <string name="worldclock_title">Klok</string>
   <string name="worldclock_world_time">Tijdzones</string>

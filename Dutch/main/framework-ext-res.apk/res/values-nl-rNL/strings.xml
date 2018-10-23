@@ -119,6 +119,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="security_permission_denied_text">Toegang geweigerd</string>
   <string name="security_permission_failed_text">Er is een fout opgetreden, probeer later opnieuw</string>
   <string name="security_permission_network_failed_text">Kon geen verbinding maken met netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
+  <string name="security_permission_open_wifi_settings">Wi-Fi instellingen openen</string>
   <string name="security_permission_validate_warning">Bedankt voor het helpen MIUI beter te maken!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi en mobiel internet ingeschakeld</string>
   <string name="security_permission_xiaomi_account_missed_text">Voer uw Mi Account ID in</string>
