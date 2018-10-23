@@ -64,6 +64,8 @@
   <string name="component_category_finest_title">Uitgelicht</string>
   <string name="component_category_more_title">Meer</string>
   <string name="component_title_ringtone">Beltonen</string>
+  <string name="component_title_settings_video_wallpaper">Achtergronden met speciale effecten</string>
+  <string name="component_title_video_wallpaper">Achtergrond films</string>
   <string name="component_title_wallpaper">Achtergronden</string>
   <string name="current_using_desktop_wallpaper_text">Startscherm</string>
   <string name="current_using_lockscreen_wallpaper_text">Vergrendelscherm</string>
@@ -503,6 +505,9 @@
   <string name="theme_current_using_has_update">Er is een update voor het thema dat u momenteel gebruikt</string>
   <string name="theme_description_title_customized">Aangepast</string>
   <string name="theme_description_title_default">Standaard</string>
+  <string name="theme_detail_tab_comment">Opmerkingen</string>
+  <string name="theme_detail_tab_recommend">Aanbevolen</string>
+  <string name="theme_detail_tab_theme">Thema\'s</string>
   <string name="theme_empty_redirect">Terug naar Thema\'s</string>
   <string name="theme_favorite_add_fail">Kon niet toevoegen aan favorieten</string>
   <string name="theme_favorite_add_success">Toegevoegd aan favorieten</string>
@@ -539,7 +544,7 @@
   <string name="title_component">Thema bewerken</string>
   <string name="title_my_audio_resource">Mijn beltonen</string>
   <string name="title_my_miwallpaper_resource">Mijn live-achtergronden</string>
-  <string name="title_my_miwallpaper_video_file_resource">Mijn video-achtergronden</string>
+  <string name="title_my_miwallpaper_video_file_resource">Achtergrond films</string>
   <string name="title_my_wallpaper_resource">Mijn achtergronden</string>
   <string name="title_system_audio_notification_resource">Systeemmeldingen</string>
   <string name="title_system_audio_resource">Systeembeltonen</string>

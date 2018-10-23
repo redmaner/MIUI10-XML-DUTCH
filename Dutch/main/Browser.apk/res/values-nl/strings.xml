@@ -390,6 +390,8 @@
   <string name="guide_motor_text">motor</string>
   <string name="guide_politics_text">politiek</string>
   <string name="guide_skip">Overslaan</string>
+  <string name="guide_slide_down">Naar beneden vegen</string>
+  <string name="guide_slide_up">Naar boven vegen</string>
   <string name="guide_sports_text">sport</string>
   <string name="guide_start_experience">Start</string>
   <string name="guide_tech_text">technology</string>

@@ -954,6 +954,7 @@ Sample Rate"</string>
   <string name="calls_title">Oproepen</string>
   <string name="camera_double_tap_power_gesture_desc">Snel camera openen zonder scherm te ontgrendelen</string>
   <string name="camera_double_tap_power_gesture_title">Druk twee keer op de aan/uit knop om camera te openen</string>
+  <string name="camera_front">Voorkant %s</string>
   <string name="camera_gesture_desc">Open camera door tweemaal uw pols te draaien</string>
   <string name="camera_gesture_title">Tweemaal draaien voor camera</string>
   <string name="camera_key_action_app_title">Open app</string>
@@ -968,6 +969,7 @@ Sample Rate"</string>
   <string name="camera_key_action_shortcut_wake">Vergrendelapparaat</string>
   <string name="camera_key_action_title">Mi Button</string>
   <string name="camera_key_action_toggle_title">Afdruk schakelen</string>
+  <string name="camera_rear">Achterkant %s</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_alert">Aanpassingen verwijderen?</string>
@@ -1233,6 +1235,7 @@ Als u uw apparaat weer wilt gebruiken, moet u de fabrieksinstellingen herstellen
   <string name="dangerous_option">Hoog risico ontwikkelaar opties</string>
   <string name="dangerous_option_hint">%1$s is ingeschakeld. Tik om instellingen te wijzigen.</string>
   <string name="dangerous_option_hint_title">Hoog risico functie ingeschakeld</string>
+  <string name="dangerous_option_switch_title">Informeer u over risicovolle functies</string>
   <string name="dashboard_title">Instellingen</string>
   <string name="data_limit">Datalimiet</string>
   <string name="data_saver_off">Uit</string>
@@ -4387,7 +4390,8 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_sound_custom">Aangepast geluid</string>
   <string name="status_bar_settings_notification_use_app_icon">Gebruik appiconen voor meldingen</string>
   <string name="status_bar_settings_notification_vibrate">Trillen</string>
-  <string name="status_bar_settings_show_carrier">Provider tonen</string>
+  <string name="status_bar_settings_peek_notification_icon">Iconen voor inkomende meldingen weergeven</string>
+  <string name="status_bar_settings_show_carrier">Provider weergeven</string>
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Provider weergeven wanneer het apparaat is vergrendeld</string>
   <string name="status_bar_settings_show_floating_notification">Zwevende meldingen</string>

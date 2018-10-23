@@ -4,6 +4,10 @@
         <item>Jongen</item>
         <item>Meisje</item>
     </string-array>
+	<string-array name="menu_copy_or_move">
+        <item>Verplaatsen</item>
+        <item>Kopiëren</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Vader</item>
         <item>Moeder</item>

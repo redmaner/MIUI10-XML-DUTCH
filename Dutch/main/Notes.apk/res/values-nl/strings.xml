@@ -29,6 +29,10 @@
   <string name="cancel_alarm_description">Alarm annuleren</string>
   <string name="cloud_service_state_open_reminder">Schakel synchronisatie met Mi Cloud in om notities te synchroniseren</string>
   <string name="cloud_trash_bin_title">Verwijder notities in Mi Cloud</string>
+  <string name="cta_confirm_cancel">Niet toestaan</string>
+  <string name="cta_confirm_ok">Toestaan</string>
+  <string name="cta_dialog_message">Notes heeft toestemming nodig om verbinding te maken met internet, audio op te nemen en toegang te krijgen tot uw contacten om normaal te werken. Toestaan?</string>
+  <string name="cta_dialog_title">Toestemmingen vereist</string>
   <string name="cta_reminder">Notes heeeft machtigingen nodig om verbinding te maken met internet, audio op te nemen en toegang te krijgen tot uw contacten om normaal te werken. Toestaan?</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
   <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>

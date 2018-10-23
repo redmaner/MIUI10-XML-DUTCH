@@ -1499,7 +1499,7 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="tty_mode_option_title">TTY modus</string>
   <string name="turn_off_dual_4g_failed">Kon Dual 4G niet uitschakelen.</string>
   <string name="turn_on_dual_4g_failed">Kon Dual 4G niet inschakelen.</string>
-  <string name="turnover_mute_summary">Draai het apparaat horizontaal om de beltoon te dempen.</string>
+  <string name="turnover_mute_summary">Draai het apparaat horizontaal om de beltoon te dempen, schakel trillen uit en stop met knipperend meldingslampje.</string>
   <string name="turnover_mute_title">Beltoon dempen bij omkeren</string>
   <string name="undefined">Geen</string>
   <string name="unknown">Onbekend</string>
