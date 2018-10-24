@@ -215,9 +215,10 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget maken en toegang toestaan?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s altijd toestaan widgets te maken en toegang tot de widgetgegevens geven</string>
   <string name="allow_data_usage_title">Dataverbruik toestaan tijdens roaming</string>
+  <string name="allow_device_id_access">Apps met apparaatidentificatie</string>
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
-  <string name="allow_overlay_description">This permission allows an app to display on top of other apps you’re using and may interfere with your use of the interface in other applications, or change what you think you are seeing in other applications.</string>
+  <string name="allow_overlay_description">Met deze toestemming kan een app bovenop andere apps die u gebruikt, worden weergegeven en kan dit uw gebruik van de interface in andere toepassingen belemmeren of de wijzigingen die u in andere toepassingen aanbrengt, wijzigen.</string>
   <string name="allow_sound">Sta geluid toe</string>
   <string name="alpha_build">Alpha</string>
   <string name="always">Altijd</string>
@@ -1428,6 +1429,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_display_layout_title">Kenmerken</string>
   <string name="device_edit_title">Apparaatnaam wijzigen</string>
   <string name="device_feedback">Feedback versturen over dit apparaat</string>
+  <string name="device_id">Apparaatidentificatie</string>
   <string name="device_info_default">Onbekend</string>
   <string name="device_info_label">Apparaatinfo</string>
   <string name="device_info_not_available">Niet beschikbaar</string>
@@ -3297,6 +3299,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="pref_manage_bg_network">Achtergrondnetwerkverbinding van apps beheren</string>
   <string name="pref_new_installed_preconfig_title">Standaardinstellingen voor nieuwe apps</string>
   <string name="pref_operational_key">Navigatieknoppen</string>
+  <string name="pref_show_lunar_calendar_title">Geef de traditionele Chinese kalender op vergrendelscherm weer</string>
   <string name="pref_title_lang_selection">Taalvoorkeuren</string>
   <string name="pref_title_update_notification">Datagebruikmeldingen</string>
   <string name="pref_volume_launch_camera_summary">Druk tweemaal op volume omlaag om camera te openen</string>
@@ -3609,6 +3612,11 @@ U verliest geen appgegevens."</string>
   <string name="resolver_settings_label">Sorteren</string>
   <string name="restore_default_apn">Standaard APN instellingen herstellen.</string>
   <string name="restore_default_apn_completed">Herstellen van standaard APN instellingen voltooid.</string>
+  <string name="restore_device_id_content">Reset persoonlijke aanbeveling</string>
+  <string name="restore_device_id_title">Herstel apparaatidentificatie</string>
+  <string name="restore_dialog_content">Als u de apparaatidentificatie herstelt, worden uw gepersonaliseerde aanbeveling opnieuw ingesteld.</string>
+  <string name="restore_dialog_positive">Herstellen</string>
+  <string name="restore_dialog_title">Herinnering</string>
   <string name="restr_pin_enter_admin_pin">Beheerders PIN invoeren</string>
   <string name="restrict_background_blacklisted">Achtergronddata is uitgeschakeld</string>
   <string name="restrict_bg_app">Beperken</string>
@@ -4378,7 +4386,6 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_enable_notification">Meldingen weergeven</string>
   <string name="status_bar_settings_expand_top_notification">Bovenste meldingen uitbreiden</string>
   <string name="status_bar_settings_expandable_under_keyguard">Weergeven op vergrendelscherm</string>
-  <string name="status_bar_settings_function_description">Over deze functie</string>
   <string name="status_bar_settings_long_click_sort">Tik &amp; houd ingedrukt om een schakelaar op te pakken</string>
   <string name="status_bar_settings_manage_notification">Appmeldingen</string>
   <string name="status_bar_settings_no_carrier">Geen</string>
