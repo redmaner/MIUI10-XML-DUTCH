@@ -291,6 +291,8 @@
   <string name="related_question_answer_details">Verwant probleem</string>
   <string name="reply">Beantwoorden</string>
   <string name="reply_failed">kon niet antwoorden</string>
+  <string name="reply_option_log_hint">Optioneel</string>
+  <string name="reply_select_log_hint">Selecteer log</string>
   <string name="reply_successful">Met succes beantwoord</string>
   <string name="report_miui">Bug rapporteren</string>
   <string name="request_empty_data">Geen gegevens</string>

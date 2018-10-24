@@ -1522,8 +1522,8 @@ gecontroleerd worden "</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Probeer opnieuw.</string>
   <string name="structure_face_delete_data_dialog_title">Kon Camera niet starten</string>
   <string name="structure_face_hardware_abnormal_btn">Begrepen</string>
-  <string name="structure_face_hardware_abnormal_msg">Kan gezichtsgegevens niet opnemen vanwege een laserfout. Neem contact op met de klantenservice om hulp te krijgen.</string>
-  <string name="structure_face_hardware_abnormal_title">Laserfout</string>
+   <string name="structure_face_hardware_abnormal_msg">Er is een hardwarefout opgetreden. Start uw apparaat opnieuw op. Als dit niet helpt, belt u 400-100-5678 om hulp te krijgen.</string>
+  <string name="structure_face_hardware_abnormal_title">Hardware fout</string>
   <string name="structure_face_modules_abnormal_btn">Herstarten</string>
   <string name="structure_face_modules_abnormal_msg">Kan gezichtsgegevens niet registreren vanwege een optische modulefout. Start uw apparaat opnieuw op en probeer het opnieuw.</string>
   <string name="structure_face_modules_abnormal_title">Optische module fout</string>
@@ -1541,6 +1541,7 @@ gecontroleerd worden "</string>
   <string name="structure_face_unlock_model_other_title">Gezichtsherkenning</string>
   <string name="structure_face_unlock_not_same_person">Je moet alle stappen zelf voltooien. Met niemand van plaats wisselen.</string>
   <string name="structure_face_unlock_really_person">Het lijkt erop dat je je gezicht hebt vervangen door een voorwerp.</string>
+   <string name="structure_face_unlock_tof_covered">Kon geen gezichtsgegevens toevoegen. Ga verder weg van het scherm.</string>
   <string name="switch_bar_off">Uit</string>
   <string name="switch_bar_on">Aan</string>
   <string name="switch_system_user">Eerste ruimte openen</string>
