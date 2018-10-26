@@ -102,6 +102,10 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d nummers</item>
         <item quantity="one">%d nummer</item>
     </plurals>
+	<plurals name="video_count">
+        <item quantity="other">Video\'s</item>
+        <item quantity="one">Video</item>
+    </plurals>
 	<plurals name="video_play_count">
         <item quantity="other">%1$s keer bekeken</item>
         <item quantity="one">%1$s keer bekeken</item>

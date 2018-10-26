@@ -9,7 +9,7 @@
   <string name="abc_activitychooserview_choose_application">Kies een app</string>
   <string name="abc_capital_off">UIT</string>
   <string name="abc_capital_on">AAN</string>
-    <string name="abc_search_hint">Zoeken…</string>
+  <string name="abc_search_hint">Zoeken…</string>
   <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
   <string name="abc_searchview_description_query">Zoekopdracht</string>
   <string name="abc_searchview_description_search">Zoeken</string>
@@ -54,13 +54,11 @@
   <string name="always_use_metered">Altijd mobiele data gebruiken</string>
   <string name="app_label">Downloads</string>
   <string name="artist">Artiesten</string>
-  <string name="artist_album">Albums</string>
   <string name="artist_area_all">Alles</string>
   <string name="artist_area_china">Chinees</string>
   <string name="artist_area_europe_usa">Europees/Amerikaans</string>
   <string name="artist_area_japan">Japans</string>
   <string name="artist_area_korea">Koreaans</string>
-  <string name="artist_favor">Aanbevolen</string>
   <string name="artist_gender_all">Alles</string>
   <string name="artist_gender_female">Vrouwelijk</string>
   <string name="artist_gender_group">Groep</string>
@@ -68,7 +66,6 @@
   <string name="artist_home_search_hint">Zoeken naar artiesten</string>
   <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
   <string name="artist_name">Artiest</string>
-  <string name="artist_news">Nieuws</string>
   <string name="audio_picker_title">Kies een nummer</string>
   <string name="auto_update">Automatisch updaten</string>
   <string name="auto_update_tip">U kunt systeem apps bijwerken met mobiele data. Dit kan extra kosten meebrengen.</string>
@@ -115,9 +112,6 @@
   <string name="confirm_exit">Wijzigingen opslaan?</string>
   <string name="connect_now">Verbinden</string>
   <string name="connecting_apk">Verbinden…</string>
-  <string name="cp_info_first">Online muziekstreamingdienst wordt voornamelijk 
-verzorgd door Ultimate Inc.</string>
-  <string name="create_order_fail">Kon bestellingen niet maken, probeer opnieuw</string>
   <string name="create_playlist">Afspeellijst maken</string>
   <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
   <string name="current_album">Huidige albumcover</string>
@@ -173,7 +167,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_title_queued_body">Bestand nog niet beschikbaar</string>
   <string name="dialog_title_remove_tracks">Verwijderen</string>
   <string name="disallow_add_to_fm">Kon nummers toevoegen aan FM radio</string>
-  <string name="disallow_add_to_personal_radio">Kon nummers toevoegen aan privé radio</string>
   <string name="do_not_remind_this_version">Niet herinneren aan deze versie</string>
   <string name="download">Download</string>
   <string name="download_added_to_list">Toegevoegd aan downloadlijst</string>
@@ -353,7 +346,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="individuation_card_login_message">Aanmelden om meer nummers te vinden die je leuk vindt</string>
   <string name="individuation_card_title">Voor jou</string>
   <string name="individuation_cart_login_title">Wilt u meer aanbevelingen zien?</string>
-  <string name="individuation_recommend_message">Schakel aanbevelingen in om gepersonaliseerde suggesties te ontvangen gebaseerd op je voorkeuren.</string>
   <string name="individuation_recommend_switch_message">Als u deze functie uitschakelt heeft dat invloed op gepersonaliseerde Mi Muziekservices. Toch uitschakelen?</string>
   <string name="individuation_recommend_title">Aanbevelingen</string>
   <string name="input_hint_prefix">%1$s invoeren</string>
@@ -363,11 +355,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="is_scanning">Opslag controleren…</string>
   <string name="is_scanning_support_online">"Opslag controleren…
 (In de tussentijd kunt u online muziek streamen)"</string>
-  <string name="karaoke_message">Download en installeer de karaokeplugin om deze functie te gebruiken.</string>
-  <string name="karaoke_my_studio">Mijn studio</string>
-  <string name="karaoke_negative_text">Later</string>
-  <string name="karaoke_positive_text">OK</string>
-  <string name="karaoke_title">Introductie karaoke</string>
   <string name="keep_queued_download">Behouden</string>
   <string name="ktv_playlist">KTV afspeellijst</string>
   <string name="language_page_confirm">Bevestigen</string>
@@ -385,8 +372,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="local_music_is_not_available">Je hebt geen muziek op je apparaat staan</string>
   <string name="local_page_album_more">Alles bekijken</string>
   <string name="local_page_artist_more">Meer nummers van %s</string>
-  <string name="local_page_custom_subtitle">Dagelijks nieuwe nummers</string>
-  <string name="local_page_custom_title">Voor u</string>
   <string name="local_page_playlist">Afspeellijsten</string>
   <string name="local_page_song_download_history">Downloads</string>
   <string name="long_press_to_select_lyric">Ingedrukt houden om een lokaal songtekstbestand te selecteren</string>
@@ -419,7 +404,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="miuishare_account_login_ok">Aanmelden</string>
   <string name="miuishare_no_network">Kan niet verbinden met netwerk</string>
   <string name="miuishare_publish">Verzenden</string>
-  <string name="miuishare_share_done">Met succes gedeeld.</string>
   <string name="miuishare_share_editor_title">Delen</string>
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
@@ -444,9 +428,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="my_account">Mi account</string>
   <string name="my_music_empty">Afspeellijst is leeg.</string>
   <string name="my_music_empty_goto_online">Geen nummers gevonden</string>
-  <string name="nav_online_playlist">Afspeellijsten</string>
   <string name="network_error_and_retry">Kon niet verbinden, tik om opnieuw te proberen</string>
-  <string name="network_failure">Controleer uw verbinding en probeer opnieuw.</string>
   <string name="network_request_error">Kan niet verbinden met netwerk</string>
   <string name="network_settings_error">Kan niet verbinden met netwerk</string>
   <string name="network_traffic">Datagebruik</string>
@@ -459,7 +441,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="no_local_songs">Leeg</string>
   <string name="no_local_songs_selected">Kan nummers niet verzenden, omdat ze niet zijn gedownload</string>
   <string name="no_local_source_find">Kon bestand niet vinden</string>
-  <string name="no_online_song_selected">Geen nummers geselecteerd</string>
   <string name="no_results_return">Geen zoekresultaten</string>
   <string name="no_scanned_songs">Leeg</string>
   <string name="no_song_downloaded">Kon geen nummers niet vinden om te downloaden</string>
@@ -470,7 +451,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="not_login">Niet aangemeld</string>
   <string name="not_now">Nu niet</string>
   <string name="not_selected">Kies een nummer</string>
-  <string name="nothing_changed_toast">Je hebt nog niets veranderd.</string>
   <string name="notif_title_file_size">%1$d totaal</string>
   <string name="notif_title_multiple_downloading">%1$d bestanden downloaden</string>
   <string name="notif_title_single_downloading">%1$s downloaden</string>
@@ -585,7 +565,6 @@ Wees blij"</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Zoeken</string>
   <string name="search_songs_count">Nummers: %d</string>
-  <string name="search_title">Zoeken</string>
   <string name="select">Selecteren</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_desc_sub">U kan tot 3 talen selecteren</string>
@@ -596,7 +575,6 @@ Wees blij"</string>
   <string name="select_none">Alles deselecteren</string>
   <string name="selected_count">%1$d geselecteerd uit %2$d</string>
   <string name="send_to_title">Verzenden naar (%1$s)</string>
-  <string name="server_error">Er is een fout opgetreden, waacht een minuut en probeer opnieuw.</string>
   <string name="service_and_settings">Service en instellingen</string>
   <string name="session_create_error">Server heeft SESSION CREATE ERROR code geretourneerd, neem contact op met SDK ontwikkelaars!</string>
   <string name="set_as_ring">Instellen als beltoon</string>
@@ -623,6 +601,8 @@ Wees blij"</string>
   <string name="shuffle_on_notif">Shuffle aan</string>
   <string name="signup_type_silent_default">stil</string>
   <string name="signup_type_user_default">LoginSDK klant</string>
+  <string name="similar_albums">Vergelijkbare albums</string>
+  <string name="similar_playlists">Vergelijkbare afspeellijsten</string>
   <string name="similar_songs">Vergelijkbare nummers</string>
   <string name="similar_videos">Vergelijkbare video\'s</string>
   <string name="sleep_mode">Slaaptimer</string>
@@ -645,7 +625,6 @@ Wees blij"</string>
   <string name="storage_internal">Interne opslag</string>
   <string name="storage_sd_card">SD-kaart</string>
   <string name="storage_usb">USB opslag</string>
-  <string name="stream_quality">Streamingkwaliteit</string>
   <string name="streamloadingtext">Verbinding maken met %s…</string>
   <string name="tab_album">Albums</string>
   <string name="tab_album_list">Albums</string>
