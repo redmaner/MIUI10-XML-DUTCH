@@ -733,6 +733,7 @@ om de galerij te personaliseren"</string>
   <string name="operation_save">Opslaan</string>
   <string name="operation_send">Verzenden</string>
   <string name="operation_set_contact_photo">Instellen als contactfoto</string>
+  <string name="operation_set_slide_wallpaper">Instellen als achtergrond diashow</string>
   <string name="operation_set_wallpaper">Instellen als achtergrond</string>
   <string name="operation_share">Delen</string>
   <string name="operation_show_in_photos_tab">Weergeven in foto\'s</string>
@@ -875,6 +876,7 @@ om de galerij te personaliseren"</string>
   <string name="picker_image_will_download">%d geselecteerde foto\'s niet op apparaat, ze zullen worden gedownload</string>
   <string name="picker_no_network_message">Verbind met het netwerk om te downloaden</string>
   <string name="picker_origin_need_download">%1$d geselecteerde foto\'s niet op apparaat (%2$dMB), downloaden met mobiele data?</string>
+  <string name="picker_origin_request_progress_fail">Kon de originele afbeelding niet downloaden vanwege een netwerkfout.</string>
   <string name="picker_origin_request_progress_message">Originele bestanden voorbereiden (%1$d/%2$d)…</string>
   <string name="picker_title_format">Geselecteerde  foto\'s: %d</string>
   <string name="picker_title_selection_format">Geselecteerde foto\'s: %d</string>
@@ -1042,6 +1044,8 @@ om de galerij te personaliseren"</string>
   <string name="send_secret_file_space_low">Niet genoeg opslagruimte</string>
   <string name="send_too_many_files_error">Kan %d items per keer versturen</string>
   <string name="set_as_baby_lock_wallpaper">Instellen als achtergrond vergrendelscherm</string>
+   <string name="set_as_slide_wallpaper_description">Deze afbeelding is een miniatuur, het origineel downloaden?</string>
+  <string name="set_as_slide_wallpaper_title">Instellen als achtergrond diashow</string>
   <string name="set_as_wallpaper_description">Deze afbeelding is een thumbnail, wilt u eerst de originele downloaden？</string>
   <string name="set_as_wallpaper_title">Instellen als achtergrond</string>
   <string name="set_face_group_toast_msg_new_user">Persoon ingedrukt houden om deze persoon samen te voegen of te negeren.</string>
