@@ -12,6 +12,10 @@
         <item quantity="other">%d dagen geleden</item>
         <item quantity="one">%d dag geleden</item>
 	</plurals>
+	<plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Gemiddelde van %1$s stations</item>
+        <item quantity="one">Gemiddelde van %1$s station</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Weersvoorspelling voor %1$s dagen</item>
         <item quantity="one">Weersvoorspelling voor %1$s dag</item>
