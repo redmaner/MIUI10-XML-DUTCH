@@ -322,8 +322,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_image_button_plus">Plus</string>
   <string name="description_image_button_pound">Pond</string>
   <string name="description_image_button_seven">zeven</string>
-  <string name="description_image_button_sim1_dial">Bel met sim één</string>
-  <string name="description_image_button_sim2_dial">Bel met sim twee</string>
+  <string name="description_image_button_sim1_dial">Bel met SIM %s</string>
+  <string name="description_image_button_sim2_dial">Bel met SIM %s</string>
   <string name="description_image_button_six">zes</string>
   <string name="description_image_button_star">ster</string>
   <string name="description_image_button_three">drie</string>
@@ -948,6 +948,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="savingContact">Contact opslaan…</string>
   <string name="savingDisplayGroups">Weergaveopties opslaan…</string>
   <string name="scan">Scan</string>
+   <string name="scan_business_card">Scan visitekaartje</string>
+  <string name="scan_bussiness_card_merge_tip">Tegenstrijdige gegevens zijn vervangen</string>
   <string name="scan_duplicate_message">%1$d contacten met overeenkomende gegevens</string>
   <string name="scan_merge">Bezig met zoeken naar dubbele contactpersonen…</string>
   <string name="scan_qrcode_card_hint1">Scan de QR code hierboven</string>

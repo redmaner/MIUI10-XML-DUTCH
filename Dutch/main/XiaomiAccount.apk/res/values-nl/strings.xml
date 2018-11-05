@@ -269,9 +269,11 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_password_for_login">Dit nummer is gekoppeld aan een bestaand account, voer je wachtwoord in</string>
   <string name="passport_input_password_hint">Voer wachtwoord in</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
+  <string name="passport_input_phone_password">Voer het wachtwoord in voor het mobiele nummer %s</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
   <string name="passport_input_voice_captcha_hint">Voer spraakverificatiecode in</string>
   <string name="passport_input_voice_hint">Spraak code invoeren</string>
+  <string name="passport_international_register_by_email">Maak een account aan met behulp van een e-mailadres</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_license_info_collapse">Inklappen</string>
   <string name="passport_license_info_open">Details</string>
@@ -364,6 +366,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_skip_setup_account_title">Mi Cloud niet gebruiken?</string>
   <string name="passport_sms_send_success">Verzonden</string>
   <string name="passport_sms_verification_code_login">Inloggen met SMS</string>
+  <string name="passport_sms_verification_code_login_or_register">Aanmelden of registreren via sms</string>
   <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>
   <string name="passport_sync_account_data_failed_warning">Uw accountinfo wordt nu gesynchroniseerd. U kan inloggen door middel van uw Mi Account ID. Als je wilt inloggen met je telefoonnummer of email wacht je tot de info compleet is gesynchroniseerd.</string>
   <string name="passport_talkback_image_captcha">Beeldverificatiecode</string>

@@ -23,4 +23,8 @@
         <item>Automatisch wissen</item>
         <item>Wissen en melden</item>
     </string-array>
+	<string-array name="wechat_sort">
+        <item>Datum</item>
+        <item>Grootte</item>
+    </string-array>
 </resources>

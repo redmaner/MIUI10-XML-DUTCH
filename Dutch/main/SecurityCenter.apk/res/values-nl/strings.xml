@@ -824,7 +824,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="fod_finger_notice_title">Plaats uw vinger op het scherm</string>
   <string name="fod_finger_windows_tips">Verifiëer uw vingerafdruk</string>
   <string name="fod_tips_split_screen_more_than_half">Wachtwoord invoeren</string>
-  <string name="forbid_autobright_summary">"Schermhelderheid zal hetzelfde blijven als je aan het gamen bent"</string>
+  <string name="forbid_autobright_summary">De automatische helderheid wordt uitgeschakeld terwijl je aan het spelen bent en wordt hersteld nadat je klaar bent</string>
   <string name="forbid_autobright_title">Schermhelderheid vastzetten</string>
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
@@ -942,6 +942,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gs_performance_mode">Prestatiemodus</string>
   <string name="gs_performance_mode_detail">Verhoging van CPU frequentie om naadloze prestaties te garanderen</string>
   <string name="gs_sign_notification">Herinner me elke dag om 20:00 uur in te controleren</string>
+  <string name="gs_slip_gamebox_detail">Gebruik de schuifregelaar om het snelkoppelingspaneel te laten verschijnen. Snelle antwoorden en schermopname opties zijn beschikbaar.</string>
   <string name="guide_get_operator_error">Verkeerde provider?</string>
   <string name="guide_operator_text">"Je huidige provider: "</string>
   <string name="guide_quck_open">Inschakelen</string>

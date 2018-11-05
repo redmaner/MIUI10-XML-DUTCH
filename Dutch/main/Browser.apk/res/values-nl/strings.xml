@@ -374,6 +374,8 @@
   <string name="gold_medals">Gouden medailles</string>
   <string name="green_kid_block_request">Toegang tot deze website is beperkt.</string>
   <string name="guide_chosen_type_main_title">Vertel ons wat u leuk vindt</string>
+  <string name="guide_chosen_type_main_title_behind">Wat u leuk vindt</string>
+  <string name="guide_chosen_type_main_title_front">Vertel het ons</string>
   <string name="guide_chosen_type_subtitle">Tag uw interesses om relevante aanbevelingen te ontvangen</string>
   <string name="guide_entertainment_text">amuseren</string>
   <string name="guide_fashion_text">mode</string>

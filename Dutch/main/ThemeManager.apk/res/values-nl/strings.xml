@@ -33,6 +33,7 @@
   <string name="ad_app_is_downloading">Downloaden…</string>
   <string name="add_resource_detail_fail">Kan bron niet toevoegen</string>
   <string name="all_resources">Alles</string>
+  <string name="app_ad_title">Dagelijkse aanbevelingen</string>
   <string name="app_name">Thema\'s</string>
   <string name="apply_default_font_tip">Huidige systeemlettertype blijven gebruiken?</string>
   <string name="apply_font_btn_exclude">Toepassen zonder lettertype</string>
@@ -152,6 +153,9 @@
   <string name="gift_used">Verzenden</string>
   <string name="hide_free">Gratis %1$s verbergen</string>
   <string name="hide_incompatible">%1$s die niet ondersteund worden verbergen</string>
+  <string name="hide_pull_down_message">Trinket verbergen?</string>
+  <string name="hide_pull_down_negative">Niet verbergen</string>
+  <string name="hide_pull_down_positive">Verbergen</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het startscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het startscherm</string>
   <string name="in_the_end">Geen items meer om te tonen</string>
@@ -208,6 +212,7 @@
   <string name="my_gifts_purchased">Gekocht</string>
   <string name="my_gifts_received">Ontvangen</string>
   <string name="no_data">Kan niet verbinden met netwerk</string>
+  <string name="no_net_work_connection">Controleer uw netwerkinstellingen en probeer opnieuw.</string>
   <string name="online_no_network">Kan niet verbinden met netwerk</string>
   <string name="online_precust_abstract">Abstract</string>
   <string name="online_precust_animal">Dieren</string>
@@ -227,6 +232,9 @@
   <string name="provision_loading_tips">Een momentje…</string>
   <string name="provision_second_title">Selecteer een van de meerdere standaard thema\'s</string>
   <string name="provision_title">Kies een thema</string>
+  <string name="pull_down_view_error_message">Whoops! No internet connection found. Check your connection or try again.</string>
+  <string name="pull_down_view_refresh">Vernieuwen</string>
+  <string name="pull_down_view_title">Wat is er nieuw</string>
   <string name="purchased_list">Aangekocht</string>
   <string name="purchased_list_current">Geoptimaliseerde thema\'s</string>
   <string name="purchased_list_legacy">Legacy thema\'s</string>
@@ -239,6 +247,7 @@
   <string name="refresh_footer_release">Loslaten om meer te laden</string>
   <string name="region_not_support">Thema\'s worden niet ondersteund in uw land.</string>
   <string name="reload">Probeer opnieuw</string>
+   <string name="request_time_out">Time-out. Probeer opnieuw.</string>
   <string name="resource_account_abnormal_state">Accountfout, probeer het later opnieuw.</string>
   <string name="resource_account_fail_to_add">Kan account niet toevoegen</string>
   <string name="resource_account_login">Inloggen</string>
@@ -453,6 +462,7 @@
   <string name="search_hint_header_text">Populaire zoektermen</string>
   <string name="search_menu_title">Zoeken</string>
   <string name="selected_resource_file_invalid">"Geselecteerde bestand is ongeldig"</string>
+  <string name="server_internal_error">Er is een serverfout opgetreden. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="set_color_ring_back_tone">Een aangepaste terugbeltoon instellen</string>
   <string name="settings">Instellingen</string>
   <string name="shortcut_add">Toevoegen</string>
@@ -462,6 +472,7 @@
   <string name="shortcut_title">Onze achtergronden leuk vinden?</string>
   <string name="show_free">Gratis %1$s weergeven</string>
   <string name="show_incompatible">Niet compatibel %1$s weergeven</string>
+  <string name="swipe_find_more">omhoog vegen</string>
   <string name="system_precust">Vooraf geinstalleerd</string>
   <string name="tag_ad">Adv</string>
   <string name="the_picture_is_not_support">De afbeelding wordt niet ondersteund</string>

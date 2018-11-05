@@ -139,7 +139,7 @@
   <string name="settings">Instellingen</string>
   <string name="shut_down_keep_screen">Het scherm zal niet worden aangehouden</string>
   <string name="shutdown_alarm_disable_summary">Wekker zal niet af gaan als de telefoon uit staat</string>
-  <string name="shutdown_alarm_enable_summary">Wekker zal af gaan zelfs als de telefoon uit staat</string>
+  <string name="shutdown_alarm_enable_summary">Het alarm gaat af als het minstens ingesteld is 5 minuten nadat u uw apparaat hebt uitgeschakeld</string>
   <string name="shutdown_alarm_title">Wekker altijd af laten gaan</string>
   <string name="silent_alarm_summary">Stil</string>
   <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
