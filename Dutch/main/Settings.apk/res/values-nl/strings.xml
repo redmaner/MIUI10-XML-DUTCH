@@ -899,6 +899,8 @@ Sample Rate"</string>
   <string name="bootloader_status_unlocked">Ontgrendeld</string>
   <string name="bootloader_status_unlocked_info">Dit apparaat is ontgrendeld</string>
   <string name="bootloader_summary">Flash uw apparaat via USB</string>
+  <string name="bootloader_tips">Nadat u uw Mi account hebt toegevoegd, meldt niet af, voert u een fabrieksreset uit of wist u de gegevens van systeem apps. Als u een van de bovenstaande dingen doet, voegt u uw account opnieuw toe of u zal uw apparaat niet meer kunnen ontgrendelen.</string>
+  <string name="bootloader_tips_ok">Begrepen</string>
   <string name="breathing_light_color_menu_title">Kleur licht</string>
   <string name="breathing_light_color_summary">Kleur licht bij een nieuwe melding</string>
   <string name="breathing_light_freq_summary">Knipperen bij nieuwe meldingen</string>
@@ -949,6 +951,9 @@ Sample Rate"</string>
   <string name="call_manager_enable_summary">Deze dienst toestaan om te beheren hoe uw gesprekken worden gemaakt.</string>
   <string name="call_manager_enable_title">Oproepmanager inschakelen</string>
   <string name="call_manager_title">Oproepmanager</string>
+  <string name="call_records_summary_1">9:35 AM | 26 seconden | China Unicom</string>
+  <string name="call_records_summary_2">Augustus 16 | 1m 16s | China Mobile</string>
+  <string name="call_records_summary_3">Augustus 16 | 2m 24s | China Unicom</string>
   <string name="call_settings_primary_user_only">Verander oproepinstellingen in eerste ruimte</string>
   <string name="call_settings_summary">Voicemail, gesprekken doorschakelen, wisselgesprek en beller-id instellen</string>
   <string name="call_settings_title">Gespreksinstellingen</string>
@@ -2191,9 +2196,10 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_shortcuts_helper">Toetsenbord snelkoppeling helper</string>
   <string name="keyboard_shortcuts_helper_summary">Beschikbare snelkoppelingen weergeven</string>
   <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
+  <string name="keyguard_notification_status_title">Meldingen</string>
   <string name="keyguard_security_setting_others">Andere</string>
   <string name="keyguard_security_setting_privacy_policy">Privacybeleid</string>
-   <string name="keyguard_vertical_clock_title">Verticale klok</string>
+  <string name="keyguard_vertical_clock_title">Verticale klok</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_airplane">Vliegtuig;Vliegmodus;Vliegtuig;Vliegmodus;Vlucht;Vliegmodus</string>
   <string name="keywords_all_apps">apps download applicaties systeem</string>
@@ -2267,6 +2273,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="launch_google_search">Google assistant openen</string>
   <string name="launch_recents">Recente apps tonen</string>
   <string name="launch_voice_assistant">Spraakassistent openen</string>
+  <string name="launcher_icon">Iconen</string>
   <string name="launcher_title">Startscherm &amp; recente apps</string>
   <string name="launching_cit">CIT starten</string>
   <string name="launching_pho">Telefooninformatie starten, geduld alstublieft.</string>
@@ -3157,6 +3164,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_23">Mijn groepen</string>
   <string name="page_layout_24">FAVORIETEN</string>
   <string name="page_layout_3">Galerij</string>
+  <string name="page_layout_34">Telefoon</string>
+  <string name="page_layout_35">Notities</string>
   <string name="page_layout_4">Muziek</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Apps</string>
@@ -5797,6 +5806,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wizard_back">Terug</string>
   <string name="wizard_finish">Voltooien</string>
   <string name="wizard_next">Volgende</string>
+  <string name="words_title">Tekst</string>
   <string name="work_alarm_ringtone_title">Standaard werkalarmgeluid</string>
   <string name="work_mode_label">Werkmodus</string>
   <string name="work_mode_summary">Werkprofiel toelaten te functioneren, inclusief apps, achtergrondsynchronisatie en gerelateerde functies</string>

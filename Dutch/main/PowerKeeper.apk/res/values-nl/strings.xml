@@ -8,6 +8,9 @@
   <string name="app_preload_policies_summary">Gebruik machinaal leren om de apps te voorspellen die u waarschijnlijk gaat gebruiken en laad de bronnen vooraf.</string>
   <string name="app_preload_policies_title">A.I. Toepassen</string>
   <string name="appconfig_active_app_dialog_title">Actieve apps beheren</string>
+  <string name="atrace_saved">Met succes opgeslaan</string>
+  <string name="atrace_saving">Atrace log opslaan…</string>
+  <string name="atrace_start">Atrace log opnemen…</string>
   <string name="base_info">Basisinfo</string>
   <string name="cloud_addr_info">Cloudinfo</string>
   <string name="cloud_china_addr">China serverdata updaten</string>

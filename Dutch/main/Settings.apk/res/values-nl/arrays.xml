@@ -403,6 +403,11 @@
         <item>Alleen op DRM inhoud controleren</item>
         <item>Altijd controleren</item>
     </string-array>
+	<string-array name="keyguard_notification_status_entries">
+        <item>Scherm wekken</item>
+        <item>Animatie weergeven</item>
+        <item>Scherm niet wekken</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>Blauw</item>
         <item>Rood</item>

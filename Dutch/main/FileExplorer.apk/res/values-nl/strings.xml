@@ -477,6 +477,7 @@
   <string name="rename_alert">"Als je de extensie van dit bestand wijzigt, is het mogelijk niet meer te openen."</string>
   <string name="rename_alert2">Dit bestand zal verborgen worden nadat u de extensie wijzigt.</string>
   <string name="rename_failed">Kan naam van %1$s niet wijzigen</string>
+  <string name="rename_input_null">Voer een nieuwe bestandsnaam in</string>
   <string name="repair_done">Hersteld</string>
   <string name="repair_error">Kon niet herstellen</string>
   <string name="repair_file">Herstel gecodeerde bestanden</string>

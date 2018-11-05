@@ -28,6 +28,14 @@
         <item quantity="other">Foute PUK code, %d resterende pogingen </item>
         <item quantity="one">Foute PUK code, %d resterende pogingen</item>
     </plurals>
+	<plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Wachtwoord is vereist na %d uur inactiviteit</item>
+        <item quantity="one">Wachtwoord is vereist na %d uur inactiviteit</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Patroon is vereist na %d uur inactiviteit</item>
+        <item quantity="one">Patroon is vereist na %d uur inactiviteit</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Ongeveer %d uur resterend</item>
         <item quantity="one">Ongeveer %d uur resterend</item>

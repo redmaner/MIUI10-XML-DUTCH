@@ -719,7 +719,6 @@ Zodra uw telefoon is afgekoeld, werkt deze terug normaal."</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan tijdens een gesprek niet schakelen tussen ruimtes</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan tussen niet ruimtes schakelen wanneer ouderlijk toezicht ingeschakeld is</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet eerst naar de eertste ruimte gaan nadat het apparaat opnieuw is opgestart</string>
-  <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet openen vanuit het vergrendelscherm. Geef vanuit de eerste ruimte.</string>
   <string name="input_password_hint_text">Wachtwoord invoeren</string>
   <string name="input_pattern_hint_text">Teken je ontgrendelingspatroon</string>
   <string name="input_pin_code">PIN invoeren</string>
