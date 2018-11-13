@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string-array name="pref_fling_on_border_gesture_entries">
+	<string-array name="pref_fling_gesture_entries">
         <item>Pagina verder/terug</item>
         <item>Tabbladen wisselen</item>
         <item>Geen</item>
