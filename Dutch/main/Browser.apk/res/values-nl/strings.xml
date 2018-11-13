@@ -56,6 +56,8 @@
   <string name="action_menu_text_share">Delen</string>
   <string name="action_menu_text_snapshot">Opgeslagen pagina\'s</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toast_incognito_off">Incognito modus uitschakelen</string>
+  <string name="action_menu_toast_incognito_on">Incognito modus inschakelen</string>
   <string name="action_menu_toolbox">Tools</string>
   <string name="action_menu_useful_page">Snelkoppeling toevoegen</string>
   <string name="action_menu_useful_page_added">Toegevoegd aan startpagina</string>
@@ -63,7 +65,7 @@
   <string name="action_modify_bookmark">Bladwijzer bewerken</string>
   <string name="action_put_in_search_box">%s in de zoekbalk zetten</string>
   <string name="action_skip">Overslaan</string>
-   <string name="action_text_all_select_bookmark">Alles selecteren</string>
+  <string name="action_text_all_select_bookmark">Alles selecteren</string>
   <string name="action_text_all_select_bookmark_cancel">Alles deselecteren</string>
   <string name="action_text_change_textsize_bigger">Lettertypen vergroten</string>
   <string name="action_text_change_textsize_smaller">Kleiner lettertype</string>
@@ -103,6 +105,7 @@
   <string name="agree_permissions_request">Toestaan</string>
   <string name="alert_tips">Deze site kan een gevaar voor uw veiligheid zijn</string>
   <string name="allow">Toestaan</string>
+  <string name="app_download_market_text">Gebruik Mi Market om sneller en veiliger te downloaden</string>
   <string name="app_new_version">De nieuwste versie van deze app is al geïnstalleerd</string>
   <string name="app_update_install">Download voltooid! Klaar om upgrade te installeren.</string>
   <string name="application_name">Browser</string>
@@ -204,6 +207,7 @@
   <string name="contextmenu_dial_dot">Bellen…</string>
   <string name="contextmenu_download_image">Afbeelding opslaan</string>
   <string name="contextmenu_download_image_as">Afbeelding opslaan</string>
+  <string name="contextmenu_incognito">Incognito modus</string>
   <string name="contextmenu_manually_block_ad">Markeren als advertentie</string>
   <string name="contextmenu_map">Kaart</string>
   <string name="contextmenu_openlink">Openen</string>
@@ -262,8 +266,11 @@
   <string name="document_download_background_btn">Downloaden in de achtergrond</string>
   <string name="document_download_cancel_btn">Annuleren</string>
   <string name="document_download_failed">Kon niet downloaden</string>
+   <string name="document_download_immediate">Meteen downloaden</string>
+  <string name="document_download_normal">Normaal downloaden</string>
   <string name="document_download_official">Download de officiële versie</string>
   <string name="document_download_open_direct">Direct openen</string>
+   <string name="document_download_recommending">Veilig downloaden(Aabevolen)</string>
   <string name="document_download_title">Downloaden</string>
   <string name="document_open_file">%s openen</string>
   <string name="document_open_message">Om uw leeservaring te verbeteren en voor de veiligheid te zorgen, gebruik WPS aangepaste versie</string>
@@ -276,10 +283,9 @@
   <string name="download_completed">Gedownload</string>
   <string name="download_default_path_txt">Keuze herinneren</string>
   <string name="download_dialog_default_path_invalid">De downloadlocatie die u hebt geselecteerd is ongeldig. Opslaan naar standaardlocatie…</string>
-  <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte:"</string>
+  <string name="download_dialog_file_length_default_txt">Een momentje…</string>
   <string name="download_dialog_file_length_lessthan1kb">Kleiner dan 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Bestandsgrootte berekenen mislukt</string>
-  <string name="download_dialog_file_length_nolength_txt">Een momentje…</string>
   <string name="download_failed">Download mislukt</string>
   <string name="download_filter_all">Alle</string>
   <string name="download_filter_apk">APK</string>
@@ -879,7 +885,8 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="not_now">Nu niet</string>
   <string name="not_remind_again">Mijn keuze onthouden</string>
   <string name="notif_install_successful">Download voltooid</string>
-  <string name="ok">OK</string>
+  <string name="novel_toast_hint">Deze website is toegevoegd aan de boekenplank</string>
+  <string name="ok">Ok</string>
   <string name="open_app_confirm_message">Deze pagina toestaan om %s te openen?</string>
   <string name="open_cloud_sync">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="open_cloud_sync_desc">Bladwijzer toegevoegd. Schakel synchronisatie met Mi Cloud in om bladwijzers toegevoegd op andere apparaten te synchroniseren. Inloggen en inschakelen?</string>
@@ -954,8 +961,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_file_downlaod_save_reset_default_settings">Standaardlocatie herstellen</string>
   <string name="pref_file_download_default_path_prefix">Standaardlocatie: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadlocatie</string>
-  <string name="pref_fling_on_border">Vegen vanaf de rand</string>
-  <string name="pref_fling_on_border_title_summary">Veeg naar links of rechts</string>
+  <string name="pref_fling_gesture">Veeg gebaar</string>
   <string name="pref_font_size_category">Tekstgrootte</string>
   <string name="pref_force_userscalable">Zoom inschakelen forceren</string>
   <string name="pref_force_userscalable_summary">Websiteverzoek overschrijden om zoomgedrag te beheren</string>
@@ -1008,12 +1014,12 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_security_show_security_warning">Beveiligingswaarschuwingen weergeven</string>
   <string name="pref_security_show_security_warning_summary">Waarschuwing weergeven als er een probleem is met het certificaat van een website</string>
   <string name="pref_set_homepage_to">Ingesteld op</string>
-  <string name="pref_slide_back_forward">Schuif terug of vooruit</string>
   <string name="pref_tab_restore">Herstel de laatste open pagina bij het opstarten</string>
   <string name="pref_ua_string">Gebruikersagent</string>
   <string name="pref_version_info">Versie-info</string>
   <string name="pref_volume_key_action">Scrollen d.m.v. volumeknoppen</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen…</string>
+  <string name="publish_to_topic">publiceren naar onderwerp</string>
   <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen</string>
   <string name="pull_to_refresh_release_label">Loslaten om naar de aanbevolen te gaan en te vernieuwen</string>
   <string name="pwa_app_name">Webapps</string>
@@ -1196,6 +1202,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggestion_more_button_text">MEER BEKIJKEN</string>
   <string name="suggestion_more_news">MEER NIEUWS</string>
   <string name="suggestion_more_news_start_title_text">Gerelateerd nieuws</string>
+  <string name="suggestion_sliding_item_more_text">MEER WEERGEVEN</string>
   <string name="suggestion_translation_more">MEER WEERGEVEN</string>
   <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netwerkkaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider.</string>
