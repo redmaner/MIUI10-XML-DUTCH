@@ -70,6 +70,10 @@
   <string name="cast_unmute">Dempen uit</string>
   <string name="click_to_reload_more">Tik om meer te laden</string>
   <string name="click_to_retry">Probeer opnieuw</string>
+  <string name="com_mixpanel_android_close">Sluiten</string>
+  <string name="com_mixpanel_android_done">Klaar</string>
+  <string name="com_mixpanel_android_exit">Afsluiten</string>
+  <string name="com_mixpanel_android_notification_image">Afbeelding wordt niet weergegeven</string>
   <string name="com_permission_desc">Mi Video heeft geen toegang tot video\'s op het apparaat. Geef toestemming in de instellingen.</string>
   <string name="com_permission_title">Toestemmingen vereist</string>
   <string name="common_google_play_services_enable_button">Inschakelen</string>
@@ -119,6 +123,7 @@
   <string name="exo_controls_rewind_description">Terugspoelen</string>
   <string name="exo_controls_stop_description">Stoppen</string>
   <string name="explore_on_mi_video">Meer vinden over Mi Video</string>
+  <string name="failed_to_fetch_data">Kon info niet laden.</string>
   <string name="finish">Klaar</string>
   <string name="for_you">Voor jou</string>
   <string name="fw_loading">Een momentje…</string>
@@ -262,6 +267,7 @@
   <string name="mr_system_route_name">Systeem</string>
   <string name="mr_user_route_category_name">Apparaten</string>
   <string name="need_update_app">Update Mi Video om alle functies te gebruiken</string>
+  <string name="network_connect_info">Kon gen verbinding maken met netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
   <string name="network_failed">Kon geen verbinding maken met netwerk</string>
   <string name="next">Volgenedet</string>
   <string name="no_recommend_data">nu geen aanbevolen video</string>
@@ -303,6 +309,7 @@
   <string name="ovp_home_item_camera">Galerij</string>
   <string name="ovp_home_item_download">Downloads</string>
   <string name="ovp_home_item_folder">Bestanden</string>
+  <string name="ovp_home_no_data_callback">Kon info niet laten. Naar beneden trekken om te vernieuwen.</string>
   <string name="ovp_home_online_content_title">Online</string>
   <string name="ovp_info_video_loading">Een momentje…</string>
   <string name="ovp_load_playinfo_failure">Kon geen info krijgen</string>
