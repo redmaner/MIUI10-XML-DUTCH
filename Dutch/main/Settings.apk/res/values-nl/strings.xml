@@ -4391,7 +4391,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_basic_settings">Basisinstellingen</string>
   <string name="status_bar_settings_custom_carrier">Providernaam aanpassen</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fi naam aanpassen</string>
-  <string name="status_bar_settings_customer_feedback">feedback</string>
+  <string name="status_bar_settings_customer_feedback">Feedback</string>
   <string name="status_bar_settings_enable_notification">Meldingen weergeven</string>
   <string name="status_bar_settings_expand_top_notification">Bovenste meldingen uitbreiden</string>
   <string name="status_bar_settings_expandable_under_keyguard">Weergeven op vergrendelscherm</string>

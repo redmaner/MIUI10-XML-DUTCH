@@ -1328,6 +1328,7 @@ U hebt nog %d pogingen over."</string>
   <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
   <string name="simulate_color_space">Kleurruimte simuleren</string>
   <string name="singleContactImportedMsg">Contact importeren</string>
+  <string name="sip_account_disable">Dit account is niet actief. Kan geen oproepen aannemen</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">SIP accounts</string>
   <string name="sip_accounts_title">Accounts</string>
@@ -1345,6 +1346,7 @@ U hebt nog %d pogingen over."</string>
   <string name="sip_menu_discard">Annuleren</string>
   <string name="sip_menu_save">Opslaan</string>
   <string name="sip_profile_create_error">Kan geen nieuw SIP profiel aanmaken</string>
+   <string name="sip_receive_call_disable">Kan geen oproepen aannemen. Aanvaard eerst het aannemen van oproepen.</string>
   <string name="sip_receive_calls">Inkomende gesprekken ontvangen</string>
   <string name="sip_receive_calls_summary">Verbruikt meer batterij</string>
   <string name="sip_save_register_error">Kan nieuwe SIP profiel niet opslaan en registreren</string>

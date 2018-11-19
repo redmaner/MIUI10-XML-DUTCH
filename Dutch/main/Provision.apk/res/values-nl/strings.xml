@@ -110,4 +110,5 @@ U moet akkoord gaan met het Privacybeleid van Kika voordat u deze functie gebrui
   <string name="voice_assist_desp">Zeg \"Mi AI\". Mi AI zal je stem herkennen en vervolgens kan je je apparaat controleren.</string>
   <string name="voice_assist_title">Ontwaken met je stem</string>
   <string name="welcome">Welkom</string>
+  <string name="zone_picker_title">Kies tijdzone</string>
 </resources>

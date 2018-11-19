@@ -80,6 +80,7 @@
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="change_phone_number">Telefoonnr. wijzigen</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="collect_diagnosis_log">Diagnoselog verzamelen</string>
   <string name="completed">Helemaal klaar!</string>
   <string name="confirm_activate_email">Bevestigd</string>
   <string name="confirm_bundled_phone_dialog_title">Gekoppeld telefoonnummer bevestigen</string>
@@ -108,6 +109,10 @@
   <string name="device_list_title">Mijn apparaten</string>
   <string name="device_name">Apparaatnaam</string>
   <string name="device_trust_info">Vertrouwd apparaat</string>
+  <string name="diagnosis_log_send_failed">Diagnostische log verzonden mislukt.</string>
+  <string name="diagnosis_log_sent_format">"Diagnose log is verzonden.
+ID:%s
+Stuur deze code naar de technicus."</string>
   <string name="empty_device_list_notice">Geen apparaten</string>
   <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een ander Mi account.</string>
   <string name="error_invalid_bind_address">Het ingevoerde e-mailadres is ongeldig.</string>
@@ -181,6 +186,7 @@
   <string name="oauth_getting_scopes">Account verifiëren…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; zal volgende toestemming krijgen:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Aanmelden met Mi Account</string>
+  <string name="ok">Ok</string>
   <string name="other_devices_title">Andere apparaten</string>
   <string name="passport_Resend">Opnieuw verzenden</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
@@ -408,7 +414,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
   <string name="push_notify_dialog_title">Accountverificatie</string>
-  <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Het lijkt erop dat je telefoonnummer is gerecycled. Tik om te updaten.</string>
   <string name="recycle_phone_notification_title">Mi Account beveiligingsrisico</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
@@ -440,7 +445,9 @@ die verzonden is naar je Postvak In."</string>
   <string name="search_user_detail_path">Instellingen/Mi Account/Persoonlijke info</string>
   <string name="search_user_detail_top_key_words">Persoonlijke info,Profiel foto wijzigen,Gebruikersnaam wijzigen,Roepnaam wijzigen,Verjaardag wijzigen,Geslacht wijzigen</string>
   <string name="select_location_title">Uw locatie selecteren</string>
+  <string name="send_diagnosis_log">Diagnoselog verzenden</string>
   <string name="send_email_activate_message">Verificatie e-mail verzonden</string>
+  <string name="sending">Bezig met verzenden…</string>
   <string name="service_error">Servicefout</string>
   <string name="set_success">Wijzigen voltooid</string>
   <string name="sign_in">Inloggen</string>
@@ -449,6 +456,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="sms_send_success">Verzenden</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
   <string name="talkback_scan_barcode">Scan de QR code</string>
+  <string name="temporary_not_available">tijdelijk niet beschikbaar</string>
   <string name="trusted_browsers">Vertrouwde browsers</string>
   <string name="trusted_browsers_prompt">Deze browser zal niet langer vertrouwd zijn als u de cookies verwijderd.</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>

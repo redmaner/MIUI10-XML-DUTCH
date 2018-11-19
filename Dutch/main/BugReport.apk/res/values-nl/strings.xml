@@ -18,7 +18,7 @@
   <string name="catch_full_log_action_cancel">Annuleren</string>
   <string name="catch_full_log_action_complete">Afwerken en uploaden</string>
   <string name="catch_full_log_action_start">Log aanmaken</string>
-  <string name="catch_full_log_add_original_photo">Foto toevoegen</string>
+  <string name="catch_full_log_add_original_photo">Voeg originele afbeelding of korte video toe</string>
   <string name="catch_full_log_add_photo">Foto toevoegen</string>
   <string name="catch_full_log_add_photo_dialog_content">>Als het probleem dat u meldt, te maken heeft met de beeldkwaliteit van de camera, voeg dan een originele voorbeeldfoto toe (niet-gekopieerd) om ons te helpen het probleem op te sporen. Nu een foto toevoegen?</string>
   <string name="catch_full_log_dialog_confirm_text">Ga naar startscherm</string>
@@ -107,7 +107,7 @@
   <string name="feedback_report_remind_login_desc">Log in met je Mi Account zodat onze ontwikkelaars contact met je kunnen opnemen.</string>
   <string name="feedback_report_remind_login_desc2">"Je kan ook de voortgang van je rapport bekijken in \"Mijn rapporten\"."</string>
   <string name="feedback_retest_label">Stappen om te triggeren</string>
-  <string name="feedback_select_images">Foto\'s toevoegen</string>
+  <string name="feedback_select_images">Voeg een afbeelding of korte video toe</string>
   <string name="feedback_select_modem_log">Modem logs toevoegen</string>
   <string name="feedback_select_modem_log_not_select_desc">"\"Modemlogs toevoegen\" niet geselecteerd"</string>
   <string name="feedback_select_modem_log_select_desc">\"Modemlogs toevoegen\" geselecteerd</string>
@@ -319,12 +319,14 @@
   <string name="tab_title_report">Feedback</string>
   <string name="title_answer_feedback_main">We hebben het antwoord gevonden!</string>
   <string name="title_customer_service">Klantendienst</string>
+  <string name="title_first_aid">Eerste hulp</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes dichtbij</string>
   <string name="title_nonsystem_app">Andere apps</string>
   <string name="title_same_question_feedback_main">Vergelijkbare problemen op het MIUI forum</string>
   <string name="title_system_app">MIUI apps</string>
-   <string name="toast_catch_full_log_catching">U kan slechts één log per keer aanmaken.</string>
+  <string name="toast_catch_full_log_catching">U kan slechts één log per keer aanmaken.</string>
+  <string name="toast_catch_full_log_open_failed">Kon opname log niet starten</string>
   <string name="toast_description_required">Omschrijving is vereist</string>
   <string name="toast_feedback_collect_store">Logs aan het verzamelen…</string>
   <string name="toast_feedback_network_unavailable">Kan geen verbinding maken met netwerk</string>
@@ -335,7 +337,7 @@
   <string name="toast_fill_brackets">Uw rapport mist info</string>
   <string name="toast_loading_app_id">Info verkrijgen…</string>
   <string name="toast_log_not_exists">De nodige log is verwijderd of bestaat niet</string>
-  <string name="toast_log_too_large">Kan niet uploaden. Het bestand is te groot.</string>
+  <string name="toast_log_too_large">Kan niet uploaden. De log is te groot.</string>
   <string name="toast_module_required">Selecteer item</string>
   <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
@@ -345,7 +347,7 @@
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>
   <string name="toast_report_sent_failed">Kan geen rapport verzenden</string>
   <string name="toast_report_sent_succeed">Rapport is verzonden</string>
-  <string name="toast_screenshot_too_large">Kan geen bestanden groter dan 10MB uploaden.</string>
+  <string name="toast_screenshot_too_large">Kan geen afbeeldingen of korte video\'s uploaden groter dan 10MB.</string>
   <string name="toast_third_packagename_required">Appnaam invoeren</string>
   <string name="toast_title_required">Omschrijf uw probleem</string>
   <string name="try_again">Probeer opnieuw</string>

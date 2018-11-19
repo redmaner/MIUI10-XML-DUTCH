@@ -914,7 +914,7 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="lock_screen_carrier_airplane_mode_on">Vliegmodus</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
-  <string name="lock_screen_no_sim_card_emergency_only">Alleen noodoproep</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Alleen noodoproepen</string>
   <string name="lock_screen_no_sim_card_no_service">Geen service</string>
   <string name="lock_wallpaper_enter">Invoeren</string>
   <string name="lock_wallpaper_learn_more">Meer</string>
@@ -1424,7 +1424,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="snooze_option_30_min">30 minuten</string>
   <string name="snooze_undo">ONGEDAAN MAKEN</string>
   <string name="snoozed_for_time">Snoozen voor %1$s</string>
-  <string name="sos_status_bar_summary">klik om af te sluiten</string>
+  <string name="sos_status_bar_summary">Tik om af te sluiten</string>
   <string name="speed_bump_explanation">Minder belangerijke meldingen hieronder</string>
   <string name="ssl_ca_cert_warning">"Netwerk kan 
 gecontroleerd worden "</string>
@@ -1625,7 +1625,7 @@ Uw telefoon wordt mogelijk te warm als u dat doet:
   <string name="unimportant_desc">Alle onbelangrijke meldingen zullen in een aparte map terecht komen.</string>
   <string name="unimportant_title">Onbelangrijk</string>
   <string name="unknown">Onbekend</string>
-  <string name="unlock_camera_steady">Stil houen</string>
+  <string name="unlock_camera_steady">Beweeg uw telefoon niet</string>
   <string name="unlock_failed">Interne fout</string>
   <string name="unlock_failed_face_not_found">Detecteren</string>
   <string name="unlock_label">Ontgrendelen</string>
