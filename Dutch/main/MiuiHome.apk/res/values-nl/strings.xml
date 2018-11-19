@@ -3,11 +3,13 @@
   <string name="action_add_to_workspace">Toevoegen aan werkruimte</string>
   <string name="activity_not_found">App is niet geïnstalleerd op uw apparaat</string>
   <string name="add_screen">Schermknop toevoegen</string>
+  <string name="announce_for_app_move_in_folder">Verplaatst naar positie %1$d in de map</string>
   <string name="announce_for_checked">%1$s, aangevinkt</string>
   <string name="announce_for_choose_default_screen">Stel het scherm %1$d  %1$d in als het standaard startscherm</string>
   <string name="announce_for_close_default_preview">Standaardscherminstellingen gesloten</string>
   <string name="announce_for_close_folder">Gesloten map</string>
   <string name="announce_for_close_launcher_menu">Gesloten menu</string>
+  <string name="announce_for_create_folder_with_app">Maak een map aan met %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">Widget</string>
   <string name="announce_for_delete_item">%1$s is verwijderd</string>
   <string name="announce_for_drag_enter_delete_zone">Items naar de verwijderingszone slepen</string>
@@ -30,6 +32,7 @@
   <string name="announce_for_open_launcher_menu">Menu geopend</string>
   <string name="announce_for_show_uninstall_dialog">Verwijder dialoogvenster verscheen. Annuleren of bevestigen.</string>
   <string name="announce_for_unchecked">%1$s, niet aangevinkt</string>
+  <string name="announce_for_widget_span">Breedte %1$d, hoogte %2$d</string>
   <string name="app_already_exist">App bestaat al</string>
   <string name="app_being_backup_message">App wordt geback-upt</string>
   <string name="app_being_restored_message">App wordt hersteld</string>
@@ -268,12 +271,14 @@
   <string name="recents_config_title">Recente</string>
   <string name="recommend_apps_default_title">Leeg</string>
   <string name="recommend_apps_no_data">Geen gegevens</string>
+  <string name="recommend_apps_no_data_toast">Nu geen aanbevelingen.</string>
   <string name="recommend_apps_notice">Aanbevolen apps</string>
   <string name="recommend_apps_notice_nodata">Aanbevolen apps (geen data)</string>
   <string name="recommend_apps_switch_title">Aanbevolen apps</string>
   <string name="recommend_apps_tips">Deze functie moet verbonden zijn met internet om normaal te werken. Om deze functie uit te schakelen, tikt u op de naam van deze map aan.</string>
   <string name="recommend_loading">Laden</string>
-  <string name="refresh">Vernieuwen</string>
+  <string name="recommend_refresh">Vernieuwen</string>
+  <string name="recommend_xout">Niet weergeven</string>
   <string name="reset_description_first_time">U kunt de lay-out van %1$s binnen 2 uur herstellen</string>
   <string name="reset_description_others">U kunt de lay-out herstellen vanaf%1$s</string>
   <string name="reset_fail">Kon niet herstellen</string>

@@ -438,7 +438,7 @@ Maak tenminste %s vrij."</string>
   <string name="trans_disconnected_tips_title">Verbinding met apparaat verboken</string>
   <string name="trans_failed_details_page_title">Mislukte transfers</string>
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
-  <string name="trans_generate_qrcode_failed">Kan QR code niet aanmaken. Probeer opnieuw.</string>
+  <string name="trans_generate_qrcode_failed">Kan QR code niet aanmaken. Sluit de andere apps en probeer opnieuw.</string>
   <string name="trans_generating_qrcode">QR code aanmaken…</string>
   <string name="trans_install_guide_button_start">Start</string>
   <string name="trans_install_guide_page_title">Installeer Mi Mover op je oude telefoon</string>
