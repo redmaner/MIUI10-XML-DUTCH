@@ -4419,6 +4419,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_show_home_message">Aantal meldingen weergeven</string>
   <string name="status_bar_settings_show_keyguard_notification">Meldingen op vergrendelscherm</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Belangrijke meldingen op het vergrendelscherm toestaan</string>
+  <string name="status_bar_settings_show_lte_for_4g">LTE icoon weergeven voor 4G</string>
   <string name="status_bar_settings_show_network_speed">Verbindingssnelheid tonen</string>
   <string name="status_bar_settings_show_notification_icon">Meldingsiconen weergeven</string>
   <string name="status_bar_settings_show_wifi_name">Toon Wi-Fi</string>
