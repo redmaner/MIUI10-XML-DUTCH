@@ -150,6 +150,7 @@
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
   <string name="dialog_renew_failure">Sorry, bewerking is mislukt</string>
+  <string name="dialog_renew_free_end">Je gratis proefperiode is voorbij. Abonneren op Hungama PRO?​</string>
   <string name="dialog_renew_success">Bedankt voor de bevestiging</string>
   <string name="dialog_song_sort_type">Nummers sorteren</string>
   <string name="dialog_song_sort_type_name">Op naam</string>
@@ -452,11 +453,9 @@
   <string name="not_now">Nu niet</string>
   <string name="not_selected">Kies een nummer</string>
   <string name="notif_title_file_size">%1$d totaal</string>
-  <string name="notif_title_multiple_downloading">%1$d bestanden downloaden</string>
   <string name="notif_title_single_downloading">%1$s downloaden</string>
   <string name="notification_download_complete">Download voltooid</string>
   <string name="notification_download_failed">Kon niet downloaden</string>
-  <string name="notification_download_failed_more">Kon %1$d items niet downloaden</string>
   <string name="notification_download_success_more">%1$d gedownload</string>
   <string name="notification_need_wifi_for_size">Downloadgrootte vereist Wi-Fi.</string>
   <string name="notification_play_summary">Huidige en volgende nummer weergeven, songteksten op startscherm weergeven</string>
@@ -470,6 +469,13 @@
   <string name="nowplaying_dialog_title_delete_tracks">Dit nummer uit de wachtrij verwijderen?</string>
   <string name="nowplaying_menu_item_delete">Verwijderen uit wachtrij</string>
   <string name="ok">Ok</string>
+  <string name="online_apk_download_error_no_enough_space">Kan niet downloaden vanwege onvoldoende opslagruimte.</string>
+  <string name="online_apk_downloading">Bezig met downloaden van…%d%%</string>
+  <string name="online_apk_install_alert_confirm">Download</string>
+  <string name="online_apk_install_alert_message">U moet de plug-in Yandex.Music downloaden. Nu downloaden?</string>
+  <string name="online_apk_install_alert_note">Deze dienst wordt geleverd door Yandex.Music</string>
+  <string name="online_apk_install_error_no_enough_space">Kan niet worden geïnstalleerd vanwege onvoldoende opslagruimte.</string>
+  <string name="online_apk_install_error_with_reason">"Couldn't install (Error %d)"</string>
   <string name="online_list_delete_message">Alle gedownloade nummers van deze afspeellijst worden verwijderd van de interne opslag.</string>
   <string name="online_recommend">Afspeellijst</string>
   <string name="online_service_open_tip">Online muziekdiensten zijn ingeschakeld</string>
@@ -696,4 +702,10 @@ Wees blij"</string>
 
 Tik op %s om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
   <string name="wifi_required_title">Download te groot voor mobiel internet</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"De introductie van versie %1$s
+Grootte: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"De introductie van versie %1$s
+Delta update grootte: %2$s"</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Opslag niet beschikbaar, controleer de SD-kaart.</string>
 </resources>

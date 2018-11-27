@@ -56,7 +56,7 @@
   <string name="activity_title_virus_settings">Instellingen</string>
   <string name="activity_title_white_list">Uitzonderingen</string>
   <string name="ad_btn_default_text">Meer leren</string>
-   <string name="ad_split_screen_title">Schakel over naar de volledig scherm modus om te ontgrendelen</string>
+  <string name="ad_split_screen_title">Schakel over naar de volledig scherm modus om te ontgrendelen</string>
   <string name="ad_update_time">Laatst geupdate %s</string>
   <string name="ad_update_time_unKnown">Laatste update onbekend</string>
   <string name="adb_install_no_network">Verbinden met netwerk en probeer opnieuw</string>
@@ -478,6 +478,7 @@
   <string name="card_main_applock_summary">Beveilig geselecteerde apps met een wachtwoord.</string>
   <string name="card_main_applock_title">Appvergrendeling</string>
   <string name="card_main_deepclean_action">Wissen</string>
+  <string name="card_main_deepclean_facebook_title">Facebook opruimer</string>
   <string name="card_main_deepclean_qq_title">QQ cleaner</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
   <string name="card_main_deepclean_title">Schoonmaken</string>

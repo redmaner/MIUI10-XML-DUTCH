@@ -109,7 +109,11 @@
   <string name="payment_text">Openen met %s</string>
   <string name="phone">Telefoon:</string>
   <string name="place_barcode_into_rectangle">Plaats de code binnen het kader</string>
-  <string name="pref_camera_focusmode_default">continuous-picture</string>
+  <string name="plant_fail">Kon het niet herkennen</string>
+  <string name="plant_loading">Bezig met identificeren…</string>
+  <string name="plant_reg_fail_2">Kon dit object niet herkennen. Scanners kunnen alleen planten identificeren.</string>
+  <string name="plant_support">" (Technische ondersteuning)"</string>
+  <string name="plant_title">Scan de plant die u wilt identificeren</string>
   <string name="pref_camera_jpeg_quality_fine">fijn</string>
   <string name="pref_camera_jpeg_quality_normal">normaal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfijn</string>
