@@ -18,6 +18,14 @@
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
   <string name="abc_toolbar_collapse_description">Inklappen</string>
   <string name="agree">Akkoord</string>
+  <string name="ai_animation_music_text">AI soundtrack</string>
+  <string name="ai_music_save_cancel">Annuleren</string>
+  <string name="ai_music_save_dialog_title">Opslaan</string>
+  <string name="ai_music_save_fail">Kon niet opslaan</string>
+  <string name="ai_music_save_info">AI soundtrack met succes opgeslagen. Video opslaan?</string>
+  <string name="ai_music_save_ok">Opslaan</string>
+  <string name="ai_music_save_success">Met succes opgeslagen</string>
+  <string name="ai_music_saved">Opgeslagen</string>
   <string name="alert_dialog_download">U hebt deze app al gedownload.</string>
   <string name="alert_dialog_download_btn_hide">Verbergen</string>
   <string name="alert_dialog_download_confirm">Staat op het punt om de app te downloaden</string>
@@ -70,10 +78,6 @@
   <string name="cast_unmute">Dempen uit</string>
   <string name="click_to_reload_more">Tik om meer te laden</string>
   <string name="click_to_retry">Probeer opnieuw</string>
-  <string name="com_mixpanel_android_close">Sluiten</string>
-  <string name="com_mixpanel_android_done">Klaar</string>
-  <string name="com_mixpanel_android_exit">Afsluiten</string>
-  <string name="com_mixpanel_android_notification_image">Afbeelding wordt niet weergegeven</string>
   <string name="com_permission_desc">Mi Video heeft geen toegang tot video\'s op het apparaat. Geef toestemming in de instellingen.</string>
   <string name="com_permission_title">Toestemmingen vereist</string>
   <string name="common_google_play_services_enable_button">Inschakelen</string>
@@ -390,6 +394,7 @@ Bekijk andere video\'s!"</string>
   <string name="pw_video_history">Afspeelgeschiedenis</string>
   <string name="pw_video_mine">My video\'s</string>
   <string name="pw_video_offline">Lokale video\'s</string>
+  <string name="read_and_agree">Akkoord</string>
   <string name="recommend_online_switch">Online aanbevelingen</string>
   <string name="recommend_online_tips">Inschakelen om aanbevolen online video te verkrijgen</string>
   <string name="recommend_page_replay">REPLAY</string>
@@ -403,6 +408,7 @@ Bekijk andere video\'s!"</string>
   <string name="s6">Advertentie toestaan om een agenda afspraak te maken?</string>
   <string name="s7">Test Adv</string>
   <string name="save">Opslaan</string>
+  <string name="save_cancel_toast">Tik opnieuw om het opslaan te annuleren</string>
   <string name="screenrecord_cancel">Compatibiliteitsproblemen</string>
   <string name="screenrecord_nosupport_record">Schermrecorder wordt momenteel niet ondersteund op dit apparaat.</string>
   <string name="search">Zoeken</string>
@@ -415,6 +421,8 @@ Bekijk andere video\'s!"</string>
   <string name="share_ugc_join">Join In</string>
   <string name="share_ugc_waitting">Generating link…</string>
   <string name="signup_type_user_default">LoginSDK klant</string>
+  <string name="slid_fail_message">Kon niet opslaan</string>
+  <string name="slide_save_message">Video genereren…</string>
   <string name="storage_permission_denied">Toestemming voor toegang tot opslag werd geweigerd</string>
   <string name="t_downloading">Downloaden:</string>
   <string name="t_exit_app">Tik nogmaals om af te sluiten.</string>
@@ -437,7 +445,10 @@ Bekijk andere video\'s!"</string>
   <string name="ui_log_tip">Tik op dit gebied om te verbergen, houd ingedrukt om oude logboeken te wissen. Versleep logboeken handmatig.</string>
   <string name="update">Update</string>
   <string name="v_app_name">Mi Video</string>
+  <string name="v_cancel">Annuleren</string>
+  <string name="v_ok">Ok</string>
   <string name="v_pw_need_update_app">Update Mi Video om alle functies te gebruiken</string>
+  <string name="v_save">Opslaan</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden met Download Manager is mislukt, controleer de staat van Download Manager in het Toepassingsbeheer.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Introductie versie %1$s
 Grootte: %2$s"</string>

@@ -22,6 +22,7 @@
   <string name="dialog_btn_wifi">Wisselen naar Wi-Fi</string>
   <string name="dialog_stop_desc">Je kan het downloaden pauzeren of stoppen. Maak een keuze.</string>
   <string name="dialog_stop_title">Download stoppen?</string>
+  <string name="dialog_twrp">Uw interne opslag is gecodeerd. Nadat het apparaat opnieuw is opgestart om te herstellen, voert u uw apparaatontgrendelwachtwoord in om door te gaan.</string>
   <string name="download_done">Met succes gedownload!</string>
   <string name="download_fail">Fout tijdens het downloaden!</string>
   <string name="download_fail_desc">MD5 sum komt niet overeen…</string>
