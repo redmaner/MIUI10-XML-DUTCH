@@ -1431,6 +1431,10 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="device_build_id">Versienummer</string>
   <string name="device_cellular_network">Mobile network scanning</string>
   <string name="device_complete_parameters">Alle specificaties</string>
+  <string name="device_description_battery">Batterij capaciteit</string>
+  <string name="device_description_camera">Achterste camera</string>
+  <string name="device_description_resolution">Resolutie</string>
+  <string name="device_description_screen">Scherm grootte</string>
   <string name="device_display_layout_title">Kenmerken</string>
   <string name="device_edit_title">Apparaatnaam wijzigen</string>
   <string name="device_feedback">Feedback versturen over dit apparaat</string>
