@@ -24,13 +24,12 @@
   <string name="catch_full_log_dialog_confirm_text">Ga naar startscherm</string>
   <string name="catch_full_log_dialog_content">"MIUI maakt een logbestand aan. Dit kan van invloed zijn op de algehele productiviteit van uw apparaat.Als u het probleem dat u wilt melden niet kunt reproduceren, gaat u terug naar de logboeken en tikt u op \"Annuleren\"."</string>
   <string name="catch_full_log_dump_hprof_failed">Kan lagging logbestand niet aanmaken</string>
-  <string name="catch_full_log_item_content_catch_direct">"Stappen:
-1. Ga terug naar de functie die u wilt melden en reproduceer deze.
+  <string name="catch_full_log_item_content_catch_direct">"1. Ga terug naar de functie die u wilt melden en reproduceer deze.
 2. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
-  <string name="catch_full_log_item_content_need_open">"Stappen:
-1. Tik op \"Log aanmaken\".
+  <string name="catch_full_log_item_content_need_open">"1. Tik op \"Log aanmaken\".
 2. Ga terug naar de functie die u wilt melden en reproduceer deze.
 3. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
+<string name="catch_full_log_item_content_title">Stappen:</string>
   <string name="catch_full_log_item_title_audio">Audio, geluidsopname- en oproepgeluid</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Lagging</string>
@@ -325,6 +324,8 @@
   <string name="title_nonsystem_app">Andere apps</string>
   <string name="title_same_question_feedback_main">Vergelijkbare problemen op het MIUI forum</string>
   <string name="title_system_app">MIUI apps</string>
+  <string name="title_user_guide">Gebruikershandleiding</string>
+  <string name="toast_app_tag_required">Probleem selecteren</string>
   <string name="toast_catch_full_log_catching">U kan slechts één log per keer aanmaken.</string>
   <string name="toast_catch_full_log_open_failed">Kon opname log niet starten</string>
   <string name="toast_description_required">Omschrijving is vereist</string>

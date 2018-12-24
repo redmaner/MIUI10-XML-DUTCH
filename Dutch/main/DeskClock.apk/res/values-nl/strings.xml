@@ -3,8 +3,7 @@
   <string name="add_alarm">Nieuw alarm</string>
   <string name="add_clock">Wekker toevoegen</string>
   <string name="add_timezone_title">Tijdzone toevoegen</string>
-  <string name="alarm_alert_alert_silenced">Wekker uitgezet na %d minuten.</string>
-  <string name="alarm_alert_snooze_set">Snoozen voor %d minuten.</string>
+  <string name="alarm_alert_alert_silenced">Wekker uitgezet na %$s.</string>
   <string name="alarm_ascending_mode_summary">Wekkervolume neemt geleidelijk toe</string>
   <string name="alarm_ascending_mode_title">Toenemend volume</string>
   <string name="alarm_clock_more_setting">Extra instellingen</string>
@@ -31,20 +30,18 @@
   <string name="birthday_alarm">Verjaardagsalarm</string>
   <string name="birthday_alarm_summary">Speel \"Happy Birthday\" af in plaats van je standaard alarm op je verjaardag</string>
   <string name="cancel">Annuleren</string>
+  <string name="check_voice_assist_app_version">Update Mi AI naar de laatste versie.</string>
   <string name="close_alarm">Uitschakelen</string>
   <string name="common_settings">Instellingen</string>
   <string name="confirm_abort">Weggooien</string>
   <string name="content_desc_keep_screen">\"Scherm aan laten\" knop</string>
   <string name="control_set_alarm">Wekker instellen</string>
   <string name="control_set_alarm_with_existing">Alarm ingesteld: %s</string>
-  <string name="day">1 dag</string>
-  <string name="days">%d dagen</string>
   <string name="default_alarm_alert">Standaard alarmgeluid</string>
   <string name="default_alarm_title">Standaard beltoon</string>
   <string name="default_label">Alarm</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_alarm">Wekker verwijderen</string>
-  <string name="delete_alarm_confirm">Geselecteerde wekker(s) verwijderen?</string>
   <string name="delete_selected_timer_item">De geselecteerde timer verwijderen?</string>
   <string name="delete_timer_item_title">Timer verwijderen</string>
   <string name="delete_timezone_title">Tijdzone verwijderen</string>
@@ -64,9 +61,6 @@
   <string name="force_touch_enter_timer">Timer</string>
   <string name="full_wday_month_day_no_year">EEEE d MMMM</string>
   <string name="go_back">Terug</string>
-  <string name="hour">1 uur</string>
-  <string name="hour_unit">Hr +</string>
-  <string name="hours">%d uur</string>
   <string name="install_weather_app_error">Kon app niet laden</string>
   <string name="install_weather_app_loading">Een momentje…</string>
   <string name="invalid_time">Ongeldige tijd: %3$s %1$d: %2$d</string>
@@ -103,10 +97,9 @@
   <string name="menu_item_dock_settings">Dockinstellingen</string>
   <string name="menu_item_sort_by_gmt_offset">Sorteren op tijd</string>
   <string name="menu_item_sort_by_name">Sorteren op naam</string>
-  <string name="minute">1 minuut</string>
-  <string name="minutes">%d minuten</string>
   <string name="module_download_cancel">Nee bedankt</string>
-  <string name="module_download_data_msg">De klok moet verbinding maken met internet om audiobestanden (20 MB) te downloaden voor omgevingsgeluiden en slimme alarmen. U gebruikt nu mobiele gegevens. Toestaan?</string>
+  <string name="module_download_data_msg">De klok moet verbinding maken met internet om audiobestanden te downloaden voor MIUI 10 weeralarmen en omgevingsgeluidstimers. 20 MB aan mobiele gegevens is vereist voor deze download. Toestaan?</string>
+  <string name="module_download_data_msg_golbal">De klok moet audiobestanden downloaden voor MIUI 10 weeralarmen en omgevingsgeluidstimers. 20 MB aan mobiele gegevens is vereist voor deze download. Toestaan?</string>
   <string name="module_download_data_msg_golbal">De klok moet audiobestanden (20 MB) downloaden voor omgevingsgeluiden en slimme alarmen. U gebruikt nu mobiele gegevens. Toestaan?</string>
   <string name="module_download_fail">Kon geen extra audio downloaden</string>
   <string name="module_download_msg">Om slimme alarmen, natuurgeluiden en verjaardagsalarmen beschikbaar te maken, moet de klok verbinding maken met internet en toegang krijgen tot uw contacten. Je zult ook extra audio moeten downloaden. Akkoord?</string>
@@ -162,7 +155,7 @@
   <string name="time">Tijd</string>
   <string name="timer_alarm_cancel_pad">Tik op het scherm om het alarm te stoppen</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
-  <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten</string>
+  <string name="timer_alert_alert_silenced">Timer gestopt na %$s</string>
   <string name="timer_alert_mute_off">Alarm gaat af wanneer de timer stopt</string>
   <string name="timer_alert_mute_on">Alarm gaat niet af wanneer de timer stopt</string>
   <string name="timer_alert_mute_remind">Tik om alarm te dempen</string>
@@ -213,6 +206,6 @@
   <string name="worldclock_world_time">Tijdzones</string>
   <string name="worldcolock_timezone_current">Huidige: %1$s</string>
   <string name="worldcolock_timezone_date">dd MMM</string>
-  <string name="worldcolock_timezone_gap">Uur</string>
+  <string name="worldcolock_timezone_gap">%s U</string>
   <string name="worldcolock_timezone_local">Zelfde als lokale tijd</string>
 </resources>

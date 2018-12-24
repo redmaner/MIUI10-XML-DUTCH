@@ -56,6 +56,10 @@
         <item quantity="other">Back-up hervatten over %d uur</item>
         <item quantity="one">Back-up hervatten over %d uur</item>
     </plurals>
+	 <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d items zijn te groot om een back-up van te maken</item>
+        <item quantity="one">%d item is te groot om een back-up van te maken</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d foto\'s en video\'s | Gepauzeerd</item>
         <item quantity="one">%d foto of video | Gepauzeerd</item>
@@ -259,6 +263,10 @@
     <plurals name="sync_error_title">
         <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>
         <item quantity="one">%d foto of video is niet geback-upt</item>
+    </plurals>
+	<plurals name="sync_oversized_count">
+        <item quantity="other">%d items zijn te groot om een back-up van te maken</item>
+        <item quantity="one">%d item is te groot om een back-up van te maken</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d items</item>

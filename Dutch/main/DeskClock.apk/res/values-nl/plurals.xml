@@ -4,6 +4,10 @@
         <item quantity="other">Snooze voor %d minuten.</item>
         <item quantity="one">Snooze voor %d minuut.</item>
     </plurals>
+	<plurals name="day">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
 	<plurals name="delete_alarm_confirm">
         <item quantity="other">Geselecteerde wekkers verwijderen?</item>
         <item quantity="one">Deze wekker verwijderen?</item>
@@ -12,7 +16,19 @@
         <item quantity="other">Geselecteerde tijdzones verwijderen?</item>
         <item quantity="one">Deze tijdzone verwijderen?</item>
     </plurals>
-	    <plurals name="second">
+	 <plurals name="hour">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d dagen</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+	<plurals name="second">
         <item quantity="other">%d seconden</item>
         <item quantity="one">%d seconde</item>
     </plurals>

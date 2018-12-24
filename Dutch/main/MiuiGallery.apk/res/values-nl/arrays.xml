@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="weekend_title">
+        <item>Vorige weekends</item>
+        <item>Dagen om te onthouden</item>
+        <item>Dagelijkse gebeurtenissen</item>
+        <item>Normale &amp; Abnormale</item>
+    </string-array>
 	<string-array name="baby_sexy">
         <item>Jongen</item>
         <item>Meisje</item>

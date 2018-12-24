@@ -256,9 +256,13 @@
   <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen in het geval je hem vergeten bent"</string>
   <string name="applock_add_account_setting">Account &amp; privacy</string>
   <string name="applock_bind_account_title">Wachtwoord vergeten</string>
-   <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het startscherm worden hersteld en uw wachtwoord voor het vergrendelen van apps wordt verwijderd. App vergrendeling uitschakelen?</string>
+  <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het startscherm worden hersteld en uw wachtwoord voor het vergrendelen van apps wordt verwijderd. App vergrendeling uitschakelen?</string>
   <string name="applock_close_dialog_title">Appvergrendeling uitschakelen?</string>
   <string name="applock_exit_account_info">Account zal automatisch worden verwijderd wanneer je uitlogt</string>
+  <string name="applock_face_unlock_summary">Ontgrendel apps met gezichtsgegevens</string>
+  <string name="applock_face_unlock_title">Gezichtsontgrendeling</string>
+  <string name="applock_function_base_settings">App vergrendeling</string>
+  <string name="applock_function_pwd_settings">Wachtwoord</string>
   <string name="applock_header_text_less_than_half">Te klein. Sleep wat verder.</string>
   <string name="applock_login_and_add_account">Inloggen &amp; toevoegen</string>
   <string name="applock_not_add_account">Niet nu</string>
@@ -730,21 +734,30 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="exo_track_selection_none">Geen</string>
   <string name="exo_track_selection_title_text">Tekst</string>
   <string name="exo_track_unknown">Onbekend</string>
-  <string name="extreme_add_white_list_summary">Tot 4 apps toevoegen</string>
-  <string name="extreme_add_white_list_title">Achtergronduitzonderingen</string>
-  <string name="extreme_power_save_description">&lt;li&gt;"Extreme batterijbesparing stopt alle achtergrondactiviteit van een app nadat u deze hebt verlaten en keert terug naar het startscherm. Deze app stuurt je geen meldingen of ontvangt geen updates."&lt;/li&gt;"
-"&lt;li&gt;Als u wilt dat een app op de achtergrond wordt uitgevoerd, vergrendelt u deze in \'Recent\' of voegt u deze toe aan onderstaande achtergronduitzonderingen. Er kunnen maximaal 4 apps op de achtergrond worden uitgevoerd wanneer Extreme batterijbesparing is ingeschakeld.&lt;/li&gt;"
-"&lt;li&gt;Extreme batterijbesparing schakelt standaard NFC uit. U kunt dit wijzigen in Instellingen.&lt;/li&gt;"
-"&lt;li&gt;Om ervoor te zorgen dat u alle functies van uw apparaat normaal kunt gebruiken, wordt Extreme batterijbesparing automatisch uitgeschakeld wanneer uw batterij 30% is opgeladen.&lt;/li&gt;</string>
   <string name="extreme_power_save_mode_card_summary">Schakel de extreme modus in om energie te besparen wanneer de batterij bijna leeg is.</string>
-  <string name="extreme_power_save_mode_summary">Extreme batterijbesparing beperkt de achtergrondactiviteit en stopt de synchronisatie.</string>
   <string name="extreme_power_save_mode_title">Extreme batterijbesparing</string>
+  <string name="face_unlock_be_on_the_screen">Houd het apparaat voor je gezicht</string>
+  <string name="face_unlock_check_failed">Kon je niet herkennen</string>
+  <string name="face_unlock_face_auth_failed_title">Kan gezichtsgegevens niet verifiëren. Overschakelen naar andere ontgrendelingsmethoden…</string>
+  <string name="face_unlock_face_start_title">Gezichtsgegevens verifiëren…</string>
+  <string name="face_unlock_finger_or_password_switch">Gebruik uw vingerafdruk of voer een wachtwoord in om te ontgrendelen.</string>
+  <string name="face_unlock_guide_confirm">Gebruik gezichtsontgrendeling</string>
+  <string name="face_unlock_guide_dialog_summary">U kunt gezichtsgegevens gebruiken om uw apparaat te ontgrendelen. Gezicht ontgrendelen inschakelen?</string>
+  <string name="face_unlock_not_found">Kon je niet herkennen</string>
+  <string name="face_unlock_open_eye">Ogen een beetje breder openen</string>
+  <string name="face_unlock_reveal_eye">Maak je ogen zichtbaar</string>
+  <string name="face_unlock_reveal_mouth">Maak je lippen zichtbaar</string>
+  <string name="face_unlock_toast_verity_failed">Kan gezichtsgegevens niet verifiëren. Ga naar App vergrendelingsinstellingen en probeer uw gezichtsgegevens opnieuw te verifiëren.</string>
+  <string name="face_unlock_verity_dialog_summary">Gezichtgegevens verifiëren</string>
+  <string name="face_unlock_verity_dialog_title_failed">Kon je niet herkennen</string>
+  <string name="face_unlock_verity_dialog_title_succeed">Met succes geverifieerd</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
   <string name="fingerprint_not_remind">Niet meer vragen</string>
   <string name="fingerprint_remind_dialog_title">Vingerafdrukontgrendeling</string>
   <string name="fingerprint_to_lock">Ontgrendelen met vingerafdruk</string>
+  <string name="fingerprint_to_lock_summary">Ontgrendel apps met uw vingerafdruk</string>
   <string name="fingerprint_verify_failed">Kon vingerafdruk niet bevestigen</string>
   <string name="fingerprint_verify_succeed">Vingerafdruk bevestigd</string>
   <string name="fingerprint_verify_try_agin">Kon vingerafdruk niet scannen, probeer opnieuw</string>
@@ -1330,7 +1343,9 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="notification_masked_subtitle">Meldingen van apps beveiligd door appvergrendeling verbergen</string>
   <string name="notification_open_extreme_mode_text">Extreme batterijbesparing inschakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
+   <string name="notify_channel_mipush">Beveiligings pushberichten</string>
   <string name="notify_channel_name_security">Systeembeveiliging</string>
+  <string name="notify_channel_optimize">Beveiligingsmeldingen</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
   <string name="notify_daily_limit_title">Vandaag %s verbruikt</string>
@@ -2315,6 +2330,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="uninstall_danagerous_msg">\"%s\" kan uw apparaat beschadigen, de prestaties verminderen of ervoor zorgen dat uw apparaat zomaar opnieuw opstart.</string>
   <string name="uninstall_danagerous_title">Schadelijke apps verwijderen</string>
   <string name="unlike">Nee bedankt</string>
+  <string name="unlock_failed">Interne fout</string>
   <string name="unlock_pattern">Patroon</string>
   <string name="unlock_pattern_to_bind_fingerprint">Voer wachtwoord in om vingerafdruk te activeren</string>
   <string name="unlock_set_unlock_password_summary">Combineer verschillende karakters</string>
