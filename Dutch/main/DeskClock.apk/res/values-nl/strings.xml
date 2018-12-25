@@ -99,7 +99,6 @@
   <string name="menu_item_sort_by_name">Sorteren op naam</string>
   <string name="module_download_cancel">Nee bedankt</string>
   <string name="module_download_data_msg">De klok moet verbinding maken met internet om audiobestanden te downloaden voor MIUI 10 weeralarmen en omgevingsgeluidstimers. 20 MB aan mobiele gegevens is vereist voor deze download. Toestaan?</string>
-  <string name="module_download_data_msg_golbal">De klok moet audiobestanden downloaden voor MIUI 10 weeralarmen en omgevingsgeluidstimers. 20 MB aan mobiele gegevens is vereist voor deze download. Toestaan?</string>
   <string name="module_download_data_msg_golbal">De klok moet audiobestanden (20 MB) downloaden voor omgevingsgeluiden en slimme alarmen. U gebruikt nu mobiele gegevens. Toestaan?</string>
   <string name="module_download_fail">Kon geen extra audio downloaden</string>
   <string name="module_download_msg">Om slimme alarmen, natuurgeluiden en verjaardagsalarmen beschikbaar te maken, moet de klok verbinding maken met internet en toegang krijgen tot uw contacten. Je zult ook extra audio moeten downloaden. Akkoord?</string>

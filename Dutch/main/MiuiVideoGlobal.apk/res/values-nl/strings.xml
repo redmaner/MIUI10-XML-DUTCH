@@ -179,7 +179,7 @@
   <string name="lv_folder_null">Onbekende map</string>
   <string name="lv_fullscreen">Volledig scherm</string>
   <string name="lv_hide_folder">Verborgen video\'s</string>
-  <string name="lv_hide_prompt">Met succes ingesteld. Bekijk verborgen items in de \"Verborgen video's\" map.</string>
+  <string name="lv_hide_prompt">Met succes ingesteld. Bekijk verborgen items in de \"Verborgen video\'s\" map.</string>
   <string name="lv_history">Geschiedenis</string>
   <string name="lv_history_null">Geen items hier</string>
   <string name="lv_home_favorites">Favorieten</string>
