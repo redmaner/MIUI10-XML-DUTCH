@@ -64,6 +64,9 @@ kan op elk moment bekeken worden"</string>
   <string name="create_work_space">Werkruimte aanmaken</string>
   <string name="creating_app_icon">Icoon aanmaken…</string>
   <string name="current_space">Huidige ruimte</string>
+  <string name="cta_declaration_agree_and_continue">Akkoord</string>
+  <string name="cta_declaration_message_format" formatted="false">U moet onze informatie lezen en ermee instemmen &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; voordat u de Enterprise modus gebruikt. Uw apparaat moet verbinding met internet maken om de Enterprise modus te activeren. Akkoord?</string>
+  <string name="cta_declaration_title">Algemene voorwaarden</string>
   <string name="dataSafe">Het gebruik van de tweede ruimte is net alsof u twee apparaten hebt.</string>
   <string name="declare_dialog_title">Over gedupliceerde apps</string>
   <string name="deleteAll">Alle verwijderen</string>

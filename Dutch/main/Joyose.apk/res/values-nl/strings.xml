@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Instellingen</string>
+  <string name="activity_title_fakecell">Bescherming tegen valse basisstations</string>
+  <string name="app_name">Steps Provider</string>
+  <string name="detect_fakecell">Herken SMS van valse basisstations</string>
+  <string name="forbidden_fakecell">Maak geen verbinding met valse basisstations</string>
+  <string name="forbidden_fakecell_summary">Voorkom dat uw telefoon verbinding maakt met valse basisstations</string>
+  <string name="foreground_text">Gebruik de voorgrondservice om het actieve niveau te promoten</string>
+  <string name="foreground_title">Voorgrondservice</string>
+  <string name="hello_world">Hella Wereld!</string>
+  <string name="joyose_name">Joyose</string>
+  <string name="lab_switch_server">Wissel van server</string>
+  <string name="not_support_forbidden_fakecell">Uw apparaat biedt geen ondersteuning voor bescherming van de chip op valse basisstations.</string>
+  <string name="permstep_description">Toestaan dat de app de stapinformatie van uw telefoon leest</string>
+  <string name="permstep_label">Lees stappen</string>
+  <string name="restart_details">Als u deze functie in- of uitschakelt, moet u uw apparaat opnieuw opstarten. Nu herstarten?</string>
+  <string name="restart_later">Later</string>
+  <string name="restart_now">Nu herstarten</string>
+  <string name="support_forbidden_fakecell">Opmerking: het beperken van de verbinding met valse basisstations kan het signaal verlagen in gebieden met een slechte dekking.</string>
+  <string name="switch_international">Schakel over naar overzeese server</string>
+  <string name="switch_to_official">Schakel over naar officiële server</string>
+  <string name="switch_to_staging">Schakel over naar stagingserver</string>
+</resources>

@@ -14,7 +14,7 @@
         <item quantity="one">%d bericht is niet gesynchroniseerd</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s geselecteerde gesprekken verwijderen?</item>
+        <item quantity="other">&lt;g example="15" id="number">%1$s&lt;/g> geselecteerde gesprekken verwijderen?</item>
         <item quantity="one">Dit gesprek verwijderen?</item>
     </plurals>
 	<plurals name="custom_select_title_items_selected">

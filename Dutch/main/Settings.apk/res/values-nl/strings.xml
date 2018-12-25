@@ -2200,7 +2200,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_shortcuts_helper">Toetsenbord snelkoppeling helper</string>
   <string name="keyboard_shortcuts_helper_summary">Beschikbare snelkoppelingen weergeven</string>
   <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
-  <string name="keyguard_notification_status_title">Meldingen</string>
+  <string name="keyguard_notification_status_title">Wanneer meldingen worden weergegeven en het scherm is uitgeschakeld</string>
   <string name="keyguard_security_setting_others">Andere</string>
   <string name="keyguard_security_setting_privacy_policy">Privacybeleid</string>
   <string name="keyguard_vertical_clock_title">Verticale klok</string>
@@ -4859,8 +4859,9 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_off_keyguard_password_alert_title">Uitschakelen</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sommige beveiligingsfuncties zullen niet werken zonder uw wachtwoord.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Wachtwoord verwijderen…</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Nadat u uw wachtwoord voor het vergrendelscherm hebt uitgeschakeld, worden opgenomen gezichtsgegevens verwijderd. Je zal niet meer in staat zijn om het apparaat te ontgrendelen met behulp van je gezicht.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal niet in staat zijn om het apparaat te ontgrendelen met uw vingerafdruk nadat u het wachtwoord heeft uitgeschakeld.</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Nadat u uw wachtwoord voor het vergrendelscherm hebt uitgeschakeld, worden geregistreerde vingerafdrukken verwijderd. U kunt het apparaat niet ontgrendelen met uw vingerafdruk.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Nadat u uw wachtwoord voor het vergrendelscherm hebt uitgeschakeld, worden geregistreerde vingerafdrukken en gezichtsgegevens verwijderd. Je zal niet meer in staat zijn om het apparaat te ontgrendelen met behulp van je gezicht of vingerafdruk.</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
   <string name="turn_on_keyguard_password">Wachtwoord op vergrendelscherm inschakelen</string>
   <string name="turn_on_keyguard_password_alert">Onthoud het wachtwoord. Als je het vergeet zal je het niet kunnen herstellen</string>

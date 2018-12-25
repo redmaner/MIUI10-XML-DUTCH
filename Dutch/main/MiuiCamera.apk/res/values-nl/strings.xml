@@ -81,6 +81,8 @@
   <string name="cannot_connect_camera_twice">Kan nog steeds geen verbinding maken met de camera. Probeer uw apparaat opnieuw op te starten.</string>
   <string name="cannot_connect_camera_volte_call">Videooproep is aan de gang, probeer het later opnieuw.</string>
   <string name="cannot_move_warning_message">Fotograferen, houd het apparaat stil</string>
+  <string name="close_back_flash_toast">Uw apparaat heeft te warm. Kan de flitser nu niet gebruiken.</string>
+  <string name="close_front_flash_toast">Uw apparaat heeft te warm. Kan de flitser nu niet gebruiken</string>
   <string name="color_effect_entry_berry">Bessen</string>
   <string name="color_effect_entry_blackwhite">B&amp;W</string>
   <string name="color_effect_entry_cookie">Cookie</string>
@@ -460,6 +462,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_groupshot_with_primitive_title">Originele foto\'s ook opslaan in groepselfiemodus</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Je kunt alleen 720P video\'s opnemen met 240Ffps</string>
+  <string name="pref_privacy_title">Privacybeleid</string>
   <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
   <string name="pref_qc_focus_position_title">Focus</string>
   <string name="pref_retain_camera_mode_summary">Schakel de camera naar de eerder gebruikte modus wanneer u de app opent.</string>

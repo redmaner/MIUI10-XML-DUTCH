@@ -75,4 +75,8 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">%d minuut geleden</item>
     </plurals>
+	<plurals name="miot_device_camera_size">
+        <item quantity="other">%d slimme camera\'s</item>
+        <item quantity="one">%d slimme camera</item>
+    </plurals>
 </resources>

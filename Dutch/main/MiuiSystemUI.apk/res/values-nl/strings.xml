@@ -32,6 +32,7 @@
   <string name="accessibility_action_divider_top_full">Volledig scherm boven</string>
   <string name="accessibility_airplane_mode">Vliegmodus.</string>
   <string name="accessibility_ambient_display_charging">Opladen</string>
+  <string name="accessibility_aspect_button">Volledig scherm modus</string>
   <string name="accessibility_assistant">Quick ball</string>
   <string name="accessibility_back">Vorige</string>
   <string name="accessibility_battery_details">Batterij details openen</string>
@@ -268,6 +269,10 @@
   <string name="app_process_limit_title">Achtergrond proceslimiet</string>
   <string name="as_important">Belangrijk</string>
   <string name="as_unimportant">Onbelangrijk</string>
+   <string name="aspect_cancel">Annuleren</string>
+  <string name="aspect_message">Deze app wordt opnieuw gestart in volledig scherm modus. Als u problemen ondervindt, kunt u volledig scherm modus uitschakelen voor deze app in Instellingen &gt; Volledig scherm &gt; Volledig scherm.</string>
+  <string name="aspect_ok">Ok</string>
+  <string name="aspect_title">Volledig scherm modus</string>
   <string name="audio_effect_custom">Configureren</string>
   <string name="audio_effect_info">Audio optimaliseren</string>
   <string name="audio_effect_settings">Kies type hoofdtelefoon</string>
@@ -914,6 +919,9 @@ Probeer opnieuw over %2$d seconden."</string>
   <string name="lock_screen_carrier_airplane_mode_on">Vliegmodus</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="lock_screen_magazine_default_content">Dagelijkse portie nieuwe foto\'s</string>
+  <string name="lock_screen_magazine_default_title">Achtergrondcarrousel</string>
+  <string name="lock_screen_magazine_global_button_text">Meer</string>
   <string name="lock_screen_no_sim_card_emergency_only">Alleen noodoproepen</string>
   <string name="lock_screen_no_sim_card_no_service">Geen service</string>
   <string name="lock_wallpaper_enter">Invoeren</string>
