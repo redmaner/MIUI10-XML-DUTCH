@@ -156,7 +156,7 @@
   <string name="backup_device_space_low_title">Niet genoeg opslagruimte</string>
   <string name="backup_dirty_num">Totaal: %s</string>
   <string name="backup_dirty_tip">Foto\'s en video\'s die niet zijn geback-upt</string>
-   <string name="backup_file_over_size_desc">Foto's groter dan %1$s en video\'s groter dan %2$s kunnen niet worden geback-upt.</string>
+   <string name="backup_file_over_size_desc">Foto\'s groter dan %1$s en video\'s groter dan %2$s kunnen niet worden geback-upt.</string>
   <string name="backup_immediately">Back-up</string>
   <string name="backup_need_sync_desc">Tik om back-up te hervatten</string>
   <string name="backup_need_sync_title">Back-up gestopt</string>
