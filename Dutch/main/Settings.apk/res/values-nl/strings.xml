@@ -4414,6 +4414,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_settings_notification_use_app_icon">Gebruik appiconen voor meldingen</string>
   <string name="status_bar_settings_notification_vibrate">Trillen</string>
   <string name="status_bar_settings_peek_notification_icon">Iconen voor inkomende meldingen weergeven</string>
+  <string name="status_bar_settings_qs_layout">Lay-out snelle instellingen</string>
   <string name="status_bar_settings_show_carrier">Provider weergeven</string>
   <string name="status_bar_settings_show_carrier_summary">Providernaam zal nog steeds worden weergegeven op het vergrendelscherm en op het notificatiescherm als deze functie is uitgeschakeld</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Provider weergeven wanneer het apparaat is vergrendeld</string>
