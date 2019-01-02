@@ -183,6 +183,8 @@
   <string name="app_manager_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_manager_force_stop_dlg_text">Als u een app gedwongen stopt, kan deze zich onverwacht gedragen.</string>
   <string name="app_manager_force_stop_dlg_title">Gedwongen stoppen?</string>
+  <string name="app_manager_full_screen_summary">Toestaan dat geselecteerde apps werken in volledig scherm modus</string>
+  <string name="app_manager_full_screen_title">Volledig scherm modus</string>
   <string name="app_manager_globel_other_perm_title">Andere toestemmingen</string>
   <string name="app_manager_globel_perm_summary">Toestemmingen gerelateerd aan locatie, opslag, bellen, berichten en contacten beheren.</string>
   <string name="app_manager_globel_perm_title">Apptoestemmingen</string>

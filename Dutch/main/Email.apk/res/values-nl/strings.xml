@@ -73,7 +73,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_address_label">E-mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Controleer of de gebruikersnaam, het wachtwoord en de accountinstellingen correct zijn.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Kon account niet instellen</string>
-  <string name="account_setup_basics_email_label">Voer e-mailadres in</string>
+  <string name="account_setup_basics_email_label">E-mailadres</string>
   <string name="account_setup_basics_login_gmail_without_proxy">De huidige netwerkverbinding gebruiken</string>
   <string name="account_setup_basics_manual_setup_action">Handmatig instellen</string>
   <string name="account_setup_basics_mi_mail_login_help">Mogelijk moet je je account verifiëren met een SMS om e-mails te ontvangen</string>
@@ -361,7 +361,9 @@ Nu bijwerken?"</string>
   <string name="device_not_activiey_lint1">Apparaatbeheer is niet geactiveerd</string>
   <string name="device_not_activiey_lint2">Mail service werkt niet goed wisselen</string>
   <string name="dialog_account_auto_sync_setting_no_open">Kan geen nieuwe berichten automatisch ontvangen. Sync. is uitgeschakeld.</string>
+  <string name="dialog_agree">Akkoord</string>
   <string name="dialog_change_sync_lookback">E-mails die %s geleden zijn ontvangen worden automatisch verwijderd. Tik om te wijzigen.</string>
+  <string name="dialog_disagree">Niet akkoord</string>
   <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
   <string name="dialog_system_auto_sync_account_no_open">Schakel accountsynchronisatie in om e-mails automatisch te ontvangen</string>
@@ -527,6 +529,7 @@ Nu bijwerken?"</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
   <string name="invalid_recipient">Het adres %s is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers fout</string>
+  <string name="list_empty_to_fresh">Geen e-mail, naar beneden trekken om te vernieuwen.</string>
   <string name="load_from_remote">Mailbox zoeken op server</string>
   <string name="load_more">Meer laden</string>
   <string name="loading_conversation">Laden…</string>
@@ -681,16 +684,17 @@ Probeer een andere inbox."</string>
   <string name="note_title">139 Email Automatishe Configuratie</string>
   <string name="notification_action_archive">Archiveren</string>
   <string name="notification_action_delete">Verwijderen</string>
-  <string name="notification_action_remove_label">Tag verwijderen</string>
+  <string name="notification_action_remove_label">Label verwijderen</string>
   <string name="notification_action_reply">Beantwoorden</string>
   <string name="notification_action_reply_all">Allen beantwoorden</string>
   <string name="notification_action_undo_archive">Gearchiveerd</string>
   <string name="notification_action_undo_delete">Verwijderd</string>
-  <string name="notification_action_undo_remove_label">Tag verwijderd</string>
+  <string name="notification_action_undo_remove_label">Label verwijderd</string>
   <string name="notification_exchange_calendar_added">Uitwissel kalender toegevoegd</string>
-  <string name="notify_channel_new_mail">Nieuwe berichten melden</string>
+  <string name="notify_channel_new_mail">Nieuwe e-mailherinnering</string>
+  <string name="notify_channel_no_disterb">Niet storen modus</string>
   <string name="notify_channel_permission_notice">Toestemmingsmelding herinnering</string>
-  <string name="notify_channel_send_fail">Mislukte levering melden</string>
+  <string name="notify_channel_send_fail">Herinnering bij foutmelding verzenden</string>
   <string name="oauth_error_description">Kon niet authentificeren</string>
   <string name="oauth_gmail_login_notify">Voer uw Google account gebruikersnaam en wachtwoord in op de volgende pagina</string>
   <string name="oauth_login_continue">Doorgaan</string>
@@ -949,7 +953,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kan SD-kaart niet gebruiken</string>
-  <string name="search_bar_text">Zoek op berichten of contact</string>
+  <string name="search_bar_text">Zoek op afzenders of contact</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">"Resultaten "</string>
   <string name="search_tabs_name_all">Alle</string>
@@ -1084,7 +1088,7 @@ Account verwijderen?"</string>
   <string name="update_date_format_templete">dd MMMM, HH:mm</string>
   <string name="update_to_wps_mail">Geniet van meer functies WPS Mail</string>
   <string name="updated_at">Laatst bijgewerkt op %1$s</string>
-  <string name="upload_log">Logs uploaden</string>
+  <string name="upload_log">Verzenden</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="upload_log_no">Annuleren</string>
   <string name="upload_log_success">Met succes verzonden. We nemen spoedig contact met u op.</string>

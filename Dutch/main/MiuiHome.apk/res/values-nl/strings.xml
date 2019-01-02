@@ -102,6 +102,7 @@
   <string name="delete_wallpaper_message">%1$d achtergrond verwijderen?</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="disable_wallpaper_scroll">Opzij scrollen uitschakelen</string>
+  <string name="double_tap_to_lock_title">Dubbel tikken om het scherm te vergrendelen</string>
   <string name="download_action">Downloaden</string>
   <string name="edit_folder_title">Mapnaam bewerken</string>
   <string name="edit_mode_group">Groep</string>
