@@ -17,8 +17,8 @@
   <string name="calibrate_tip">Kantel uw apparaat om de bal rond de cirkel te rollen</string>
   <string name="calibrate_title">Kompas kalibreren</string>
   <string name="cancel">Annuleren</string>
-  <string name="cannot_get_location">Onbekende locatie</string>
-  <string name="dialog_body_no_network">Kan niet verbinden met netwerk</string>
+  <string name="compass_settings">Instellingen</string>
+  <string name="dialog_body_no_network">Verbinden met Wi-Fi of schakel de mobiele data in</string>
   <string name="dialog_calibrat_altitude">Bezig met kalibreren…</string>
   <string name="dialog_title_no_network">Netwerk inschakelen</string>
   <string name="direction_east">O</string>

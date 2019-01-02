@@ -91,7 +91,7 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="data_provided_by">Gegevens gedeeltelijk verzorgd door</string>
   <string name="edit_city">Steden beheren</string>
   <string name="eu_region_version_first_start_network_msg">"Door dit product te gebruiken, gaat u ermee akkoord dat Xiaomi uw persoonlijke informatie verzamelt, verwerkt en gebruikt, inclusief de coördinaten van de steden die u doorzoekt, en andere soorten gegevens die worden vermeld in ons Privacybeleid. Raadpleeg ons Privacybeleid om te weten te komen hoe wij verzamel en verwerk informatie Door op \"Akkoord \" te tikken, ga je akkoord met Xiaomi's %1$s and %2$s."</string>
-   <string name="feedback_cloudy">Bewolkt</string>
+  <string name="feedback_cloudy">Bewolkt</string>
   <string name="feedback_foggy">Mistig</string>
   <string name="feedback_haze">Nevel</string>
   <string name="feedback_moderate_rain">Regen</string>
@@ -182,7 +182,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="retry">Opieuw proberen</string>
   <string name="search_weather">Weer</string>
   <string name="search_weather_keywords">Temperatuur;Weersverwachting;Weer;Luchtkwalitiet;Vervuiling;Vochtigheid</string>
-  <string name="set">Instellingen</string>
+  <string name="settings">Instellingen</string>
   <string name="share">Delen</string>
   <string name="share_button">Delen</string>
   <string name="share_menu_title">Delen</string>

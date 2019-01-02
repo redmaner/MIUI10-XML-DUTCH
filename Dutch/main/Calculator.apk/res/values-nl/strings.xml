@@ -24,6 +24,7 @@
   <string name="cancel">Annuleren</string>
   <string name="check_phone_error_title">Synchronstatie is uitgeschakeld</string>
   <string name="check_phone_io_error">Kan niet verbinden met netwerk</string>
+  <string name="children_education">Onderwijs voor kinderen</string>
   <string name="choose_currency">Valuta selecteren</string>
   <string name="choose_unit">Eenheid selecteren</string>
   <string name="city">Stad</string>
@@ -70,6 +71,10 @@
   <string name="error_not_acceptable">Synchronisatie is uitgeschakeld.</string>
   <string name="error_title">Kon niet syncroniseren</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld vanwege te veel aanmeldingspogingen.</string>
+  <string name="exit">Afsluietn</string>
+  <string name="extra_deduction_instruction">Aftrek details</string>
+  <string name="extra_deduction_tips">Tik op de knop in de bovenhoek van het scherm om aftrek details weer te geven.</string>
+  <string name="extra_deduction_title">Extra aftrekkingen</string>
   <string name="factorialDesc">faculteit</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -85,11 +90,14 @@
   <string name="from_unit_en">Kilometer per uur</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund_loan">Fondslening</string>
+  <string name="further_education">Verder aftrekkingen</string>
   <string name="global_network_confirm_content">Het converteren van eenheden heeft verbinding met internet nodig om te werken.</string>
   <string name="golbal_search_calculator_setting">Rekenmachine;Rekenmachine-instellingen;Instellingen</string>
   <string name="golbal_search_path_calculator_setting">Systeemapps/Rekenmachine/Instellingen</string>
+  <string name="home_loan">Hypotheekrente</string>
   <string name="home_title_calculator">Rekenmachine</string>
-   <string name="hybrid_provider">Aangeboden door %1$s</string>
+  <string name="house_rent">Huur</string>
+  <string name="hybrid_provider">Aangeboden door %1$s</string>
   <string name="immersion_button_close_description">afsluiten</string>
   <string name="install">Installeren</string>
   <string name="install_scanner_to_continued_use">Scanner is verwijderd. Opnieuw installeren?</string>
@@ -112,8 +120,10 @@
   <string name="item_title_weight_conversion">Massa</string>
   <string name="leftParenDesc">linkerhaakje</string>
   <string name="lgDesc">logaritme</string>
+  <string name="license_host_unreachable">Kon geen verbinding maken met netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
   <string name="lnDesc">natuurlijk logaritme</string>
-  <string name="loading_fail_message_no_network">Kon niet verbinden met netwerk. tik hier om opnieuw te proberen</string>
+  <string name="loading">Een momentje…</string>
+  <string name="loading_fail_message_no_network">Kon geen verbinding maken met netwerk. tik hier om opnieuw te proberen</string>
   <string name="loading_fail_refresh">Vernieuwen</string>
   <string name="loading_message">App laden…</string>
   <string name="loading_slogan">Gebruik apps zonder ze te installeren</string>
@@ -131,12 +141,13 @@
   <string name="loan_repayment_detail">Detailed repaymentGedetailleerde terugbetaling</string>
   <string name="loan_repayment_detail_loading">Gedetailleerde terugbetaling laden…</string>
   <string name="loan_repayment_detail_unit">Gedetailleerde terugbetaling (CNY)</string>
+  <string name="medical_treatment">Medische behandeling</string>
   <string name="menuDesc">menu</string>
   <string name="minusDesc">minus</string>
   <string name="monday">Maandag</string>
   <string name="monday_short">Maan</string>
   <string name="monday_shortest">M</string>
-   <string name="month_april">April</string>
+  <string name="month_april">April</string>
   <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">A</string>
   <string name="month_august">Augustus</string>
@@ -205,6 +216,7 @@
   <string name="mortgage_tab_combining_loan">Hybride</string>
   <string name="mortgage_tab_commercial_loan">Commercieel</string>
   <string name="mortgage_years_amount">Hypotheekperiode</string>
+  <string name="mt_max">Het bedrag dat u hebt ingevoerd, is te groot</string>
   <string name="mulDesc">vermenigvuldigen</string>
   <string name="name">Naam</string>
   <string name="negDesc">Wissel tussen temperaturen onder en boven nul</string>
@@ -213,6 +225,7 @@
   <string name="nickname">roepnaam</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_sim">Geen SIM kaart gedecteerd.</string>
+  <string name="none">Geen</string>
   <string name="not_supported_due_to_language">Deze functie is alleen beschikbaar voor de Chinese taal</string>
   <string name="note">Notitie</string>
   <string name="organization">Organisatie</string>
@@ -295,9 +308,10 @@
   <string name="solar_term_winter_solstice">Winter zonnewende</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">vierkantswortel</string>
-   <string name="sunday">Zondag</string>
+  <string name="sunday">Zondag</string>
   <string name="sunday_short">Zon</string>
   <string name="sunday_shortest">Z</string>
+  <string name="support_elder">Ondersteuning voor ouderen</string>
   <string name="switchDesc">Wisselen</string>
   <string name="sync_one_time_sync">Tik om te syncroniseren( %1$s )</string>
   <string name="tab_title_calculator">Calculator</string>
@@ -341,7 +355,7 @@
   <string name="tax_location">Locatie</string>
   <string name="tax_medical">Medisch</string>
   <string name="tax_param_error">Voer correcte verzekeringstarieven in</string>
-  <string name="tax_rate_provider">Gegevens voorzien door hexun.com en East Money</string>
+  <string name="tax_rate_provider">Berekend volgens de nieuwe belastingregels. Gegevens worden geleverd door hexun.com en East Money.</string>
   <string name="tax_result_real_get">Na belasting</string>
   <string name="tax_social_insurance">Sociale verzekering</string>
   <string name="tax_thershold_foreign">%s (vreemdelingen)</string>
@@ -449,6 +463,7 @@
   <string name="unit_data_display_weight_uk.st">Stone</string>
   <string name="unit_data_display_weight_us.cwt">US hundredweight</string>
   <string name="unit_year_format">Jaar %s</string>
+  <string name="updating">Bezig met rekenmachine aan het bijwerken…</string>
   <string name="user_agreement">Servicevoorwaarden</string>
   <string name="user_manual">Gebruikershandleiding</string>
   <string name="voiceDesc">Stem gestuurd</string>

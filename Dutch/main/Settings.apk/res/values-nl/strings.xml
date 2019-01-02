@@ -240,6 +240,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="another_migration_already_in_progress">Een andere migratie is al aan de gang.</string>
   <string name="anti_spam">Zwarte lijst</string>
+  <string name="aod_clock_style_title">Klok stijl</string>
   <string name="aod_close_color_inversion">Deze functie kan niet worden gecombineerd met kleurinversie. Schakel eerst kleurinversie uit.</string>
   <string name="aod_got_it">Begrepen</string>
   <string name="aod_mode_summary">Tijd, datum en berichten altijd weergeven wanneer het scherm is uitgeschakeld.</string>
@@ -4151,6 +4152,8 @@ Opmerking: Je kan je vingerafdruk niet gebruiken om dit apparaat te ontgrendelen
   <string name="services_subtitle">Services</string>
   <string name="set_data_limit">Datalimiet instellen</string>
   <string name="set_data_warning">Data waarschuwing instellen</string>
+  <string name="set_jeejen_prompt_message">Jeejen wordt ingesteld als uw standaard launcher. U kunt de standaard launcher in Instellingen wijzigen &gt; Systeem instellingen &gt; Startscherm &amp; Recente &gt; Standaard launcher.</string>
+  <string name="set_jeejen_prompt_title">Wijzigingen bevestigen</string>
   <string name="setting_privacy_password">Privacy wachtwoordbeveiliging instellen</string>
   <string name="settings_ad_loading">Laden…</string>
   <string name="settings_ad_loading_unavailable">Er is een probleem tijdens het laden.</string>
@@ -5824,7 +5827,10 @@ als u uw publieke netwerk deelt."</string>
   <string name="work_profile_usage_access_warning">"Gebruikstoegang uitschakelen voor deze app verhindert niet dan de beheerder datagebruik van apps bijhoudt in je werkprofiel"</string>
   <string name="work_ringtone_title">Werktelefoon beltoon</string>
   <string name="work_sim_title">Werk SIM</string>
-  <string name="work_sound_same_as_personal">Same as personal profile</string>
+  <string name="work_sound_permission_dialog_button_text_known">Begrepen</string>
+  <string name="work_sound_permission_dialog_message">U kunt thema\'s niet gebruiken in de bedrijfsmodus. Neem contact op met uw supervisor om toegang te krijgen.</string>
+  <string name="work_sound_permission_dialog_title">Beperkingen bedrijfsmodus</string>
+  <string name="work_sound_same_as_personal">Hetzelfde als persoonlijk profiel</string>
   <string name="work_space_delete">Werkruimte verwijderen</string>
   <string name="work_space_delete_confirm">Nu verwijderen</string>
   <string name="work_space_delete_description">Je zal niet in staat zijn om de werkruimte te gebruiken nadat je het hebt verwijderd. Alle gegevens worden verplaatst of verwijderd.</string>
