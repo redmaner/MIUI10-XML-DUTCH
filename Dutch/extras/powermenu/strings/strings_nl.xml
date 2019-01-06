@@ -5,4 +5,6 @@
     <string name="label_shutdown">Uitschakelen</string>
     <string name="label_alert_reboot">Tik om te herstarten</string>
     <string name="label_alert_shutdown">Tik om uit te schakelen</string>
+    <string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_fastboot">Fastboot</string>       
 </resources>

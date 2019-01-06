@@ -1444,8 +1444,8 @@ gecontroleerd worden "</string>
   <string name="status_bar_clear_all_button">Wisssen</string>
   <string name="status_bar_clock_date_format">E, d MMM</string>
   <string name="status_bar_clock_date_format_12">E, MMM d</string>
-  <string name="status_bar_clock_date_time_format">mm:H MMM d</string>
-  <string name="status_bar_clock_date_time_format_12">mm:h MMM d</string>
+  <string name="status_bar_clock_date_time_format">H:mm MMM d</string>
+  <string name="status_bar_clock_date_time_format_12">h:mm MMM d</string>
   <string name="status_bar_date_format">"E d MMM"</string>
   <string name="status_bar_date_format_12">"E d MMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
