@@ -255,6 +255,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contactsGroupsLabel">Groepen</string>
   <string name="contactsJoinedMessage">Contacten zijn samengevoegd</string>
   <string name="contactsList">Contacten</string>
+  <string name="contacts_default_notification_channel">Meldingen</string>
   <string name="contacts_hybrid_activity_label">Contacten herstellen</string>
   <string name="contacts_setting_title">Contactinstellingen</string>
   <string name="contacts_unavailable_add_account">Inloggen bij een account</string>

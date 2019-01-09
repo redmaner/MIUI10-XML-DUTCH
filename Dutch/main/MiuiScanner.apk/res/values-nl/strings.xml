@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_title">Over</string>
   <string name="access_sd_fail">Kreeg geen toegang tot SD-kaart</string>
   <string name="accessibility_shutter_button">Shutter</string>
+  <string name="action_search">Zoeken</string>
   <string name="address">Adres:</string>
   <string name="agree_btn">Akkoord</string>
   <string name="amazon_assistant_shopping_title">Zoeken op Amazon</string>
@@ -13,6 +15,7 @@
   <string name="barcode_into_rectangle">Plaatst de code in het kader</string>
   <string name="birthday">Verjaardag:</string>
   <string name="business_card">Visitekaartje</string>
+  <string name="business_card_result_title">Visitekaartje</string>
   <string name="business_card_title">Plaats het visitekaartje in het kader</string>
   <string name="business_copy">Kopiëren</string>
   <string name="business_new_contacts">Contact aanmaken</string>
@@ -21,8 +24,10 @@
   <string name="call_anyone">Bellen</string>
   <string name="camera_error_title">Camera fout</string>
   <string name="cancel">Annuleren</string>
+  <string name="choose_pay_title">Betalingsmethode selecteren</string>
   <string name="choose_picture">QR code afbeelding selecteren</string>
   <string name="common_retake_picture">Opnieuw nemen</string>
+  <string name="common_retry">Opnieuw proberen</string>
   <string name="common_save">Opslaan</string>
   <string name="company">Bedrijf:</string>
   <string name="confirm">Ok</string>
@@ -34,6 +39,7 @@
   <string name="copy_text_success">Tekst gekopieerd</string>
   <string name="crop_cancel_description">Annuleren</string>
   <string name="crop_done_description">Voltooid</string>
+  <string name="crop_title_study">Foto bijsnijden</string>
   <string name="crop_title_translation">Tekst om te vertalen selecteren</string>
   <string name="document_color_picture">Kleur</string>
   <string name="document_color_picture_tip">Omzetten naar kleur…</string>
@@ -57,6 +63,7 @@
   <string name="email">E-mail:</string>
   <string name="error_camera_disabled">De toegang tot de camera is geweigerd vanwege veiligheidsredenen</string>
   <string name="error_cannot_connect_camera">Kan niet verbinden met camera</string>
+  <string name="error_empty_result">Kon geen resultaten vinden</string>
   <string name="error_get_image">Kon afbeelding niet ophalen</string>
   <string name="error_media_storage_failure">Kon foto niet opslaan</string>
   <string name="error_permissions">Scanner heeft geen rechten om het normaal te laten werken. Ga naar Instellingen en controleer de toestemmingen om verder te gaan.</string>
@@ -71,9 +78,10 @@
   <string name="impunity_declaration_title">Privacybeleid</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Herkenning;Barcode;Barcodes;Product;Producten;Alipay;WeChat;Hoe QR code scannen;Hoe barcode scannen;Hoe scannen;MIUI scanner</string>
   <string name="keywords_search_document">Scanner;Document scannen;Documenten scannen;OCR;Tekst scannen;Scan</string>
-  <string name="keywords_search_settings">Scanner;Scanner netwerkinstellingen</string>
+  <string name="keywords_search_namecard">Scanner;Visitekaartje;Visitekaartjes;Scannen;Kaarten scannen;Kaart;Kaarten;Contacten;Contact</string>
   <string name="keywords_search_shopping">Shoppen;Scanner;Producten scannen;Product scannen;Prijs checken;Producten;Taobao;Tmall;Prijzen;Online shoppen</string>
-  <string name="keywords_search_translation">Scanner;Vertalen;Woordenboek;Engels;Vreemde taal;Taal;Talen;Engels naar Chinees;Italiaans;Duits;Japans;Koreaans;Spaans;Frans; Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
+  <string name="keywords_search_study">Scanner;Problemen;Problemen oplossen;Huiswerk;School;Fysica;Chemie;Math;Wiskunde;Engels;Geschiedens;Chinese</string>
+  <string name="keywords_search_translation">Scanner;Vertalen;Woordenboek;Engels;Vreemde taal;Taal;Talen;Engels naar Chinees;Italiaans; Duits;Japans; Koreaans;Spaans;Frans;Baidu Vertalen;Youdao Woordenboek;Baidu Woordenboek;Google Vertalen;</string>
   <string name="label_choose_picture">Afbeelding kiezen</string>
   <string name="label_flash_light">Zaklamp</string>
   <string name="language_entry_chinese_cn">Vereenvoudigd Chinees</string>
@@ -95,17 +103,18 @@
   <string name="module_title_code">QR code</string>
   <string name="module_title_document">Document</string>
   <string name="module_title_shopping">Shoppen</string>
+  <string name="module_title_study">Studeren</string>
   <string name="module_title_translation">Vertalen</string>
   <string name="name">Naam:</string>
   <string name="new_schedule">Evenement aanmaken</string>
   <string name="nickname">Roepnaam:</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_storage">Geen interne opslag</string>
+  <string name="no_support_to_translate_type">Deze taal wordt niet ondersteund</string>
   <string name="not_insert_contact">Kan geen contact toevoegen</string>
   <string name="not_recommend_access_web_url">Verlaten</string>
   <string name="note">Opmerking:</string>
   <string name="open_url">URL openen</string>
-  <string name="path_scanner_setting">Systeemapps/Scanner</string>
   <string name="payment_text">Openen met %s</string>
   <string name="phone">Telefoon:</string>
   <string name="place_barcode_into_rectangle">Plaats de code binnen het kader</string>
@@ -129,13 +138,23 @@
   <string name="see_app_details">App details weergeven</string>
   <string name="select_dialog_confirm">Ok</string>
   <string name="send_mail">E-mail zenden</string>
+  <string name="setting_choose_every_time">Altijd vragen</string>
+  <string name="setting_default_function">Standaard functie</string>
+  <string name="setting_preference_pay">Voorkeurbetalingsmethode</string>
+  <string name="setting_title">Instellingen</string>
+  <string name="setting_use_last_choose">Vorige keuze onthouden</string>
   <string name="shopping_searching">Zoeken…</string>
   <string name="shopping_title">Neem een foto van het product</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">Niet genoeg ruimte op de interne opslag. Maak ruimte vrij.</string>
+  <string name="study_rotate_picture">Foto aan het verwerken</string>
+  <string name="study_scan_result">Resultaat</string>
+  <string name="study_searching">Zoeken naar resultaat</string>
+  <string name="study_title">Neem een foto van het probleem</string>
   <string name="switch_open">Inschakelen</string>
   <string name="tel">Telefoon</string>
   <string name="title">Titel:</string>
+  <string name="to_pay">Betaling voltooien</string>
   <string name="translate_auto_lock">Vertalen vergrendelen</string>
   <string name="translate_auto_unlock">Vertalen ontgrendelen</string>
   <string name="translate_copy_success">Met succes gekopieerd</string>

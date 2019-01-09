@@ -71,7 +71,7 @@
   <string name="show_screen_touch_summary">Aanrakingen weergeven met een witte stip</string>
   <string name="sound_source">Geluidsbron</string>
   <string name="sound_source_summary">Systeemgeluiden of microfoon</string>
-   <string name="sound_source_summary_without_system_sounds">Gebruik microfoon of demp het geluid</string>
+  <string name="sound_source_summary_without_system_sounds">Gebruik microfoon of demp het geluid</string>
   <string name="start">Starten</string>
   <string name="start_recording">Opname starten</string>
   <string name="stop_by_second_space">Van gebruiker wisselen zal het opnemen stoppen</string>
@@ -83,4 +83,5 @@
   <string name="unchecked">Niet geselecteerd</string>
   <string name="using_record_confirm_cancel">Beperken</string>
   <string name="using_record_confirm_ok">Toestaan</string>
+  <string name="warning_recording_when_a2dp_connect">Uw apparaat biedt geen ondersteuning voor het opnemen van systeemgeluiden terwijl de Bluetooth headset in gebruik is.</string>
 </resources>

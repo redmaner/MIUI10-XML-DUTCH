@@ -172,6 +172,9 @@
         <item quantity="other">%s minuten</item>
         <item quantity="one">1 minuut</item>
     </plurals>
+	<plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d toegevoegd</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d beperkingen</item>
         <item quantity="one">1 beperking</item>

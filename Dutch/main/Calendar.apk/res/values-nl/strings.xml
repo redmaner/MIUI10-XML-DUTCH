@@ -333,6 +333,7 @@
   <string name="no_visiable_calendar_message">U moet een kalenderaccount toevoegen. Tik op account toevoegen om door te gaan.</string>
   <string name="no_visiable_calendar_select_account">Account toevoegen</string>
   <string name="no_visiable_calendar_title">Account toevoegen</string>
+  <string name="notification_channel_name">Kalenderherinneringen</string>
   <string name="olympic_rank">Ranking</string>
   <string name="olympic_total">Totaal</string>
   <string name="olympic_vs">VS</string>
@@ -403,7 +404,7 @@
   <string name="search_calendar_edit_event">Meeting;Herinnering;Agenda</string>
   <string name="search_calendar_huangli"/>
   <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
-  <string name="search_calendar_subscribe_group"/>
+  <string name="search_menu_title">Zoeken</string>
   <string name="select_date">Springen naar datum</string>
   <string name="setting_about_calendar_version">Kalenderversie:</string>
   <string name="setting_about_imei">IMEI:</string>
