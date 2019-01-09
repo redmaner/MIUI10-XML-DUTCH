@@ -2722,7 +2722,6 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_sos_contacts_add">Contacten voor noodgevallen</string>
   <string name="miui_sos_contacts_category">Contacten voor noodgevallen</string>
   <string name="miui_sos_emergency_contacts">Contacten voor noodgevallen</string>
-  <string name="miui_sos_emergency_contacts_quantity">%d toegevoegd</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)heeft het al ontvangen</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s heeft het al ontvangen</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s)SOS bericht verzenden mislukt.</string>
@@ -4678,6 +4677,7 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="switch_on_text">Aan</string>
   <string name="switch_screen_button_order">Volgorde van knoppen omwisselen</string>
   <string name="switch_screen_button_order_desc">De terug en menu knoppen wisselen</string>
+  <string name="switch_select_to_speak_on">Select to Speak</string>
   <string name="symbols_not_allowed_for_password">Wachtwoord mag geen symbolen bevatten</string>
   <string name="sync_active">Synchronisatie actief</string>
   <string name="sync_automatically">Appgegevens automatisch synchroniseren</string>

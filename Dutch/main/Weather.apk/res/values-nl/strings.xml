@@ -197,11 +197,13 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="traffic_control_today_numbers">Vandaag: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Morgen: %1$s</string>
   <string name="traffic_controls">Verdeling wegruimte</string>
+  <string name="translate_notification_info">Translating in the background…</string>
   <string name="unit">Eenheden</string>
   <string name="unit_temperature">Eenheid voor temperatuur</string>
   <string name="unit_wind">Eenheid voor windkracht</string>
   <string name="update_night_setting_summary_text">Weergegevens bijwerken tussen 23:00 en 07:00</string>
   <string name="update_night_setting_title_text">\'s Nachts automatisch bijwerken</string>
+  <string name="update_notification_info">Updating data in the background…</string>
   <string name="update_setting_title_text">Weergegevens updaten</string>
   <string name="updated_a_moment_ago">Zojuist bijgewerkt</string>
   <string name="updating">Bijwerken…</string>
@@ -209,6 +211,8 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="view_forecast_item_yesterday">Gisteren</string>
   <string name="view_indexes_item_today">Vandaag</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
+  <string name="weather_alert_channel_name">Alerts</string>
+  <string name="weather_service_channel_name">Background services</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="xiaomi_weather_description_content">De weerapp biedt u nauwkeurige weerinformatie. Zonder deze app zullen de statusbalk en de weerwidget niet goed werken. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="xiaomi_weather_description_title">Over weerapp</string>

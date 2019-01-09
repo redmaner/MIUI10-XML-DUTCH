@@ -486,6 +486,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="description_direction_up">Veeg omhoog voor %s.</string>
   <string name="description_image_button_answer">Opnemen</string>
   <string name="description_image_button_reject">Weigeren</string>
+  <string name="description_image_icon_sim_card">SIM kaart %1$d</string>
   <string name="description_target_search">Zoeken</string>
   <string name="dessert_case">Dessert Case</string>
   <string name="dev_logpersist_clear_warning_message">Wanneer we niet langer toezicht houden met de permanente logger, moeten we de loggergegevens op uw apparaat wissen.</string>
@@ -1496,6 +1497,7 @@ gecontroleerd worden "</string>
   <string name="stream_system">Systeem</string>
   <string name="stream_system_enforced">Systeem afgedwongen</string>
   <string name="stream_tts">Transmitted Through Speaker</string>
+  <string name="stream_voice_assist">Stem Assistent</string>
   <string name="stream_voice_call">Bellen</string>
   <string name="strict_mode">Strikte modus ingeschakeld</string>
   <string name="strict_mode_summary">Flits scherm wanneer apps lange bewerkingen uitvoeren op de hoofdthread</string>
