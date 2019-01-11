@@ -407,6 +407,7 @@
   <string name="hint">Hint</string>
   <string name="history">Geschiedenis</string>
   <string name="home_description">Home</string>
+  <string name="home_hybrid_application_tips">Inclusief mini programma\'s</string>
   <string name="homepage_delete_card_menu">Verwijderen</string>
   <string name="homepage_get_location">Locatie verkrijgen</string>
   <string name="homepage_get_location_failed">Kon info niet verkrijgen, kies een stad</string>
@@ -415,6 +416,8 @@
   <string name="homepage_search_hint">Zoeken</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="hot_words_item_ads_mark">Adv</string>
+  <string name="hybrid_application_no_data_text">Geen Mini Programma\'s</string>
+  <string name="hybrid_popup_window_delete_button">Verwijderen</string>
   <string name="ignore_add_pwa_dialog_today">Vandaag niet tonen</string>
   <string name="in_secureaccess">Browser overgeschakeld naar veilige modus</string>
   <string name="info_flow_description">Info kanaal</string>
@@ -1333,4 +1336,5 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="voice_title_speech_again">Kan u niet verstaan</string>
   <string name="weather_location_confirm_message">Deze functie uitschakelen kan effect hebben op uw verbruik.</string>
   <string name="webpage_title">Bladwijzers &amp; geschiedenis</string>
+  <string name="window_manager_hybrid_application_list_title_text">Recent gebruikt</string>
 </resources>
