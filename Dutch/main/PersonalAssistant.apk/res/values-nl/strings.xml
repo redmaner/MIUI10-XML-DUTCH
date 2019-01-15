@@ -727,6 +727,8 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="not_installed">Niet geinstalleerd</string>
   <string name="note_name">Aanmaken</string>
   <string name="note_parent">Notities</string>
+   <string name="notification_channel_card">Kaarten</string>
+  <string name="notification_channel_default">Standaard</string>
   <string name="notification_content_fail_not_support">Kon betalingsinfo niet verkrijgen, voeg handmatig toe</string>
   <string name="notification_content_fail_stay_longer">Blijf op de betalingspagina voor minimaal een seconde</string>
   <string name="notification_content_success">%2$s CNY betaling over %1$s</string>

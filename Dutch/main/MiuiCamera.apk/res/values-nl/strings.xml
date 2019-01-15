@@ -50,6 +50,7 @@
   <string name="accessibility_peak">Focus Peak knop</string>
   <string name="accessibility_portrait_button">Portretmodus</string>
   <string name="accessibility_protrait">Portret</string>
+  <string name="accessibility_pull_down_to_open_camera">Veeg naar beneden om camera te openen</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_selected">Geselecteerde items</string>
@@ -64,6 +65,7 @@
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP is ingeschakeld</string>
   <string name="accessibility_ultra_wide_off">Groothoekmodus uitschakelen</string>
   <string name="accessibility_ultra_wide_on">Groothoekmodus inschakelen</string>
+  <string name="accessibility_video_btn_play">Video afspelen</string>
   <string name="accessibility_video_capture_button">VideoOpnameKnop</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauzeKnop</string>
@@ -81,7 +83,7 @@
   <string name="beauty_body_body">Slank</string>
   <string name="beauty_body_head">Hoofd</string>
   <string name="beauty_body_legged">Benen</string>
-  <string name="beauty_body_reset_tip">Figuureffecten met succes verwijderd</string>
+  <string name="beauty_body_reset_tip">Figuureffecten met succes gereset</string>
   <string name="beauty_body_shoulder">Schouders</string>
   <string name="beauty_body_slim_count_tip">Figuureffecten werken alleen voor opnamen van één persoon</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Schoonheid</string>
@@ -207,7 +209,7 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="face_beauty_intelligent_level_3">Hoog</string>
   <string name="face_beauty_smart">Slim</string>
   <string name="face_score_info">Score: %.1f</string>
-  <string name="fps960_toast">De slow-motion opname start wanneer de timer de witte stip bereikt</string>
+  <string name="fps960_toast">De slow-motion opname start bij het laatste kwart van de opname</string>
   <string name="front_camera_hint_text_place">"Selfies nemen zal gemakkelijker zijn
 als je je telefoon draait"</string>
   <string name="front_camera_hint_text_rotate">Draai je telefoon</string>
@@ -647,4 +649,5 @@ Groothoek modus komt helpen als je niet verder van de scène kunt komen."</strin
   <string name="video_reach_size_limit">Maximale grootte bereikt.</string>
   <string name="view_privacy_policy">Privacybeleid weergeven</string>
   <string name="wait">Een momentje…</string>
+  <string name="zoom_no_support_tip_48M">Zoom werkt niet in 48MP modus</string>
 </resources>

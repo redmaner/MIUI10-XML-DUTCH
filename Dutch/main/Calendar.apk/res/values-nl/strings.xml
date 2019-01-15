@@ -406,6 +406,7 @@
   <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
   <string name="search_menu_title">Zoeken</string>
   <string name="select_date">Springen naar datum</string>
+  <string name="select_today_tip">Vandaag</string>
   <string name="setting_about_calendar_version">Kalenderversie:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI versie:</string>
@@ -452,6 +453,7 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="timezone_label">Tijdzone</string>
   <string name="today">Vandaag</string>
   <string name="today_at_time_fmt">Vandaag om %s</string>
+  <string name="today_icon_voice_contentdescription">Terug naar vandaag</string>
   <string name="today_no_events">Geen afspraken</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen om %s</string>
