@@ -30,6 +30,10 @@
 	<plurals name="mins_ago">
         <item quantity="other">%1$d minuten geleden</item>
     </plurals>
+		<plurals name="miot_device_camera_size">
+        <item quantity="other">%d slimme camera\'s</item>
+        <item quantity="one">%d slimme camera</item>
+    </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">%s items van betaling verwijderen?</item>
         <item quantity="one">%s item van betaling verwijderen?</item>
@@ -74,9 +78,5 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">%d minuut geleden</item>
-    </plurals>
-	<plurals name="miot_device_camera_size">
-        <item quantity="other">%d slimme camera\'s</item>
-        <item quantity="one">%d slimme camera</item>
     </plurals>
 </resources>

@@ -59,9 +59,9 @@
   <string name="cloud_back_up_no_network_warn">Kan niet verbinden met Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Een momentje…</string>
-  <string name="cloud_back_up_share_activity_confirm">Upgraden</string>
-  <string name="cloud_back_up_share_activity_discription">Krijg meer opslagruimte, dagelijkse back-ups en meer.</string>
-  <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Upgraden</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Krijg meer opslagruimte, dagelijkse back-ups en meer.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
   <string name="cloud_back_up_task">Bezig met back-up…</string>
   <string name="cloud_backup">Mi Cloud back-ups</string>
   <string name="cloud_backup_derail_size_summary">Grootte: %s</string>

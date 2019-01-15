@@ -2319,6 +2319,10 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_setting_fragment_sms_content">Berichtinhoud</string>
   <string name="traffic_setting_fragment_sms_content_tips">Schrijf uw bericht hier</string>
   <string name="traffic_setting_fragment_title">Dataverbruik vraag instellingen</string>
+  <string name="traffic_setting_fragment_title_guide">Providers en data plannen</string>
+  <string name="traffic_usage_warning_body">U heeft deze maand al %s mobiele data gebruikt.</string>
+  <string name="traffic_usage_warning_limit">Waarschuwingslimiet datagebruik</string>
+  <string name="traffic_usage_warning_title">Waarschuwingslimiet data</string>
   <string name="traffic_warning_purchase_title">Waarschuwing dataverbruik</string>
   <string name="try_game">Proberen</string>
   <string name="try_recommended_function">Bescherm uw toestel door gebruik te maken van de nieuwe veiligheidsfuncties</string>

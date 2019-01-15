@@ -31,7 +31,6 @@
   <string name="buy_claim_ps">Lees voor meer informatie de </string>
   <string name="buy_claim_terms">Termen&amp; Condities*</string>
   <string name="buy_confirm">AKKOORD &amp; KOOP BESCHERMING</string>
-  <string name="buy_insurance_desc">Alleen nieuw apparaat</string>
   <string name="buy_privacy_agree">Doorgaan</string>
   <string name="buy_summary_five">Tot 1 GB met docusafe</string>
   <string name="buy_summary_four">"Slechts één oproep om SIM te deblokkeren van overal 
@@ -110,7 +109,7 @@ beschadigd apparaat op aan de deur"</string>
   <string name="instant_bank_transfer">Onmiddellijke bankoverschrijving</string>
   <string name="insurance_button">Verzekering</string>
   <string name="insurance_description">Verzekering geeft u aanvullende reparatiedekking</string>
-  <string name="insurance_entrance">Mi Protect - handset bescherming</string>
+  <string name="insurance_entrance">Mi Protect voor nieuw apparaat</string>
   <string name="item_name_battery">Batterij</string>
   <string name="item_name_bluetooth">Bluetooth</string>
   <string name="item_name_frontcamera">Camera vooraan</string>
@@ -146,11 +145,12 @@ beschadigd apparaat op aan de deur"</string>
   <string name="password_toggle_content_description">Toggle wachtwoord zichtbaarheid</string>
   <string name="postal_code">Postcode</string>
   <string name="powered_by_cashify">Powered by</string>
-  <string name="push_ht_content">Open Beveiliging, scrol omlaag en test uw hardware</string>
-  <string name="push_ht_title">Bekijk nieuwe functie in Beveiliging</string>
+  <string name="push_ht_content">Meer informatie over uw hardwarevoorwaarden</string>
+  <string name="push_ht_title">Hardware test</string>
   <string name="push_oa_content">Bescherm uw apparaat met behulp van uitgebreide garantie</string>
   <string name="push_oa_title">Mi Protect</string>
-  <string name="quote_upto_price">Geweldig! Je apparaat is nog steeds in goede staat en is nog waardig. Krijg tot Rs. %s</string>
+  <string name="quote_upto_price">"Geweldig! Je apparaat is nog steeds in goede staat en is nog waardig. Krijg tot Rs. %s
+Let op: de apparaatprijzen kunnen gewijzigd worden. Verkoop je telefoon nu om gebruik te maken van de beste aanbieding."</string>
   <string name="recycle_button">Recycleren</string>
   <string name="recycle_description">Krijg het maximum van de prijs door uw oude telefoon te recycleren</string>
   <string name="recycle_entrance">Cashify Recycle</string>

@@ -688,6 +688,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="guest_wipe_session_message">Wilt u uw sessie voortzetten?</string>
   <string name="guest_wipe_session_title">Welkom terug, gast!</string>
   <string name="guest_wipe_session_wipe">Opnieuw starten</string>
+  <string name="gxzw_long_press_tip">Ingedrukt houden om nieuwe functies te bekijken</string>
   <string name="gxzw_press_harder">Ietsje harder drukken</string>
   <string name="gxzw_try_again">Probeer opnieuw</string>
   <string name="gxzw_try_more_again">Probeer opnieuw</string>
@@ -1291,6 +1292,10 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_settings_label">Instellingen</string>
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
+  <string name="quick_settings_tiles">standaard</string>
+  <string name="quick_settings_tiles_default">mobiell,wifi,zaklampt,dempen,schermafdruk,bt, automatische helderheid,vliegtuig,schermvergrendeling,gps,draaien,papiermodus,stille modus,batterijbesparing, extreme batterijbesparing,rij modus,powermode,trillen,hotspot,synchronisatie,schermknop,nfc,bewerken</string>
+  <string name="quick_settings_tiles_retail_mode">mobiel,batterijbesparing,powermode, zaklamp,draaien,locatie</string>
+   <string name="quick_settings_tiles_stock">mobiel,Wi-Fi,zaklamp,dempen,schermafdruk,bt, automatisc helderheid,vliegtuig,schermvergrendeling,gps,draaien,papiermodus,stille modus,batterijbesparing, extreme batterijbesparing,rij modus,PowerMode,trillen, hotspot,synchronisatie,schermknop,nfc,bewerken</string>
   <string name="quick_settings_time_label">Tijd</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Als u een item wilt toevoegen, houdt u het ingedrukt en sleept u het naar het bovenste gedeelte van het paneel.</string>
   <string name="quick_settings_user_label">Ik</string>
@@ -1360,8 +1365,8 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="saved_network">Opgeslagen door %1$s</string>
   <string name="screen_button_notification_text">Om ze in te schakelen, druk de Home en Power toetsen gelijktijdig in.</string>
   <string name="screen_button_notification_title">Navigatietoetsen zijn uitgeschakeld</string>
-  <string name="screen_pinning_description">Dit houdt het in oog totdat u het hebt unpint. Druk en houd de home knop en de Power knop op hetzelfde moment in om te unpinnen.</string>
-  <string name="screen_pinning_description_accessible">Dit houdt het in oog totdat u het hebt unpint. Druk en houd de home knop en de Power knop op hetzelfde moment in om te unpinnen.</string>
+   <string name="screen_pinning_description">Dit houdt het in beeld tot u de ontkoppeling loslaat. Houd Startscherm en de aan/ it-knop tegelijkertijd ingedrukt om los te koppelen.</string>
+  <string name="screen_pinning_description_accessible">Dit houdt het in beeld tot u de ontkoppeling loslaat. Houd Startscherm en de aan/uit knop tegelijkertijd ingedrukt om los te koppelen.</string>
   <string name="screen_pinning_negative">Nee bedankt</string>
   <string name="screen_pinning_positive">Begrepen</string>
   <string name="screen_pinning_title">Scherm is gepint</string>

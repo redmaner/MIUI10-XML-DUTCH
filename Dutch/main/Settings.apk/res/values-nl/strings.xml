@@ -1748,6 +1748,7 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="eq_preset_hint">Effect naam</string>
   <string name="eq_preset_rename">Naam wijzigen</string>
   <string name="eq_preset_select">Kies een voorinstelling</string>
+  <string name="eq_return">Terugkeren</string>
   <string name="erase_application">Apps verwijderen</string>
   <string name="erase_application_description">De geïnstalleerde apps verwijderen</string>
   <string name="erase_data">Verwijderen</string>
@@ -2201,6 +2202,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_shortcuts_helper">Toetsenbord snelkoppeling helper</string>
   <string name="keyboard_shortcuts_helper_summary">Beschikbare snelkoppelingen weergeven</string>
   <string name="keyguard_advance_setting_title">Geavanceerde instellingen</string>
+  <string name="keyguard_double_tap_to_sleep_title">Dubbel tikken om te slapen</string>
   <string name="keyguard_notification_status_title">Wanneer meldingen worden weergegeven en het scherm is uitgeschakeld</string>
   <string name="keyguard_security_setting_others">Andere</string>
   <string name="keyguard_security_setting_privacy_policy">Privacybeleid</string>
@@ -3176,7 +3178,11 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_7">Games</string>
   <string name="page_layout_9">Thema\'s</string>
   <string name="page_layout_confirm_message">Uw apparaat moet opnieuw worden opgestart om deze wijzigingen toe te passen. Dit duurt ongeveer 1 minuut.</string>
+  <string name="page_layout_confirm_message_enlarge">Tekst, afbeeldingen en pictogrammen worden vergroot. Sommige pictogrammen kunnen van plaats veranderen.</string>
+  <string name="page_layout_confirm_message_narrow">Tekst, afbeeldingen en pictogrammen worden verkleind. Sommige pictogrammen kunnen van plaats veranderen.</string>
   <string name="page_layout_confirm_title">Wijzig weergave instellingen</string>
+  <string name="page_layout_confirm_title_enlarge">Grotere items</string>
+  <string name="page_layout_confirm_title_narrow">Kleinere items</string>
   <string name="page_layout_huge_title">Extra groot</string>
   <string name="page_layout_large_title">Groot</string>
   <string name="page_layout_medium_title">Medium</string>
