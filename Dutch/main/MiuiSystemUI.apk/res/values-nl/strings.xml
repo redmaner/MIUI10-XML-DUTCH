@@ -1292,10 +1292,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="quick_settings_settings_label">Instellingen</string>
   <string name="quick_settings_sync_label">Synchroniseren</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles">standaard</string>
-  <string name="quick_settings_tiles_default">mobiell,wifi,zaklampt,dempen,schermafdruk,bt, automatische helderheid,vliegtuig,schermvergrendeling,gps,draaien,papiermodus,stille modus,batterijbesparing, extreme batterijbesparing,rij modus,powermode,trillen,hotspot,synchronisatie,schermknop,nfc,bewerken</string>
-  <string name="quick_settings_tiles_retail_mode">mobiel,batterijbesparing,powermode, zaklamp,draaien,locatie</string>
-   <string name="quick_settings_tiles_stock">mobiel,Wi-Fi,zaklamp,dempen,schermafdruk,bt, automatisc helderheid,vliegtuig,schermvergrendeling,gps,draaien,papiermodus,stille modus,batterijbesparing, extreme batterijbesparing,rij modus,PowerMode,trillen, hotspot,synchronisatie,schermknop,nfc,bewerken</string>
   <string name="quick_settings_time_label">Tijd</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Als u een item wilt toevoegen, houdt u het ingedrukt en sleept u het naar het bovenste gedeelte van het paneel.</string>
   <string name="quick_settings_user_label">Ik</string>
