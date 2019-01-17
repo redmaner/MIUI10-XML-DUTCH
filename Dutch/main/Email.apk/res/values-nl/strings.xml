@@ -177,6 +177,10 @@ Nu bijwerken?"</string>
   <string name="always_bcc_myself">Altijd Bcc naar mijzelf</string>
   <string name="always_show_images">Afbeeldingen van deze afzender altijd tonen</string>
   <string name="app_name">E-mail</string>
+  <string name="appraise_des">We werken er hard aan om producten te ontwikkelen, alleen tot uw tevredenheid. Steun ons alstublieft met uw opmerkingen.</string>
+  <string name="appraise_good">Lof en aanmoediging</string>
+  <string name="appraise_ignore">Tijdelijke evaluatie</string>
+  <string name="appraise_negative">Negatieve opmerking</string>
   <string name="archive">Archiveren</string>
   <string name="archived">Gearchiveerd</string>
   <string name="att_download_failed_content">Download mislukt</string>
@@ -510,10 +514,12 @@ Nu bijwerken?"</string>
   <string name="gmail_server_authorization_deleted">Kon account niet verifiëren. Probeer dit account opnieuw toe te voegen..</string>
   <string name="gmail_web_login_go">Ok</string>
   <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
+  <string name="have_auth_code">Aanmelden bij Code</string>
   <string name="header_category_account">Accountinstellingen</string>
   <string name="header_category_other">Geef uw mening</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
+   <string name="help_me_get_qq_auth">Help me om de QQ autorisatiecode te verkrijgen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_password">Wachtwoord verbergen</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
@@ -695,6 +701,7 @@ Probeer een andere inbox."</string>
   <string name="notify_channel_no_disterb">Niet storen modus</string>
   <string name="notify_channel_permission_notice">Toestemmingsmelding herinnering</string>
   <string name="notify_channel_send_fail">Herinnering bij foutmelding verzenden</string>
+  <string name="notify_channel_service">Achtergrond Gesynchroniseerde herinnering</string>
   <string name="oauth_error_description">Kon niet authentificeren</string>
   <string name="oauth_gmail_login_notify">Voer uw Google account gebruikersnaam en wachtwoord in op de volgende pagina</string>
   <string name="oauth_login_continue">Doorgaan</string>
@@ -821,6 +828,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="preview_attachment">Voorbeeld</string>
   <string name="previous_action">Vorige</string>
   <string name="print">Afdrukken</string>
+  <string name="privacy_des">"De loginformatie bevat foutopsporingsinformatie die is afgedrukt door de e-mailtoepassing en informatie over uw apparaat om de vragen te vinden die u feedback geeft. Selecteer het volgende \"%1$s\" Dat betekent dat je gelezen en ermee akkoord bent gegaan met Mi《%2$s》"</string>
   <string name="privacy_policy">Privacybeleid</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol_setting_toast">Tik in de rechterbovenhoek om naar instellingen te gaan nadat u het eens bent</string>
@@ -845,11 +853,13 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="qq_bar_send_message">SMS verzenden</string>
   <string name="qq_login_basecode">Aanmelden op web QQ Mail. Voer onafhankelijke wachtwoord in.</string>
   <string name="qq_login_get_auth">Schakel wachtwoordbeveiliging in als u geen SMS kunt ontvangen</string>
+  <string name="qq_login_notice">Warme tip: als u een onafhankelijk wachtwoord hebt ingesteld, moet u een onafhankelijk wachtwoord invoeren om uw invoer in de mailbox te verifiëren.</string>
   <string name="qq_login_open_imap">Tik op \"Help\" om IMAP/SMTP in te schakelen</string>
   <string name="qq_login_origin_setting">Voer gebruikersnaam en wachtwoord in om aante melden bij &gt;</string>
   <string name="qq_login_send_message">Tik op \"SMS verzenden\" om verificatie code te verkrijgen</string>
   <string name="qq_login_webview">Aanmelden op web QQ Mail. Voer uw wachtwoord in.</string>
   <string name="qq_next_generation_auth_toast">Schakel wachtwoordbeveiliging in uw browser in</string>
+  <string name="qq_pwd_or_qq_auth_code">QQ autorisatiecode of mailboxwachtwoord</string>
   <string name="qq_uthentication_failed">Kon account niet verifiëren, meld u opnieuw aan</string>
   <string name="qq_verify_code">(Heeft de QQ verifieer code nodig)</string>
   <string name="qq_webview_loading">Een momentje…</string>
