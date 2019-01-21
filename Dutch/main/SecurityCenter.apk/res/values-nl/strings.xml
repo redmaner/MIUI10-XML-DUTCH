@@ -788,7 +788,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="firewall_temp_rule_reason">%2$s heeft internetverbinding beperkt voor %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via Wi-Fi wanneer deze schakelaar uit staat.</string>
-  <string name="first_aid_activity_title">Eerste hulp</string>
+  <string name="first_aid_activity_title">Problemen oplossen</string>
   <string name="first_aid_card_airplane_button">Uitschakelen</string>
   <string name="first_aid_card_airplane_summary">Schakel de vliegmodus uit om te kunnen bellen en verbinding te maken met netwerk</string>
   <string name="first_aid_card_airplane_title">Kan niet bellen of verbinding maken met netwerk</string>
