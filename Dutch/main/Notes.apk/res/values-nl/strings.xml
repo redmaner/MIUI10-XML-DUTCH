@@ -223,6 +223,7 @@
   <string name="toolbar_voice_description">Spraak</string>
   <string name="trash_folder_name">Afval</string>
   <string name="trash_folder_reminder">De notities die je verwijdert zullen na 30 dagen permanant worden gewist.</string>
+  <string name="unclassfied_folder_name">Niet ingedeeld</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknown_source">Onbekende bron</string>
   <string name="widget_content_loading">Een momentje…</string>
