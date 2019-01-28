@@ -300,6 +300,7 @@
   <string name="favorite_succeed">Toegevoegd aan favorieten</string>
   <string name="favorite_tracks">Favorieten</string>
   <string name="favorites">Favorieten</string>
+  <string name="fcm_fallback_notification_channel_label">Diversen</string>
   <string name="feed_back">Feedback</string>
   <string name="file_not_found">"Bestand bestaat niet"</string>
   <string name="filter_by_duration">Op lengte</string>
@@ -317,6 +318,7 @@
   <string name="format_not_support">Deze indeling is niet ondersteund</string>
   <string name="format_unsupported_or_corrupted">Dit formaat wordt niet ondersteund of het bestand is beschadigd</string>
   <string name="fragment_title_artist_album">Albums</string>
+  <string name="gcm_fallback_notification_channel_label">Diversen</string>
   <string name="handle_later">Niet nu</string>
   <string name="hd_quality_audio">HD kwaliteitsaudio</string>
   <string name="headset_and_audio_effect_category">Koptelefoons &amp; audio effecten</string>
@@ -536,6 +538,7 @@
   <string name="pulluprefreshrecyclerview_loading_finished">Afspeellijst geladen</string>
   <string name="pulluprefreshrecyclerview_loading_running">Laden…</string>
   <string name="queue_is_empty">Wachtrij is leeg.</string>
+  <string name="ready_to_play">Volgende</string>
   <string name="recently_played">Recent afgespeeld</string>
   <string name="recently_played_songs">Recent</string>
   <string name="recommended_file_size_download_in_mobile">Gebruik %s aan mobiele data om dit bestand te downloaden?</string>

@@ -11,6 +11,7 @@
   <string name="activate_fail_notification_title">Synchronstatie reactiveren</string>
   <string name="activating">Bezig met activeren…</string>
   <string name="address">Adres</string>
+  <string name="allow">Akkoord</string>
   <string name="app_name">Rekenmachine</string>
   <string name="app_name_danfa">Mi Rekenmachine</string>
   <string name="base_rate">Basisrente</string>
@@ -60,6 +61,12 @@
   <string name="description_title">Over rekenmachine</string>
   <string name="deselect_all">Deselecteren</string>
   <string name="devided_by_zero_reminder_message">Kan niet delen door nul</string>
+  <string name="dialog_privacy_content">Naast de basisfuncties van een rekenmachine, bevat onze app ook een wetenschappelijke rekenmachine en een multifunctionele converter. Sommige functies moeten verbinding maken met internet om normaal te kunnen werken. U moet onze %1$s en %2$s lezen voordat u de rekenmachine gebruikt.</string>
+  <string name="dialog_privacy_title">Algemene voorwaarden</string>
+  <string name="dialog_rating_desc_ask">Wat vind je van de rekenmachine?</string>
+  <string name="dialog_rating_desc_less">Kunt u ons ook uw feedback geven?</string>
+  <string name="dialog_rating_desc_perfect">Leuk! Beoordeel de rekenmachine ook in de App Store?</string>
+  <string name="dialog_rating_title">Beoordeel onze app</string>
   <string name="divDesc">delen</string>
   <string name="dotDesc">punt</string>
   <string name="eDesc">constante van Neper</string>
@@ -71,7 +78,11 @@
   <string name="error_not_acceptable">Synchronisatie is uitgeschakeld.</string>
   <string name="error_title">Kon niet syncroniseren</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld vanwege te veel aanmeldingspogingen.</string>
-  <string name="exit">Afsluietn</string>
+  <string name="exit">Afsluiten</string>
+  <string name="extra_deduction_instruction">Details van aftrek</string>
+  <string name="extra_deduction_tips">Tik op de knop in de bovenhoek van het scherm om aftrekgegevens te bekijken.</string>
+  <string name="extra_deduction_title">Extra aftrekkingen</string>
+  <string name="exit">Afsluiten</string>
   <string name="extra_deduction_instruction">Aftrek details</string>
   <string name="extra_deduction_tips">Tik op de knop in de bovenhoek van het scherm om aftrek details weer te geven.</string>
   <string name="extra_deduction_title">Extra aftrekkingen</string>
@@ -90,6 +101,7 @@
   <string name="from_unit_en">Kilometer per uur</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund_loan">Fondslening</string>
+  <string name="further_education">Verdere aftrekkingen</string>
   <string name="further_education">Verder aftrekkingen</string>
   <string name="global_network_confirm_content">Het converteren van eenheden heeft verbinding met internet nodig om te werken.</string>
   <string name="golbal_search_calculator_setting">Rekenmachine;Rekenmachine-instellingen;Instellingen</string>
@@ -228,6 +240,7 @@
   <string name="none">Geen</string>
   <string name="not_supported_due_to_language">Deze functie is alleen beschikbaar voor de Chinese taal</string>
   <string name="note">Notitie</string>
+  <string name="ok">Ok</string>
   <string name="organization">Organisatie</string>
   <string name="percentDesc">procent</string>
   <string name="perm_payment_dspt">App om te betalen met Mi Pay-service</string>
@@ -248,6 +261,7 @@
   <string name="preference_follow_web_title">Officiële website</string>
   <string name="preference_other">Andere</string>
   <string name="preference_privacy_title">Privacybeleid</string>
+  <string name="preference_rating_title">Beoordeel onze app</string>
   <string name="preference_settings">Instellingen</string>
   <string name="preference_use_degress_summary">Vervang radialen met hoeken in trigonometrische functies</string>
   <string name="preference_use_degress_title">Hoeken gebruiken</string>
@@ -464,7 +478,8 @@
   <string name="unit_data_display_weight_us.cwt">US hundredweight</string>
   <string name="unit_year_format">Jaar %s</string>
   <string name="updating">Bezig met rekenmachine aan het bijwerken…</string>
-  <string name="user_agreement">Servicevoorwaarden</string>
+  <string name="updating">Rekenmachine updaten…</string>
+  <string name="user_agreement">Gebruikersovereenkomst</string>
   <string name="user_manual">Gebruikershandleiding</string>
   <string name="voiceDesc">Stem gestuurd</string>
   <string name="web_sso_login_fail">U moet opnieuw aanmelden</string>

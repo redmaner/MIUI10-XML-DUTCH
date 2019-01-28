@@ -519,7 +519,7 @@ Nu bijwerken?"</string>
   <string name="header_category_other">Geef uw mening</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
-   <string name="help_me_get_qq_auth">Help me om de QQ autorisatiecode te verkrijgen</string>
+  <string name="help_me_get_qq_auth">Help me om de QQ autorisatiecode te verkrijgen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_password">Wachtwoord verbergen</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
@@ -559,7 +559,7 @@ Nu bijwerken?"</string>
   <string name="mail_search_lab">zoek label</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerde accounts</string>
   <string name="mailbox_name_display_ad">Adv</string>
-   <string name="mailbox_name_display_add_account">E-mail account toevoegen</string>
+  <string name="mailbox_name_display_add_account">E-mail account toevoegen</string>
   <string name="mailbox_name_display_circular">Meldingen</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
@@ -712,6 +712,7 @@ Probeer een andere inbox."</string>
   <string name="one_day">1 dag</string>
   <string name="one_month">1 maand</string>
   <string name="one_week">1 week</string>
+  <string name="open_androidp_warning">Open 9.0 Niet officiële SDK waarschuwing</string>
   <string name="open_calendar_and_contacts_permission">Sta toe dat Mail de contacten en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_calendar_permission">Sta toe dat Mail de opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Sta toe dat Mail de contacten, opslag en kalendergegevens kan lezen in instellingen</string>

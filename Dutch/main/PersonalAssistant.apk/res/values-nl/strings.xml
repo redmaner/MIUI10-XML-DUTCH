@@ -2,7 +2,6 @@
 <resources>
   <string name="access_select">%s geselecteerd</string>
   <string name="access_unselect">%s gedeselecteerd</string>
-  <string name="accessibility_title">App kluis</string>
   <string name="accordingto_position">Vaak bezochte plekken herkennen met GPS</string>
   <string name="account_address">Adres</string>
   <string name="add_stock">Toevoegen</string>
@@ -98,12 +97,15 @@
   <string name="book_add_dialog_continue">Bestaat niet</string>
   <string name="book_add_dialog_exit">Afsluiten</string>
   <string name="book_add_dialog_save">Wijzigingen verwijderen en nu afsluiten?</string>
+  <string name="book_arr_city">Bestemming</string>
+  <string name="book_arr_station">Bestemming toevoegen</string>
   <string name="book_assistant">Boek een reis</string>
   <string name="book_assistant_empty">Nog geen boekingen.</string>
   <string name="book_assistant_go">Vertrekken |  </string>
   <string name="book_assistant_todaybook">Reizen van vandaag</string>
   <string name="book_assistant_train_start">Vertrektijd</string>
   <string name="book_assistant_train_started">Station verlaten</string>
+  <string name="book_dep_city">Vertrekplaats</string>
   <string name="book_his">Boekingsgeschiedenis</string>
   <string name="book_input_lack">Vul eerst alle verplichte velden in</string>
   <string name="book_save_fail">Kon geen boeking toevoegen. Probeer opnieuw.</string>
@@ -121,6 +123,8 @@
   <string name="call">Bellen</string>
   <string name="card_agenda_settings">Instellingen</string>
   <string name="card_already_fly">Vertrokken</string>
+  <string name="card_banner_close_never">Niet meer herinneren</string>
+  <string name="card_banner_close_tomorrow">Morgen herinneren</string>
   <string name="card_book_all">Alle boekingen</string>
   <string name="card_book_nodata">Geen boekingen</string>
   <string name="card_bookall_flight">Vliegtickets</string>
@@ -314,7 +318,6 @@
   <string name="express_inquiry">Tracken</string>
   <string name="express_inquiry_all_logistics">Alle</string>
   <string name="express_inquiry_and_send">Tracken en versturen</string>
-  <string name="express_inquiry_button_text">Tracken</string>
   <string name="express_inquiry_clipboard_number_message">Gekopieerd nummer tracken?</string>
   <string name="express_inquiry_data_owner_prefix">"Trackinginformatie geleverd door "</string>
   <string name="express_inquiry_delete_warning_multiple">%d verwijderen?</string>
@@ -381,6 +384,8 @@ Controleer het trackingnummer."</string>
   <string name="express_phone">Telefoon</string>
   <string name="express_phone_tip">Bezorgen, even geduld</string>
   <string name="express_preview_order">Voorbeeld</string>
+  <string name="express_query">Tracken</string>
+  <string name="express_query_more">Meer tracken</string>
   <string name="express_provider_banner">Aangeboden door %s</string>
   <string name="express_region_pick_title">Kies regio</string>
   <string name="express_select_addressee">Naar</string>
@@ -427,7 +432,7 @@ Controleer het trackingnummer."</string>
   <string name="express_setting_phone">Toestaan dat er informatie wordt opgevraagd door middel van je telefoonnummer</string>
   <string name="express_setting_request_failed">Kon verzoek niet verzenden. Errorcode: %s."</string>
   <string name="express_setting_service_provider">Serviceprovider</string>
-   <string name="express_setting_service_unavailable">Service is niet beschikbaar</string>
+  <string name="express_setting_service_unavailable">Service is niet beschikbaar</string>
   <string name="express_setting_sim_card_index">SIM %d</string>
   <string name="express_setting_subscribe_phone_failed">Telefoonnummer toevoegen mislukt！</string>
   <string name="express_setting_subscribe_phone_success">Telefoonnummer met succes toegevoegd！</string>
@@ -506,6 +511,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="favorite_main">Geschiedenis</string>
   <string name="favorite_title_limit">Voer maximaal 40 tekens in</string>
   <string name="favorite_title_modify">Wijzigen</string>
+  <string name="favorite_title_modify_failed">Kon titel niet wijzigen</string>
   <string name="favorite_title_modify_success">Met succes gewijzigd</string>
   <string name="flight">Vlucht</string>
   <string name="flight_num">Vluchtnummer</string>
@@ -650,9 +656,9 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="miot_device_add_device">Apparaat toevoegen</string>
   <string name="miot_device_all_device">Alle apparaten</string>
   <string name="miot_device_cancel">Annuleren</string>
-  <string name="miot_device_click_show_detail">Tik om meer te weten over slimme huishoudelijke apparaten</string>
+  <string name="miot_device_click_show_detail">.(Tik om meer te weten over slimme huishoudelijke apparaten)</string>
   <string name="miot_device_click_show_img">Tik om afbeelding weer te geven</string>
-  <string name="miot_device_cta_and">en</string>
+  <string name="miot_device_cta_and"> en</string>
   <string name="miot_device_cta_message">Voeg uw slimme apparaten toe om ze naar believen te beheren. Tik op Autoriseren om akkoord te gaan </string>
   <string name="miot_device_cta_priv">Privacybeleid</string>
   <string name="miot_device_cta_use_info">Mi Home Gebruikersovereenkomst</string>
@@ -670,6 +676,9 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="miot_device_mijia_uninstall_title">Niet geïnstalleerd</string>
   <string name="miot_device_network_error">Geen verbinding</string>
   <string name="miot_device_no_recent_frame">Tik om weer te geven</string>
+  <string name="miot_device_personal_assistant_eula">Gebruikersovereenkomst</string>
+  <string name="miot_device_personal_assistant_eula_priv">"en App safe "</string>
+  <string name="miot_device_personal_assistant_priv">Privacybeleid</string>
   <string name="miot_device_show_frame_toast">Afbeelding weergeven</string>
   <string name="miot_device_shrink_list">Inklappen</string>
   <string name="miuishare_account_activate_confirmation">Mi account activeren</string>
@@ -727,13 +736,12 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="not_installed">Niet geinstalleerd</string>
   <string name="note_name">Aanmaken</string>
   <string name="note_parent">Notities</string>
-   <string name="notification_channel_card">Kaarten</string>
+  <string name="notification_channel_card">Kaarten</string>
   <string name="notification_channel_default">Standaard</string>
   <string name="notification_content_fail_not_support">Kon betalingsinfo niet verkrijgen, voeg handmatig toe</string>
   <string name="notification_content_fail_stay_longer">Blijf op de betalingspagina voor minimaal een seconde</string>
   <string name="notification_content_success">%2$s CNY betaling over %1$s</string>
   <string name="notification_express_app_open">Inschakelen</string>
-  <string name="notification_express_content">Track bestellingen met App vault</string>
   <string name="notification_express_title">Kaarten van shoppingapps uitschakelen</string>
   <string name="notification_title">Toegevoegd aan favorieten</string>
   <string name="notification_title_fail">Kon betaling niet toevoegen</string>
@@ -778,7 +786,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="payment_pref_source_wechat_summary">Verkrijg betalingsinfo van WeChat</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
   <string name="payment_privacy_dialog_cancel">Afsluiten</string>
-  <string name="payment_privacy_dialog_message">"\"Mijn betalingen\" kan rekeningen van betalingapps bij elkaar brengen op 1 plek. Alle betalingsgegevens wordt versleuteld en veilig opgeslagen op het apparaat. Het wordt niet gesynchroniseerd met Mi Cloud of geupload naar een server. Je kan \"Mijn betalingen\" uitschakelen in instellingen of deze kaart verwijderen van App vault om te stoppen deze dienst te gebruiken. Toestaan?"</string>
   <string name="payment_privacy_dialog_ok">Toestaan</string>
   <string name="payment_privacy_dialog_title">\"Mijn betalingen\" Privacybeleid</string>
   <string name="payment_record_add">Betaling toevoegen</string>
@@ -998,11 +1005,12 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="stock_web_lable">Aandelen</string>
   <string name="study_parent">Studeren</string>
   <string name="system_favorite_dialog_link">Veiligheid &amp; privacy</string>
-  <string name="system_favorite_dialog_message">Voeg je favorieten van andere apps hier toe.</string>
+  <string name="system_favorite_dialog_message">Favorieten van meerdere apps en diensten worden toegevoegd aan App Vault. Toestaan?</string>
   <string name="system_favorite_dialog_negative">Annuleren</string>
   <string name="system_favorite_dialog_positive">Toestaan</string>
   <string name="system_favorite_dialog_title_confirm">Favorieten</string>
-  <string name="take_off">Gaan</string>
+  <string name="take_off">Opstijgen</string>
+  <string name="taked_off">Vertrokken</string>
   <string name="taxi">Taxi</string>
   <string name="taxi_book">Bel een taxi</string>
   <string name="taxi_card_departure">Huidige locatie</string>
@@ -1048,7 +1056,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="upgrade_log_default">"1. Verbeterde prestatie.
 2. Verholpen bugs."</string>
   <string name="upgrade_log_subtitle">(Gedownload met Wi-Fi)</string>
-  <string name="upgrade_log_title">Update van app kluis</string>
   <string name="upgrade_now">Nu installeren</string>
   <string name="upgrade_now_bottom">Nu installeren</string>
   <string name="uploads_disabled">Kan bestanden niet uploaden</string>

@@ -31,6 +31,13 @@
         <item>Alleen stille modus</item>
         <item>Nooit</item>
     </string-array>
+	<string-array name="reason_type">
+        <item>Fraude</item>
+        <item>Expliciete of illegale inhoud</item>
+        <item>Spam</item>
+        <item>Andere</item>
+        <item>Annuleren</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 seconde</item>
         <item>2 seconden</item>
