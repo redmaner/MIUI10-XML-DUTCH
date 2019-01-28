@@ -299,6 +299,7 @@
   <string name="sharedUserId"/>
   <string name="show_all">Alles weergeven</string>
   <string name="show_mem_info_title">Geheugenstatus weergeven</string>
+  <string name="show_recents_recommend_title">Suggesties weergeven</string>
   <string name="sort_by_abc">Sorteren op naam</string>
   <string name="sort_by_frequency">Sorteren op gebruik</string>
   <string name="sort_by_not_defined">Automatisch sorteren</string>

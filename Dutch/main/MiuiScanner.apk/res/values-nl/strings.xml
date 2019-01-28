@@ -66,6 +66,9 @@
   <string name="error_empty_result">Kon geen resultaten vinden</string>
   <string name="error_get_image">Kon afbeelding niet ophalen</string>
   <string name="error_media_storage_failure">Kon foto niet opslaan</string>
+  <string name="error_permissions">Scanner heeft niet de vereiste machtigingen om normaal te werken. Ga naar Instellingen en controleer machtigingen om door te gaan.</string>
+  <string name="error_server_error">Er is een server fout opgetreden.</string>
+  <string name="error_media_storage_failure">Kon foto niet opslaan</string>
   <string name="error_permissions">Scanner heeft geen rechten om het normaal te laten werken. Ga naar Instellingen en controleer de toestemmingen om verder te gaan.</string>
   <string name="feed_search_fail">Geen resultaten, probeer opnieuw</string>
   <string name="feedback_description_camera_access">Scanner kan niet verbinden met camera</string>
@@ -73,7 +76,7 @@
   <string name="got_it">Begrepen</string>
   <string name="gps">Ga naar</string>
   <string name="import_contact">Contact importeren</string>
-  <string name="impunity_declaration_content">"Scanner heeft toestemming nodig voor toegang tot uw camera en het maken van foto\'s. De scanner moet ook verbinding maken met internet om normaal te kunnen werken. U wordt geacht het %1$s Privacybeleid %2$s te hebben gelezen en ermee akkoord te gaan wanneer u op \" tikt. Ben u het eens met \ "hieronder staat."</string>
+  <string name="impunity_declaration_content">""De scanner moet uw camera gebruiken en de gemaakte foto\'s verwerken tijdens het gebruik van de app. Gebruik de scanner niet om foto\'s te maken van de objecten die uw persoonlijke informatie bevatten. Als u op \"Akkoord\" tikt, stemt u in met onze &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; en Scanner toestaan verbinding te maken met internet."</string>
   <string name="impunity_declaration_negative_text">Afsluiten</string>
   <string name="impunity_declaration_title">Privacybeleid</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Herkenning;Barcode;Barcodes;Product;Producten;Alipay;WeChat;Hoe QR code scannen;Hoe barcode scannen;Hoe scannen;MIUI scanner</string>

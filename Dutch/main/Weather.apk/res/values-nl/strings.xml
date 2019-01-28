@@ -14,8 +14,9 @@
   <string name="act_weather_find_city_no_result">Geen resultaten</string>
   <string name="act_weather_find_city_searching">Zoeken…</string>
   <string name="activity_find_city_dialog_cancel">Annuleren</string>
-  <string name="activity_find_city_dialog_message">Sta de Weerapp toe om toegangtot uw locatie te krijgen voor nauwkeurige locatiegegevens.</string>
+  <string name="activity_find_city_dialog_message">Sta de Weerapp toe om toegang tot uw locatie te krijgen voor nauwkeurige locatiegegevens.</string>
   <string name="activity_find_city_dialog_message_global">Geef de Weerapp toegang tot uw locatie en schakel over naar de locatiemodus met hoge nauwkeurigheid om relevante locatiegegevens te ontvangen.</string>
+  <string name="activity_find_city_dialog_message_location_service">To get relevant weather info, allow Weather to access your location.</string>
   <string name="activity_find_city_dialog_set">Instellingen</string>
   <string name="activity_find_city_dialog_title">Locatietoegang</string>
   <string name="activity_main_time_format">E</string>
