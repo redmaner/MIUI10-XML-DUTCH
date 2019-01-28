@@ -79,10 +79,6 @@
   <string name="error_title">Kon niet syncroniseren</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld vanwege te veel aanmeldingspogingen.</string>
   <string name="exit">Afsluiten</string>
-  <string name="extra_deduction_instruction">Details van aftrek</string>
-  <string name="extra_deduction_tips">Tik op de knop in de bovenhoek van het scherm om aftrekgegevens te bekijken.</string>
-  <string name="extra_deduction_title">Extra aftrekkingen</string>
-  <string name="exit">Afsluiten</string>
   <string name="extra_deduction_instruction">Aftrek details</string>
   <string name="extra_deduction_tips">Tik op de knop in de bovenhoek van het scherm om aftrek details weer te geven.</string>
   <string name="extra_deduction_title">Extra aftrekkingen</string>
@@ -101,7 +97,6 @@
   <string name="from_unit_en">Kilometer per uur</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund_loan">Fondslening</string>
-  <string name="further_education">Verdere aftrekkingen</string>
   <string name="further_education">Verder aftrekkingen</string>
   <string name="global_network_confirm_content">Het converteren van eenheden heeft verbinding met internet nodig om te werken.</string>
   <string name="golbal_search_calculator_setting">Rekenmachine;Rekenmachine-instellingen;Instellingen</string>

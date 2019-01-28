@@ -65,8 +65,6 @@
   <string name="error_cannot_connect_camera">Kan niet verbinden met camera</string>
   <string name="error_empty_result">Kon geen resultaten vinden</string>
   <string name="error_get_image">Kon afbeelding niet ophalen</string>
-  <string name="error_media_storage_failure">Kon foto niet opslaan</string>
-  <string name="error_permissions">Scanner heeft niet de vereiste machtigingen om normaal te werken. Ga naar Instellingen en controleer machtigingen om door te gaan.</string>
   <string name="error_server_error">Er is een server fout opgetreden.</string>
   <string name="error_media_storage_failure">Kon foto niet opslaan</string>
   <string name="error_permissions">Scanner heeft geen rechten om het normaal te laten werken. Ga naar Instellingen en controleer de toestemmingen om verder te gaan.</string>
