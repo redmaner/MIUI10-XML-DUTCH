@@ -2,6 +2,7 @@
 <resources>
   <string name="access_select">%s geselecteerd</string>
   <string name="access_unselect">%s gedeselecteerd</string>
+  <string name="accessibility_title">App safe</string>
   <string name="accordingto_position">Vaak bezochte plekken herkennen met GPS</string>
   <string name="account_address">Adres</string>
   <string name="add_stock">Toevoegen</string>
@@ -511,7 +512,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="favorite_main">Geschiedenis</string>
   <string name="favorite_title_limit">Voer maximaal 40 tekens in</string>
   <string name="favorite_title_modify">Wijzigen</string>
-  <string name="favorite_title_modify_failed">Kon titel niet wijzigen</string>
   <string name="favorite_title_modify_success">Met succes gewijzigd</string>
   <string name="flight">Vlucht</string>
   <string name="flight_num">Vluchtnummer</string>
@@ -656,7 +656,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="miot_device_add_device">Apparaat toevoegen</string>
   <string name="miot_device_all_device">Alle apparaten</string>
   <string name="miot_device_cancel">Annuleren</string>
-  <string name="miot_device_click_show_detail">.(Tik om meer te weten over slimme huishoudelijke apparaten)</string>
+  <string name="miot_device_click_show_detail">Tik om meer te weten over slimme huishoudelijke apparaten)</string>
   <string name="miot_device_click_show_img">Tik om afbeelding weer te geven</string>
   <string name="miot_device_cta_and"> en</string>
   <string name="miot_device_cta_message">Voeg uw slimme apparaten toe om ze naar believen te beheren. Tik op Autoriseren om akkoord te gaan </string>
@@ -676,9 +676,6 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="miot_device_mijia_uninstall_title">Niet geïnstalleerd</string>
   <string name="miot_device_network_error">Geen verbinding</string>
   <string name="miot_device_no_recent_frame">Tik om weer te geven</string>
-  <string name="miot_device_personal_assistant_eula">Gebruikersovereenkomst</string>
-  <string name="miot_device_personal_assistant_eula_priv">"en App safe "</string>
-  <string name="miot_device_personal_assistant_priv">Privacybeleid</string>
   <string name="miot_device_show_frame_toast">Afbeelding weergeven</string>
   <string name="miot_device_shrink_list">Inklappen</string>
   <string name="miuishare_account_activate_confirmation">Mi account activeren</string>
@@ -742,6 +739,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="notification_content_fail_stay_longer">Blijf op de betalingspagina voor minimaal een seconde</string>
   <string name="notification_content_success">%2$s CNY betaling over %1$s</string>
   <string name="notification_express_app_open">Inschakelen</string>
+  <string name="notification_express_content">Volg bestellingen met behulp van App safe</string>
   <string name="notification_express_title">Kaarten van shoppingapps uitschakelen</string>
   <string name="notification_title">Toegevoegd aan favorieten</string>
   <string name="notification_title_fail">Kon betaling niet toevoegen</string>
@@ -786,6 +784,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="payment_pref_source_wechat_summary">Verkrijg betalingsinfo van WeChat</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
   <string name="payment_privacy_dialog_cancel">Afsluiten</string>
+  <string name="payment_privacy_dialog_message">"\"Mijn betalingen\"stelt u in staat om rekeningen van grote betaalapps op één plek te verzamelen.Alle betaalgegevens worden gecodeerd en veilig opgeslagen op uw apparaat.Het wordt niet gesynchroniseerd met Mi Cloud of geüpload naar een andere server. U kunt 'Mijn betalingen' in de Instellingen uitschakelen of eenvoudig deze kaart uit App safe verwijderen om deze service niet meer te gebruiken. '</string>
   <string name="payment_privacy_dialog_ok">Toestaan</string>
   <string name="payment_privacy_dialog_title">\"Mijn betalingen\" Privacybeleid</string>
   <string name="payment_record_add">Betaling toevoegen</string>
@@ -1056,6 +1055,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="upgrade_log_default">"1. Verbeterde prestatie.
 2. Verholpen bugs."</string>
   <string name="upgrade_log_subtitle">(Gedownload met Wi-Fi)</string>
+  <string name="upgrade_log_title">App safe update</string>
   <string name="upgrade_now">Nu installeren</string>
   <string name="upgrade_now_bottom">Nu installeren</string>
   <string name="uploads_disabled">Kan bestanden niet uploaden</string>

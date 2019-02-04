@@ -178,6 +178,7 @@
   <string name="mode_des">Achtergrondcarousel laat nu aanbevelingen zien. Schakel over naar de diavoorstelling om uw aangepaste items te bekijken.</string>
   <string name="mode_ok">Overschakelen naar diaschow</string>
   <string name="mode_title">Aanbevelingen weergeven</string>
+  <string name="more_article">Meer artikelen</string>
   <string name="need_open_gallery">Achtergrondcarousel inschakelen</string>
   <string name="nick_name">Naam</string>
   <string name="no_long_show">Niet meer tonen</string>
@@ -251,6 +252,8 @@
   <string name="rv_with_footer_pull_load_more">Trek naar beneden om meer te bekijken</string>
   <string name="save_hdpicture_in_favor">Bekijk HD afbeeldingen \"Favorieten\"</string>
   <string name="save_picture_success">Met succes opgeslagen</string>
+  <string name="save_to_album">Met succes opgeslagen in gallerij</string>
+  <string name="save_to_album_fail">Kon niet opslaan</string>
   <string name="scribe_btn_ok">Abonneren</string>
   <string name="scribe_title1">Abonneren op achtergrondcarousel</string>
   <string name="search">Zoeken</string>
@@ -283,10 +286,13 @@
   <string name="sst_custom_wallpaper_desc">Selecteer afbeeldingen uit Galerij en aanbevelingen</string>
   <string name="sst_custom_wallpaper_title">Aangepaste diaschow</string>
   <string name="sst_custom_wallpaper_title2">Diaschow</string>
+  <string name="sst_effect_next_wallpaper">Stel een nieuwe achtergrond in om wijzigingen toe te passen</string>
   <string name="sst_favor_desc">Favoriete achtergronden bekijken</string>
   <string name="sst_favor_title">Favorieten</string>
   <string name="sst_grid_view_select_all">Alles selecteren</string>
   <string name="sst_grid_view_unselect_all">Alles deselecteren</string>
+  <string name="sst_lockscreen_show_headline_desc">Toon de titel van het wallpaper onder de klok op het vergrendelscherm</string>
+  <string name="sst_lockscreen_show_headline_title">Toon titel op vergrendelscherm</string>
   <string name="sst_logo_desc">Dagelijks nieuwe achtergronden</string>
   <string name="sst_mode_selection">Modus</string>
   <string name="sst_more_subscription">Moeer abonementen</string>
@@ -334,6 +340,7 @@
   <string name="ticket_hint">Verificatie code</string>
   <string name="ticket_invalid">De code die je hebt ingevoerd is fout</string>
   <string name="ticket_sign_in">Aanmelden via SMS</string>
+  <string name="time_current">Zopas</string>
   <string name="toast_ad_down_tip">App downloaden…</string>
   <string name="toast_ad_down_tip2">%s downloaden</string>
   <string name="toast_load_hd_fail">Kan originele afbeelding niet laden</string>

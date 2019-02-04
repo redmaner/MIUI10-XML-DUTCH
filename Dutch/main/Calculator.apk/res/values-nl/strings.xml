@@ -351,6 +351,11 @@
   <string name="tax_credit_mortgage">Hypotheek</string>
   <string name="tax_credit_personal_income_tax">Persoonlijke inkomensbelasting</string>
   <string name="tax_credit_pretax_income">Inkomen vóór de belastingen (CNY)</string>
+  <string name="tax_detail">Belastinggegevens</string>
+  <string name="tax_detail_amount">Belastingbedrag</string>
+  <string name="tax_detail_rate">Belastingtarief</string>
+  <string name="tax_detail_take_off">Aftrek</string>
+  <string name="tax_detail_tax_payed">Te betalen bedrag</string>
   <string name="tax_endowment">Pensioenfonds</string>
   <string name="tax_fixed_salary_hint">Voer uw inkomen in voor belasting</string>
   <string name="tax_income_annual_bonus_list">Jaarlijkse bonussen</string>
@@ -364,11 +369,13 @@
   <string name="tax_individual_income_tax_result">Resultaten</string>
   <string name="tax_injury">Schade</string>
   <string name="tax_insurance_and_fund">Verzekering</string>
+  <string name="tax_insurance_and_fund_detail">Verzekeringsgegevens</string>
   <string name="tax_last_salary_hint">Voer inkomsten in</string>
   <string name="tax_last_salary_number">Inkomsten</string>
   <string name="tax_location">Locatie</string>
   <string name="tax_medical">Medisch</string>
   <string name="tax_param_error">Voer correcte verzekeringstarieven in</string>
+  <string name="tax_payment_period">Aantal betalingen</string>
   <string name="tax_rate_provider">Berekend volgens de nieuwe belastingregels. Gegevens worden geleverd door hexun.com en East Money.</string>
   <string name="tax_result_real_get">Na belasting</string>
   <string name="tax_social_insurance">Sociale verzekering</string>
