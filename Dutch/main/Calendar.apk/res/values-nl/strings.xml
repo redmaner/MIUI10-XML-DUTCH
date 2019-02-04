@@ -507,7 +507,7 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="unsubscribing_card">Abonnement annuleren</string>
   <string name="user_notice_button_exit">Afsluiten</string>
   <string name="user_notice_button_ok">Ok</string>
-  <string name="user_notice_message">Je moet akkoord gaan met onze %1$s en %2$s voordat je de Agenda gebruikt. Voor nauwkeurige gegevens over lokale feestdagen, verjaardagen, creditcardbetalingen en geplande reizen, heeft Agenda toegang nodig tot uw locatie, contacten en berichten, evenals verbinding met internet. Akkoord?</string>
+  <string name="user_notice_message">"Door dit product te gebruiken, ga je akkoord met Xiaomi\'s %1$s en %2$s. Sommige functies vereisen internetverbinding, toegang tot locatie, contacten en sms om normaal te werken."</string>
   <string name="user_notice_title">Waarschuwing</string>
   <string name="view_event_calendar_label">Agenda:</string>
   <string name="view_event_organizer_label">Organisator:</string>

@@ -10,9 +10,9 @@
         <item>Avond</item>
     </string-array>
     <string-array name="detail_font_size">
-        <item>Small</item>
-        <item>Regular</item>
-        <item>Large</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
     </string-array>
     <string-array name="stock_color_schema">
         <item>Rood - boven, groen - beneden</item>
