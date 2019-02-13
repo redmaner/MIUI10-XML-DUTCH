@@ -35,7 +35,6 @@
   <string name="download_queued">In wachtrij</string>
   <string name="download_remaining">%s resterend</string>
   <string name="download_running">In uitvoering</string>
-  <string name="download_running_percent">Bezig: %d%%</string>
   <string name="download_unknown_title">&lt;Zonder titel&gt;</string>
   <string name="enter_garbage_clean">Intern geheugen opruimen.</string>
   <string name="insufficient_space">Niet genoeg ruimte op intern geheugen van apparaat</string>
