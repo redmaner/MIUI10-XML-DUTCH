@@ -56,12 +56,16 @@
         <item quantity="other">"%d verborgen foto\'s worden niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om ze te bewaren; anders worden de items verwijderd."</item>
         <item quantity="one">"%d verborgen foto wordt niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om te bewaren; anders wordt het item verwijderd."</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Synchronisatie na %d uur herhalen</item>
-        <item quantity="one">Synchronisatie na %d uur herhalen</item>
+     <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Synchronisatie onderbroken. Synchronisatie hervatten na %d minuten</item>
+        <item quantity="one">Synchronisatie onderbroken. Synchronisatie hervatten na %d minuut</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Synchronisatie na %d minuten herhalen</item>
-        <item quantity="one">Synchronisatie na %d minuut herhalen</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">" min geleden"</item>
+        <item quantity="one">" min geleden"</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" uur geleden"</item>
+        <item quantity="one">" uur geleden"</item>
     </plurals>
 </resources>
