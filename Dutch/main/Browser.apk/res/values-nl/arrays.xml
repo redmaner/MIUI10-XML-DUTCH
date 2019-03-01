@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string-array name="pref_fling_gesture_entries">
+        <item>Pagina verder/terug</item>
+        <item>Tabbladen wisselen</item>
+        <item>Geen</item>
+    </string-array>
+	<string-array name="pref_homepage_choices">
+        <item>Standaard startpagina</item>
+        <item>Aangepast</item>
+	</string-array>	
+	<string-array name="pref_nav_mode_summary">
+        <item>Telefoon</item>
+        <item>Pad</item>	
+    </string-array>
+	    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Verticale weergave</item>
+        <item>Horizontale weergave</item>
+    </string-array>
+		<string-array name="pref_tab_restore_array">
+        <item>Altijd vragen</item>
+        <item>Openen</item>
+        <item>Sluiten</item>
+    </string-array>
+	<string-array name="pref_text_zoom_choices">
+        <item>Extra klein</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Extra groot</item>
+	</string-array>	
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Verwijderen</item>
+        <item>Nee bedankt</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Volgen</item>
+    </string-array>
+	<string-array name="shortcut_dialog_title">
+        <item>Bericht van browser</item>
+        <item>Volg de olympische spelen met Mi</item>
+    </string-array>
+	<string-array name="suggestion_topic_tips">
+        <item>Kijken naar Focus</item>
+        <item>Centraal thema</item>
+    </string-array>
+	<string-array name="suggestion_weather_condition_message">
+        <item>Helder</item>
+        <item>Gedeeltelijk bewolkt</item>
+        <item>Bewolkt</item>
+        <item>Regen</item>
+        <item>Onweer</item>
+        <item>Hagel</item>
+        <item>Ijzel</item>
+        <item>Lichte regenval</item>
+        <item>Regenval</item>
+        <item>Hevige regenval</item>
+        <item>Regenstorm</item>
+        <item>Stromende regen</item>
+        <item>Storm</item>
+        <item>Sneeuwstorm</item>
+        <item>Lichte sneeuwval</item>
+        <item>Sneeuwval</item>
+        <item>Hevige sneeuwval</item>
+        <item>Sneeuwstorm</item>
+        <item>Mist</item>
+        <item>Regen</item>
+        <item>Zandstorm</item>
+        <item>Lichte tot normale regenval</item>
+        <item>Normale tot hevige regenval</item>
+        <item>Hevige tot extreme regenval</item>
+        <item>Extreme regenval tot stortbui</item>
+        <item>Stortbui tot extreme regenstorm</item>
+        <item>Lichte tot normale sneeuwval</item>
+        <item>Normale tot hevige sneeuwval</item>
+        <item>Hevig tot sneeuwstorm</item>
+        <item>Zwevend stof</item>
+        <item>Zand</item>
+        <item>Zandstorm</item>
+        <item>Dichte mist</item>
+        <item>Sterke mist</item>
+        <item>Nevel</item>
+        <item>Normale nevel</item>
+        <item>Hevige nevel</item>
+        <item>Ernstige nevel</item>
+        <item>Dichte mist</item>
+        <item>Sterke dichte mist</item>
+        <item>Geen</item>
+        <item>Regen</item>
+        <item>Sneeuw</item>
+    </string-array>
+</resources>
