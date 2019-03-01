@@ -29,7 +29,6 @@
   <string name="bt_enable_line1">Als u Bluetooth services wilt gebruiken, moet u eerst Bluetooth inschakelen.</string>
   <string name="bt_enable_line2">Bluetooth nu inschakelen?</string>
   <string name="bt_enable_ok">Inschakelen</string>
-  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"Er is onvoldoende ruimte op de USB opslag beschikbaar om het bestand van '%1$s' op te slaan"</string>

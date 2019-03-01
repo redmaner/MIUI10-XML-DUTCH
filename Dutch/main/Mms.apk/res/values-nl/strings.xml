@@ -42,6 +42,7 @@
   <string name="audio_download_failed">Kon audio niet downloaden</string>
   <string name="audio_message_expired">Dit spraakbericht is verlopen.</string>
   <string name="audio_message_mx_offline">Kon audio niet downloaden. Mi Message is offline of niet beschikbaar</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Geen netwerkverbinding of verkeerde SIM kaart geïnstalleerd. Installeer de SIM kaart vanwaar het bericht verzonden is en verbind met het netwerk.</string>
   <string name="auto_identify_btn_text_only_smart_messaging">Turn on Smart Messaging</string>
   <string name="auto_identify_btn_text_when_all_disabled">Identificeer zender ID automatisch</string>
@@ -51,6 +52,7 @@
   <string name="batch_adding_progress_message">Toevoegen…</string>
   <string name="batch_deleting_message_progress_message">Berichten verwijderen…</string>
   <string name="batch_deleting_progress_message">Berichten verwijderen…</string>
+  <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Geblokkeerde SMS</string>
   <string name="block_support_text">Ondersteund door Antiy.</string>
   <string name="bookmark">Toegevoegd aan favorieten</string>
@@ -91,6 +93,7 @@
   <string name="cm_privacy_dialog_spannable_tips">Privacybeleid</string>
   <string name="cm_privacy_dialog_tips">Slimme berichten dienst worden geleverd door uw provider . Berichten moeten verbinding met internet maken en toegang krijgen tot uw locatie om deze services te bieden. U moet akkoord gaan met de %1s van uw provider voordat u deze diensten gaat gebruiken. Akkoord?</string>
   <string name="cm_privacy_dialog_title">Aandacht</string>
+  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacybeleid</string>
   <string name="complain_input_number">Voer uw telefoonnummer in</string>
   <string name="complain_jump">Overslaan</string>
@@ -169,6 +172,8 @@
   <string name="dialog_message_networking">Berichten moeten Gele pagina\'s gebruiken om de identificatie van de zende ID te kunnen bieden. Berichten en gele pagina\'s moeten verbinding met internet maken en toegang krijgen tot uw locatie om normaal te werken. Toestaan?</string>
   <string name="dialog_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere China Mobile gebruikers op het vasteland van China. U moet akkoord gaan met \"%1$s\" voordat u China Mobile Messaging gebruikt.</string>
   <string name="dialog_title_fake_cell_detect_error">Correctie</string>
+  <string name="dialog_title_mx_rcs">Mi Message</string>
+  <string name="dialog_title_networking">Terms and Conditions</string>
   <string name="disable_notifications_dialog_message">Dubbele SMS meldingen van standaardapp voor berichten stoppen?</string>
   <string name="disabled">Uit</string>
   <string name="discard">Afwijzen</string>
@@ -198,6 +203,8 @@
   <string name="error_state">Tegenstrijdige staat</string>
   <string name="error_state_text">De status van threads en ontvangers is tegenstrijdig. Registreer dit als bug via http://go/droidanizer</string>
   <string name="error_timed_msg">Ongeldige tijd</string>
+  <string name="ex_type_mx">Mi Message</string>
+  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Limiet berichtgrootte bereikt.</string>
   <string name="exceed_message_size_limitation_add_slide">Grootte van bericht is niet groot genoeg om nog een dia toe te voegen</string>
   <string name="exceed_message_text_limitation">Tekstlimiet van bericht bereikt.</string>
@@ -222,6 +229,7 @@
   <string name="file_width_height">Grootte:</string>
   <string name="force_touch_new_message_title">Nieuw bericht</string>
   <string name="forward_from">Verzonden van:</string>
+  <string name="forward_message_select_title">Forward message</string>
   <string name="forward_prefix">"Doorsturen: "</string>
   <string name="found_old_messages">Berichten uploaden van %1$s naar %2$s?</string>
   <string name="found_old_messages_title">Berichten uploaden van uw andere SIM kaarten?</string>
@@ -240,7 +248,7 @@
   <string name="group_resend_message">Opnieuw verzenden (%d)</string>
   <string name="group_verification_codes_summary">Berichten met eenmalige wachtwoorden automatisch bij elkaar plaatsen</string>
   <string name="group_verification_codes_title">Eenmalige wachtwoorden groeperen</string>
-   <string name="group_view_settings_disolved">Kan items niet bekijken. Deze groepchat is verwijderd.</string>
+  <string name="group_view_settings_disolved">Kan items niet bekijken. Deze groepchat is verwijderd.</string>
   <string name="group_view_settings_not_memeber">Kan items niet bekijken. Je bent geen lid van deze groepschat.</string>
   <string name="guild_add_attachments">Tik hier om smileys of andere bijlagen toe te voegen</string>
   <string name="guild_add_recipients">Tik hier om ontvangers te selecteren uit het adresboek</string>
@@ -267,6 +275,7 @@
   <string name="invalid_destination">Ongeldig adres van bestemming.</string>
   <string name="invalid_private_contact">Ongeldig privé contact</string>
   <string name="invalid_recipient_message">Corrigeer de ontvangers, anders ontvangen ze het bericht niet</string>
+  <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Layout van diavoorstelling</string>
   <string name="loading_all_messages">Een momentje…</string>
   <string name="loading_conversations">Een momentje…</string>
@@ -290,6 +299,7 @@
   <string name="menu_pick_from_contact">Selecteren uit contacten</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_send_as_common">Verzenden als SMS</string>
+  <string name="menu_traffic_destination">Destination</string>
   <string name="menu_unlock">Verwijderen uit favorieten</string>
   <string name="menu_view_contact">Contact bekijken</string>
   <string name="message_class_label">"Berichtklasse: "</string>
@@ -316,19 +326,26 @@
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Ik</string>
   <string name="messaging">Berichten verzenden</string>
+  <string name="millionbyte">MB</string>
+  <string name="mms">MMS</string>
   <string name="more">Meer</string>
   <string name="move_down">Naar beneden</string>
   <string name="move_up">Naar boven</string>
   <string name="msg_no_member_selected">Selecteer minimaal 1 contact</string>
   <string name="msg_type_hint_mms">Multimediabericht (MMS)</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
+  <string name="msg_type_hint_mx">Mi Message</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Tekstbericht</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
+  <string name="msg_type_sms_rcs">SMS, MMS, and internet messages</string>
   <string name="msglist_continue_to_pull_for_more">Naar beneden trekken om meer weer te geven</string>
   <string name="msglist_more_refreshing">Vernieuwen…</string>
   <string name="msglist_no_more_to_refresh">Al bijgewerkt</string>
   <string name="msglist_release_to_more">Loslaten om meer weer te geven</string>
   <string name="multimedia_message">MMS bericht</string>
   <string name="multimedia_notification">Melding van MMS</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_allow_notice">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt wordt om de gratis bericht- en spraakdienst te activeren. Behalve wanneer deze functie is ingeschakeld, is een kleine hoeveelheid mobiele data nodig om te controleren of de andere gebruiker online is. Akkoord?.</string>
   <string name="mx_activate_dlg_title">Activeer Mi Message</string>
   <string name="mx_activate_dlg_title_ex">Activeer Mi Message &amp; Stem</string>
@@ -369,6 +386,8 @@
   <string name="mx_filter_message_from_stranger_dialog_desc">U zal wel nog in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers. U kan deze functie altijd in- en uitschakelen in berichten &gt; Instellingen."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Messages blokkeren van onbekende nummers</string>
   <string name="mx_filter_message_from_stranger_summary">U zal nog wel in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers.</string>
+  <string name="mx_message">Mi Message</string>
+  <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Mi Message instellingen</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Mi Messaging met SIM slot 1</string>
@@ -381,6 +400,7 @@
   <string name="need_download">Synchroniseren…</string>
   <string name="net_sms_subscribed">Met succes geaboneerd</string>
   <string name="net_sms_unsubscribe">Met succes uitgeschreven</string>
+  <string name="network_error_description">A network error occurred. Wait a minute or two and try again.</string>
   <string name="networking_allow_continue">Toestaan</string>
   <string name="networking_allow_desc">Mi Message heeft verbinding met internet nodig om normaal te werken. Om gratis bericht- en spraakdiensten te leveren, onbekende nummers te herkennen, spam te filteren en andere functies in te schakelen moet Mi Message de gele gids gebruiken. Wilt u toestaan dat de gele gids verbinding met internet kan maken, toegang heeft tot uw locatiegegevens en uw contacten kan lezen?</string>
   <string name="networking_allow_desc_without_mx">Mi Message heeft verbinding met internet nodig om normaal te werken. Om onbekende nummers te herkennen, spam te filteren en andere functies in te schakelen moet Mi Message de gele gids gebruiken. Wilt u toestaan dat de gele gids verbinding met internet kan maken, toegang heeft tot uw locatiegegevens en uw contacten kan lezen?</string>
@@ -397,6 +417,7 @@
   <string name="no_subject_view">(Geen onderwerp)</string>
   <string name="non_english_subject_limit">13 tekens</string>
   <string name="nosend_message">Niet versturen</string>
+  <string name="not_prepare_for_send">No message to send</string>
   <string name="notification_channel_msg_description">Meldingen over berichten</string>
   <string name="notification_channel_msg_name">Berichten</string>
   <string name="notification_channel_other_description">Andere meldingen</string>
@@ -409,8 +430,10 @@
   <string name="notification_failed_multiple">[%s]</string>
   <string name="notification_failed_multiple_title">Berichten niet verzonden</string>
   <string name="notification_group_name">Berichten</string>
+  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
+  <string name="number_recognition_partner">Number Recognition Partners</string>
   <string name="open_audio_record_panel">Paneel om geluid op te nemen openen</string>
   <string name="open_edit_sms_panel">Paneel om berichten te bewerken openen</string>
   <string name="open_url_with_web">Deze URL openen in browser?</string>
@@ -504,6 +527,7 @@
   <string name="privacy_password_title2">Gebruik privacy wachtwoordbeveiliging</string>
   <string name="privacy_password_title3">Uw wachtwoord upgraden</string>
   <string name="privacy_password_title4">Wachtwoord geüpgrade</string>
+  <string name="privacy_policy">Privacy Policy</string>
   <string name="private_message">Privébericht</string>
   <string name="private_new_notification">Nieuw melding privébericht</string>
   <string name="private_protect">Privacy bescherming</string>
@@ -522,6 +546,7 @@
   <string name="rcs_forward_faild">Kon niet doorsturen</string>
   <string name="rcs_forward_successful">Met succes doorgestuurd</string>
   <string name="rcs_group_notification_invitation">Groepschat invitatie</string>
+  <string name="rcs_message">China Mobile Messaging</string>
   <string name="rcs_message_disable">Kan dit bericht in de tweede ruimte niet bekijken</string>
   <string name="rcs_msg">China Mobile Messaging</string>
   <string name="rcs_not_online">Kan China Mobile Messaging niet gebruiken. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
@@ -544,6 +569,7 @@
   <string name="rcs_wait_for_retry_text">Wachten…</string>
   <string name="received_at_time">Ontvangen op: %1s</string>
   <string name="received_label">"Ontvangen: "</string>
+  <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Ontvanger: "</string>
   <string name="recipients_over_size">Teveel onvangers.</string>
   <string name="recommend_bar_cancel">Negeren</string>
@@ -552,6 +578,8 @@
   <string name="recommend_bar_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere China Mobile gebruikers op het vasteland van China</string>
   <string name="recommend_bar_message_smart_message">Kopieer eenmalige wachtwoorden, volg pakketten, gebruik slimme menu\'s en meer</string>
   <string name="recommend_bar_ok">Inschakelen</string>
+  <string name="recommend_bar_title_mx_rcs">Mi Message</string>
+  <string name="recommend_bar_title_smart_message">Smart Messaging</string>
   <string name="recording_failed">Kan niet opnemen</string>
   <string name="refill_now">Nu opwaarderen</string>
   <string name="refreshing">Vernieuwen…</string>
@@ -575,6 +603,24 @@
   <string name="restore_blocked_message">Herstellen</string>
   <string name="restore_to_phone_memory_failed">Herstellen naar telefoongeheugen mislukt</string>
   <string name="restored_to_phone_memory">Hersteld</string>
+  <string name="rms_audio_body">[Audio]</string>
+  <string name="rms_audio_file_duration_too_long">"Can't send audio longer than 180 seconds"</string>
+  <string name="rms_audio_file_length_too_large">"Can't send audio larger than %1$dMB"</string>
+  <string name="rms_card_body">[Card]</string>
+  <string name="rms_cloud_file_body">[Cloud file]</string>
+  <string name="rms_emoticon_body">[Emoji]</string>
+  <string name="rms_file_body">[File]</string>
+  <string name="rms_file_not_exist">"File doesn't exist"</string>
+  <string name="rms_file_not_exist_to_view">This file was moved or deleted</string>
+  <string name="rms_illegal_extension">Invalid file format</string>
+  <string name="rms_image_body">[Image]</string>
+  <string name="rms_location_body">[Location]</string>
+  <string name="rms_normal_file_length_too_large">"Can't send files larger than %1$dMB"</string>
+  <string name="rms_original_image_length_too_large">"Can't send original images larger than %1$dMB"</string>
+  <string name="rms_original_image_size_too_large">Looks like the original image is too big</string>
+  <string name="rms_text_body">[Text]</string>
+  <string name="rms_vcard_body">[Contact]</string>
+  <string name="rms_video_body">[Video]</string>
   <string name="save">Opslaan</string>
   <string name="save_ringtone">Opslaan als beltoon</string>
   <string name="save_to_sim">Opslaan op SIM kaart</string>
@@ -622,6 +668,8 @@
   <string name="send_message_notification_msg">Druk om de details te zien.</string>
   <string name="send_message_notification_tickerText">Het toestel vraagt toestemming</string>
   <string name="send_message_notification_title">Toestemmingsaanvraag</string>
+  <string name="send_rms_editor_hints">China Mobile Messaging</string>
+  <string name="send_rms_editor_hints_omit">Mi Message</string>
   <string name="send_signature_confirm_dialog_message">Geen inhoud gevonden. Alleen uw handtekening sturen?</string>
   <string name="send_signature_confirm_dialog_title">Bevestiging van verzending</string>
   <string name="send_sms">Bericht verzenden</string>
@@ -655,6 +703,7 @@
   <string name="smart_messages_network_allow_message">Mi Message moet verbinding maken met internet om ervoor te zorgen dat zijn services normaal werken. Nu toestaan?</string>
   <string name="smart_messages_network_allow_title">Er is een internetverbinding nodig</string>
   <string name="sms_card_partner_label">"SMS kaartpartner: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Inhoud bericht:</string>
   <string name="sms_full_body">Inkomend bericht geweigerd: niet genoeg ruimte op dit apparaat.</string>
   <string name="sms_full_title">SMS geheugen vol</string>
@@ -670,10 +719,12 @@
   <string name="snippet_timed">[Getimed]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankmeldingsberichten</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
   <string name="sqlite_disk_full">Opslagruimte van het apparaat is vol</string>
   <string name="sqlite_low_memory">Niet genoeg opslagruimte</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_failed">Mislukt</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">In behandeling</string>
@@ -687,7 +738,9 @@
   <string name="storage_dialog_attachments">MMS bijlagen:</string>
   <string name="storage_dialog_available_space">Beschikbare ruimte:</string>
   <string name="storage_dialog_database">Database:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">MMS grootte:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Opslaglimiet</string>
   <string name="storage_limits_message">Het aantal berichten beperken dat u kunt opslaan per conversatie?</string>
   <string name="storage_limits_setting">Ingesteld limiet</string>
@@ -706,6 +759,7 @@
   <string name="title_allow_network_access">Info automatisch updaten</string>
   <string name="title_collapse_sp_messages">Meldingengroep</string>
   <string name="title_hide_verification_code">OTP automatisch verbergen op vergrendelscherm</string>
+  <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
   <string name="title_show_list_avatar">Profielfoto\'s weergeven</string>
   <string name="title_show_photo_word">Contactfoto\'s toewijzen</string>
@@ -721,6 +775,7 @@
   <string name="too_many_attachments">Kan %1$s bijlagen niet overschrijden. Alleen de eerste %2$s zullen toegevoegd worden.</string>
   <string name="too_many_recipients">"Bericht bevat te veel ontvangers (%1$s). Het limiet is %2$s ontvangers."</string>
   <string name="too_many_unsent_mms">Bericht verzenden mislukt. Er zijn teveel onverzonden multimediaberichten."</string>
+  <string name="train_edit_destination">Add</string>
   <string name="try_to_send">Poging tot verzenden</string>
   <string name="type_attachment">Bijlage</string>
   <string name="type_audio">Audio</string>
@@ -749,6 +804,8 @@
   <string name="url_result_safe">Deze URL is veilig</string>
   <string name="url_scan_again">Opnieuw controleren</string>
   <string name="url_scanning">URL controleren…</string>
+  <string name="user_agreement">User Agreement</string>
+  <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Verificatiecodes</string>
   <string name="view">Weergeven</string>
   <string name="view_bookmark">Origineel bericht weergeven</string>

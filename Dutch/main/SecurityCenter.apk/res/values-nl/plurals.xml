@@ -76,9 +76,9 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">Netwerktoegang is beperkt voor %d apps</item>
         <item quantity="one">Netwerktoegang is beperkt voor %d app</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d apps werken niet goed en vreten batterij"</item>
-        <item quantity="one">"%d app werkt niet goed en vreet batterij"</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d locked apps</item>
+        <item quantity="one">%d locked app</item>
     </plurals>
   <plurals name="power_center_battery_day">
         <item quantity="other">"%d dagen en "</item>
@@ -178,9 +178,21 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%s apps zijn niet beveiligd</item>
         <item quantity="one">%s app is niet beveiligd</item>
     </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
     <plurals name="menu_text_antivirus_3">
         <item quantity="other">%d dagen</item>
         <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items zijn veilig</item>
@@ -234,6 +246,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d dagen sinds laatste check-up</item>
         <item quantity="one">%d dag sinds laatste check-up</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d risks found, fix now</item>
+        <item quantity="one">%d risk found, fix now</item>
+    </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risico\'s,</item>
         <item quantity="one">%d risico,</item>
@@ -254,6 +270,18 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">"Wacht %d seconden en probeer opnieuw. "</item>
         <item quantity="one">"Wacht %d seconde en probeer opnieuw. "</item>
 	</plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connect at least %d dots</item>
+        <item quantity="one">Connect at least %d dot</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Enter at least %d digits</item>
+        <item quantity="one">Enter at least %d digit</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Enter at least %d characters</item>
+        <item quantity="one">Enter at least %d character</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
@@ -355,12 +383,14 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d apps zijn verborgen</item>
         <item quantity="one">%d app is verborgen</item>
     </plurals>
-	<plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d apps kunnen onjuist worden weergegeven. Zwevende meldingen beperken.</item>
-        <item quantity="one">%d app kan onjuist worden weergegeven. Zwevende meldingen beperken.</item>
-    </plurals>
 	<plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemen vereisen optimalisatie</item>
         <item quantity="one">%1$d probleem vereist optimalisatie</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
     </plurals>
 </resources>

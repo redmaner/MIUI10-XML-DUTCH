@@ -20,6 +20,9 @@
         <item quantity="other">Zeer korte vertraging (%1$d ms)</item>
         <item quantity="one">Zeer korte vertraging (%1$d ms)</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hour %2$s"</item>
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Uitgeschakeld voor %d apps</item>
         <item quantity="one">Uitgeschakeld voor %d app</item>

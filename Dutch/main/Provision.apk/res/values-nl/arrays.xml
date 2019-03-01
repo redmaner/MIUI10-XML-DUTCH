@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi en mobiele data</item>
-        <item>Alleen Wi-Fi</item>
-        <item>Uit</item>
-    </string-array>
-</resources>

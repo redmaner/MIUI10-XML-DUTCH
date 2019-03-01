@@ -17,12 +17,14 @@
   <string name="cannot_change_parames">Kan instellingen niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
   <string name="close_screen_record">Opnemen gestopt</string>
+  <string name="date_month">/</string>
+  <string name="date_year">/</string>
   <string name="description_content">Met schermrecorder kan je op systeemniveau opnemen. Deze actie zorgt ervoor dat je de schermrecorderfunctie uitschakelt. Verdergaan?</string>
   <string name="description_title">Over schermrecorder</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
- <string name="first_using_mic_dialog_message">De schermrecorder heeft toegang tot uw microfoon nodig om audio op te nemen. Toestaan?</string>
-  <string name="first_using_mic_dialog_title">Toestemmingen vereist</string> 
+  <string name="first_using_mic_dialog_message">De schermrecorder heeft toegang tot uw microfoon nodig om audio op te nemen. Toestaan?</string>
+  <string name="first_using_mic_dialog_title">Toestemmingen vereist</string>
   <string name="fixed_frame_rate">Vaste frame rate</string>
   <string name="fixed_frame_rate_summary">Het opnemen van video\'s met een vaste frame rate verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij.</string>
   <string name="frames">Frame rate</string>
@@ -53,6 +55,8 @@
   <string name="no_sound">Dempen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_send">Verzenden</string>
+  <string name="permission_intro_microphone">For recording sound when sound source is set to microphone</string>
+  <string name="permission_intro_storage">For saving screen recordings</string>
   <string name="quit_recording">Schermrecorder afgesloten</string>
   <string name="recording_failure">Kon niet opnemen, start een nieuwe schermopname</string>
   <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen omdat het bestand de maximumgrootte heeft bereikt. Als je nog niet klaar was kan je een nieuwe opname starten.</string>
@@ -69,6 +73,10 @@
   <string name="show_hard_key_summary">Een melding laten zien als er op de home, menu en terug- knop wordt gedrukt</string>
   <string name="show_screen_touch">Aanrakingen weergeven</string>
   <string name="show_screen_touch_summary">Aanrakingen weergeven met een witte stip</string>
+  <string name="size_byte">B</string>
+  <string name="size_gigabyte">GB</string>
+  <string name="size_kilobyte">KB</string>
+  <string name="size_megabyte">MB</string>
   <string name="sound_source">Geluidsbron</string>
   <string name="sound_source_summary">Systeemgeluiden of microfoon</string>
   <string name="sound_source_summary_without_system_sounds">Gebruik microfoon of demp het geluid</string>
@@ -80,6 +88,7 @@
   <string name="stop_recording">Opname stoppen</string>
   <string name="storage_location">Opslag</string>
   <string name="storage_location_summary">Selecteer uw voorkeur opslagoptie </string>
+  <string name="timer_format">%s</string>
   <string name="unchecked">Niet geselecteerd</string>
   <string name="using_record_confirm_cancel">Beperken</string>
   <string name="using_record_confirm_ok">Toestaan</string>

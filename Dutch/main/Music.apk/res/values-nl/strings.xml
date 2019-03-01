@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_and_cloud">Account</string>
   <string name="abc_action_bar_home_description">Ga naar startscherm</string>
   <string name="abc_action_bar_up_description">Ga omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
@@ -18,6 +17,7 @@
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
   <string name="abc_toolbar_collapse_description">Inklappen</string>
+  <string name="account_and_cloud">Account</string>
   <string name="action_item_add">Toevoegen aan</string>
   <string name="action_item_add_song">Toevoegen aan afspeellijst</string>
   <string name="action_item_add_to_current_playlist">Wachtrij</string>
@@ -42,6 +42,7 @@
   <string name="add_to_last_of_playlist">Toevoegen aan het einde van de afspeellijst</string>
   <string name="add_to_playlist_successful">Nummer toegevoegd</string>
   <string name="added_next_play">Toegevoegd aan wachtrij</string>
+  <string name="agreement_desc">User Agreement (mandatory)</string>
   <string name="alaka_required">Om naar dit nummer te luisteren moet u er voor betalen</string>
   <string name="album_label">Albumcovers</string>
   <string name="album_name">Album</string>
@@ -53,6 +54,16 @@
   <string name="already_favorited">Reeds bij favorieten</string>
   <string name="always_use_metered">Altijd mobiele data gebruiken</string>
   <string name="app_label">Downloads</string>
+  <string name="app_permission_confirm">Got it</string>
+  <string name="app_permission_optional">Optional permissions</string>
+  <string name="app_permission_require">Mandatory permissions</string>
+  <string name="app_permission_use_desc">Permissions</string>
+  <string name="app_permission_use_group_account">Accounts</string>
+  <string name="app_permission_use_group_account_desc">For getting Mi Account info</string>
+  <string name="app_permission_use_group_phone">Phone</string>
+  <string name="app_permission_use_group_phone_desc">For Google Push services</string>
+  <string name="app_permission_use_group_storage">Storage</string>
+  <string name="app_permission_use_group_storage_desc">For finding and playing songs saved on device</string>
   <string name="artist">Artiesten</string>
   <string name="artist_area_all">Alles</string>
   <string name="artist_area_china">Chinees</string>
@@ -73,6 +84,7 @@
   <string name="avoid_to_use_traffic_summary">Gebruik nooit mobiele netwerken om muziek te streamen</string>
   <string name="avoid_to_use_traffic_title">Mij waarschuwen als ik mobiele data gebruik om nummers af te spelen</string>
   <string name="back_confirm">Tik nogmaals om af te sluiten</string>
+  <string name="banner_op">Mi Music</string>
   <string name="bluetooth_device">Bluetooth audio-apparaat</string>
   <string name="browser_error">Tijdelijk niet beschikbaar, probeer het binnenkort opnieuw</string>
   <string name="buffering">In buffer opslaan…</string>
@@ -90,6 +102,7 @@
   <string name="choose_stream_quality">Kies streamkwaliteit</string>
   <string name="click_to_shuffle">Tik om te shuffelen</string>
   <string name="close_music_time">"Resterende tijd: "</string>
+  <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Inschakelen</string>
   <string name="common_google_play_services_enable_text">"%1$s zal niet werken tenzij je Google Play services inschakelt."</string>
   <string name="common_google_play_services_enable_title">Google Play services inschakelen</string>
@@ -112,6 +125,7 @@
   <string name="confirm_exit">Wijzigingen opslaan?</string>
   <string name="connect_now">Verbinden</string>
   <string name="connecting_apk">Verbinden…</string>
+  <string name="count_format">%2$1.1fK</string>
   <string name="create_playlist">Afspeellijst maken</string>
   <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
   <string name="current_album">Huidige albumcover</string>
@@ -119,7 +133,9 @@
   <string name="current_version">Huidige versie</string>
   <string name="data_usage_warning">Datagebruik</string>
   <string name="data_usage_warning_summary">Gebruik maken van mobiele data om hoge kwaliteit muziek te streamen kan je datakosten verhogen.</string>
+  <string name="data_use_desc">Legal documents</string>
   <string name="date_format_str">dd-MM-yyyy</string>
+  <string name="default_placement_display_num">5</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_download">Verwijderen</string>
   <string name="delete_file_as_well">Definitief verwijderen</string>
@@ -151,6 +167,7 @@
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
   <string name="dialog_renew_failure">Sorry, bewerking is mislukt</string>
   <string name="dialog_renew_free_end">Je gratis proefperiode is voorbij. Abonneren op Hungama PRO?​</string>
+  <string name="dialog_renew_positive_text">YEAH, I WANNA ROCK LIKE A PRO</string>
   <string name="dialog_renew_success">Bedankt voor de bevestiging</string>
   <string name="dialog_song_sort_type">Nummers sorteren</string>
   <string name="dialog_song_sort_type_name">Op naam</string>
@@ -282,11 +299,17 @@
   <string name="exo_download_failed">Download mislukt</string>
   <string name="exo_download_notification_channel_name">Downloads</string>
   <string name="exo_download_removing">Downloads verwijderen</string>
+  <string name="exo_item_list">%1$s, %2$s</string>
+  <string name="exo_track_mono">Mono</string>
   <string name="exo_track_selection_auto">Automatisch</string>
   <string name="exo_track_selection_none">Geen</string>
   <string name="exo_track_selection_title_audio">Audio</string>
   <string name="exo_track_selection_title_text">Tekst</string>
   <string name="exo_track_selection_title_video">Video</string>
+  <string name="exo_track_stereo">Stereo</string>
+  <string name="exo_track_surround">Surround sound</string>
+  <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
+  <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
   <string name="exo_track_unknown">Onbekend</string>
   <string name="expand_button_title">Geavanceerd</string>
   <string name="expired">Vervallen</string>
@@ -311,10 +334,14 @@
   <string name="filter_by_folder">Op mappen</string>
   <string name="filter_by_folder_summary">Mappen kiezen om weer te geven</string>
   <string name="filter_by_size">Op grootte</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
   <string name="filter_by_size_summary">Kleine audiobestanden verbergen</string>
+  <string name="filter_size_unit">%dKB</string>
   <string name="follow">Volgen</string>
   <string name="followed">Volgend</string>
+  <string name="font_family">miui</string>
   <string name="format_not_support">Deze indeling is niet ondersteund</string>
   <string name="format_unsupported_or_corrupted">Dit formaat wordt niet ondersteund of het bestand is beschadigd</string>
   <string name="fragment_title_artist_album">Albums</string>
@@ -330,13 +357,19 @@
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
   <string name="home_tab_local">Mijn muziek</string>
   <string name="home_tab_online">Online muziek</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
+  <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Alleen PRO leden kunnen meerdere nummers downloaden. Nu een PRO lidmaatschap verkrijgen?</string>
   <string name="hungama_category_playlist">Afspeellijst</string>
+  <string name="hungama_category_radio">Radio</string>
+  <string name="hungama_category_video">Video</string>
   <string name="hungama_free_download_out_summary">Je kunt geen gratis nummers meer downloaden. Een PRO lidmaatschap ontvangen om onbeperkt nummers te downloaden?</string>
+  <string name="hungama_pro">Hungama Pro</string>
   <string name="hungama_subscribe_message">Koop PRO lidmaatschap om muziek van hoge kwaliteit te downloaden.</string>
   <string name="hungama_subscribe_positive_button">Koop PRO lidmaatschap</string>
   <string name="hungama_subscribe_title">PRO lidmaatschap</string>
   <string name="i_know">Ok</string>
+  <string name="id_namespace">hungama</string>
   <string name="impunity_declaration_content">Je moet akkoord gaan met onze &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Gebruikersvoorwaarden&lt;/a&gt; en &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Privacybeleid&lt;/a&gt; om dit product te kunnen gebruiken.</string>
   <string name="impunity_declaration_ignore">Niet opnieuw weergeven</string>
   <string name="impunity_declaration_negative_text">Verlaten</string>
@@ -365,6 +398,7 @@
   <string name="language_preference_desc">Selecteer uw voorkeurstalen om meer relevante aanbevelingen te ontvangen</string>
   <string name="languages">Talen</string>
   <string name="latest_song">Afspeelgeschiedenis (%d)</string>
+  <string name="lc_id">en-us</string>
   <string name="like">Leuk</string>
   <string name="list_item_play_all_tracks">Alles afspelen</string>
   <string name="load_shuffle">Laden…</string>
@@ -384,6 +418,7 @@
   <string name="lyric_label">Songteksten</string>
   <string name="lyric_open_other_connect">Download songteksten met mobiele netwerk</string>
   <string name="lyric_setting">Instellingen songteksten</string>
+  <string name="max_sleep_time">%d</string>
   <string name="menu_title_pause_all">Alle pauzeren</string>
   <string name="menu_title_resume_all">Alle starten</string>
   <string name="message_delete_playlist">Afspeellijst %s verwijderen?</string>
@@ -403,6 +438,7 @@
   <string name="metered_serious_alert_msg_with_data">U heeft nog maar %s mobiele data over. Toch mobiele data gebruiken?</string>
   <string name="metered_serious_allow">Toch afspelen</string>
   <string name="milink_unavaliable_please_update">Mi Link is niet beschikbaar. Update MIUI.</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Onbekend&gt;</string>
   <string name="miuishare_account_login_ok">Aanmelden</string>
   <string name="miuishare_no_network">Kan niet verbinden met netwerk</string>
@@ -419,6 +455,7 @@
   <string name="modify_song_info_success">Nummerinfo is bijgewerkt</string>
   <string name="more">Meer</string>
   <string name="more_add_song_list">Nummers toevoegen aan wachtrij</string>
+  <string name="more_milink_and_bluetooth">Mi Link &amp; Bluetooth</string>
   <string name="more_settings">Geavanceerde instellingen</string>
   <string name="more_settings_summary">Slaaptimer, bestanden filteren, enz.</string>
   <string name="more_share">Delen</string>
@@ -522,6 +559,7 @@
   <string name="playlist_type_album">Albums</string>
   <string name="playlist_type_artist">Artiest</string>
   <string name="playlist_type_billboard">Hitlijsten</string>
+  <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Mijn afspeellijsten</string>
   <string name="playlist_type_recommend">Aanbevolen afspeellijsten</string>
   <string name="please_download_first">Download eerst.</string>
@@ -530,9 +568,10 @@
   <string name="preset_music_playlist">Mi Music afspeellijst</string>
   <string name="priority_storage">Gebruik externe SD-kaart</string>
   <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart, indien beschikbaar</string>
+  <string name="privacy_desc">Privacy Policy (mandatory)</string>
   <string name="privacy_policy">Privacybeleid</string>
-  <string name="project_device">Mi Telefoon</string>
   <string name="pro_member">PRO Lid</string>
+  <string name="project_device">Mi Telefoon</string>
   <string name="prompt_grant_write_settings_permission">Toestaan om systeeminstellingen te wijzigen</string>
   <string name="pulluprefreshrecyclerview_loading_error">Kon niet laden</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Afspeellijst geladen</string>
@@ -582,6 +621,8 @@ Wees blij"</string>
   <string name="select_local_cover">Locale cover selecteren</string>
   <string name="select_local_lyric_file">Locale songtekstbestand selecteren</string>
   <string name="select_none">Alles deselecteren</string>
+  <string name="select_one_language">Select at least 1 language</string>
+  <string name="select_three_languages">You can select up to 3 languages</string>
   <string name="selected_count">%1$d geselecteerd uit %2$d</string>
   <string name="send_to_title">Verzenden naar (%1$s)</string>
   <string name="service_and_settings">Service en instellingen</string>
@@ -618,6 +659,7 @@ Wees blij"</string>
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
   <string name="sleep_mode_summary">Speler stoppen na een bepaalde tijd</string>
   <string name="sleep_mode_title">Slaaptimer</string>
+  <string name="sliding_pro_center">PRO center</string>
   <string name="song_exist_in_playlist">Dit nummer staat al in de wachtrij</string>
   <string name="song_info">Nummerdetails</string>
   <string name="song_is_empty">Titel kan niet leeg zijn.</string>
@@ -635,6 +677,7 @@ Wees blij"</string>
   <string name="storage_sd_card">SD-kaart</string>
   <string name="storage_usb">USB opslag</string>
   <string name="streamloadingtext">Verbinding maken met %s…</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="tab_album">Albums</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist">Artiesten</string>
@@ -664,6 +707,7 @@ Wees blij"</string>
   <string name="talkback_show_navigation_draw">Drawer weergeven</string>
   <string name="terms_of_service">Servicevoorwaarden</string>
   <string name="test_mode">Test modus</string>
+  <string name="text_separator">|</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
   <string name="time_to_upgrade">Er is een update beschikbaar</string>
@@ -700,7 +744,7 @@ Wees blij"</string>
   <string name="video_retry_btn">Probeer opnieuw</string>
   <string name="view_album">Album bekijken</string>
   <string name="vip_required">Premium muziekpakket verkrijgen om dit nummer af te spelen. Nummer voorlopig overgeslagen.</string>
-   <string name="vip_required_with_song">%s is alleen beschikbaar voor PRO leden. Dit nummer nu overgeslaan.</string>
+  <string name="vip_required_with_song">%s is alleen beschikbaar voor PRO leden. Dit nummer nu overgeslaan.</string>
   <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze %s download te voltooien.
 
 Tik op %s om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
@@ -710,5 +754,6 @@ Tik op %s om deze download te starten de volgende keer dat u bent verbonden met 
 Grootte: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"De introductie van versie %1$s
 Delta update grootte: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Opslag niet beschikbaar, controleer de SD-kaart.</string>
 </resources>

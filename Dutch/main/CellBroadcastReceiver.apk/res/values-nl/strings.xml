@@ -145,17 +145,6 @@
   <string name="sms_cb_settings">Instellingen mobiele uitzendingen</string>
   <string name="test_alert">Test alarmen</string>
   <string name="test_alerts">Test alarmen</string>
-  <string name="tw_alert_message">Waarschuwingsbericht</string>
-  <string name="tw_alert_message_level_language_summary">Waarschuwingsbericht(Engels)</string>
-  <string name="tw_alert_message_level_summary">Waarschuwingsbericht(Chinees)</string>
-  <string name="tw_emergency_alert">Noodalarm</string>
-  <string name="tw_emergency_alert_level_language_summary">Noodalarm(Engels)</string>
-  <string name="tw_emergency_alert_level_summary">Noodalarm(Chinees)</string>
-  <string name="tw_presidential_level_language_summary">Presidentiële waarschuwing(Engels)</string>
-  <string name="tw_presidential_level_summary">Presidentiële waarschuwing(Chinees)</string>
-  <string name="tw_required_monthly_test">Vereiste maandelijkse test</string>
-  <string name="tw_required_monthly_test_level_language_summary">Vereiste maandelijkse test(Engels)</string>
-  <string name="tw_required_monthly_test_level_summary">Vereiste maandelijkse test(Chinees)</string>
   <string name="updating_settings">Instellingen bijwerken</string>
   <string name="updating_title">Oproepinstellingen</string>
   <string name="view_details_title">Alarm details</string>

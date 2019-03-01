@@ -8,6 +8,9 @@
         <item quantity="other">Recent geopend, beschikbare apps: %d. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
         <item quantity="one">Recent geopend, beschikbare app: %d. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hour %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Meldingen van %1$s &amp; %2$d apps worden niet getoond.</item>
 		<item quantity="one">Meldingen van %1$s &amp; %2$d app worden niet getoond.</item>

@@ -14,6 +14,8 @@
   <string name="backup_finished_notification_content">Back-up gemaakt van apps van startscherm, systeeminstelllingen, enz.</string>
   <string name="backup_now">Nu back-uppen</string>
   <string name="backup_size">Grootte: %s</string>
+  <string name="backup_stopped_msg">Current backup will overwrite the previous one. Tap to view.</string>
+  <string name="backup_stopped_title">Backup was paused</string>
   <string name="backup_success">Back-up gelukt</string>
   <string name="backup_successfully">Back-up gelukt</string>
   <string name="backup_to_cloud">App back-uppen</string>
@@ -93,12 +95,15 @@
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
+  <string name="dialog_btn_cancel_backup">Cancel</string>
   <string name="dialog_btn_next">Volgende</string>
+  <string name="dialog_btn_overwrite_backup">Overwrite</string>
   <string name="dialog_btn_restore_skip">Later herstellen</string>
   <string name="dialog_cancel_backup_cancel">Annuleren</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Als u op de schakelaar drukt zullen lopende back-ups worden gestopt.</string>
   <string name="dialog_cancel_backup_title">De lopende back-up stoppen?</string>
+  <string name="dialog_msg_overwrite_backup">Local backup is different from the one in Mi Cloud. If you continue, current backup will overwrite the previous one.</string>
   <string name="dialog_msg_restore_require_wlan">Wi-Fi is vereist om een back-up te herstellen.</string>
   <string name="dialog_title_require_wlan">Verbind met Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -109,6 +114,7 @@
   <string name="download_meta_failed">Kon gegevens niet laden.</string>
   <string name="download_settings">Downloaden van startscherminstellingen: %s%%</string>
   <string name="download_settings_fail">Kon startscherm instellingen niet downloaden</string>
+  <string name="error_num_placeholder">--</string>
   <string name="error_retry_later">Kon actie niet voltooien. Wacht een minutje en probeer opnieuw.</string>
   <string name="error_unknown">Er liep iets fout</string>
   <string name="get_device_id_error">Kon apparaat ID niet verkrijgen</string>
@@ -119,12 +125,12 @@
   <string name="latest_backup_time_loading">Laden…</string>
   <string name="load_backup_failed">Kon back-ups niet laden</string>
   <string name="loading_user_backup">Gebruikers back-ups laden…</string>
-  <string name="main_space">Eerste ruimte</string>
   <string name="managespace_delete_backup">Verwijderen</string>
   <string name="menu_item_managespace">Ruimte beheren</string>
   <string name="menu_item_sort">Sorteren op</string>
   <string name="menu_item_sort_name">Naam</string>
   <string name="menu_item_sort_size">Grootte</string>
+  <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">Items herstellen. Nu stoppen?</string>
   <string name="msg_alert_restore_error">Kon items van Mi Cloud niet herstellen. Probeer opnieuw.</string>
   <string name="network_error">Verbind met het netwerk</string>
@@ -136,6 +142,8 @@
   <string name="open_wifi">Wi-Fi nu inschakelen</string>
   <string name="open_wifi_description">Verbind met Wi-Fi netwerk om te herstellen</string>
   <string name="open_wifi_setting">Wi-Fi instellingen</string>
+  <string name="other_device_main_space">First space</string>
+  <string name="other_device_second_space">Second space</string>
   <string name="process_whole_recovery">Herstellen van \"%s\"</string>
   <string name="provision_error_connect_msg">Test netwerk en probeer opnieuw. Back-ups zijn niet beschikbaar wanneer je apparaat offline is.</string>
   <string name="provision_error_connect_title">Kan niet verbinden</string>
@@ -166,8 +174,8 @@
   <string name="restoring_file_title_no_progress">Bestanden herstellen…</string>
   <string name="restoring_settings">Instellingen herstellen…</string>
   <string name="retry">Probeer opnieuw</string>
-  <string name="second_space">Tweede ruimte</string>
-  <string name="self_device">Deze telefoon</string>
+  <string name="self_device_main_space">"This phone's First space"</string>
+  <string name="self_device_second_space">"This phone's Second space"</string>
   <string name="settings_backup">Systeeminstellingen</string>
   <string name="size_unknown">Grootte onbekend</string>
   <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>

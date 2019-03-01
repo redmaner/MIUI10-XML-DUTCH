@@ -49,19 +49,6 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
-	<string-array name="indices_car_wash">
-        <item>Geschikt</item>
-        <item>Niet geschikt</item>
-    </string-array>
-	<string-array name="indices_sport">
-        <item>Geschikt</item>
-        <item>Niet geschikt</item>
-    </string-array>
-	<string-array name="indices_uv_level">
-        <item>Laag</item>
-        <item>Gemiddeld</item>
-        <item>Hoog</item>
-	</string-array>
 	<string-array name="minute_rain_array">
         <item>Hevig</item>
         <item>Gemiddeld</item>
@@ -128,12 +115,5 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
-    </string-array>
-	<string-array name="wind_unit_simple">
-        <item>Beaufort</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
     </string-array>
 </resources>

@@ -5,6 +5,8 @@
   <string name="account_container_title">Geïmporteerd van</string>
   <string name="account_default">Lokaal</string>
   <string name="account_phone">Alleen apparaat, niet gesynchroniseerd</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kaart</string>
   <string name="account_sim2">SIM kaart %d</string>
   <string name="account_type_format">%1$s contact</string>
@@ -73,11 +75,13 @@
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
   <string name="call_left">Telefoon saldo</string>
+  <string name="call_log_empty_gecode">-</string>
   <string name="call_log_new_header">Nieuw</string>
   <string name="call_log_old_header">Ouder</string>
   <string name="call_main">Bel main</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
+  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
@@ -323,8 +327,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_image_button_plus">Plus</string>
   <string name="description_image_button_pound">Pond</string>
   <string name="description_image_button_seven">zeven</string>
-  <string name="description_image_button_sim1_dial">Bel met SIM %s</string>
-  <string name="description_image_button_sim2_dial">Bel met SIM %s</string>
+  <string name="description_image_button_sim1_named_dial">Dial using SIM1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Dial using SIM2 %s</string>
   <string name="description_image_button_six">zes</string>
   <string name="description_image_button_star">ster</string>
   <string name="description_image_button_three">drie</string>
@@ -361,19 +365,19 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="device_pairing_dialog_message">Koppelen…</string>
   <string name="device_pairing_dialog_title">Apparaten koppelen</string>
   <string name="device_transfer_by_bluetooth_message">"1. Schakel de \"Bluetooth\" van ander apparaat in;
-        
+
 
 - Android apparaten vinden \"Bluetooth\" bij netwerk sectie
-        
+
 - iOS apparaten moeten \"Bluetooth\" in instellingen
-        
+
 
 2. Android apparaten moeten \"Zichtbaar\" optie inschakelen;
-        
+
 
 3. Klik \"volgende\", en geef toegang tot contacten in de volgende stap."</string>
   <string name="device_transfer_by_sim_message">"1. Sla de contacten van het andere apparaat op op de SIM kaart;
-        
+
 
 2. Open de instellingen in de contactenapp en ga naar \"Contacten importeren/exporteren\" -- \"Importeer van SIM kaart\", lang drukken op contact om te selecteren, selecteer alle gewenste contacten en druk vervolgens op \"Importeren\"."</string>
   <string name="device_version_header_bluetooth">Import via Bluetooth</string>
@@ -402,7 +406,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialog_voicemail_airplane_mode_message">Om voicemail te gebruiken, moet u Vliegmodus uitzetten.</string>
   <string name="dialog_voicemail_not_ready_message">Om de voicemail in te stellen, ga naar het menu&gt; Instellingen.</string>
   <string name="directory_search_label">Adresboek</string>
-  <string name="disclaimer_text">"De gele gids krijgt de informatie over uw saldo door een sms te sturen. Uw provider kan deze informatie met een vertraging bijwerken, zodat de nummers die u krijgt mogelijk niet correct zijn. Als u een fout ziet, kunt u de aanvraagsms rapporteren om ons te helpen deze dienst te verbeteren. 
+  <string name="disclaimer_text">"De gele gids krijgt de informatie over uw saldo door een sms te sturen. Uw provider kan deze informatie met een vertraging bijwerken, zodat de nummers die u krijgt mogelijk niet correct zijn. Als u een fout ziet, kunt u de aanvraagsms rapporteren om ons te helpen deze dienst te verbeteren.
 
 Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer per dag."</string>
   <string name="disclaimer_title">Disclaimer</string>
@@ -490,6 +494,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="group_create_fail_toast">Kan geen groep maken</string>
   <string name="group_create_success_toast">Groep gemaakt</string>
   <string name="group_delete_success_toast">Groep verwijderd</string>
+  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Groepsnaam</string>
   <string name="group_member_remove_fail_toast">Niet verwijderd uit groep</string>
   <string name="group_member_remove_success_toast">Verwijderd uit groep</string>
@@ -582,7 +587,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="lunarBirthdayLabelsGroup">Verjaardag</string>
   <string name="lunar_calendar">Lunar Nieuw jaar</string>
   <string name="lunar_leap">Start</string>
-  <string name="lunar_yue">Maand</string>
   <string name="make_primary">Onthoud mijn voorkeur</string>
   <string name="map_custom">%s adres weergeven</string>
   <string name="map_home">Thuisadres weergeven</string>
@@ -729,7 +733,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="nickname_picker_name_column">Contactnaam</string>
   <string name="nickname_picker_nickname_column">Titel</string>
   <string name="noAccounts">U heeft een account nodig om groepen te maken.</string>
-  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Contacten herstellen van Mi Account</string>
   <string name="noContacts">Geen contacten.</string>
   <string name="noContactsWithPhoneNumbers">Er zijn geen contacten met telefoonnummers</string>
@@ -866,6 +869,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="preference_others">Overige</string>
   <string name="preference_phone">Telefoon</string>
   <string name="preference_phone_more_title">Instellingen voor bellen</string>
+  <string name="preference_privacy_policy_title">Privacy Policy</string>
   <string name="preference_remove_duplicate">Dubbele contacten samenvoegen</string>
   <string name="preference_show_firewall_calllog">Geef de geblokkeerde oproepen in de oproepgeschiedenis weer</string>
   <string name="preference_show_yellowpage_tab_description">De gele gids zou mogelijk niet goed kunnen werken als deze functie is uitgeschakeld.</string>
@@ -938,8 +942,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="remove_blacklist">Deblokkeren</string>
   <string name="remove_blacklist_dialog_message">Oproepen en berichten van dit nummer weergeven?</string>
   <string name="remove_blacklist_dialog_title">Dit telefoonnummer deblokkeren?</string>
-  <string name="remove_duplicate">"MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.  
-  
+  <string name="remove_duplicate">"MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.
+
   Om te beginnen tikt u op \"samenvoegen\" onderaan het scherm."</string>
   <string name="report_inquiry_mms">SMS rapporteren</string>
   <string name="restore_nickname">Herstellen</string>
@@ -949,7 +953,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="savingContact">Contact opslaan…</string>
   <string name="savingDisplayGroups">Weergaveopties opslaan…</string>
   <string name="scan">Scan</string>
-   <string name="scan_business_card">Scan visitekaartje</string>
+  <string name="scan_business_card">Scan visitekaartje</string>
   <string name="scan_bussiness_card_merge_tip">Tegenstrijdige gegevens zijn vervangen</string>
   <string name="scan_duplicate_message">%1$d contacten met overeenkomende gegevens</string>
   <string name="scan_merge">Bezig met zoeken naar dubbele contactpersonen…</string>
@@ -1185,7 +1189,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="yellowpage_navigation_search_history">Geschiedenis</string>
   <string name="yellowpage_navigation_search_offline_hint">Netwerk niet beschikbaar</string>
   <string name="yellowpage_navigation_search_result_average_price">Gemiddelde RMB %d </string>
-  <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het 
+  <string name="yellowpage_navigation_search_result_network_error">Kan geen verbinding met het
 netwerk maken.</string>
   <string name="yellowpage_navigation_search_result_no_more">Geen nieuwe resultaten</string>
   <string name="yellowpage_navigation_search_result_service_error">Dienst niet beschikbaar</string>

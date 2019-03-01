@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+	<plurals name="btn_clear_records">
+        <item quantity="other">%d opnames verwijderen</item>
+        <item quantity="one">%d opname verwijderen</item>
+    </plurals>
+    <plurals name="choose_call_records_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Opslag laag (minder dan %d minuten)</item>
         <item quantity="one">Opslag laag (minder dan %d minuut)</item>
@@ -8,20 +20,8 @@
         <item quantity="other">%d opnames gedownload</item>
         <item quantity="one">%d opname gedownload</item>
 	</plurals>
-    <plurals name="local_records_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
-    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d niet gesynchroniseerd</item>
         <item quantity="one">%d niet gesynchroniseerd</item>	
-    </plurals>
-	<plurals name="btn_clear_records">
-        <item quantity="other">%d opnames verwijderen</item>
-        <item quantity="one">%d opname verwijderen</item>
-    </plurals>
-    <plurals name="choose_call_records_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
     </plurals>
 </resources>

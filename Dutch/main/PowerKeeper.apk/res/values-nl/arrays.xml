@@ -13,13 +13,13 @@
         <item>Inactive apps</item>
 		<item>Geselecteerde apps</item>
     </string-array>
-    <string-array name="thermal_entries">
-        <item>Standaard temperatuurcontrole modus</item>
-        <item>Prestatiemodus</item>
-    </string-array>
 	<string-array name="emode_app_groups">
         <item>Systeem apps</item>
         <item>Andere apps</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Standaard temperatuurcontrole modus</item>
+        <item>Prestatiemodus</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>Geef prioriteit aan temperatuurregeling</item>

@@ -78,6 +78,7 @@
   <string name="autozoom_click_hint">Tik op een object om beginnen met volgen. Blijf op minimaal 3 meter afstand voor het beste effect.</string>
   <string name="autozoom_disabled_hint">Stoppen met het volgen van een bewegend object</string>
   <string name="autozoom_hint">Volg bewegend object</string>
+  <string name="autozoom_landscape_hint">Shoot in landscape mode for best effect</string>
   <string name="back_bokeh_use_hint">Houd het object binnen 1,5 meter voor het beste effect</string>
   <string name="beauty_body">Figuur</string>
   <string name="beauty_body_body">Slank</string>
@@ -114,6 +115,7 @@
   <string name="cannot_connect_camera_twice">Kan nog steeds geen verbinding maken met de camera. Probeer uw apparaat opnieuw op te starten.</string>
   <string name="cannot_connect_camera_volte_call">Videooproep is aan de gang, probeer het later opnieuw.</string>
   <string name="cannot_move_warning_message">Fotograferen, houd het apparaat stil</string>
+  <string name="capture_back_pressed_hint">Tap again to exit</string>
   <string name="close_back_flash_toast">Uw apparaat heeft te warm. Kan de flitser nu niet gebruiken.</string>
   <string name="close_front_flash_toast">Uw apparaat heeft te warm. Kan de flitser nu niet gebruiken</string>
   <string name="color_effect_entry_berry">Bessen</string>
@@ -129,6 +131,15 @@
   <string name="color_effect_entry_soda">Soda</string>
   <string name="color_effect_entry_vivid">Levendig</string>
   <string name="color_effect_entry_warm">Zon</string>
+  <string name="color_effect_live_blue">Orchid</string>
+  <string name="color_effect_live_contrast">Xpro</string>
+  <string name="color_effect_live_deepblack">B&amp;W</string>
+  <string name="color_effect_live_fair">Pale</string>
+  <string name="color_effect_live_hongkong">Bauhinia</string>
+  <string name="color_effect_live_mousse">Mousse</string>
+  <string name="color_effect_live_none">Normal</string>
+  <string name="color_effect_live_solar">Sky blue</string>
+  <string name="color_effect_live_years">Sepia</string>
   <string name="config_name_group">Groep selfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Magisch</string>
@@ -213,6 +224,8 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="front_camera_hint_text_place">"Selfies nemen zal gemakkelijker zijn
 als je je telefoon draait"</string>
   <string name="front_camera_hint_text_rotate">Draai je telefoon</string>
+  <string name="hand_gesture_open_tip">Show your palm to the camera to start timer</string>
+  <string name="hand_gesture_tip">Palm shutter</string>
   <string name="hibernate_hint">Tik op het scherm om de camera te openen</string>
   <string name="hine_hht">"Bij weinig licht maakt de camera meerdere foto's
 en maak vervolgens een opname met een minimale hoeveelheid ruis."</string>
@@ -237,6 +250,7 @@ Reinig de lens voor een beter effect</string>
   <string name="lighting_hint_usage">"U kunt verlichtingseffecten voor studio\'s gebruiken
 in de portretmodus"</string>
   <string name="lighting_pattern_dot">Stippen</string>
+  <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Bladeren</string>
   <string name="lighting_pattern_movie">Film</string>
   <string name="lighting_pattern_nature">Naturel</string>
@@ -274,8 +288,10 @@ in de portretmodus"</string>
   <string name="module_name_capture">Foto</string>
   <string name="module_name_fun">Korte video</string>
   <string name="module_name_manual">Manueel</string>
+  <string name="module_name_new_slow_motion">Slow motion</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Portret</string>
+  <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Vierkant</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">Camera werkt niet op gesplitst scherm</string>
@@ -293,8 +309,10 @@ in de portretmodus"</string>
   <string name="popup_tip_3d_beauty_intro_text">3D Schoonheid</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Munt</string>
+  <string name="portait_effect_entry_dusk">Dusk</string>
   <string name="portait_effect_entry_fairytale">Kindertijd</string>
   <string name="portait_effect_entry_japanese">Blauwe lucht</string>
+  <string name="portait_effect_entry_lilt">Lilt</string>
   <string name="portait_effect_entry_maze">Doolhof</string>
   <string name="portait_effect_entry_mood">Emoties</string>
   <string name="portait_effect_entry_movie">Film</string>
@@ -302,8 +320,10 @@ in de portretmodus"</string>
   <string name="portait_effect_entry_pink">Blozen</string>
   <string name="portait_effect_entry_riddle">Raadsel</string>
   <string name="portait_effect_entry_romance">Romantisch</string>
+  <string name="portait_effect_entry_sepia">Sepia</string>
   <string name="portait_effect_entry_story">Verhaal</string>
-  <string name="portrait_bokeh_first_tips">"Gebruik portretmodus om de 
+  <string name="portait_effect_entry_tea">Tea</string>
+  <string name="portrait_bokeh_first_tips">"Gebruik portretmodus om de
 achtergrond te vervagende op je foto\'s"</string>
   <string name="portrait_bokeh_text">Portretmodus</string>
   <string name="portrait_bokeh_tips">Plaats het object binnen 1,5 meter</string>
@@ -326,6 +346,8 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camcorder_settings_category">Camera instellingen</string>
   <string name="pref_camera_ai_scene_title">AI Camera</string>
   <string name="pref_camera_antibanding_entry_0">Uit</string>
+  <string name="pref_camera_antibanding_entry_1">50 Hz</string>
+  <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti streepvorming</string>
   <string name="pref_camera_asd_night_title">Foto\'s met weinig omgevingslicht automatisch verbeteren</string>
@@ -346,7 +368,6 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_beauty">Verfraaien</string>
   <string name="pref_camera_beauty_deep">Verfraaien Pro</string>
   <string name="pref_camera_bokeh_title">Portret</string>
-  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Spreiden</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Z &amp; W</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>
@@ -403,6 +424,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Uit</string>
+  <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hfr_entry_off">Uit</string>
   <string name="pref_camera_histogram_entry_disable">Uitschakelen</string>
   <string name="pref_camera_histogram_entry_enable">Inschakelen</string>
@@ -484,6 +506,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Kan Quicksnap modus niet gebruiken terwijl \"Wekken met Volume knoppen\" is ingeschakeld."</string>
   <string name="pref_camera_sound_title">Camerageluiden</string>
   <string name="pref_camera_square_mode_title">Vierkant</string>
+  <string name="pref_camera_stereo_default">5</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
   <string name="pref_camera_super_resolution_title">SR inschakelen</string>
   <string name="pref_camera_tilt_shift_default">circel</string>
@@ -500,8 +523,8 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_video_duration_entry_120">Geen limiet</string>
   <string name="pref_camera_video_duration_entry_30">30 minuten</string>
   <string name="pref_camera_video_duration_entry_mms">30 seconden (MMS)</string>
-  <string name="pref_camera_volumekey_function_entry_exposure">Belichting</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Sluiterknop</string>
+  <string name="pref_camera_volumekey_function_entry_timer">Shutter countdown</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume aanpassen</string>
   <string name="pref_camera_volumekey_function_entry_zoom">In- en uitzoomen</string>
   <string name="pref_camera_volumekey_function_title">Functie volumeknoppen</string>
@@ -523,7 +546,6 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_zsl_entry_off">Uit</string>
   <string name="pref_camera_zsl_entry_on">Aan</string>
   <string name="pref_capture_settings">Camera</string>
-  <string name="pref_dualcamera_watermark_title">Dual camera watermerk</string>
   <string name="pref_face_beauty_title">Verfraaien</string>
   <string name="pref_fingerprint_capture_title">Vingerafdruksluiter</string>
   <string name="pref_front_mirror_entry_auto">Wanneer een gezicht gedetecteerd is</string>
@@ -531,11 +553,16 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_front_mirror_entry_on">Aan</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Spiegel camera aan de voorkant</string>
+  <string name="pref_google_lens">Google lens</string>
   <string name="pref_groupshot_with_primitive_title">Originele foto\'s ook opslaan in groepselfiemodus</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
+  <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
+  <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Je kunt alleen 720P video\'s opnemen met 240Ffps</string>
-  <string name="pref_privacy_title">Privacybeleid</string>
+  <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
+  <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
   <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
+  <string name="pref_privacy_title">Privacybeleid</string>
   <string name="pref_qc_focus_position_title">Focus</string>
   <string name="pref_retain_camera_mode_summary">Schakel de camera naar de eerder gebruikte modus wanneer u de app opent.</string>
   <string name="pref_retain_camera_mode_title">Vorige modus opslaan</string>
@@ -547,16 +574,29 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_skin_beautify_color_title">Kleurtoon</string>
   <string name="pref_skin_beautify_eye_title">Ogen</string>
   <string name="pref_skin_beautify_intelligent_title">Slim</string>
+  <string name="pref_skin_beautify_slim_default">3</string>
   <string name="pref_skin_beautify_slim_title">Slank</string>
-  <string name="pref_skin_beautify_smooth_default">5</string>
   <string name="pref_skin_beautify_smooth_title">Huid</string>
   <string name="pref_userdefine_watermark_title">Aangepast watermerk</string>
   <string name="pref_video_captrue_ability_title">Beeld vastleggen tijdens opname</string>
+  <string name="pref_video_encoder_default">h264</string>
   <string name="pref_video_encoder_entry_h264">H.264 Hoge compatibiliteit</string>
   <string name="pref_video_encoder_entry_h265">H.265 Hoge prestaties</string>
   <string name="pref_video_encoder_title">Video-encoder</string>
   <string name="pref_video_focusmode_entry_auto">Tikken</string>
+  <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus modus</string>
+  <string name="pref_video_hfr_title">Video HFR</string>
+  <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
+  <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
+  <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
+  <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+  <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+  <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+  <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+  <string name="pref_video_quality_entry_vga">VGA</string>
+  <string name="pref_video_quality_entry_wqvga">WQVGA</string>
+  <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Videokwaliteit</string>
   <string name="pref_video_speed_entry_fast">Snel</string>
   <string name="pref_video_speed_entry_normal">Standaard</string>
@@ -609,13 +649,13 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="start_capture">Ok</string>
   <string name="sticker_tab1">Schattig</string>
   <string name="sticker_tab2">Grappig</string>
+  <string name="super_night_toast">Keep your phone steady while taking a photo</string>
   <string name="tap_to_exposure">Tik om de belichting handmatig in te stellen</string>
   <string name="tap_to_focus">Tik om scherp te stellen</string>
   <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
   <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
   <string name="time_lapse_error">Kan dit videoformaat voor timelapse opname niet gebruiken</string>
   <string name="title_snap_double_confirm">Opnieuw bevestigen</string>
-  <string name="toast_burst_snap_finished_summary">Burst shot Klaar, %1$s foto\'s genomen</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burstshoot wordt niet ondersteund als audio-opname aan staat</string>
   <string name="toast_saving">Foto\'s opslaan…</string>
   <string name="toast_start_audio_capture">Maak een geluid om een foto te nemen</string>
@@ -647,6 +687,7 @@ Groothoek modus komt helpen als je niet verder van de scène kunt komen."</strin
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Maximale grootte bereikt.</string>
+  <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Privacybeleid weergeven</string>
   <string name="wait">Een momentje…</string>
   <string name="zoom_no_support_tip_48M">Zoom werkt niet in 48MP modus</string>

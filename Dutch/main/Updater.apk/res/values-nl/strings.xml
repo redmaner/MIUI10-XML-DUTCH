@@ -55,6 +55,7 @@ Updates zijn niet beschikbaar voor jou!"</string>
   <string name="pick_title">Kiezen met:</string>
   <string name="recovery_desc">Apaaraat zal opnieuw opstarten in recoverymodus. Doorgaan?</string>
   <string name="server_error">Server reageert niet, applicatie kan misschien niet goed werken!</string>
+  <string name="share_desc">Your MIUI version has been updated to %1$s, check latest changelog at: %2$s</string>
   <string name="share_title">Delen met</string>
   <string name="stable">stable</string>
   <string name="version">Momenteel geinstalleerd:</string>

@@ -1,11 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="about_title">Over</string>
   <string name="access_sd_fail">Kreeg geen toegang tot SD-kaart</string>
   <string name="accessibility_shutter_button">Shutter</string>
   <string name="action_search">Zoeken</string>
   <string name="address">Adres:</string>
   <string name="agree_btn">Akkoord</string>
+  <string name="aliusersdk_api_unauthorized">API未授权</string>
+  <string name="aliusersdk_network_error">亲，您的手机网络不太顺畅喔~</string>
+  <string name="aliusersdk_session_error">亲，你的操作已超时，请重试</string>
   <string name="amazon_assistant_shopping_title">Zoeken op Amazon</string>
   <string name="app_description_content">Met Scanner kunt u QR codes, documenten, visitekaartjes en meer scannen. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="app_description_title">Over Scanner</string>
@@ -14,6 +36,7 @@
   <string name="back">Terug</string>
   <string name="barcode_into_rectangle">Plaatst de code in het kader</string>
   <string name="birthday">Verjaardag:</string>
+  <string name="blog">Weibo</string>
   <string name="business_card">Visitekaartje</string>
   <string name="business_card_result_title">Visitekaartje</string>
   <string name="business_card_title">Plaats het visitekaartje in het kader</string>
@@ -26,6 +49,7 @@
   <string name="cancel">Annuleren</string>
   <string name="choose_pay_title">Betalingsmethode selecteren</string>
   <string name="choose_picture">QR code afbeelding selecteren</string>
+  <string name="com_taobao_nb_sdk_loading_progress_message">加载中</string>
   <string name="common_retake_picture">Opnieuw nemen</string>
   <string name="common_retry">Opnieuw proberen</string>
   <string name="common_save">Opslaan</string>
@@ -46,6 +70,7 @@
   <string name="document_crop_title">Document bijsnijden</string>
   <string name="document_grayscale">Grijstinten</string>
   <string name="document_grayscale_tip_msg">Omzetten naar grijstinten…</string>
+  <string name="document_ocr">OCR</string>
   <string name="document_ocr_result_copy">Tekst kopiëren</string>
   <string name="document_ocr_result_save">Opslaan naar notities</string>
   <string name="document_ocr_result_title">Document foto</string>
@@ -65,9 +90,10 @@
   <string name="error_cannot_connect_camera">Kan niet verbinden met camera</string>
   <string name="error_empty_result">Kon geen resultaten vinden</string>
   <string name="error_get_image">Kon afbeelding niet ophalen</string>
-  <string name="error_server_error">Er is een server fout opgetreden.</string>
   <string name="error_media_storage_failure">Kon foto niet opslaan</string>
   <string name="error_permissions">Scanner heeft geen rechten om het normaal te laten werken. Ga naar Instellingen en controleer de toestemmingen om verder te gaan.</string>
+  <string name="error_server_error">Er is een server fout opgetreden.</string>
+  <string name="fax">Fax</string>
   <string name="feed_search_fail">Geen resultaten, probeer opnieuw</string>
   <string name="feedback_description_camera_access">Scanner kan niet verbinden met camera</string>
   <string name="feedback_description_save_photo">Kon foto of video niet opslaan</string>
@@ -103,6 +129,7 @@
   <string name="module_title_business_card">Visitekaartje</string>
   <string name="module_title_code">QR code</string>
   <string name="module_title_document">Document</string>
+  <string name="module_title_plant">Plant</string>
   <string name="module_title_shopping">Shoppen</string>
   <string name="module_title_study">Studeren</string>
   <string name="module_title_translation">Vertalen</string>
@@ -116,6 +143,8 @@
   <string name="not_recommend_access_web_url">Verlaten</string>
   <string name="note">Opmerking:</string>
   <string name="open_url">URL openen</string>
+  <string name="pay_no_tip">"Don't show again"</string>
+  <string name="pay_save_this_choose">Remember my choice</string>
   <string name="payment_text">Openen met %s</string>
   <string name="phone">Telefoon:</string>
   <string name="place_barcode_into_rectangle">Plaats de code binnen het kader</string>
@@ -124,6 +153,7 @@
   <string name="plant_reg_fail_2">Kon dit object niet herkennen. Scanners kunnen alleen planten identificeren.</string>
   <string name="plant_support">" (Technische ondersteuning)"</string>
   <string name="plant_title">Scan de plant die u wilt identificeren</string>
+  <string name="pref_camera_focusmode_default">continuous-picture</string>
   <string name="pref_camera_jpeg_quality_fine">fijn</string>
   <string name="pref_camera_jpeg_quality_normal">normaal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfijn</string>
@@ -134,24 +164,30 @@
   <string name="recognize_fail">Kon code niet lezen</string>
   <string name="refresh">Vernieuwen</string>
   <string name="scan_result">Resultaat</string>
+  <string name="scan_support_type">WeChat, Alipay, QR codes, barcodes</string>
   <string name="sdk_not_ready">SDK voorbereiden. Probeer later opnieuw.</string>
+  <string name="search_menu_title">Search</string>
   <string name="secure_access_web_url">Ga naar website</string>
   <string name="see_app_details">App details weergeven</string>
   <string name="select_dialog_confirm">Ok</string>
   <string name="send_mail">E-mail zenden</string>
+  <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Altijd vragen</string>
   <string name="setting_default_function">Standaard functie</string>
   <string name="setting_preference_pay">Voorkeurbetalingsmethode</string>
   <string name="setting_title">Instellingen</string>
   <string name="setting_use_last_choose">Vorige keuze onthouden</string>
+  <string name="setting_wechat">WeChat</string>
   <string name="shopping_searching">Zoeken…</string>
   <string name="shopping_title">Neem een foto van het product</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">Niet genoeg ruimte op de interne opslag. Maak ruimte vrij.</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="study_rotate_picture">Foto aan het verwerken</string>
   <string name="study_scan_result">Resultaat</string>
   <string name="study_searching">Zoeken naar resultaat</string>
   <string name="study_title">Neem een foto van het probleem</string>
+  <string name="study_vendor_info">Powered by Zuoyebang</string>
   <string name="switch_open">Inschakelen</string>
   <string name="tel">Telefoon</string>
   <string name="title">Titel:</string>
@@ -162,6 +198,7 @@
   <string name="translate_dest_lang">Doel taal</string>
   <string name="translate_fail">Kon niet vertalen</string>
   <string name="translate_loading">Bezig met vertalen…</string>
+  <string name="translate_parallel_2_lines">Make sure the text is parallel to the lines on the screen</string>
   <string name="translate_save_fail">Kon notitie niet opslaan</string>
   <string name="translate_src_lang">Bron taal</string>
   <string name="translate_text_compare">Vergelijking</string>
@@ -197,4 +234,5 @@
   <string name="wifi_open_fail">Kan Wi-Fi niet inschakelen</string>
   <string name="wifi_pwd">Wactwoord:</string>
   <string name="wifi_security">Veiligheid:</string>
+  <string name="wifi_ssid">SSID:</string>
 </resources>

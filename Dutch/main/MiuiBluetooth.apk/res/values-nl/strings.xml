@@ -17,6 +17,8 @@
   <string name="bluetooth_search_for_devices">Zoeken naar apparaten</string>
   <string name="device_picker">Bluetooth apparaatinstellingen</string>
   <string name="disconnect">Verbinding verbreken</string>
+  <string name="fast_connect_device_box">Box</string>
+  <string name="fast_connect_device_box_name">%1$s Box</string>
   <string name="fast_connect_device_connect_cancel">Annuleren</string>
   <string name="fast_connect_device_connect_ok">Verbinden</string>
   <string name="fast_connect_device_connect_retry">Opnieuw proberen</string>

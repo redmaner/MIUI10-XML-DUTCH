@@ -16,7 +16,7 @@
         <item>Website</item>
         <item>Adres</item>
         <item>Notities</item>
-	</string-array>	
+	</string-array>
     <string-array name="first_guide_contents">
         <item>Welkom bij notities!</item>
         <item>Maak notities</item>
@@ -44,5 +44,9 @@
 	<string-array name="second_guide_contents">
         <item>Spraaknotities</item>
         <item>U kunt nu spraaknotities maken. Tik gewoon op het pictogram, neem uw stem op en sla het audiobestand in de notitie op.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Voice notes</item>
+        <item>You can create voice notes now. Just tap the icon, record your voice, and save the audio file inside the note.</item>
     </string-array>
 </resources>

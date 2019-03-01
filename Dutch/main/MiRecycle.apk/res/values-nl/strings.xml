@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Naar startscherm</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
@@ -28,12 +30,18 @@
   <string name="btn_text_resend_otp">OTP opnieuw verzenden</string>
   <string name="btn_text_retry">Opnieuw proberen</string>
   <string name="buy_action_description">Vekocht door : ONEASSIT</string>
+  <string name="buy_action_title">Mi Protect</string>
+  <string name="buy_claim_end">"
+of Mi Protect"</string>
   <string name="buy_claim_ps">Lees voor meer informatie de </string>
   <string name="buy_claim_terms">Termen&amp; Condities*</string>
   <string name="buy_confirm">AKKOORD &amp; KOOP BESCHERMING</string>
+  <string name="buy_insurance_desc">Powered by OneAssist</string>
   <string name="buy_privacy_agree">Doorgaan</string>
+  <string name="buy_privacy_title">Disclaimer</string>
+  <string name="buy_recycle_desc">Powered by Cashify</string>
   <string name="buy_summary_five">Tot 1 GB met docusafe</string>
-  <string name="buy_summary_four">"Slechts één oproep om SIM te deblokkeren van overal 
+  <string name="buy_summary_four">"Slechts één oproep om SIM te deblokkeren van overal
  in de wereld"</string>
   <string name="buy_summary_one">Dekking tegen accidentele fysieke en vloeibare schade</string>
   <string name="buy_summary_three">Repareer alleen bij een door MI erkend servicecentrum</string>
@@ -60,6 +68,7 @@ accidentele schade aan uw smartphone"</string>
   <string name="customer_order_pick_confirmation">Een expert haalt uw apparaat op en voert de betaling uit.</string>
   <string name="default_error_msg">Er is iets fout gegaan!</string>
   <string name="device_battery">Batterij capaciteit</string>
+  <string name="device_processor">Processor</string>
   <string name="device_resolution">Resolutie</string>
   <string name="dialog_button_update">Update</string>
   <string name="dialog_content_stop">Hardwaretest stoppen voordat deze is voltooid?</string>
@@ -75,16 +84,16 @@ accidentele schade aan uw smartphone"</string>
   <string name="done_summary_four">Gratis* reparatie met 100% originele reserveonderdelen</string>
   <string name="done_summary_one">Verzend schade informatie &amp; vereiste documenten uploaden</string>
   <string name="done_summary_three">We doen al het papierwerk &amp; Informatieverzameling voor goedkeuringen</string>
-  <string name="done_summary_two">"We sturen uw telefoon naar MI geautoriseerde 
+  <string name="done_summary_two">"We sturen uw telefoon naar MI geautoriseerde
 servicecentrum"</string>
   <string name="done_title_five">Telefoon geleverd bij uw aan de deur</string>
-  <string name="done_title_four">"Apparaat gerepareerd bij MI geautoriseerd 
+  <string name="done_title_four">"Apparaat gerepareerd bij MI geautoriseerd
 servicecentrum"</string>
-  <string name="done_title_one">Aanmelden op &lt;a href="https://oneassist.in/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist.in&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;" or call 1800 123 
+  <string name="done_title_one">Aanmelden op &lt;a href="https://oneassist.in/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist.in&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;" or call 1800 123
 3330 om uw claim in te dienen"</string>
-  <string name="done_title_three">"We krijgen de vereiste goedkeuring van 
+  <string name="done_title_three">"We krijgen de vereiste goedkeuring van
 verzekeringspartner"</string>
-  <string name="done_title_two">"We verifiëren uw documenten &amp; halen uw 
+  <string name="done_title_two">"We verifiëren uw documenten &amp; halen uw
 beschadigd apparaat op aan de deur"</string>
   <string name="err_msg_invalid_mobile_no">Ongeldig telefoonnummer</string>
   <string name="error_msg_empty_coupon">Voer de kortingscode in</string>

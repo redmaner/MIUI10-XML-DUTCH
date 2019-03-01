@@ -69,4 +69,5 @@
   <string name="summary_template">Samenvatting, afschriften %1$s, papiergrootte %2$s</string>
   <string name="template_all_pages">Alle %1$s</string>
   <string name="template_page_range">Bereik van %1$s</string>
+  <string name="uri_package_details">market://details?id=%1$s</string>
 </resources>
