@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
   <string name="access_select">%s geselecteerd</string>
   <string name="access_unselect">%s gedeselecteerd</string>
+  <string name="accessibilty_back_button">返回</string>
+  <string name="accessibilty_move_down">下移</string>
+  <string name="accessibilty_move_up">上移</string>
   <string name="accordingto_position">Vaak bezochte plekken herkennen met GPS</string>
   <string name="account_address">Adres</string>
   <string name="add_stock">Toevoegen</string>
@@ -37,6 +41,9 @@
   <string name="agenda_settings_elecbill">Elektriciteit &amp; gasrekeningen weergeven</string>
   <string name="agenda_settings_loan">Informatie over loonbetaling weergeven</string>
   <string name="already">Afgerond:</string>
+  <string name="already_connect">已连接</string>
+  <string name="already_download">已下载</string>
+  <string name="amount_ten_million_format">%s万</string>
   <string name="app_label">App kluis</string>
   <string name="app_name">miot-device-lib</string>
   <string name="app_setting">App kluis instellingen</string>
@@ -104,6 +111,10 @@
   <string name="battery_history">Batterij</string>
   <string name="beijing">Peking</string>
   <string name="bicycle">Fietsen</string>
+  <string name="bl_open_failed">手环开通失败,你可以点击其它手环再试</string>
+  <string name="bl_open_failed_exit">手环开通失败</string>
+  <string name="bl_validate_failed_change_pwd">手环校验失败将转密码支付</string>
+  <string name="bluetooth_open_ok">蓝牙开启成功</string>
   <string name="book_add">Boeking toevoegen</string>
   <string name="book_add_date_diff">De uitcheckdatum moet later zijn dan de incheckdatum.</string>
   <string name="book_add_dialog_continue">Bestaat niet</string>
@@ -133,6 +144,7 @@
   <string name="calendar_name">Gebeurtenis toevoegen</string>
   <string name="calendar_parent">Kalender</string>
   <string name="call">Bellen</string>
+  <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
   <string name="card_agenda_settings">Instellingen</string>
   <string name="card_already_fly">Vertrokken</string>
   <string name="card_banner_close_never">Niet meer herinneren</string>
@@ -268,6 +280,7 @@
   <string name="didi_trip_content">Schat de kosten en bel een taxi.</string>
   <string name="didi_trip_content_detail">Schat de gemiddelde kosten en bel een taxi.</string>
   <string name="drive">Rijden</string>
+  <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
   <string name="duokan_open">Duokan kaart toevoegen</string>
   <string name="duokan_setting_brief">Doorgaan met lezen waar u was gebleven.</string>
   <string name="edit_amount_hint">Voer hoeveelheid in</string>
@@ -298,10 +311,17 @@
   <string name="empty_recharge_card_title">Geen data</string>
   <string name="entrance">Kaartsnelkoppelingen</string>
   <string name="error_share_not_support">Zulke items worden niet ondersteund in favorieten.</string>
+  <string name="exception_network_error_check_network">网络无法连接</string>
+  <string name="exception_network_error_retry">网络出错，请稍后再试</string>
+  <string name="exception_network_error_wait_retry">网络无法连接,请稍后再试</string>
+  <string name="exception_network_slow">网络不给力</string>
+  <string name="exception_too_many_people_wait_retry">人气太旺啦，稍候再试试</string>
   <string name="exercise_setting_brief">Tel de stappen die je dagelijks maakt en houd de totale afstand bij</string>
   <string name="exercise_setting_misport_detail">Tel de stappen die je dagelijks maakt en houd de totale afstand bij (Geef Mi Fit toestemming om automatisch op te starten in Veiligheid - Toestemmingen).</string>
   <string name="express">Expresslevering</string>
+  <string name="express_add">添加</string>
   <string name="express_add_new_address">Adres toevoegen</string>
+  <string name="express_add_tel">添加电话</string>
   <string name="express_address_delete_warning">Dit adres verwijderen?</string>
   <string name="express_addressee_info">Informatie geadresseerde</string>
   <string name="express_addressee_name">Naam geadresseerde</string>
@@ -406,6 +426,7 @@ Controleer het trackingnummer."</string>
   <string name="express_other_app">Geef MIUI toegang tot de orderinformatie van andere apps.</string>
   <string name="express_phone">Telefoon</string>
   <string name="express_phone_tip">Bezorgen, even geduld</string>
+  <string name="express_pickup_code">取件码: %s</string>
   <string name="express_preview_order">Voorbeeld</string>
   <string name="express_provider_banner">Aangeboden door %s</string>
   <string name="express_provider_cainiao">Cainiao</string>
@@ -414,6 +435,7 @@ Controleer het trackingnummer."</string>
   <string name="express_query">Tracken</string>
   <string name="express_query_more">Meer tracken</string>
   <string name="express_region_pick_title">Kies regio</string>
+  <string name="express_schedule_delivery">预约取件</string>
   <string name="express_select_addressee">Naar</string>
   <string name="express_select_city">Kies stad</string>
   <string name="express_select_send_providers">Kies een provider</string>
@@ -490,6 +512,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="express_state_unknown">Nog geen datum</string>
   <string name="express_submit_order">Versturen</string>
   <string name="express_support_app">Ondersteunde apps</string>
+  <string name="express_tail_number">尾号</string>
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
   <string name="express_track_order">Tracken</string>
@@ -541,6 +564,8 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="favorite_title_modify_failed">"Couldn't change title"</string>
   <string name="favorite_title_modify_success">Met succes gewijzigd</string>
   <string name="feedback_cancel">Cancel</string>
+  <string name="feedback_ok">反馈</string>
+  <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
   <string name="flight">Vlucht</string>
   <string name="flow_open">Mobiele datakaart weergeven</string>
   <string name="flow_setting_brief">Bekijk informatie over uw datagebruik (voeg je databundel toe in Veiligheid &gt; Datagebruik).</string>
@@ -586,6 +611,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="function_youku_title">Youku</string>
   <string name="function_zhihu_search">Zoeken</string>
   <string name="function_zhihu_title">Zhihu</string>
+  <string name="generate_view_failed">全国人民都来了? 稍候再试试</string>
   <string name="go_to_pay">Snelle terugbetaling</string>
   <string name="go_to_school">Naar en van werk of school</string>
   <string name="greeting_open">Schakel dagelijkse begroetingen in</string>
@@ -621,6 +647,12 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="item_type_custom">Personaliseren</string>
   <string name="item_type_suggestion">Suggesties</string>
   <string name="just_now">Zojuist</string>
+  <string name="kakalib_bar_qr_code">条形码·二维码</string>
+  <string name="kakalib_ok">确定</string>
+  <string name="keyboard_alipay">支付宝安全键盘</string>
+  <string name="keyboard_ok">完成</string>
+  <string name="keyboard_space">空格</string>
+  <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">Appaanbevelingen</string>
   <string name="launch_change_order">Andere order</string>
   <string name="launch_else">Overig</string>
@@ -663,6 +695,8 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="map_home_way">De weg naar huis</string>
   <string name="map_install_tip">Installeer Gaode of Baidu maps om deze functie te gebruiken</string>
   <string name="map_loading_desc">Kon info niet laden, probeer opnieuw.</string>
+  <string name="map_msg_smooth">当前路线整体畅通</string>
+  <string name="map_msg_sufix">，详情</string>
   <string name="map_office_didi">Ga naar werk</string>
   <string name="map_office_way">De weg naar het werk</string>
   <string name="map_subway_card">Transportkaart</string>
@@ -672,8 +706,14 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="map_suggestion_title">Mapsuggesties</string>
   <string name="map_title">Verkeersinformatie</string>
   <string name="map_title_around">Dichtbij</string>
+  <string name="map_title_baidu_middle">约有</string>
+  <string name="map_title_blocked">有异常拥堵</string>
+  <string name="map_title_blocked_last">公里异常拥堵</string>
+  <string name="map_title_congestion">有道路拥堵</string>
+  <string name="map_title_congestion_last">公里拥堵</string>
   <string name="map_title_home">Thuis</string>
   <string name="map_title_office">Werk</string>
+  <string name="map_title_smooth">整体畅通</string>
   <string name="map_title_time_hours">%1$sh %2$sm nodig</string>
   <string name="map_title_time_minutes">%1$sm nodig</string>
   <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
@@ -691,6 +731,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="mi_sport">Stappenteller</string>
   <string name="mi_sport_go_install">Downloaden</string>
   <string name="mi_wallet">Mi Wallet</string>
+  <string name="mifare_card">门卡</string>
   <string name="miot_device_add_device">Apparaat toevoegen</string>
   <string name="miot_device_all_device">Alle apparaten</string>
   <string name="miot_device_cancel">Annuleren</string>
@@ -767,8 +808,10 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="net_unavailable">"Couldn't connect to the network."</string>
   <string name="network_access_denied">Kan niet verbinden met het netwerk, ga eerst akkoord met de algemene voorwaarden.</string>
   <string name="network_error">Netwerkfout</string>
+  <string name="network_exception">人气太旺啦, 稍候再试试</string>
   <string name="network_tip">Kon niet verbinden met het netwerk.</string>
   <string name="network_unavaliable">Kan info niet verkrijgen, controleer netwerkverbinding.</string>
+  <string name="no_connect">未配对</string>
   <string name="no_install">Niet geinstalleerd</string>
   <string name="no_more_result">Geen items meer</string>
   <string name="no_settings">Niet ingesteld</string>
@@ -791,6 +834,9 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="notification_title">Toegevoegd aan favorieten</string>
   <string name="notification_title_fail">Kon betaling niet toevoegen</string>
   <string name="notification_title_success">Betaling toegevoegd</string>
+  <string name="open_bluetooth">开启</string>
+  <string name="open_bluetooth_now">蓝牙开启中...</string>
+  <string name="open_bluetooth_tips">请开启蓝牙来允许\"手环\"连接到配件</string>
   <string name="opened">Aan</string>
   <string name="passenger_name">Naam passagier</string>
   <string name="passenger_name_example">E.g. Debbie Smith</string>
@@ -886,6 +932,10 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="recharge_title_over">Limiet overschreden</string>
   <string name="recharge_title_remaining">Data resterend</string>
   <string name="recharge_title_used">Gebruikt vandaag</string>
+  <string name="recommend_add_one_card">添加%s</string>
+  <string name="recommend_close">关闭</string>
+  <string name="recommend_title">添加更多你感兴趣的卡片</string>
+  <string name="record_name">Nieuwe opname</string>
   <string name="record_parent">Recorder</string>
   <string name="red_dowm_blue_grow">Groen - boven, rood - beneden</string>
   <string name="red_grow_blue_dowm">Rood - boven, groen - beneden</string>
@@ -895,12 +945,14 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="retry">Probeer opnieuw</string>
   <string name="save">Opslaan</string>
   <string name="save_edit">Wijzigingen opslaan</string>
+  <string name="save_to_note">转存至便签</string>
   <string name="scan">Scannen</string>
   <string name="scan_app">Scannen</string>
   <string name="scan_card">Businesscard</string>
   <string name="scan_code">QR code</string>
   <string name="scan_doc">Document</string>
   <string name="scan_exercise">Studeren</string>
+  <string name="scan_express_num">扫码查询</string>
   <string name="scan_parent">Betalen</string>
   <string name="scan_trans">Vertalen</string>
   <string name="screen_shot">Schermafdruk</string>
@@ -916,6 +968,8 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="search_setting_description">Titels in favorieten</string>
   <string name="search_tip">Zoeken…</string>
   <string name="security">Veiligheid</string>
+  <string name="select_team_close">关闭</string>
+  <string name="select_team_confirm">提交</string>
   <string name="send_action_title">Toevoegen aan favorieten</string>
   <string name="service_unavailiable">Controleer verbinding en probeer opnieuw.</string>
   <string name="setting_address">Vaakbezochte plekken toevoegen</string>
@@ -979,6 +1033,14 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="setting_stock_brief_list">Dagelijkse briefing</string>
   <string name="setting_switch_toast_close">Betalingen worden niet bijgehouden</string>
   <string name="setting_switch_toast_open">Betalingen worden bijgehouden</string>
+  <string name="setting_world_cup_a">A组</string>
+  <string name="setting_world_cup_b">B组</string>
+  <string name="setting_world_cup_c">C组</string>
+  <string name="setting_world_cup_d">D组</string>
+  <string name="setting_world_cup_e">E组</string>
+  <string name="setting_world_cup_f">F组</string>
+  <string name="setting_world_cup_g">G组</string>
+  <string name="setting_world_cup_h">H组</string>
   <string name="settings">Instellingen</string>
   <string name="settings_subtitle">Ontvang meldingen als je iets aan favorieten toevoegt</string>
   <string name="settings_title">Melden bij toevoegingen aan favorieten</string>
@@ -991,13 +1053,19 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="shopping_enable">Winkelen is ingeschakeld</string>
   <string name="shopping_label">Winkelen</string>
   <string name="shopping_notification_title">Toegevoegd aan winkelen</string>
+  <string name="shopping_search">购物搜索</string>
   <string name="shopping_setting_authorize">Exporteren van informatie over aankopen toestaan</string>
   <string name="shopping_setting_authorize_sub">App kluis heeft toegang tot uw favorieten en winkelitems.</string>
   <string name="shopping_setting_base">Instellingen</string>
   <string name="shopping_setting_brief">Verzamel de info over je aankopen in de App kluis.</string>
   <string name="shopping_setting_brief_detail">Verzamel de informatie over uw aankopen van meerdere e-commerce apps in de App kluis.</string>
+  <string name="shopping_setting_jingdong">JD</string>
+  <string name="shopping_setting_mishop">Mi Store</string>
   <string name="shopping_setting_notification">Informeren over nieuwe items</string>
+  <string name="shopping_setting_pinduoduo">Pinduoduo</string>
   <string name="shopping_setting_remove">Nadat u de autorisatie intrekt, stopt App kluis met het verzamelen van de informatie over uw aankopen en wordt de Shopping kaart verwijderd. Intrekken toch?</string>
+  <string name="shopping_setting_taobao">Taobao</string>
+  <string name="shopping_setting_tmall">Tmall</string>
   <string name="shopping_source">Van</string>
   <string name="shopping_support">Ondersteunde apps</string>
   <string name="shortcut">Snelkoppelingen</string>
@@ -1027,6 +1095,9 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="spending_setting_brief">Betalingsdetails</string>
   <string name="sport">Sport</string>
   <string name="sport_open">Mi Fit kaart weergeven</string>
+  <string name="start_download">开始下载...</string>
+  <string name="step_cal_unit">Cal.</string>
+  <string name="step_km">km</string>
   <string name="step_setting_tip">Stappen informatiebron</string>
   <string name="step_vip_action_bar">Stappen</string>
   <string name="steps">Stappen</string>
@@ -1061,6 +1132,8 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="system_favorite_dialog_title_confirm">Favorieten</string>
   <string name="take_off">Opstijgen</string>
   <string name="taked_off">Vertrokken</string>
+  <string name="taobao_auth_login">淘宝用户快速登录</string>
+  <string name="taobao_protocol">淘宝服务协议</string>
   <string name="taxi">Taxi</string>
   <string name="taxi_book">Bel een taxi</string>
   <string name="taxi_card_departure">Huidige locatie</string>
@@ -1069,6 +1142,16 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="taxi_setting_brief">Zorg voor een taxi met één druk.</string>
   <string name="taxi_target">Bestemming     </string>
   <string name="tb_setting_xiaoai">Mi AI</string>
+  <string name="team_selected">%s,已选中</string>
+  <string name="temp_support_xiaomi">暂时仅支持小米手环</string>
+  <string name="template_args_invalid">上下文参数不合法</string>
+  <string name="template_bussiness_data_error">服务端返回数据解析异常，无法展示界面</string>
+  <string name="template_data_error">人气太旺啦, 稍候再试试</string>
+  <string name="template_error">数据出错</string>
+  <string name="template_loading">加载中...</string>
+  <string name="template_network_error_try_later">网络错误，请稍候再试</string>
+  <string name="template_retry_button">重试</string>
+  <string name="template_update_error">模板更新失败</string>
   <string name="time_just_now">Zojuist</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
@@ -1113,6 +1196,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="upgrade_now_bottom">Nu installeren</string>
   <string name="uploads_disabled">Kan bestanden niet uploaden</string>
   <string name="user_id">GebruikersID: %s</string>
+  <string name="vr_pay_not_support">本次已创建的订单不支持VR支付，建议稍后进入订单列表支付。</string>
   <string name="walk">Lopen</string>
   <string name="weibo_name">Nieuwe post</string>
   <string name="weibo_parent">Weibo</string>

@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Navigeer naar startscherm</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigeer omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
@@ -598,6 +600,8 @@
   <string name="video_data_tips_message">Het gebruik van mobiele gegevens kan extra kosten genereren. Toch doorgaan?</string>
   <string name="video_data_tips_title">Datagebruikswaarschuwing</string>
   <string name="video_silence_apply_success">Video zonder geluid met succes geconfigureerd</string>
+  <string name="vip_level_dialog_positive">我知道了</string>
+  <string name="vip_level_dialog_title">温馨提示</string>
   <string name="wallpaper_apply">Toepassen</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>

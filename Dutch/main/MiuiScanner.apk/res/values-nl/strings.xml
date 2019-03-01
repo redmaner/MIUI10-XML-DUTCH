@@ -99,10 +99,14 @@
   <string name="feedback_description_save_photo">Kon foto of video niet opslaan</string>
   <string name="got_it">Begrepen</string>
   <string name="gps">Ga naar</string>
+  <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Contact importeren</string>
   <string name="impunity_declaration_content">""De scanner moet uw camera gebruiken en de gemaakte foto\'s verwerken tijdens het gebruik van de app. Gebruik de scanner niet om foto\'s te maken van de objecten die uw persoonlijke informatie bevatten. Als u op \"Akkoord\" tikt, stemt u in met onze &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; en Scanner toestaan verbinding te maken met internet."</string>
   <string name="impunity_declaration_negative_text">Afsluiten</string>
   <string name="impunity_declaration_title">Privacybeleid</string>
+  <string name="init_success">初始化完成</string>
+  <string name="jszc">手机淘宝拍立淘提供技术支持</string>
+  <string name="jzz">加载中</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Herkenning;Barcode;Barcodes;Product;Producten;Alipay;WeChat;Hoe QR code scannen;Hoe barcode scannen;Hoe scannen;MIUI scanner</string>
   <string name="keywords_search_document">Scanner;Document scannen;Documenten scannen;OCR;Tekst scannen;Scan</string>
   <string name="keywords_search_namecard">Scanner;Visitekaartje;Visitekaartjes;Scannen;Kaarten scannen;Kaart;Kaarten;Contacten;Contact</string>
@@ -136,6 +140,7 @@
   <string name="name">Naam:</string>
   <string name="new_schedule">Evenement aanmaken</string>
   <string name="nickname">Roepnaam:</string>
+  <string name="nljzz">努力加载中</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_storage">Geen interne opslag</string>
   <string name="no_support_to_translate_type">Deze taal wordt niet ondersteund</string>
@@ -143,6 +148,7 @@
   <string name="not_recommend_access_web_url">Verlaten</string>
   <string name="note">Opmerking:</string>
   <string name="open_url">URL openen</string>
+  <string name="pailitao">淘宝拍立淘</string>
   <string name="pay_no_tip">"Don't show again"</string>
   <string name="pay_save_this_choose">Remember my choice</string>
   <string name="payment_text">Openen met %s</string>

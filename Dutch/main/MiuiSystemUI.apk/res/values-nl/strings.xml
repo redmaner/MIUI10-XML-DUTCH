@@ -7,6 +7,8 @@
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
   <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
   <string name="abc_action_bar_home_description">Naar startscherm navigeren</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigeer omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
@@ -62,6 +64,17 @@
   <string name="accessibility_clear_all">Alle meldingen verwijderen.</string>
   <string name="accessibility_compatibility_zoom_button">Compatibiliteit zoomknop.</string>
   <string name="accessibility_compatibility_zoom_example">Zoom kleiner naar groter scherm.</string>
+  <string name="accessibility_data_connection_1x">1 X</string>
+  <string name="accessibility_data_connection_3.5g">3.5G</string>
+  <string name="accessibility_data_connection_3g">3G</string>
+  <string name="accessibility_data_connection_4g">4G</string>
+  <string name="accessibility_data_connection_4g_plus">4G+</string>
+  <string name="accessibility_data_connection_cdma">CDMA</string>
+  <string name="accessibility_data_connection_edge">Edge</string>
+  <string name="accessibility_data_connection_gprs">GPRS</string>
+  <string name="accessibility_data_connection_hspa">HSPA</string>
+  <string name="accessibility_data_connection_lte">LTE</string>
+  <string name="accessibility_data_connection_lte_plus">LTE+</string>
   <string name="accessibility_data_connection_roaming">Roaming</string>
   <string name="accessibility_data_connection_wifi">Wi-Fi</string>
   <string name="accessibility_data_one_bar">Gegevens: één streepje.</string>
@@ -468,8 +481,8 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="data_saver_description">Om gegevensgebruik te verminderen, voorkomt Data Saver dat sommige apps op de achtergrond gegevens verzenden of ontvangen. Een app die u momenteel gebruikt, heeft toegang tot data, maar mogelijk minder vaak. Dit kan bijvoorbeeld betekenen dat afbeeldingen niet worden weergegeven totdat u erop tikt.</string>
   <string name="data_saver_enable_button">Inschakelen</string>
   <string name="data_saver_enable_title">Data bespaarder inschakelen?</string>
-  <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt.
-
+  <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. 
+  
 Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G/3G gegevens uitgeschakeld</string>
   <string name="data_usage_disabled_dialog_4g_title">4G gegevens uitgeschakeld</string>
@@ -762,7 +775,7 @@ stilte"</string>
   <string name="interruption_level_priority">Alleen voorrang</string>
   <string name="interruption_level_priority_twoline">"Alleen
 voorrang"</string>
-  <string name="invalid_charger">Opladen via USB niet ondersteund.
+  <string name="invalid_charger">Opladen via USB niet ondersteund. 
 Gebruik alleen de bijgeleverde oplader.</string>
   <string name="invalid_charger_text">Gebruik alleen de meegeleverde oplader.</string>
   <string name="invalid_charger_title">Opladen via USB wordt niet ondersteund.</string>
@@ -921,7 +934,7 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="kg_sim_pin_instructions_multi">Voer SIM PIN voor \"%1$s\" in</string>
   <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
   <string name="kg_too_many_failed_attempts_countdown">Probeer opnieuw over %d seconden.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"U hebt uw wachtwoord %1$d keer verkeerd ingevoerd.
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"U hebt uw wachtwoord %1$d keer verkeerd ingevoerd. 
 
 Probeer opnieuw over 2$d seconden."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">"U hebt %1$d keer je ontgrendelingspatroon verkeerd ingevoerd
@@ -1199,34 +1212,34 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
   <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
-  <string name="power_notification_controls_description">"Met besturingselementen voor vermogensmeldingen kunt u een belangrijkheidsniveau instellen van 0 tot 5 voor de meldingen van een app.
+  <string name="power_notification_controls_description">"Met besturingselementen voor vermogensmeldingen kunt u een belangrijkheidsniveau instellen van 0 tot 5 voor de meldingen van een app. 
 
-"&lt;b&gt;Level 5&lt;/b&gt;"
+"&lt;b&gt;Level 5&lt;/b&gt;" 
 - Weergeven boven aan de lijst met meldingen
 - Volledige schermonderbreking toestaan
-- Altijd gluren
+- Altijd gluren 
 
-"&lt;b&gt;Level 4&lt;/b&gt;"
+"&lt;b&gt;Level 4&lt;/b&gt;" 
 - Voorkom onderbreking van het volledige scherm
-- Altijd gluren
+- Altijd gluren 
 
-"&lt;b&gt;Level 3&lt;/b&gt;"
-- Voorkom onderbreking van het volledige scherm
-- Nooit gluren
-
-"&lt;b&gt;Level 2&lt;/b&gt;"
+"&lt;b&gt;Level 3&lt;/b&gt;" 
 - Voorkom onderbreking van het volledige scherm
 - Nooit gluren
+
+"&lt;b&gt;Level 2&lt;/b&gt;" 
+- Voorkom onderbreking van het volledige scherm 
+- Nooit gluren 
 - Nooit geluid maken of trillen
 
-"&lt;b&gt;Level 1&lt;/b&gt;"
+"&lt;b&gt;Level 1&lt;/b&gt;" 
 - Voorkom onderbreking van het volledige scherm
 - Nooit gluren
-- Nooit geluid maken of trillen
-- Verbergen van vergrendelingscherm en statusbalk
+- Nooit geluid maken of trillen 
+- Verbergen van vergrendelingscherm en statusbalk 
 - Onderaan de meldingslijst weergeven
 
-"&lt;b&gt;Level 0&lt;/b&gt;"
+"&lt;b&gt;Level 0&lt;/b&gt;" 
 - Blokkeer alle meldingen van de app"</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Ongeveer. %1$s resterend</string>
@@ -1488,7 +1501,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="sos_status_bar_summary">Tik om af te sluiten</string>
   <string name="sos_status_bar_title">SOS</string>
   <string name="speed_bump_explanation">Minder belangerijke meldingen hieronder</string>
-  <string name="ssl_ca_cert_warning">"Netwerk kan
+  <string name="ssl_ca_cert_warning">"Netwerk kan 
 gecontroleerd worden "</string>
   <string name="start_dreams">Screensaver</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
@@ -1517,7 +1530,7 @@ gecontroleerd worden "</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_notification_inspect_item_title">Appinfo</string>
   <string name="status_bar_ongoing_events_title">Bezig</string>
-  <string name="status_bar_recent_guide_all">"Schuif omhoog om te sluiten
+  <string name="status_bar_recent_guide_all">"Schuif omhoog om te sluiten 
   Schuif omlaag om te vergrendelen"</string>
   <string name="status_bar_recent_guide_bottom">Schuif omlaag om te vergrendelen.</string>
   <string name="status_bar_recent_guide_top">Schuif omhoog om te sluiten</string>
@@ -1710,7 +1723,7 @@ Uw telefoon wordt mogelijk te warm als u dat doet:
   <string name="usb_audio_disable_routing">USB audioroutering uitschakelen</string>
   <string name="usb_audio_disable_routing_summary">Automatische routering naar USB audiorandapparatuur uitschakelen</string>
   <string name="usb_debugging_always">Altijd toestaan vanaf deze computer</string>
-  <string name="usb_debugging_message">"De vingerafdruk voor de RSA sleutel van de computer is:
+  <string name="usb_debugging_message">"De vingerafdruk voor de RSA sleutel van de computer is: 
 %1$s"</string>
   <string name="usb_debugging_secondary_user_message">De gebruiker die momenteel is aangemeld bij dit apparaat kan USB foutopsporing niet inschakelen. Als u deze functie wilt gebruiken, schakelt u over naar een Admin gebruiker.</string>
   <string name="usb_debugging_secondary_user_title">USB foutopsporing is niet toegestaan</string>
@@ -1803,14 +1816,33 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
   <string name="wifi_disabled_wifi_failure">Kon geen verbinding maken met Wi-Fi</string>
   <string name="wifi_display_certification">Draadloos scherm certificatie</string>
   <string name="wifi_display_certification_summary">Opties voor draadloos scherm certificatie weergeven</string>
+  <string name="wifi_dns1_hint">8.8.8.8</string>
+  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
+  <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_is_off">Wi-Fi is uitgeschakeld</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Kan niet verbinden met internet.</string>
   <string name="wifi_no_internet_no_reconnect">Kan niet automatisch vebinden</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_remembered">Opgeslagen</string>
+  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Geen</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
+  <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wep">WEP</string>
+  <string name="wifi_security_wpa">WPA PSK</string>
+  <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Wi-Fi verbose logging inschakelen</string>
   <string name="wifi_verbose_logging_summary">Wi-Fi logging level verhogen, weergeven SSID voor elke RSSI Wi-Fi netwerk in lijst</string>
   <string name="window_animation_scale_title">Scherm-animatieschaal</string>
@@ -1822,9 +1854,12 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
   <string name="wireless_charge_reset_device_detail">Zorg ervoor dat de positie van uw apparaat op het oplaadstation correct is</string>
   <string name="wireless_charge_stop">Draadloos opladen is gestopt</string>
   <string name="wrong_password">Foute wachtwoord</string>
+  <string name="yoigo_mcc">214</string>
+  <string name="yoigo_mnc">04</string>
   <string name="zen_alarm_warning">U zal je volgende alarm %1$s niet horen</string>
   <string name="zen_alarm_warning_indef">U zal je volgende alarm %1$s niet horen tenzij je dit voor die tijd uitzet</string>
   <string name="zen_alarms_introduction">U wordt niet gestoord door geluiden en trillingen, behalve door alarmen. Je hoort nog steeds alles wat je wilt spelen, inclusief muziek, video\'s en games</string>
+  <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_priority_customize_button">Aanpassen</string>
   <string name="zen_priority_introduction">U wordt niet gestoord door geluiden en trillingen, behalve van alarmen, herinneringen, gebeurtenissen en bellers die u opgeeft. Je hoort nog steeds alles wat je wilt spelen, inclusief muziek, video\'s en games.</string>
   <string name="zen_silence_introduction">Dit blokkeert ALLE geluiden en trillingen, inclusief van alarmen, muziek, video\'s en games.</string>

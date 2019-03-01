@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string-array name="screenrecorder_utils_support_high_frames_cpu">
+        <item>Qualcomm Technologies, Inc SDM845</item>
+        <item>Qualcomm Technologies, Inc MSM8998</item>
+        <item>Qualcomm Technologies, Inc SM8150</item>
+    </string-array>
+</resources>

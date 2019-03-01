@@ -32,6 +32,7 @@
   <string name="download_apk_desktop_running">Bezig met downloaden</string>
   <string name="download_error">Mislukt</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
+  <string name="download_percent">%d%%</string>
   <string name="download_queued">In wachtrij</string>
   <string name="download_remaining">%s resterend</string>
   <string name="download_running">In uitvoering</string>
@@ -83,7 +84,7 @@
   <string name="warning_tip_content">Je bent niet meer verbonden met Wi-Fi. Mobiel internet gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Waarschuwing dataverbruik</string>
-  <string name="wifi_recommended_body" formatted="false">"Je moet wifi gebruiken om deze %s download te voltooien..
+  <string name="wifi_recommended_body" formatted="false">"Je moet wifi gebruiken om deze %s download te voltooien.. 
 
 Aanraken om '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen om later te downloaden?</string>

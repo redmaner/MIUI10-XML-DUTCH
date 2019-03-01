@@ -236,9 +236,12 @@ Nu bijwerken?"</string>
   <string name="bank_card_detail">Creditcardgegevens</string>
   <string name="battery_saver">Energiebesparende modus</string>
   <string name="battery_saver_keywords">Energiebesparen;mail batterij</string>
+  <string name="bcc">Bcc</string>
   <string name="bill_center_setting">Factuurinstellingen</string>
   <string name="bill_center_setting_head">Informatie importeren van deze accounts</string>
   <string name="bill_cycle_text">Factuurcyclus</string>
+  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
   <string name="bill_remind">Terugbetaling herinnering</string>
   <string name="bill_remind_due">Een terugbetaling is verschuldigd op %s, tik om weer te geven</string>
   <string name="blank_feedback_toast">De feedback is leeg, voer feedback in!</string>
@@ -248,12 +251,16 @@ Nu bijwerken?"</string>
   <string name="bottom_bar_more_quickreply">Snel antwoorden</string>
   <string name="bottom_bar_more_share">Delen</string>
   <string name="bottom_bar_no_quickreply_toast">Geen snel antwoord</string>
+  <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Later herinneren</string>
   <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_pop3_attchemt_downloading">Kan het downloaden van bijlagen niet voor een POP3 account</string>
   <string name="cant_move_or_change_labels">"Kan items van meerdere accounts niet verplaatsen"</string>
+  <string name="cc">Cc</string>
+  <string name="cc_bcc">Cc/Bcc</string>
+  <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Mappen wijzigen</string>
   <string name="change_sync_settings">Sync. inst. wijzigen</string>
   <string name="changepw_dialog_tips">Wachtwoord opnieuw invoeren voor %s</string>
@@ -352,6 +359,9 @@ Nu bijwerken?"</string>
   <string name="debug_mode_preferencecategory">Log output instellen</string>
   <string name="debug_mode_settings">Debug modus instellingen</string>
   <string name="default_">STANDAARD</string>
+  <string name="default_exchange">EXCHANGE</string>
+  <string name="default_imap">IMAP</string>
+  <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDAARD INSTELLINGEN</string>
   <string name="default_signature">Verzonden van mijn Mi telefoon</string>
   <string name="default_signature_2">Verzonden van mijn %s</string>
@@ -408,6 +418,9 @@ Nu bijwerken?"</string>
   <string name="due_date_text">Laatste afbetaling</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
   <string name="edit_signature">Handtekening wijzigen</string>
+  <string name="elided_padding_token"> </string>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
@@ -419,6 +432,7 @@ Nu bijwerken?"</string>
   <string name="empty_trash">Prullenbak leegmaken</string>
   <string name="empty_trash_dialog_title">Prullenbak leegmaken?</string>
   <string name="enable_sync_in_account_settings">Inschakelen in %1$s.</string>
+  <string name="enumeration_delimiter">" | "</string>
   <string name="error">Fout</string>
   <string name="exception_cancel">"
          Deze gebeurtenis is geannuleerd
@@ -450,6 +464,7 @@ Nu bijwerken?"</string>
   <string name="file_save_path_dialog_cancel">Begrepen</string>
   <string name="file_save_path_dialog_ok">Nu wijzigen</string>
   <string name="file_save_term">Voorwaarden voor het opslaan van bestanden</string>
+  <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Tik op de knop om \"%s\" te verzenden naar alle personen in de conversatie</string>
   <string name="float_window_info">"Bij het configureren van de 139 mailbox, gebruik de telefoon niet, bij configuratiefouten."</string>
   <string name="float_window_title">Configuratie………</string>
@@ -490,6 +505,7 @@ Nu bijwerken?"</string>
   <string name="folder_trash_name_en2">Verwijderde berichten</string>
   <string name="folder_trash_name_en3">[Gmail]/Prullenbak</string>
   <string name="forever">Altijd</string>
+  <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="forward">Doorsturen</string>
   <string name="forward_attachment">Doorsturen</string>
   <string name="forward_attribution">---------- Doorgestuurd bericht ----------&lt;br&gt;Van: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Onderwerp: %3$s&lt;br&gt;Aan: %4$s&lt;br&gt;</string>
@@ -525,6 +541,9 @@ Nu bijwerken?"</string>
   <string name="help_me_get_qq_auth">Help me om de QQ autorisatiecode te verkrijgen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_password">Wachtwoord verbergen</string>
+  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
+  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
+  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
@@ -580,6 +599,7 @@ Nu bijwerken?"</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail synchroniseren van</string>
   <string name="mailbox_settings_sync_enabled_label">Deze map synchroniseren</string>
   <string name="mailbox_settings_sync_enabled_summary">Gesynchroniseerde berichten in deze map</string>
+  <string name="main_help_context">ttl</string>
   <string name="manual_sync">Nu synchroniseren</string>
   <string name="mark_important">Markeren als belangrijk</string>
   <string name="mark_not_important">Markeren als niet belangrijk</string>
@@ -645,6 +665,7 @@ Nu bijwerken?"</string>
   <string name="merged_mailbox_compose_select_account">Selecteer Account</string>
   <string name="message_body_load_set_description">Grootte voor nieuwe e-mails laden bij gebruik van mobiele data</string>
   <string name="message_compose_insert_quick_response_list_title">Snelle reactie invoegen</string>
+  <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Er is een fout opgetreden tijdens het decoderen van het bericht.</string>
   <string name="message_details_title">Berichtdetails</string>
   <string name="message_discarded">Bericht wordt verwijderd.</string>
@@ -662,6 +683,7 @@ Nu bijwerken?"</string>
   <string name="mibill_privacy_policy_title">Rekeningen automatisch beheren</string>
   <string name="min_payment_text">Minimum betaling</string>
   <string name="more_context">Meer</string>
+  <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verplaatsen naar een andere map</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Dempen</string>
@@ -839,6 +861,10 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="privacy_des">"De loginformatie bevat foutopsporingsinformatie die is afgedrukt door de e-mailtoepassing en informatie over uw apparaat om de vragen te vinden die u feedback geeft. Selecteer het volgende \"%1$s\" Dat betekent dat je gelezen en ermee akkoord bent gegaan met Mi《%2$s》"</string>
   <string name="privacy_policy">Privacybeleid</string>
   <string name="prompt_title">Prompt</string>
+  <string name="protocol_eas">eas</string>
+  <string name="protocol_imap">imap</string>
+  <string name="protocol_legacy_imap">imap</string>
+  <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Tik in de rechterbovenhoek om naar instellingen te gaan nadat u het eens bent</string>
   <string name="pull_to_refresh">Sleep naar beneden om te vernieuwen</string>
   <string name="push_wps_better_confirm_download">Downloaden</string>
@@ -900,11 +926,14 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="quote_divider_5">-----------De scheidingslijn wordt gebruikt om te verwijzen-------------</string>
   <string name="quote_divider_6">---Origineel---</string>
   <string name="quote_divider_7">Origineel bericht</string>
+  <string name="quote_divider_apple">"
+&gt;"</string>
   <string name="quote_divider_huawei_zh">Van Huawei mobiele telefoon</string>
   <string name="quote_divider_ipad_zh">Van iPad</string>
   <string name="quote_divider_iphone_en">Verstuurd vanaf mijn iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Begin doorgestuurd bericht:</string>
   <string name="quote_divider_iphone_fwd_zh">Het volgende is een doorgestuurd bericht:</string>
+  <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------ Origineel ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Origineel ------------------</string>
   <string name="quoted_text">Tekst uit oorspronkelijk bericht weergeven</string>
@@ -1027,8 +1056,15 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="show_images">Afbeeldingen weergeven</string>
   <string name="show_more_attachment">Meer bijlagen</string>
   <string name="show_password">Wachtwoord tonen</string>
+  <string name="signature">"
+
+
+
+%s"</string>
   <string name="signature_black_shark">Verzonden vanaf mijn Blackshark telefoon</string>
   <string name="silent_ringtone">Stil</string>
+  <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
   <string name="sms_tip">Authenticatie mislukt, controleer of de antivirussoftware SMS onderschept</string>
   <string name="smtp_password_error">Het wachtwoord van de uitgaande mail server is ongeldig</string>
   <string name="sort_attachment">Sorteren op</string>
@@ -1042,6 +1078,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="storage">Opslag</string>
   <string name="str_select_all">Alles selecteren</string>
   <string name="str_select_none">Alles deselecteren</string>
+  <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Onderwerp</string>
   <string name="sync_contacts_fail_per_content">Tik om toegang te geven tot contacten</string>
   <string name="sync_contacts_fail_per_title">Kon contacten niet synchroniseren</string>

@@ -108,6 +108,9 @@
   <string name="disable_wallpaper_scroll">Opzij scrollen uitschakelen</string>
   <string name="double_tap_to_lock_title">Dubbel tikken om het scherm te vergrendelen</string>
   <string name="download_action">Downloaden</string>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort">%2$2d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Mapnaam bewerken</string>
   <string name="edit_mode_group">Groep</string>
   <string name="edit_mode_group_error_full">Niet genoeg ruimte</string>

@@ -14,6 +14,26 @@
         <item>Normaal</item>
         <item>Groot</item>
     </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>要</item>
+        <item>只要</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>拥堵</item>
+        <item>公里拥堵</item>
+        <item>公里缓行</item>
+        <item>道路施工</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>错峰出行</item>
+        <item>有严重拥堵</item>
+        <item>路况畅通</item>
+        <item>无明显拥堵</item>
+        <item>有异常交通</item>
+    </string-array>
+    <string-array name="sms_exclude_category">
+        <item>还款</item>
+    </string-array>
     <string-array name="stock_color_schema">
         <item>Rood - boven, groen - beneden</item>
         <item>Groen - boven, rood - beneden</item>
