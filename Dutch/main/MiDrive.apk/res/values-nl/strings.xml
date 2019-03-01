@@ -111,7 +111,6 @@
   <string name="sd_full">Uw SD-kaart is vol.</string>
   <string name="sd_invalid">Uw SD-kaart is beschadigd.</string>
   <string name="send_to_midrive_failed">Dit type bestand wordt niet ondersteund</string>
-  <string name="slashes">/</string>
   <string name="source_file_missing">Het bestand mist.</string>
   <string name="space_full">Niet genoeg ruimte op de cloud.</string>
   <string name="start_use_xiaomi_account">Start met het gebruiken van Mi Drive</string>

@@ -16,7 +16,7 @@
         <item>Website</item>
         <item>Adres</item>
         <item>Notities</item>
-	</string-array>	
+	</string-array>
     <string-array name="first_guide_contents">
         <item>Welkom bij notities!</item>
         <item>Maak notities</item>
@@ -48,17 +48,5 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Voice notes</item>
         <item>You can create voice notes now. Just tap the icon, record your voice, and save the audio file inside the note.</item>
-    </string-array>
-    <string-array name="first_guide_images">
-        <item>guide_first_00</item>
-        <item>guide_first_01</item>
-        <item>guide_first_02</item>
-        <item>guide_first_03</item>
-        <item>guide_first_04</item>
-        <item></item>
-    </string-array>
-    <string-array name="second_guide_images">
-        <item>guide_second_00</item>
-        <item></item>
     </string-array>
 </resources>

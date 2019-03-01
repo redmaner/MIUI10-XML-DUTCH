@@ -787,11 +787,6 @@
   <string name="view_master_rank">Youliao top bekijken</string>
   <string name="view_more_sticker">Meer stickers bekijken</string>
   <string name="view_top_rank">Rankings bekijken</string>
-  <string name="wb_btn_bind">Weibo</string>
-  <string name="wechat_btn_bind">WeChat</string>
-  <string name="wechat_btn_str">WeChat</string>
-  <string name="wechat_login_btn_str">WeChat</string>
-  <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video op %s</string>
   <string name="weibo_login_btn_str">Weibo</string>
   <string name="weibo_share_success">Met succes gedeeld</string>

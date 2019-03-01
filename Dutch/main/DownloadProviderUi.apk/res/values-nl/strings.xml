@@ -298,12 +298,8 @@ op al je apparaten met Xunlei</string>
   <string name="revert_download_path">Standaard downloadlocatie gebruiken?</string>
   <string name="save_path">Standaard download locotie gebruiken?</string>
   <string name="save_text">￥%1$s opslaan</string>
-  <string name="search_app_name">下载管理</string>
   <string name="search_clear_history_btn">Zoekgeschiedenis wissen</string>
   <string name="search_clear_history_toast">Geschiedenis gewist</string>
-  <string name="search_download">下载管理</string>
-  <string name="search_download_desc">查看和管理下载任务</string>
-  <string name="search_download_key_words">迅雷下载中心;暂停下载任务;下载管理器;正在下载中;已下载完成;下载文件管理器;文件存储目录;下载储存目录;下载存储路径;管理下载任务;下载工具;下载文件夹;已下载文件;迅雷手机下载;小米资源下载中心;保存目录;保存路径;下载存储位置;下载路径;下载存储目录;下载任务找不到;下载任务在哪里;下载任务管理器;停止下载;删除下载任务</string>
   <string name="search_favorite_empty">Sommige bronnen toevoegen aan favorieten</string>
   <string name="search_favorite_title">Favorieten</string>
   <string name="search_history">Zoekgeschiedenis</string>
@@ -325,22 +321,13 @@ op al je apparaten met Xunlei</string>
   <string name="search_hotwords_switch">Wisselen</string>
   <string name="search_input_empty_toast">Zoek of voeg URL in</string>
   <string name="search_input_hint">Zoek of voeg URL in</string>
-  <string name="search_new_download">新建下载</string>
-  <string name="search_new_download_desc">支持BT、电驴、磁力链任务</string>
-  <string name="search_new_download_key_words">新建下载任务;新建下载文件;bt下载器;种子下载器;emule下载器;电驴下载器;迅雷下载器;thunder;磁力链下载器;资源下载器;下载工具;新建任务;视频下载</string>
   <string name="search_nonetwork_prompt">Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="search_nonetwork_refresh">Vernieuwen</string>
-  <string name="search_rank">下载热榜</string>
-  <string name="search_rank_desc">看看今天热门的应用和游戏</string>
-  <string name="search_rank_key_words">下载热榜;热门下载榜;热门应用;热门游戏</string>
   <string name="search_recommend_empty">Geen items</string>
   <string name="search_vif_empty">Geen aanbevolen items</string>
   <string name="search_vif_score_text">Beoordeling: %1$s</string>
   <string name="search_website">Websites</string>
   <string name="search_website_more">Meer</string>
-  <string name="search_xl_account">迅雷会员</string>
-  <string name="search_xl_account_desc">提升您的下载速度</string>
-  <string name="search_xl_account_key_words">迅雷会员;充值会员;下载加速;下载速度慢;下载不了</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_operation_items">Kies items</string>
   <string name="select_sub_file_download">Kies een bestand om te downloaden</string>
@@ -461,7 +448,7 @@ op al je apparaten met Xunlei</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is ingeschakeld</string>
   <string name="vip_expire_show_info">Uw Xunlei lidmaatschap is vervallen</string>
   <string name="vip_expire_today_show_info">Uw Xunlei lidmaatschap is vervallen.</string>
-  <string name="vip_show_info">5 miljoen leden. 
+  <string name="vip_show_info">5 miljoen leden.
 Versnel downloads op al uw apparaten</string>
   <string name="vip_speedup">Snelheidsverhoging:</string>
   <string name="web_dialog_cancel">Annuleren</string>

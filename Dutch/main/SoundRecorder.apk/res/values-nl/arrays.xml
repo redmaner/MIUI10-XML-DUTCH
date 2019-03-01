@@ -47,13 +47,4 @@
         <item>Plaats de telefoon tussen twee mensen in om hun gesprek duidelijk op te nemen</item>
         <item>High Dynamic Range technologie zorgt ervoor dat de microfoon gedetailleerder geluid kan opnemen</item>
     </string-array>
-    <string-array name="record_type_entries">
-        <item>MP3</item>
-        <item>AMR</item>
-    </string-array>
-    <integer-array name="wave_phase">
-        <item>0</item>
-        <item>-240</item>
-        <item>400</item>
-    </integer-array>
 </resources>

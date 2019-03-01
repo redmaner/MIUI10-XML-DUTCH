@@ -22,10 +22,8 @@
   <string name="accepted_tick_for_order_exchange">geaccepteerd vinkje voor orderuitwisseling</string>
   <string name="add">Toevoegen</string>
   <string name="app_name">Mi Recycle</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="bank_name">Bank naam</string>
   <string name="blink_dialog_msg">Heb je een dode stip of pixellijn op het scherm gezien?</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="btn_check_back">Terug</string>
   <string name="btn_text_evaluate_again">Opnieuw evalueren</string>
   <string name="btn_text_otp_on_call">OTP in gesprek</string>
@@ -43,7 +41,7 @@ of Mi Protect"</string>
   <string name="buy_privacy_title">Disclaimer</string>
   <string name="buy_recycle_desc">Powered by Cashify</string>
   <string name="buy_summary_five">Tot 1 GB met docusafe</string>
-  <string name="buy_summary_four">"Slechts één oproep om SIM te deblokkeren van overal 
+  <string name="buy_summary_four">"Slechts één oproep om SIM te deblokkeren van overal
  in de wereld"</string>
   <string name="buy_summary_one">Dekking tegen accidentele fysieke en vloeibare schade</string>
   <string name="buy_summary_three">Repareer alleen bij een door MI erkend servicecentrum</string>
@@ -56,12 +54,10 @@ of Mi Protect"</string>
   <string name="buy_top_summary">"Maak je nooit zorgen
 accidentele schade aan uw smartphone"</string>
   <string name="cashify_entrance">Verkoop je oude telefoon</string>
-  <string name="cd_charger_test_image">charger_test_image</string>
   <string name="cd_charger_test_status">lader teststatus</string>
   <string name="cd_dead_pixel_test_image">Dode pixel test afbeelding</string>
   <string name="cd_screen_touch_test_image">scherm aanraak test afbeelding</string>
   <string name="cd_volume_test_image">volume knop afbeelding van de telefoon</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="city">Stad</string>
   <string name="comment_leave_us_a_comment">laat een reactie achter</string>
   <string name="confirm_account_no">Bevestig Account No.</string>
@@ -84,25 +80,20 @@ accidentele schade aan uw smartphone"</string>
   <string name="done_info_model">TELEFOON TYPE:</string>
   <string name="done_info_name">NAAM:</string>
   <string name="done_info_order">BESTELDATUM:</string>
-  <string name="done_number_five">05</string>
-  <string name="done_number_four">04</string>
-  <string name="done_number_one">01</string>
-  <string name="done_number_three">03</string>
-  <string name="done_number_two">02</string>
   <string name="done_summary_five">Tekefoon wordt kosteloos bij u thuis afgeleverd</string>
   <string name="done_summary_four">Gratis* reparatie met 100% originele reserveonderdelen</string>
   <string name="done_summary_one">Verzend schade informatie &amp; vereiste documenten uploaden</string>
   <string name="done_summary_three">We doen al het papierwerk &amp; Informatieverzameling voor goedkeuringen</string>
-  <string name="done_summary_two">"We sturen uw telefoon naar MI geautoriseerde 
+  <string name="done_summary_two">"We sturen uw telefoon naar MI geautoriseerde
 servicecentrum"</string>
   <string name="done_title_five">Telefoon geleverd bij uw aan de deur</string>
-  <string name="done_title_four">"Apparaat gerepareerd bij MI geautoriseerd 
+  <string name="done_title_four">"Apparaat gerepareerd bij MI geautoriseerd
 servicecentrum"</string>
-  <string name="done_title_one">Aanmelden op &lt;a href="https://oneassist.in/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist.in&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;" or call 1800 123 
+  <string name="done_title_one">Aanmelden op &lt;a href="https://oneassist.in/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist.in&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;" or call 1800 123
 3330 om uw claim in te dienen"</string>
-  <string name="done_title_three">"We krijgen de vereiste goedkeuring van 
+  <string name="done_title_three">"We krijgen de vereiste goedkeuring van
 verzekeringspartner"</string>
-  <string name="done_title_two">"We verifiëren uw documenten &amp; halen uw 
+  <string name="done_title_two">"We verifiëren uw documenten &amp; halen uw
 beschadigd apparaat op aan de deur"</string>
   <string name="err_msg_invalid_mobile_no">Ongeldig telefoonnummer</string>
   <string name="error_msg_empty_coupon">Voer de kortingscode in</string>
@@ -135,7 +126,6 @@ beschadigd apparaat op aan de deur"</string>
   <string name="item_name_sensors">Sensoren</string>
   <string name="item_name_vibration">Trillen</string>
   <string name="item_name_wifi">Wi-Fi</string>
-  <string name="item_progress_percent">%</string>
   <string name="item_result_canceled">Geannuleerd</string>
   <string name="item_result_fail">Abnormaal</string>
   <string name="item_result_pass">Goed</string>
@@ -162,10 +152,6 @@ beschadigd apparaat op aan de deur"</string>
   <string name="otex_touch_alert_title">Kan test niet voltooien?</string>
   <string name="overall_test">Algemene test</string>
   <string name="password_toggle_content_description">Toggle wachtwoord zichtbaarheid</string>
-  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="postal_code">Postcode</string>
   <string name="powered_by_cashify">Powered by</string>
   <string name="push_ht_content">Meer informatie over uw hardwarevoorwaarden</string>
@@ -197,14 +183,6 @@ Let op: de apparaatprijzen kunnen gewijzigd worden. Verkoop je telefoon nu om ge
   <string name="show_manage_order">Bestelling beheren</string>
   <string name="show_mi_protect_subtitile">IVerzekering geeft u aanvullende reparatiedekking</string>
   <string name="show_mi_protect_title">Mi Protect</string>
-  <string name="show_number_eight">8</string>
-  <string name="show_number_five">5</string>
-  <string name="show_number_four">4</string>
-  <string name="show_number_one">1</string>
-  <string name="show_number_seven">7</string>
-  <string name="show_number_six">6</string>
-  <string name="show_number_three">3</string>
-  <string name="show_number_two">2</string>
   <string name="show_order_detail">Bestelgegevens</string>
   <string name="show_pickup_date">Ophaaldatum :</string>
   <string name="show_pickup_detail">Ophaalgegevens</string>
@@ -216,12 +194,9 @@ Let op: de apparaatprijzen kunnen gewijzigd worden. Verkoop je telefoon nu om ge
   <string name="show_when_you_complete_all_the_options_you_will_get_all_the_money">Als je alle opties hebt voltooid, krijg je al je geld.</string>
   <string name="show_you_have_exchanged_your">Je hebt je ingeruild</string>
   <string name="state">Staat</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_int">bestelstatus</string>
   <string name="status_marker_view">weergave statusweergave</string>
   <string name="stop_test">Stoppen</string>
-  <string name="support_email">support@cashify.in</string>
-  <string name="suppport_contact">+91-7290-068-900</string>
   <string name="text_add_continue">Toevoegen en doorgaan</string>
   <string name="text_have_coupon">Heb je een kortingsbon?</string>
   <string name="text_support_email">E-mail Id :</string>
@@ -242,6 +217,4 @@ Let op: de apparaatprijzen kunnen gewijzigd worden. Verkoop je telefoon nu om ge
   <string name="title_quote_page">Algemene test</string>
   <string name="toast_not_support">Wordt niet ondersteund in de huidige regio.</string>
   <string name="touch_calibration_sub_title">Tik &amp; slepen om te wissen</string>
-  <string name="url_terms_and_conditions">https://s3n.cashify.in/miui/tnc.html</string>
-  <string name="urls_terms_of_use">https://s3n.cashify.in/miui/terms-of-use.html</string>
 </resources>

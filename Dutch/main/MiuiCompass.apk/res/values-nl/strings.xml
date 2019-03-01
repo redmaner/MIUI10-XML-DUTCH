@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="allow">Toestaan</string>
-  <string name="altitude">%.1f</string>
-  <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Hoogte</string>
   <string name="altitude_uncalibrate_cancel">Annuleren</string>
   <string name="altitude_uncalibrate_msg">Kan hoogte niet nauwkeurig kalibreren zonder GPS of mobiele dataverbinding.</string>
   <string name="altitude_uncalibrate_refresh">Probeer opnieuw</string>
   <string name="altitude_uncalibrate_tip">Ongecalibreerde data</string>
-  <string name="altitude_unit">m</string>
-  <string name="angle">%.0f</string>
   <string name="app_description_content">Kompas wordt gebruikt voor navigatie en oriëntatie en toont u richting. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="app_description_title">Over kompas</string>
   <string name="app_label">Kompas</string>
@@ -21,7 +17,6 @@
   <string name="calibrate_tip">Kantel uw apparaat om de bal rond de cirkel te rollen</string>
   <string name="calibrate_title">Kompas kalibreren</string>
   <string name="cancel">Annuleren</string>
-  <string name="cannot_get_location">--</string>
   <string name="compass_settings">Instellingen</string>
   <string name="dialog_body_no_network">Verbinden met Wi-Fi of schakel de mobiele data in</string>
   <string name="dialog_calibrat_altitude">Bezig met kalibreren…</string>
@@ -58,7 +53,6 @@
   <string name="open_perm_title">Toestemmingen vereist</string>
   <string name="preference_other">Andere</string>
   <string name="preference_privacy_title">Privacybeleid</string>
-  <string name="pressure">%.1f</string>
   <string name="pressure_title">Druk</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Schud om te kalibreren</string>

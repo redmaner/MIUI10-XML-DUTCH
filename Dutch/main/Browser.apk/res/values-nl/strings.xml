@@ -118,7 +118,6 @@
   <string name="app_downloading_ratio_text">Downloaden van %s</string>
   <string name="app_downloading_text">Downloaden</string>
   <string name="app_installing_text">Installeren</string>
-  <string name="app_name">InfoStream</string>
   <string name="app_new_version">De nieuwste versie van deze app is al geïnstalleerd</string>
   <string name="app_open_text">Openen</string>
   <string name="app_task_download_exists_text">Download bestaat</string>
@@ -132,7 +131,6 @@
   <string name="aqi_quality_index_moderate">Matig</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Ongezond</string>
-  <string name="at_miui_browser">\@小米浏览器</string>
   <string name="autoSwithcingSearchEngineTips">Gewisseld naar de zoekmachine die u het meest gebruikt</string>
   <string name="autologin_bar_error">Kon niet aanmelden</string>
   <string name="autologin_bar_hide_text">Verbergen</string>
@@ -163,10 +161,8 @@
   <string name="bookmark_saved">Bladwijzer toegevoegd</string>
   <string name="bookmark_title">Bladwijzernaam</string>
   <string name="bookmark_title_lable">Titel</string>
-  <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Deze URL staat al bij favorieten</string>
   <string name="bookmark_url_can_not_null">URL invoeren</string>
-  <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_exisit">U hebt deze URL al verwijderd</string>
   <string name="bookmark_url_not_valid">Ongeldige URL</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
@@ -219,13 +215,6 @@
   <string name="comment_menu">Opmerking</string>
   <string name="comment_num_description">Opmerkingsnummer</string>
   <string name="comment_publish_to_topic">Reacties synchroniseren met</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Vorige</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
@@ -445,7 +434,6 @@
   <string name="history">Geschiedenis</string>
   <string name="home_description">Home</string>
   <string name="home_hybrid_application_tips">Inclusief mini programma\'s</string>
-  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Verwijderen</string>
   <string name="homepage_get_location">Locatie verkrijgen</string>
   <string name="homepage_get_location_failed">Kon info niet verkrijgen, kies een stad</string>
@@ -512,7 +500,6 @@
   <string name="miuishare_account_login_ok">Aanmelden</string>
   <string name="miuishare_account_need_activate">Weibo account moet gekoppeld zijn me uw Mi Account. Aanmelden met uw Account?</string>
   <string name="miuishare_account_need_login">Weibo account moet gekoppeld zijn me uw huidige Mi Account. Aanmelden om te delen?</string>
-  <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_dialog_cancel">Annuleren</string>
   <string name="miuishare_no_network">Kon niet verbinden met netwerk</string>
   <string name="miuishare_publish">Verzenden</string>
@@ -621,7 +608,6 @@
   <string name="mw_common_open_on_phone">Openen op telefoon</string>
   <string name="mw_common_signin_button_text">Inloggen</string>
   <string name="mw_common_signin_button_text_long">Inloggen met Google</string>
-  <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="mw_copy_to_clipboard_failure_message">Kopiëren naar klembord mislukt</string>
   <string name="mw_data_traffic_prompt_change">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
   <string name="mw_data_traffic_prompt_message">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
@@ -1331,8 +1317,6 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
-  <string name="tae_sdk_qr_login_icon_password"></string>
-  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="temp_refuse">Nee bedankt</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="title_notice_push">Push inschakelen</string>

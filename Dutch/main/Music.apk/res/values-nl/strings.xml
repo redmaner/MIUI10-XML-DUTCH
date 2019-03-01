@@ -745,7 +745,6 @@ Wees blij"</string>
   <string name="view_album">Album bekijken</string>
   <string name="vip_required">Premium muziekpakket verkrijgen om dit nummer af te spelen. Nummer voorlopig overgeslagen.</string>
   <string name="vip_required_with_song">%s is alleen beschikbaar voor PRO leden. Dit nummer nu overgeslaan.</string>
-  <string name="widget_small_text_separator">-</string>
   <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze %s download te voltooien.
 
 Tik op %s om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
