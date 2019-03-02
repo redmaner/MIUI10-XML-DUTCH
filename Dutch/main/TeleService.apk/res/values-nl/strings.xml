@@ -105,7 +105,6 @@
   <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
   <string name="accessibility_settings_activity_title">Toegankelijkheid</string>
   <string name="accessibility_wifi_off">Wi-Fi uitgeschakeld.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi één balkje.</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi volledig signaal.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi drie balkjes.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi twee balkjes.</string>
@@ -124,8 +123,6 @@
   <string name="administrative_disable">Beheer uitgeschakeld</string>
   <string name="administrative_enable">Beheer ingeschakeld</string>
   <string name="advanced_settings">Extra instellingen</string>
-  <string name="advanced_settings_hide">▽ Aanraken om alles te verbergen</string>
-  <string name="advanced_settings_show">▷ Aanraken om alles weer te geven</string>
   <string name="advertisements_disable">Advertenties uitgeschakeld</string>
   <string name="advertisements_enable">Advertenties ingeschakeld</string>
   <string name="alert_dialog_close">Het profiel sluiten</string>
@@ -584,7 +581,6 @@ Sample Rate"</string>
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
   <string name="description_image_button_nine">negen</string>
-  <string name="description_image_button_one">één</string>
   <string name="description_image_button_plus">plus</string>
   <string name="description_image_button_pound">pound</string>
   <string name="description_image_button_seven">zeven</string>
@@ -606,7 +602,6 @@ Sample Rate"</string>
   <string name="dial_emergency_error">Kan niet bellen. %s is geen noodnummer.</string>
   <string name="dial_related_setting_catory">Kiezer</string>
   <string name="dialerKeyboardHintText">Toetsenbord gebruiken om te bellen</string>
-  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_alert_title">Waarschuwing</string>
   <string name="dialog_cancel">Annuleren</string>
   <string name="dialog_network_priority_title">Prioriteitsnetwerk</string>
@@ -896,8 +891,8 @@ Sample Rate"</string>
   <string name="mismatchPin">De getypte PINS komen niet overeen. Probeer opnieuw.</string>
   <string name="mismatchPin2">PIN2s komen niet overeen. Probeer opnieuw.</string>
   <string name="mismatch_password">De door u ingevulde wachtwoorden komen niet overeen</string>
-  <string name="mismatch_pin">De PIN\'s komen niet overeen.</string>
-  <string name="mismatch_pin2">PIN 2\'s komen niet overeen, probeer het opnieuw.</string>
+  <string name="mismatch_pin">"De PIN\'s komen niet overeen."</string>
+  <string name="mismatch_pin2">"PIN 2\'s komen niet overeen, probeer het opnieuw."</string>
   <string name="missed_call_notify_five_times">5 keer</string>
   <string name="missed_call_notify_none">Geen herinnering</string>
   <string name="missed_call_notify_once">1 keer</string>
@@ -969,7 +964,6 @@ Sample Rate"</string>
   <string name="network_info_message">Netwerkbericht</string>
   <string name="network_lte">LTE (aanbevolen)</string>
   <string name="network_message">Netwerkbericht</string>
-  <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
   <string name="network_query_error">Fout bij het zoeken naar netwerken.</string>
   <string name="network_settings_auto_select_title">Netwerk handmatig selecteren</string>
   <string name="network_settings_automatically_option">Kies netwerk automatisch (%s)</string>
@@ -1238,7 +1232,6 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_phone_account">Voorkeursoproepaccount</string>
   <string name="preferred_wificall_title">Netwerkvoorkeuren</string>
   <string name="privacy_policy_title">Privacybeleid</string>
-  <string name="private_num">Privénummer</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE services zijn niet beschikbaar. Schakel VoLTE uit om te bellen.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Service is niet beschikbaar. Schakel VoLTE uit in instellingen.</string>
@@ -1325,7 +1318,7 @@ U hebt nog %d pogingen over."</string>
   <string name="screen_zoom_summary_small">Klein</string>
   <string name="screen_zoom_summary_very_large">Groter</string>
   <string name="search_antispam_setting">Zwarte lijst</string>
-  <string name="search_app_name">Telefoon;Oproep opname;Omroepen doorverbinden;Omleiding;Oproep wacht;Blokkeerlijst;Landcode;Landnummer; Landcodes;Regio\'s;Oproepen oproepen; Oproep oproepen;Oproepenbord;Oproepen; Oproepen;Telefonie;VoIP;VoLTE;Gemiste oproep;Gemiste oproepen;SIP;T9 ;IP telefonie;FDN</string>
+  <string name="search_app_name">"Telefoon;Oproep opname;Omroepen doorverbinden;Omleiding;Oproep wacht;Blokkeerlijst;Landcode;Landnummer; Landcodes;Regio\'s;Oproepen oproepen; Oproep oproepen;Oproepenbord;Oproepen; Oproepen;Telefonie;VoIP;VoLTE;Gemiste oproep;Gemiste oproepen;SIP;T9 ;IP telefonie;FDN"</string>
   <string name="search_networks">Netwerken zoeken</string>
   <string name="selectContact">Contact selecteren</string>
   <string name="select_application">App selecteren</string>
@@ -1598,7 +1591,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="vm_changed">Voicemailnummer gewijzigd.</string>
   <string name="voice_number_setting_primary_user_only">Voicemail voor oproepinstellingen kunnen alleen door de primaire gebruiker gewijzigd worden .</string>
   <string name="voice_privacy">Spraakprivacy</string>
-  <string name="voice_privacy_summary">Verbeterde privémodus inschakelen</string>
   <string name="voice_report_incoming_call">Bellen</string>
   <string name="voice_report_unknown_num">Onbekend nummer</string>
   <string name="voice_service_cannot_call_notification_content">U kunt mogelijk verbindingsproblemen ondervinden tijdens het bellen.</string>

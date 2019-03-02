@@ -6,11 +6,10 @@
   <string name="fastboot_locked_answer_2">"In het geval u uw apparaat kwijtraakt, garandeert fastboot de veiligheid van uw gegevens. Als je fastboot ontgrendelt, zal je niet meer in staat zijn om het apparaat op afstand te vergrendelen of gegevens te wissen met 'apparaat vinden'. Daarom raden we niet aan om fastboot te ontgrendelen op uw apparaat."</string>
   <string name="fastboot_locked_answer_3">"Je moet de ontgrendeltool gebruiken van de MIUI website. Om het apparaat te ontgrendelen moeten we zeker weten dat het apparaat van u is. Daarom moet u inloggen met uw Mi Account en 'apparaat vinden' inschakelen."</string>
   <string name="fastboot_locked_question_1">Waarom zou fastboot vergrendeld moeten zijn?</string>
-  <string name="fastboot_locked_question_2">Zijn er risico\'s aan het ontgrendelen van de fastboot?</string>
-  <string name="fastboot_locked_question_3">Ik ken de risico\'s, maar ik wil nog steeds het apparaat ontgrendelen. Wat moet ik dan doen?</string>
+  <string name="fastboot_locked_question_2">"Zijn er risico\'s aan het ontgrendelen van de fastboot?"</string>
+  <string name="fastboot_locked_question_3">"Ik ken de risico\'s, maar ik wil nog steeds het apparaat ontgrendelen. Wat moet ik dan doen?"</string>
   <string name="fastboot_status_locked_info">"Fastboot is niet ontgrendeld op dit apparaat"</string>
   <string name="fastboot_status_locked_summary">Kan geen roottoegang verkrijgen</string>
-  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Ga naar de officiële MIUI website om de ontgrendeltool te downloaden.</string>
   <string name="game_booster">Gamingsnelheid opvoeren</string>
   <string name="gb_alipays_can_not_complete">Kan betaling niet afronden. Installeer om verder te gaan.</string>

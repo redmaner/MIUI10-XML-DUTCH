@@ -88,7 +88,7 @@
   <string name="delete_bank_card_title">Waarschuwing</string>
   <string name="delete_device_btn">Verwijderen</string>
   <string name="delete_device_failed">Kan apparaat niet verwijderen</string>
-  <string name="delete_device_notice">Nadat het apparaat wordt verwijderd, wordt deze automatisch uitgeschreven van uw Mi Account. Je zult niet meer in staat zijn om met dit apparaat toegang tot krijgen tot foto\'s, berichten, of andere inhoud die is opgeslagen zijn in uw account.</string>
+  <string name="delete_device_notice">"Nadat het apparaat wordt verwijderd, wordt deze automatisch uitgeschreven van uw Mi Account. Je zult niet meer in staat zijn om met dit apparaat toegang tot krijgen tot foto\'s, berichten, of andere inhoud die is opgeslagen zijn in uw account."</string>
   <string name="device_delete_success_message">Als u zich niet hebt aangemeld op dit apparaat, wijzigt u uw wachtwoord onmiddellijk.</string>
   <string name="device_delete_success_title">Uitgeschreven</string>
   <string name="device_list__header">Mijn apparaten</string>
@@ -164,7 +164,7 @@ Stuur deze code naar de technicus."</string>
   <string name="mipay_others">Andere</string>
   <string name="mipay_transit_card">Transportkaart</string>
   <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
-  <string name="multi_user_not_show_sync_activity_message_2">In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in</string>
+  <string name="multi_user_not_show_sync_activity_message_2">"In zo\'n geval, zullen alle gegevens worden gesynchroniseerd met uw tweede ruimte. Om dit te voorkomen, schakel synchronisatie met Mi Cloud niet in"</string>
   <string name="multi_user_not_show_sync_activity_title">Schakel synchronisatie met Mi Cloud niet in</string>
   <string name="my_device_title">Huidig apparaat</string>
   <string name="no_network_btn">Vernieuwen</string>
@@ -409,7 +409,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Storage</string>
   <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
-  <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
+  <string name="photoPickerNotFoundText">"Geen foto\'s beschikbaar."</string>
   <string name="push_notification_content">Verificatiecode krijgen</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>

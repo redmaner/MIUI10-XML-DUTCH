@@ -22,7 +22,6 @@
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
   <string name="accessibility_wifi_off">Wi-Fi uit.</string>
-  <string name="accessibility_wifi_one_bar">Wi-fi één balkje.</string>
   <string name="accessibility_wifi_signal_full">Vol Wi-Fi signaal.</string>
   <string name="accessibility_wifi_three_bars">Wifi drie balkjes.</string>
   <string name="accessibility_wifi_two_bars">Wifi twee balkjes.</string>
@@ -242,7 +241,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="install_confirm_question_update_system">Wilt u een update installeren voor deze systeemapp? Uw bestaande data zal niet verloren gaan. Het zal toegang krijgen tot:</string>
   <string name="install_confirm_question_update_system_no_perms">Wilt u een update installeren voor deze systeemapp? Uw bestaande data zal niet verloren gaan. Het heeft geen speciale toestemmingen nodig.</string>
   <string name="install_done">App geïnstalleerd.</string>
-  <string name="install_failed">App niet geïnstalleerd.</string>
   <string name="install_failed_blocked">Het pakket is geblokkeerd om geïnstalleerd te worden.</string>
   <string name="install_failed_conflict">Het pakket geeft een conflict met een bestaand pakket met dezelfde naam.</string>
   <string name="install_failed_incompatible">Deze app is niet compatibel met je telefoon.</string>
@@ -321,7 +319,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="no_apps">Geen apps</string>
   <string name="no_new_perms">Deze update vereist geen nieuwe toestemmingen.</string>
   <string name="no_permissions">Geen toestemmingen</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan om bootloader te ontgrendelen</string>
   <string name="ok">Ok</string>

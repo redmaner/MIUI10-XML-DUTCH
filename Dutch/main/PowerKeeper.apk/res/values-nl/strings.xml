@@ -26,7 +26,7 @@
   <string name="config_restrict_running_description">Apps zullen gesloten worden om batterij te besparen</string>
   <string name="config_restrict_running_title">Beperk achtergrondactiviteit</string>
   <string name="config_restrict_running_warning">App wordt gesloten op de achtergrond. Het is mogelijk dat deze dan niet normaal meer werkt.</string>
-  <string name="config_scenario_policies_title">Scenario\'s</string>
+  <string name="config_scenario_policies_title">"Scenario\'s"</string>
   <string name="config_suggest_description">Voor apps, gebruik verschillende batterijbesparingsconfiguraties</string>
   <string name="config_suggest_suffix_title">Batterijbespaarder (aanbevolen)</string>
   <string name="confirm">Ok</string>
@@ -76,8 +76,8 @@
   <string name="power_usage">Batterijgebruik</string>
   <string name="pref_config_title">Prestaties optimaliseren</string>
   <string name="privacy">Privacybeleid</string>
-  <string name="scenario_policies_summary">Verschillende besparingsmodi instellen voor verschillende scenario\'s.</string>
-  <string name="scenario_policies_title">Slimme scenario\'s</string>
+  <string name="scenario_policies_summary">"Verschillende besparingsmodi instellen voor verschillende scenario\'s."</string>
+  <string name="scenario_policies_title">"Slimme scenario\'s"</string>
   <string name="scenario_policies_warmcontrol">Temperatuurcontrole</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>

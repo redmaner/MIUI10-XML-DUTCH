@@ -107,7 +107,7 @@
   <string name="declaration_title">Algemene voorwaarden</string>
   <string name="deny_des">Achtergrondcarousel heeft toegang tot Galerij nodig om normaal te kunnen werken.</string>
   <string name="detail_ad_type_ad">AD</string>
-  <string name="detail_ad_type_video">Populaire video\'s</string>
+  <string name="detail_ad_type_video">"Populaire video\'s"</string>
   <string name="detail_add_cw">Achtergrond toevoegen</string>
   <string name="detail_add_shortcut">Toevoegen aan startscherm</string>
   <string name="detail_add_shortcut_new">Een startscherm snelkoppeling maken</string>
@@ -139,16 +139,13 @@
   <string name="detail_toast_favor_permission">Geef achtergrondcarrousel toegang tot opslag in Beveiliging.</string>
   <string name="dislike">Verwijderen</string>
   <string name="dlg_cancel">Annuleren</string>
-  <string name="dot_and_space">• </string>
   <string name="double_click_to_exit_activity">Tik nogmaals om af te sluiten</string>
   <string name="explorer_activity_title">Achtergrond carrousel</string>
-  <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="favor_list_no_data">Geen items hier.</string>
   <string name="favor_list_title">Favorieten</string>
   <string name="favor_success">Met succes toegevoegd aan favorieten</string>
   <string name="feed_article_entrance_about">About \"%s\"</string>
   <string name="find_psw">Forgot password</string>
-  <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
   <string name="from_migallerylockscreen">Van Mi achtergrond carrousel</string>
   <string name="get_account_no_permission">Geef de achtergrondcarousel toegang tot accounts op dit apparaat voordat je je aanmeldt.</string>
   <string name="get_ph_ticket">Code verkrijgen</string>

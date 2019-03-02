@@ -297,7 +297,7 @@
   <string name="apps_item_sms_reset_button_text">Standaardwaarden herstellen</string>
   <string name="apps_item_sms_title">Standaard berichteninstellingen</string>
   <string name="apps_item_summary_sms">%s heeft toegang tot uw berichten, het zou veiligheidsproblemen kunnen veroorzaken</string>
-  <string name="apps_item_summary_system_rooted">Roottoegang is toegestaan. Herstel naar standaardwaarden om veiligheidsrisico\'s te voorkomen!</string>
+  <string name="apps_item_summary_system_rooted">"Roottoegang is toegestaan. Herstel naar standaardwaarden om veiligheidsrisico\'s te voorkomen!"</string>
   <string name="apps_item_summary_system_update">Er zijn bugs opgelost in de nieuwe versie om betalingen veiliger te maken.</string>
   <string name="apps_item_title_system">Systeemupdate</string>
   <string name="apps_item_virus_cleanup_success">Met succes verwijderd</string>
@@ -535,7 +535,6 @@
   <string name="card_main_xspace_summary">Maak dubbele accounts aan voor ondersteunende apps</string>
   <string name="card_main_xspace_title">Apps dupliceren</string>
   <string name="card_tc_failed">Kan niet kalibreren</string>
-  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Laatste keer opgeladen "</string>
   <string name="charging_text_battery_nearly_full">Bijna opgeladen</string>
   <string name="charging_text_battery_perfect">Volledig opgeladen</string>
@@ -633,7 +632,7 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="device_manager_apply_step_1">Apparaatbeheerder voor deze app activeren?</string>
   <string name="device_manager_apply_step_2">"Het activeren van de apparaatbeheerder voor deze app kan leiden tot de blootstelling van uw persoonlijke gegevens.
 Alle gegevens op uw apparaat kunnen worden gewist en uw vergrendelchermwachtwoord kan worden gereset."</string>
-  <string name="device_manager_apply_step_3">Zorg ervoor dat u alle mogelijke risico\'s begrijpt voordat u verdergaat. Apparaatbeheerder voor deze app nu activeren?</string>
+  <string name="device_manager_apply_step_3">"Zorg ervoor dat u alle mogelijke risico\'s begrijpt voordat u verdergaat. Apparaatbeheerder voor deze app nu activeren?"</string>
   <string name="diagnostic_attention_dialog_message">"Diagnose voor %1$s is bezig. Wachten tot het klaar is en probeer opnieuw."</string>
   <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen alleen apps die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
   <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
@@ -843,7 +842,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="first_aid_card_kadun_summary3">Te veel toegankelijkheidsfuncties werken op hetzelfde moment. Dit kan uw apparaat vertragen.</string>
   <string name="first_aid_card_kadun_title">Apparaat vertraagt</string>
   <string name="first_aid_card_system_root_button">Beperken</string>
-  <string name="first_aid_card_system_root_summary">Beperk root toegang om beveiligingsrisico\'s te voorkomen</string>
+  <string name="first_aid_card_system_root_summary">"Beperk root toegang om beveiligingsrisico\'s te voorkomen"</string>
   <string name="first_aid_card_system_root_title">Je hebt root toegang toegestaan</string>
   <string name="first_aid_card_unable_install_button">Maak ruimte vrij</string>
   <string name="first_aid_card_unable_install_summary">Slechts %s opslag is beschikbaar. Maak ruimte vrij om apps te kunnen installeren.</string>
@@ -862,7 +861,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="first_aid_result_feedback_summary">Eerste hulp scan kon geen problemen vinden. Ik heb er echter een aantal opgemerkt.</string>
   <string name="first_aid_result_feedback_title">Feedback</string>
   <string name="first_aid_result_summary_normal">Alles ziet er goed uit!</string>
-  <string name="first_aid_result_summary_not_finished">Scannen is niet voltooid. Sommige risico\'s kunnen onopgemerkt blijven.</string>
+  <string name="first_aid_result_summary_not_finished">"Scannen is niet voltooid. Sommige risico\'s kunnen onopgemerkt blijven."</string>
   <string name="first_aid_scanning_item1">Controleren op prestatieproblemen…</string>
   <string name="first_aid_scanning_item2">Controleren op netwerkproblemen…</string>
   <string name="first_aid_scanning_item3">Controleren op onjuiste instellingen…</string>
@@ -961,7 +960,6 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gb_xunyou_gift_type_three">Xunyou 3-dag boost</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-dag boost</string>
   <string name="gdpr_msg">&lt;Data&gt;"Om de basisfuncties van Beveiliging te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt, inclusief informatie over de manier waarop u de functies van Beveiliging gebruikt (bijv. Statistieken voor mobiel gegevensgebruik, informatie over malware, evenals basisinformatie over uw apparaat) en andere soorten informatie die worden vermeld in onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="ge">个</string>
   <string name="get_sys_info">Info verkrijgen…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Schakel deze functie in als je problemen ervaart met Gmail, Google Maps en andere Google apps. Het zal de accuduur iets verminderen.</string>
@@ -969,7 +967,6 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="go_to">Doorgaan</string>
   <string name="go_to_setting_fingerprint">Instellingen</string>
   <string name="google_base_app_install_choice">De app heeft Google Services Framework nodig om normaal te werken. Downloaden en installeren?</string>
-  <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_anto_clean_memory_whitelist">Uitzonderingen</string>
   <string name="gs_app_back_self_start">Batterijbesparder</string>
   <string name="gs_auto_clean_memory">Cache wissen</string>
@@ -1096,8 +1093,6 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met het mobiel
   <string name="loading">Een momentje…</string>
   <string name="local_ip_exception_summary">Kon openbaar IP-adres niet verkrijgen. Om dit probleem aan MIUI melden, gaat u naar de Feedback app en stuur een log van uw toestel.</string>
   <string name="lock_mode_title">Vergrendelinstellingen</string>
-  <string name="lock_screen_business_hongbao_message">来自%1$s</string>
-  <string name="lock_screen_hongbao_message">来自“%1$s”</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s verbruikt in standby</string>
   <string name="lock_screen_traffic_guide_notification_title">Tik om dataverbruik te beheren.</string>
   <string name="lock_screen_traffic_notify_body">Vergrendeld voor %2$s op %1$s, data verbruikt %3$s</string>
@@ -1251,7 +1246,6 @@ om te reageren"</string>
   <string name="menu_item_virus_cloud_scan_title">Online virusdefinities</string>
   <string name="menu_item_virus_install_monitor_summary">Controleer apps op virussen voor het installeren</string>
   <string name="menu_item_virus_install_monitor_title">Scannen voor installeren</string>
-  <string name="menu_item_virus_lib_auto_update_summary">Laatst geüpdatet: %s</string>
   <string name="menu_remove">Verwijderen</string>
   <string name="menu_report">Report error</string>
   <string name="menu_setting_traffic">Handmatig instellen</string>
@@ -1259,7 +1253,7 @@ om te reageren"</string>
   <string name="menu_summary_antispam">Blokkeer oproepen en berichten</string>
   <string name="menu_summary_antispam_2">Geblokkeerde oproepen en berichten</string>
   <string name="menu_summary_antivirus">Zoek naar virussen op uw apparaat</string>
-  <string name="menu_summary_antivirus_2">Potentiële risico\'s gevonden</string>
+  <string name="menu_summary_antivirus_2">"Potentiële risico\'s gevonden"</string>
   <string name="menu_summary_antivirus_3">Het apparaat is niet gescand</string>
   <string name="menu_summary_app_manager">Update en verwijder apps</string>
   <string name="menu_summary_app_manager_2">Er zijn updates beschikbaar</string>
@@ -1291,13 +1285,11 @@ om te reageren"</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
   <string name="menu_white">Toevoegen aan uitzonderingen</string>
-  <string name="mi_pay_lucky">小米钱包</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
   <string name="midrop_post_notification_contentText">Zet bestanden over met een overdrachtssnelheid tot 50 M/s.</string>
   <string name="midrop_post_notification_contentTitle">Bestanden delen?</string>
-  <string name="miliao_lucky_warning">米聊红包</string>
   <string name="mixed_need_to_confirm">Voer opnieuw in om te bevestigen</string>
   <string name="mixed_password_confirmed_header_confirm">Instellen gelukt. Tik om te bevestigen.</string>
   <string name="mixed_password_confirmed_header_continue">Instellen gelukt. Tik \"volgende\".</string>
@@ -1312,7 +1304,6 @@ om te reageren"</string>
   <string name="monitor_requests_from_pc">Beheer installatie van apps via USB</string>
   <string name="more_game">Meer games</string>
   <string name="more_lock">Meer</string>
-  <string name="more_setting_summary">支持红包提醒种类、桌面悬浮窗、勿扰时段等功能</string>
   <string name="more_settings">Meer</string>
   <string name="name">Naam</string>
   <string name="net_booster">Netwerk versnellen</string>
@@ -1380,8 +1371,6 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="news_change">Wijzigen</string>
   <string name="nickname">Roepnaam</string>
   <string name="no_game">Kon games niet vinden</string>
-  <string name="no_lucky_money">尚未收到红包</string>
-  <string name="not_available">暂无</string>
   <string name="not_limited_brand">Unlimited</string>
   <string name="note">Notitie</string>
   <string name="note_call_none">Geen oproepen</string>
@@ -1408,7 +1397,6 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="notify_weekly_traffic_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_weekly_traffic_title">Deze week %s verbruikt</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s heeft %2$s verbruikt deze week</string>
-  <string name="number_of_lucky_money">已为您提醒红包总数</string>
   <string name="numeric_need_to_confirm">Voer opnieuw in om te bevestigen</string>
   <string name="numeric_password_confirmed_header_confirm">Instellen gelukt. Tik om te bevestigen.</string>
   <string name="numeric_password_confirmed_header_continue">Instellen gelukt. Tik \"volgende\".</string>
@@ -1441,18 +1429,10 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="om_settings_title">Optimalisatie-instellingen</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">De applicatie is niet gevonden</string>
-  <string name="open_alarm_right_now">立刻开启</string>
   <string name="open_app">Openen</string>
   <string name="open_callwait">Aan</string>
-  <string name="open_dnd_mode">勿扰模式</string>
-  <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
-  <string name="open_fast_open_mode">开启速抢模式</string>
-  <string name="open_fast_open_mode_summary">开启速抢模式，当收到红包时，系统将自动打开抢红包页面。</string>
   <string name="open_game">Open</string>
-  <string name="open_lucky">开启小米红包助手</string>
   <string name="open_now">App toestaan om mobiele data te gebruiken</string>
-  <string name="open_right_now">立刻抢红包</string>
-  <string name="open_right_now_short">立刻抢</string>
   <string name="operator_diagnostic">Providerdiagnose</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
@@ -1481,7 +1461,7 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="optimize_result_button_update_now">Updaten</string>
   <string name="optimize_result_summary_sucurity_risk">Sommige veiligheidsfuncties zijn uitgeschakeld. Deze functies inschakelen om uw apparaat meer te beveiligen:</string>
   <string name="optimize_result_summary_system_default_settings">Met behulp van standaard MIUI apps verhoogt het niveau van stabiliteit en veiligheid van het systeem.</string>
-  <string name="optimize_result_title_sucurity_risk">Veiligheidsrisico\'s gevonden</string>
+  <string name="optimize_result_title_sucurity_risk">"Veiligheidsrisico\'s gevonden"</string>
   <string name="optimize_result_title_system_default_settings">Standaard instellingen zijn gewijzigd</string>
   <string name="optimize_result_title_uninstall_apps">Apps</string>
   <string name="optimize_result_toast_system_default_settings">Herstel de standaard instellingen</string>
@@ -1551,7 +1531,6 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="permission_with_SMS_and_MMS">Toestemmingen in verband met SMS en MMS</string>
   <string name="permission_with_call_and_contact">Toestemmingen in verband met gesprekken, contactinfo en gespreksgeschiedenis</string>
   <string name="permit_running_network">Achtergronddata</string>
-  <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
   <string name="person_hotpot">Mobiele hotspots</string>
   <string name="phone">Telefoon</string>
   <string name="pkg_traffic">Datalimiet instellen</string>
@@ -1561,8 +1540,8 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="pm_auto_start_by_system_event">Laat de app toe om automatisch te starten</string>
   <string name="pm_auto_start_proc_is_running">Actief</string>
   <string name="pm_remember_choice">Mijn keuze herinneren</string>
-  <string name="pm_root_success_notification_infomation">Maak u bewust van de risico\'s van roottoegang</string>
-  <string name="pm_root_success_notification_title">Maak u bewust van de risico\'s van roottoegang</string>
+  <string name="pm_root_success_notification_infomation">"Maak u bewust van de risico\'s van roottoegang"</string>
+  <string name="pm_root_success_notification_title">"Maak u bewust van de risico\'s van roottoegang"</string>
   <string name="power_20s_shutdown">Apparaat zal over %d seconden worden uitgeschakeld</string>
   <string name="power_analysis_consume_title">Batterijverbruik</string>
   <string name="power_analysis_suggestion_need_optimize">Problemen met het batterijverbruik gedetecteerd.</string>
@@ -1634,7 +1613,7 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="power_save_mode_end_time">Eind</string>
   <string name="power_save_mode_ontime_enabled">Tijden instellen om tussen modi te schakelen</string>
   <string name="power_save_mode_start_time">Starten</string>
-  <string name="power_save_mode_summary" formatted="false">"Achtergrondprocessen controleren en synchronisatie uitschakelen. Batterijbespaarder zal automatisch uitschakelen wanneer batterij 60% of 100% is opgeladen."</string>
+  <string name="power_save_mode_summary">"Achtergrondprocessen controleren en synchronisatie uitschakelen. Batterijbespaarder zal automatisch uitschakelen wanneer batterij 60% of 100% is opgeladen."</string>
   <string name="power_save_on_time_end_time_summary_na">Tot</string>
   <string name="power_save_on_time_start_time_summary_na">Van</string>
   <string name="power_save_started_summary_text">Batterijbesparing is ingeschakeld. Het vermindert de achtergrondactiviteit van apps, stopt de synchronisatie en minimaliseert systeemanimaties.</string>
@@ -1751,7 +1730,6 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="prompt_input_time_illegal">Kan deze tijd niet instellen, verander het en probeer opnieuw</string>
   <string name="protocol_exception_title">Netwerkprotocol diagnose</string>
   <string name="protocol_loop_back_exception_summary">Openbaar net loop test is mislukt. Om dit probleem aan MIUI te melden, gaat u naar de Feedback app en stuur een log van uw apparaat.</string>
-  <string name="qq_lucky_warning">QQ红包</string>
   <string name="quick_optimize_checking">Scannen</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Kon batterijleven niet verlengen</string>
   <string name="quick_optimize_no_fix_issue_title">Kon batterijproblemen niet oplossen</string>
@@ -1762,7 +1740,6 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">De telefoon laat de batterij leeglopen, herstel het</string>
   <string name="quick_optimize_suggest_battery_over_heat">De telefoon is aan het oververhitten, herstel het</string>
   <string name="quite_all_string">Annuleren</string>
-  <string name="random_expression">速抢模式</string>
   <string name="reach_daily_limit_value_body">Verminder het mobiele dataverbruik.</string>
   <string name="reach_daily_limit_value_title">Dagelijks datalimiet bereikt</string>
   <string name="read_all_sms">Alles lezen</string>
@@ -1809,12 +1786,12 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="resource_usb_install">Installeren via USB</string>
   <string name="result_autoscan_header">Betalingen controleren</string>
   <string name="result_autoscan_info">Automatisch systeemomgeving controleren wanneer betalingsapps worden gestart</string>
-  <string name="result_sms_header">Berichtenrisico\'s gedetecteerd</string>
+  <string name="result_sms_header">"Berichtenrisico\'s gedetecteerd"</string>
   <string name="result_sms_info_antispam">Schakel zwarte lijst in om het apparaat te beschermen tegen kwaadaardige URLs</string>
   <string name="result_sms_info_auth">Beperk toegang van derde-partij apps tot verificatiecodes.</string>
   <string name="result_sms_title_antispam">Bedreigd door kwaadaardige SMS URLs</string>
   <string name="result_sms_title_auth">Financiele SMS lekrisico bestaat</string>
-  <string name="result_wifi_header">Wi-Fi risico\'s gedetecteerd</string>
+  <string name="result_wifi_header">"Wi-Fi risico\'s gedetecteerd"</string>
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Mobiele dataroaming toestaan?</string>
   <string name="roaming_limit_dialog_message">Dagelijks roaming datalimiet bereikt.</string>
@@ -1913,7 +1890,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="sms_detail_fragment_title_traffic">Resterende data</string>
   <string name="sms_filter">Slimme filter</string>
   <string name="sms_keywords">Trefwoord zwarte lijst</string>
-  <string name="sms_malicious_url">Blokkeer SMS met kwaadaardige URL\'s</string>
+  <string name="sms_malicious_url">"Blokkeer SMS met kwaadaardige URL\'s"</string>
   <string name="sms_prefix">Voorvoegsel zwarte lijst</string>
   <string name="sms_service">Blokkeer SMS van diensten</string>
   <string name="sms_smart_engine_update">SMS filter automatisch updaten</string>
@@ -2134,7 +2111,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="tab_blacklist">Zwarte lijst</string>
   <string name="tab_block_log_unKnowNumber">Privenummer</string>
   <string name="tab_call">Oproepen</string>
-  <string name="tab_gift">Cadeau\'s</string>
+  <string name="tab_gift">"Cadeau\'s"</string>
   <string name="tab_guide">Gids</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Zwarte lijst</string>
@@ -2250,7 +2227,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_cloud_space_almost_full">Cloudopslag is vol</string>
-  <string name="title_cloud_space_full">Cloudopslag vol, kan foto\'s niet sync.</string>
+  <string name="title_cloud_space_full">"Cloudopslag vol, kan foto\'s niet sync."</string>
   <string name="title_cmcc_app_check">Verificatie is niet voltooid</string>
   <string name="title_consume_power_rank">Batterijgebruik</string>
   <string name="title_data_flow">Mobiele data controleren</string>
@@ -2284,7 +2261,7 @@ Deze functie wordt niet ondersteund voor systeem apps."</string>
   <string name="title_of_app_manage">Apps</string>
   <string name="title_of_auto_launch_manage">Automatisch starten</string>
   <string name="title_payment_protection">Betalingen zijn beveiligd</string>
-  <string name="title_payment_risk">Betalingsrisico\'s gevonden</string>
+  <string name="title_payment_risk">"Betalingsrisico\'s gevonden"</string>
   <string name="title_permission_no">Toestemmingsbeheer uit</string>
   <string name="title_permission_root">Roottoegang</string>
   <string name="title_permission_yes">Toestemmingsbeheer aan</string>

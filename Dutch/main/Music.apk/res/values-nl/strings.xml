@@ -464,7 +464,7 @@
   <string name="music_service">Muziekservice</string>
   <string name="music_settings">Muziek</string>
   <string name="mv_metered_play_summary">Deze gegevensgebruikswaarschuwing niet meer weergeven</string>
-  <string name="mv_metered_play_title">Speel online video\'s met behulp van mobiele data</string>
+  <string name="mv_metered_play_title">"Speel online video\'s met behulp van mobiele data"</string>
   <string name="my_account">Mi account</string>
   <string name="my_music_empty">Afspeellijst is leeg.</string>
   <string name="my_music_empty_goto_online">Geen nummers gevonden</string>
@@ -654,7 +654,7 @@ Wees blij"</string>
   <string name="similar_albums">Vergelijkbare albums</string>
   <string name="similar_playlists">Vergelijkbare afspeellijsten</string>
   <string name="similar_songs">Vergelijkbare nummers</string>
-  <string name="similar_videos">Vergelijkbare video\'s</string>
+  <string name="similar_videos">"Vergelijkbare video\'s"</string>
   <string name="sleep_mode">Slaaptimer</string>
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
   <string name="sleep_mode_summary">Speler stoppen na een bepaalde tijd</string>
@@ -697,7 +697,7 @@ Wees blij"</string>
   <string name="talkback_mode_repeat_all">Lijst herhalen</string>
   <string name="talkback_mode_repeat_current">Eenmalig herhalen</string>
   <string name="talkback_mode_repeat_shuffle">Willekeurig afspelen</string>
-  <string name="talkback_more">Meer menu\'s</string>
+  <string name="talkback_more">"Meer menu\'s"</string>
   <string name="talkback_next">Volgende nummer</string>
   <string name="talkback_nowplaying_bar">Playbalk</string>
   <string name="talkback_nowplaying_circle">Playcirkel</string>

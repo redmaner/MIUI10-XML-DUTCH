@@ -70,7 +70,6 @@
   <string name="open_changed_file_title">Wijziging toegepast.</string>
   <string name="operating">Bezig…</string>
   <string name="operation_cancel">Annuleren</string>
-  <string name="operation_copy">Kopiëren</string>
   <string name="operation_copying">Bezig met kopiëren…</string>
   <string name="operation_copying_detail">Kopiëren (%1$d/%2$d)</string>
   <string name="operation_create_folder">Nieuwe map aanmaken</string>

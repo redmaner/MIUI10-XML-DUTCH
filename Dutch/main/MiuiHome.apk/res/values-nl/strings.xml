@@ -164,7 +164,7 @@
   <string name="gadget_photo_label">Afbeelding</string>
   <string name="gadget_power_clear_button_label">Diepe schoonmaak</string>
   <string name="gadget_search_label">Zoeken</string>
-  <string name="gadget_weather_app_not_installed">Tik om MIUI\'s weerapp te downloaden</string>
+  <string name="gadget_weather_app_not_installed">"Tik om MIUI\'s weerapp te downloaden"</string>
   <string name="gadget_weather_aqi_title">Luchtkwaliteit: </string>
   <string name="gadget_weather_download_message">Je moet de appinhoud downloaden: %1$s (%2$s). App opstarten nadat het downloaden is voltooid.</string>
   <string name="gadget_weather_download_start">Downloaden</string>
@@ -226,7 +226,7 @@
   <string name="menu_trans_effect">Overgangseffecten</string>
   <string name="menu_wallpaper">Achtergrond</string>
   <string name="menu_workspace_preview">Voorbeelden startscherm</string>
-  <string name="mi_wallpaper">MIUI Thema\'s</string>
+  <string name="mi_wallpaper">"MIUI Thema\'s"</string>
   <string name="miui_screen_config_title">Startscherm instellingen</string>
   <string name="mtzgadget_missing_text">Widget is niet beschikbaar</string>
   <string name="multi_selecting_tips">Om een app te verplaatsen tikt u op het icoon.</string>

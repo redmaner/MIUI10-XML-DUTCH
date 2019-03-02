@@ -64,7 +64,7 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="activate_popup_desc_sim_card">Er zal een nationale SMS verzonden worden om %s te activeren. Deze zal worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_sim_card_downlink">Voer uw huidige telefoonnr. in om %s te activeren.</string>
   <string name="activate_popup_desc_voip_privacy">Privacybeleid</string>
-  <string name="activate_popup_desc_voip_privacy_prefix">VOIP is ondersteunt door weihui, bekijk weihui\'s Privacybeleid</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">"VOIP is ondersteunt door weihui, bekijk weihui\'s Privacybeleid"</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Kan nummer niet vinden</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Kan bericht niet verzenden</string>
   <string name="activate_popup_title_error_device_id">Ongeldige IMEI</string>
@@ -118,7 +118,6 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="phone_get_processing">Bezig…</string>
   <string name="phone_get_text">%1$s toestaan om uw telefoonnummer te krijgen (%2$s)?</string>
   <string name="phone_get_title">%1$s toestaan om uw telefoonnummer te krijgen</string>
-  <string name="phone_verify_processing">Verifiëren…</string>
   <string name="phone_verify_text">%1$s zal uw telefoonnummer niet krijgen. Het zal alleen controleren of het nummer geldig is. Akkoord?.</string>
   <string name="phone_verify_title">%1$s toestaan om uw telefoonnummer te verifiëren</string>
   <string name="privacy_revoke_failed_msg">Activering vereist het verlenen van autorisatie, zodat Messaging uw telefoonnummer kan verkrijgen.</string>

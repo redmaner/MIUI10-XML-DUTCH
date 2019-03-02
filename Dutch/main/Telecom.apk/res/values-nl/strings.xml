@@ -6,7 +6,6 @@
   <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
   <string name="accessibility_speakerphone_enabled">Luidspreker ingeschakeld.</string>
   <string name="accessibility_wifi_off">Wi-Fi uitgeschakeld.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi één balkje.</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi volledig signaal.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi drie balkjes.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi twee balkjes.</string>
@@ -428,12 +427,8 @@ Sample Rate"</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi verbindingsfout</string>
   <string name="wifi_display_certification">Draadloze display certificering</string>
   <string name="wifi_display_certification_summary">Opties voor draadloze weergavecertificering weergeven</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certificaat</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Geen internettoegang</string>
   <string name="wifi_no_internet_no_reconnect">Zal niet automatisch verbinden</string>

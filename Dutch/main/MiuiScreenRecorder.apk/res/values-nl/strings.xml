@@ -4,7 +4,7 @@
   <string name="app_notification_info">Schermrecorder is actief op de achtergrond</string>
   <string name="app_notification_title">Schermrecorder</string>
   <string name="auto_stop_title">Video opgeslagen</string>
-  <string name="battery_not_allowed" formatted="false">Kan niet opnemen wanneer batterij lager is dan 3%. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>
+  <string name="battery_not_allowed">Kan niet opnemen wanneer batterij lager is dan 3%. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>
   <string name="bit_rate">Videokwaliteit</string>
   <string name="bit_rate_summary">Hogere kwaliteit betekent een groter bestand</string>
   <string name="bubble_text">Tik om te beginnen met opnemen</string>
@@ -26,7 +26,7 @@
   <string name="first_using_mic_dialog_message">De schermrecorder heeft toegang tot uw microfoon nodig om audio op te nemen. Toestaan?</string>
   <string name="first_using_mic_dialog_title">Toestemmingen vereist</string>
   <string name="fixed_frame_rate">Vaste frame rate</string>
-  <string name="fixed_frame_rate_summary">Het opnemen van video\'s met een vaste frame rate verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij.</string>
+  <string name="fixed_frame_rate_summary">"Het opnemen van video\'s met een vaste frame rate verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij."</string>
   <string name="frames">Frame rate</string>
   <string name="frames_summary">Hogere frame rate voorkomt motion blur</string>
   <string name="frequently_click_toast">Een momentje…</string>
@@ -50,7 +50,7 @@
   <string name="low_momery_warning">Niet genoeg opslagruimte. Opname is gestopt en video is opgeslagen.</string>
   <string name="memory_not_allowed">Niet genoeg ruimte. Maak ruimte vrij om op te nemen.</string>
   <string name="mic_sound">Microfoon</string>
-  <string name="no_recorder_info">Geen video\'s</string>
+  <string name="no_recorder_info">"Geen video\'s"</string>
   <string name="no_recorder_info2">Tik op de knop om te beginnen met opnemen​</string>
   <string name="no_sound">Dempen</string>
   <string name="operation_delete">Verwijderen</string>
@@ -62,9 +62,9 @@
   <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen omdat het bestand de maximumgrootte heeft bereikt. Als je nog niet klaar was kan je een nieuwe opname starten.</string>
   <string name="recording_without_mic">Microfoon is bezet en kan nu geen geluid op te nemen</string>
   <string name="resolution">Resolutie</string>
-  <string name="resolution_summary">Video\'s met hogere resolutie zien er scherper uit</string>
+  <string name="resolution_summary">"Video\'s met hogere resolutie zien er scherper uit"</string>
   <string name="screen_orientation">Oriëntatie</string>
-  <string name="screen_orientation_summary">Oriëntatie van opgenomen video\'s</string>
+  <string name="screen_orientation_summary">"Oriëntatie van opgenomen video\'s"</string>
   <string name="screen_record_option">Opties voor opnemen</string>
   <string name="screen_record_params">Parameters voor opnemen</string>
   <string name="select_all">Alles selecteren</string>

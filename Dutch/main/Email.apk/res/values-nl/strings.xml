@@ -50,7 +50,7 @@ Nu bijwerken?"</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
   <string name="account_settings_preference_add_account">E-mail account toevoegen</string>
   <string name="account_settings_preference_att_save_path">Standaardlocatie voor bijlagen</string>
-  <string name="account_settings_preference_head_icon">Profiel foto\'s</string>
+  <string name="account_settings_preference_head_icon">"Profiel foto\'s"</string>
   <string name="account_settings_preference_notify">Melding</string>
   <string name="account_settings_retry_label">Poging tot synchroniseren</string>
   <string name="account_settings_retry_summary">Raak aan om account te synchroniseren</string>
@@ -313,7 +313,6 @@ Nu bijwerken?"</string>
   <string name="contextmenu_add">Toevoegen aan contacten</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
   <string name="contextmenu_call">Bellen</string>
-  <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL kopiëren</string>
   <string name="contextmenu_create">Nieuw contact aanmaken</string>
   <string name="contextmenu_dial_dot">Bellen…</string>
@@ -398,7 +397,6 @@ Nu bijwerken?"</string>
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
   <string name="download_message_failed_for_too_large">Bericht is te groot om te downloaden.</string>
-  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bankafschriften</string>
   <string name="drawer_classification">Categorieën</string>
   <string name="drawer_close">Navigatie lader sluiten</string>
@@ -523,7 +521,6 @@ Nu bijwerken?"</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
   <string name="help_me_get_qq_auth">Help me om de QQ autorisatiecode te verkrijgen</string>
-  <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_password">Wachtwoord verbergen</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
   <string name="imap_name">IMAP</string>
@@ -540,7 +537,6 @@ Nu bijwerken?"</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
   <string name="invalid_recipient">Het adres %s is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers fout</string>
-  <string name="kilobytes">%s KB</string>
   <string name="list_empty_to_fresh">Geen e-mail, naar beneden trekken om te vernieuwen.</string>
   <string name="load_from_remote">Mailbox zoeken op server</string>
   <string name="load_more">Meer laden</string>
@@ -622,7 +618,6 @@ Nu bijwerken?"</string>
   <string name="meeting_where">"
         Waar:
 %s "</string>
-  <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Bijlagen</string>
   <string name="menu_att_mgr_order_default">Recent bekeken</string>
   <string name="menu_att_mgr_order_mime">Sorteer op indeling</string>
@@ -692,7 +687,7 @@ Schakel over naar een ander e-mailaccount."</string>
 Probeer een andere inbox."</string>
   <string name="not_subject">(Geen onderwerp)</string>
   <string name="not_synced_title">Account niet gesynchroniseerd</string>
-  <string name="note_text">Via het netwerk van China Mobile of SMS verificatie, kunnen extra kosten opleveren om te sturen of SMS\'en.</string>
+  <string name="note_text">"Via het netwerk van China Mobile of SMS verificatie, kunnen extra kosten opleveren om te sturen of SMS\'en."</string>
   <string name="note_title">139 Email Automatishe Configuratie</string>
   <string name="notification_action_archive">Archiveren</string>
   <string name="notification_action_delete">Verwijderen</string>
@@ -718,7 +713,6 @@ Probeer een andere inbox."</string>
   <string name="one_day">1 dag</string>
   <string name="one_month">1 maand</string>
   <string name="one_week">1 week</string>
-  <string name="open_androidp_warning">Open 9.0 Niet officiële SDK waarschuwing</string>
   <string name="open_calendar_and_contacts_permission">Sta toe dat Mail de contacten en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_calendar_permission">Sta toe dat Mail de opslag en kalendergegevens kan lezen in instellingen</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Sta toe dat Mail de contacten, opslag en kalendergegevens kan lezen in instellingen</string>
@@ -868,7 +862,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="qq_login_webview">Aanmelden op web QQ Mail. Voer uw wachtwoord in.</string>
   <string name="qq_next_generation_auth_toast">Schakel wachtwoordbeveiliging in uw browser in</string>
   <string name="qq_pwd_or_qq_auth_code">QQ autorisatiecode of mailboxwachtwoord</string>
-  <string name="qq_uthentication_failed">Kon account niet verifiëren, meld u opnieuw aan</string>
   <string name="qq_verify_code">(Heeft de QQ verifieer code nodig)</string>
   <string name="qq_webview_loading">Een momentje…</string>
   <string name="questionnair_body_invisibility">Berichten worden niet weergegeven</string>
@@ -893,7 +886,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">--------  Origineel  --------</string>
   <string name="quote_divider_11">----- Origineel -----</string>
-  <string name="quote_divider_12"> Origineel </string>
   <string name="quote_divider_2">--- Origineel ---</string>
   <string name="quote_divider_3">--------  Origineel  --------</string>
   <string name="quote_divider_4">----- Origineel -----</string>
@@ -912,7 +904,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="re_download_message_button">Tik om opnieuw te downloaden</string>
   <string name="re_download_message_info">Kon e-mail niet downloaden</string>
   <string name="read_string">Conversatie gelezen</string>
-  <string name="recipient_needed">"Voeg ten minste één ontvanger toe."</string>
   <string name="recipient_needed_title">Waarschuwing</string>
   <string name="recognize_hotel_check_in_date">In-check tijd</string>
   <string name="recognize_hotel_hotel_money">Prijs %1$s</string>
@@ -999,7 +990,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="send_feed_back_keywords">feedback verzenden</string>
   <string name="send_mail">Verzenden</string>
   <string name="sender_whitelist_cleared">Afbeeldingen worden niet automatisch weergegeven.</string>
-  <string name="senders_split_token">, </string>
   <string name="sending">Verzenden…</string>
   <string name="sending_message">Bericht wordt verzonden…</string>
   <string name="sending_quick_reply">\"%s\" verzenden</string>
@@ -1023,7 +1013,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="share_choose">Kies bestand om te delen</string>
   <string name="sharing">Delen</string>
   <string name="shortcut_name_title">Snelkoppeling naar map een naam geven</string>
-  <string name="show_elided">▶ Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="show_images">Afbeeldingen weergeven</string>
   <string name="show_more_attachment">Meer bijlagen</string>
   <string name="show_password">Wachtwoord tonen</string>
@@ -1084,7 +1073,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="too_large_to_attach_additional">Bestand niet bijgevoegd. Limiet van %1$s bereikt.</string>
   <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>
   <string name="too_large_to_attach_single">Kan bestand groter dan %1$s niet bijvoegen.</string>
-  <string name="topic_merge">Thema\'s samenvoegen</string>
+  <string name="topic_merge">"Thema\'s samenvoegen"</string>
   <string name="topic_merge_summary">Groeperen op onderwerp</string>
   <string name="translation_loading">Een momentje…</string>
   <string name="translation_no_result">Geen resultaten</string>

@@ -9,7 +9,7 @@
   <string name="ringtone_default">Standaard beltoon</string>
   <string name="root_audio">Audio</string>
   <string name="root_images">Afbeeldingen</string>
-  <string name="root_videos">Video\'s</string>
+  <string name="root_videos">"Video\'s"</string>
   <string name="sound_name_awaken">Awaken</string>
   <string name="sound_name_bounce">Bounce</string>
   <string name="sound_name_drip">Drip</string>

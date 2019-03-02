@@ -5,7 +5,6 @@
   <string name="app_name_danfa">Mi Rekenmachine</string>
   <string name="base_rate">Basisrente</string>
   <string name="cal_convert_to_word_figure">Converteren naar financiële karakters</string>
-  <string name="cal_copy">Kopiëren</string>
   <string name="cal_edit_mode">Bewerken</string>
   <string name="cal_paste">Plakken</string>
   <string name="cal_result_format">= %s</string>
@@ -19,7 +18,6 @@
   <string name="clearDesc">wissen</string>
   <string name="clear_history">Geschiedenis wissen</string>
   <string name="combine_loan">Gecombineerde lening</string>
-  <string name="commercial_loan">Commerciële lening</string>
   <string name="convert_currency">Valuta omrekenen</string>
   <string name="convertion_unit">Eenheid omrekenen</string>
   <string name="convertion_unit_area">Gebied omrekenen</string>
@@ -136,7 +134,6 @@
   <string name="mortgage_hint_loan">Uw bedrag invoeren</string>
   <string name="mortgage_input_error">Voer waarde in</string>
   <string name="mortgage_interest_amount">Hoeveelheid rente</string>
-  <string name="mortgage_interest_rate">Commerciële rente</string>
   <string name="mortgage_item_repayment">Methode terugbetaling</string>
   <string name="mortgage_item_start_time">Begindatum</string>
   <string name="mortgage_item_years">Hypotheekperiode</string>
@@ -163,7 +160,6 @@
   <string name="preference_about_calculator">Over rekenmachine</string>
   <string name="preference_alert_follow_qq_group">Kopiëren en plakken in QQ om feedback te geven</string>
   <string name="preference_alert_follow_wechat">Kopiëren en plakken in WeChat om te volgen</string>
-  <string name="preference_alert_follow_wechat_button">Kopiëren</string>
   <string name="preference_check_update_summary_current_version">Huidige versie: %s</string>
   <string name="preference_check_update_summary_new_version">Update beschikbaar: %s</string>
   <string name="preference_check_update_title">Controleren op updates</string>

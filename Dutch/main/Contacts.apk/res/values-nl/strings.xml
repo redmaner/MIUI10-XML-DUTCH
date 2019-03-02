@@ -70,7 +70,6 @@
   <string name="call_company_main">Hoofdnummer bedrijf bellen</string>
   <string name="call_custom">%s bellen</string>
   <string name="call_disambig_title">Nummer kiezen</string>
-  <string name="call_fax_home">Fax privé bellen</string>
   <string name="call_fax_work">Fax werk bellen</string>
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
@@ -81,7 +80,6 @@
   <string name="call_main">Bel main</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
-  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
@@ -268,7 +266,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contacts_unavailable_import_from_old_device">Importeren van ouder apparaat</string>
   <string name="contacts_unavailable_import_sim_contacts">SIM contacten importeren</string>
   <string name="convenient_service">Services</string>
-  <string name="copy_number">Kopiëren</string>
   <string name="copy_text">Kopiëren naar klembord</string>
   <string name="createContactShortcutSuccessful">Widget voor contacten toegevoegd aan het startscherm.</string>
   <string name="create_group_dialog_title">Nieuwe groep maken</string>
@@ -323,7 +320,6 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_image_button_five">vijf</string>
   <string name="description_image_button_four">vier</string>
   <string name="description_image_button_nine">negen</string>
-  <string name="description_image_button_one">één</string>
   <string name="description_image_button_plus">Plus</string>
   <string name="description_image_button_pound">Pond</string>
   <string name="description_image_button_seven">zeven</string>
@@ -393,7 +389,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialer_empty_text_no_call_log">Geen recente contacten</string>
   <string name="dialer_empty_text_no_search_result">Geen contacten gevonden</string>
   <string name="dialer_firewall_entry_name">Geblokkeerde oproepen</string>
-  <string name="dialer_menu_description">Menu\'s weergeven</string>
+  <string name="dialer_menu_description">"Menu\'s weergeven"</string>
   <string name="dialer_menu_title">Opties</string>
   <string name="dialer_returnToInCallScreen">Terugkeren naar huidig gesprek</string>
   <string name="dialer_useDtmfDialpad">Gebruik toetsenblok</string>
@@ -494,7 +490,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="group_create_fail_toast">Kan geen groep maken</string>
   <string name="group_create_success_toast">Groep gemaakt</string>
   <string name="group_delete_success_toast">Groep verwijderd</string>
-  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Groepsnaam</string>
   <string name="group_member_remove_fail_toast">Niet verwijderd uit groep</string>
   <string name="group_member_remove_success_toast">Verwijderd uit groep</string>
@@ -608,7 +603,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="menu_call_ip_number">IP Gesprek(bel %s)</string>
   <string name="menu_clear_frequents">Regelmatige contacten verwijderen</string>
   <string name="menu_contacts_filter">Zichtbare contacten</string>
-  <string name="menu_copy">Kopiëren</string>
   <string name="menu_copyContact">Kopiëren naar mijn contacten</string>
   <string name="menu_create_contact_shortcut">Op startscherm plaatsen</string>
   <string name="menu_deleteContact">Verwijderen</string>
@@ -787,7 +781,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="path_import_from_other_phone">Systeemapps/Contacten/Importeren/Contacten exporteren/Importeren van andere telefoon</string>
   <string name="path_import_from_sdcard">Systeemapps/Contacten/Importeren/Contacten exporteren/Importeren van opslag</string>
   <string name="path_import_from_sim">Systeemapps/Contacten/Importeren/Contacten exporteren/Importeren van SIM kaart</string>
-  <string name="path_key_photo_word">Systeemapps/Contacten/Contactfoto\'s toekennen</string>
+  <string name="path_key_photo_word">"Systeemapps/Contacten/Contactfoto\'s toekennen"</string>
   <string name="path_key_rebuild_t9_index_title">Systeemapps/Contacten/Contacten schikken/Indexdata opnieuw opbouwen</string>
   <string name="path_key_sim_manage">Systeemapps/Contacten/Contacten schikken/SIM kaarten</string>
   <string name="path_preference_contacts_filter">Systeemapps/Contacten/Voorkeursweergave/Contactlijsten configureren</string>
@@ -795,7 +789,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="path_remove_duplicate">Systeemapps/Contacten/Contacten organiseren/Dubbele contacten samenvoegen</string>
   <string name="path_share_visible_contacts">Systeemapps/Contacten/Importeren/Contacten exporteren/Contacten delen</string>
   <string name="path_sim_capacity">Systeemapps/Contacten/SIM kaart opslag</string>
-  <string name="path_simple_mode">Systeemapps/Contacten/Foto\'s en info weergeven</string>
+  <string name="path_simple_mode">"Systeemapps/Contacten/Foto\'s en info weergeven"</string>
   <string name="path_smart_group_title">Systeemapps/Contacten/Voorkeursweergave/Slimme groepen</string>
   <string name="path_wipe_data">Systeemapps/Contacten/Contacten schikken/Data wissen</string>
   <string name="payphone">Betaaltelefoon</string>
@@ -803,7 +797,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_number_too_long_toast">Nummer is te lang</string>
   <string name="phone_primary">Primaire</string>
-  <string name="photoPickerNotFoundText">Er zijn geen foto\'s beschikbaar op het apparaat.</string>
+  <string name="photoPickerNotFoundText">"Er zijn geen foto\'s beschikbaar op het apparaat."</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_load_failed">Kon foto niet laden</string>
   <string name="pick_new_photo">Kies een foto uit %s</string>
@@ -833,7 +827,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="postal_street">Straat</string>
   <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Automatisch een foto toewijzen aan contacten</string>
-  <string name="pref_key_photo_word_title">Foto\'s toewijzen aan contacten</string>
+  <string name="pref_key_photo_word_title">"Foto\'s toewijzen aan contacten"</string>
   <string name="pref_key_rebuild_t9_index_message">Index herbouwen om zoekresultaten te optimaliseren</string>
   <string name="pref_key_rebuild_t9_index_title">Indexdata herbouwen</string>
   <string name="pref_key_sdn_manage">Bekijk SDN</string>
@@ -893,7 +887,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="preview_contact_card_title">Bezig met importeren van contacten</string>
   <string name="preview_incall_show_entry">Videovoorbeeld</string>
   <string name="previous">Vorige</string>
-  <string name="private_num">Privénummer</string>
   <string name="profileSavedErrorToast">Kon wijzigingen niet opslaan</string>
   <string name="profileSavedToast">Profiel opgeslagen</string>
   <string name="profile_binded_numbers">%s</string>
@@ -967,7 +960,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="search_contacts_display">Contacten;Weergave</string>
   <string name="search_contacts_more">Organiseren;Contacten</string>
   <string name="search_contacts_recovery">Contacten</string>
-  <string name="search_contacts_setting">Contactinstellingen; Foto\'s en info weergeven; Contactfoto\'s toewijzen; Importeren en exporteren; Delen; Importeren uit opslag; Importeren van SIM kaart; Importeren van andere telefoon; Exporteren naar opslag; Exporteren naar SIM kaart; Contacten delen; Voorkeuren weergeven; onvolledige nummers verbergen; SIM contacten weergeven; Contactlijsten configureren; Slimme groepen; Contacten organiseren; Dubbele contactpersonen samenvoegen; batch verwijderen; gegevens wissen; indexgegevens opnieuw opbouwen; t9; simkaarten; opslag van simkaarten; implementatie van contactherstel; neem contact op met foto\'s</string>
+  <string name="search_contacts_setting">"Contactinstellingen; Foto\'s en info weergeven; Contactfoto\'s toewijzen; Importeren en exporteren; Delen; Importeren uit opslag; Importeren van SIM kaart; Importeren van andere telefoon; Exporteren naar opslag; Exporteren naar SIM kaart; Contacten delen; Voorkeuren weergeven; onvolledige nummers verbergen; SIM contacten weergeven; Contactlijsten configureren; Slimme groepen; Contacten organiseren; Dubbele contactpersonen samenvoegen; batch verwijderen; gegevens wissen; indexgegevens opnieuw opbouwen; t9; simkaarten; opslag van simkaarten; implementatie van contactherstel; neem contact op met foto\'s"</string>
   <string name="search_display_only_phones">Contacten;Weergave</string>
   <string name="search_display_sim_contacts">Contacten;Weergave</string>
   <string name="search_export_to_sdcard">Contacten;Exporteren;SD kaart</string>
@@ -977,7 +970,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="search_import_from_sdcard">Contacten;Importeren;SD kaart</string>
   <string name="search_import_from_sim">Contacten;Importeren;SIM kaart</string>
   <string name="search_input_hint">Je kan telefoonnummers of services zoeken</string>
-  <string name="search_key_photo_word">Toewijzen;contacten;foto\'s;Contacten</string>
+  <string name="search_key_photo_word">"Toewijzen;contacten;foto\'s;Contacten"</string>
   <string name="search_key_rebuild_t9_index_title">Organiseren;Contacten;t9</string>
   <string name="search_key_sim_manage">Organiseren;Contacten</string>
   <string name="search_preference_contacts_filter">Contacten;Weergave</string>
@@ -987,7 +980,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="search_settings_description">Namen van uw contacten</string>
   <string name="search_share_visible_contacts">Contacten;Delen;Zichtbaar</string>
   <string name="search_sim_capacity">Contacten</string>
-  <string name="search_simple_mode">Weergave;info;foto\'s;Contacten</string>
+  <string name="search_simple_mode">"Weergave;info;foto\'s;Contacten"</string>
   <string name="search_smart_group_title">Contacten;Weergave</string>
   <string name="search_wipe_data">Organiseren;Contacten</string>
   <string name="searching_vcard_message">Zoeken naar vCardgegevens op apparaat…</string>
@@ -1090,7 +1083,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="status_away">Niet beschikbaar</string>
   <string name="status_busy">Bezet</string>
   <string name="strequentList">Favorieten</string>
-  <string name="success_message_import_from_account">Contact geïmporteerd</string>
   <string name="summary_kind_title">Samenvatting</string>
   <string name="t9_search_empty_create_contact">Nieuw contact</string>
   <string name="t9_search_empty_edit_contact">Toevoegen aan contacten</string>
@@ -1109,7 +1101,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="toast_call_no_SoundRecorder">Recorder app is niet beschikbaar</string>
   <string name="toast_call_no_notes">Notes app is niet beschikbaar</string>
   <string name="toast_copy_done">Gereed</string>
-  <string name="toast_copying">Kopiëren…</string>
   <string name="toast_displaying_all_contacts">Alle contacten worden weergegeven</string>
   <string name="toast_finish_delete_call_log">Met succes gewist</string>
   <string name="toast_finish_delete_selected_call_log">Met succes gewist</string>
@@ -1134,7 +1125,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="unknown_contact_name">Onbekend contact</string>
   <string name="unknown_details_add_to_contact">Bestaand</string>
   <string name="unknown_details_new_contact">Nieuw</string>
-  <string name="update_sim_contact_photo_toast">Kan geen profielfoto\'s instellen voor SIM contacten</string>
+  <string name="update_sim_contact_photo_toast">"Kan geen profielfoto\'s instellen voor SIM contacten"</string>
   <string name="upgrade_in_progress">Lijst met contactpersonen wordt bijgewerkt.</string>
   <string name="upgrade_out_of_memory">"Contacten worden bijgewerkt. Voor het upgradeproces is ongeveer %s MB interne opslagruimte vereist. Kies een van de volgende opties:"</string>
   <string name="upgrade_out_of_memory_retry">Upgrade opnieuw proberen</string>

@@ -215,8 +215,6 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="retry">Opieuw proberen</string>
   <string name="search_weather">Weer</string>
   <string name="search_weather_keywords">Temperatuur;Weersverwachting;Weer;Luchtkwalitiet;Vervuiling;Vochtigheid</string>
-  <string name="set_degree_centigrade">°C</string>
-  <string name="set_fahrenheit">°F</string>
   <string name="settings">Instellingen</string>
   <string name="share">Delen</string>
   <string name="share_button">Delen</string>
@@ -238,7 +236,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="unit_temperature">Eenheid voor temperatuur</string>
   <string name="unit_wind">Eenheid voor windkracht</string>
   <string name="update_night_setting_summary_text">Weergegevens bijwerken tussen 23:00 en 07:00</string>
-  <string name="update_night_setting_title_text">\'s Nachts automatisch bijwerken</string>
+  <string name="update_night_setting_title_text">"\'s Nachts automatisch bijwerken"</string>
   <string name="update_notification_info">Updating data in the background…</string>
   <string name="update_setting_title_text">Weergegevens updaten</string>
   <string name="updated_a_moment_ago">Zojuist bijgewerkt</string>

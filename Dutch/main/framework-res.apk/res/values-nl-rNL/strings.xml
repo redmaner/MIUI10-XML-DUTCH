@@ -104,7 +104,7 @@ Wilt u deze activiteit sluiten?"</string>
   <string name="anr_process">"Proces %1$s reageert niet.</string>
   <string name="app_category_audio">Muziek &amp; audio</string>
   <string name="app_category_game">Games</string>
-  <string name="app_category_image">Foto\'s &amp; afbeeldingen</string>
+  <string name="app_category_image">"Foto\'s &amp; afbeeldingen"</string>
   <string name="app_category_maps">Kaarten &amp; navigatie</string>
   <string name="app_category_news">Nieuws &amp; magazines</string>
   <string name="app_category_productivity">Productiviteit</string>
@@ -143,7 +143,7 @@ Wilt u deze activiteit sluiten?"</string>
   <string name="autofill_shipping_designator_re">verzendadres</string>
   <string name="autofill_state">Staat</string>
   <string name="autofill_this_form">Automatisch invullen</string>
-  <string name="autofill_zip_code">Postcode</string>  
+  <string name="autofill_zip_code">Postcode</string>  </string>
   <string name="back_button_label">Vorige</string>
   <string name="badPin">De oude PIN code die u heeft ingevoerd, is onjuist.</string>
   <string name="badPuk">De PUK code die u heeft ingevoerd, is onjuist.</string>
@@ -200,7 +200,6 @@ Batterijbespaarder wordt automatisch uitgeschakeld wanneer het toestel wordt opg
   <string name="contentServiceSyncNotificationTitle">Synchroniseren</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Teveel verwijderd in %s.</string>
   <string name="content_description_sliding_handle">Schuifgreep. Tikken &amp; ingedrukt houden.</string>
-  <string name="copy">Kopiëren</string>
   <string name="copyUrl">URL kopiëren</string>
   <string name="country_selection_title">Regiovoorkeuren</string>
   <string name="create_contact_using">"Contact maken
@@ -331,7 +330,7 @@ met %s"</string>
   <string name="ext_media_new_notification_message">Nieuwe %s gedetecteerd</string>
   <string name="ext_media_nomedia_notification_message">%s verwijderd; plaats een nieuwe</string>
   <string name="ext_media_nomedia_notification_title">%s verwijderd</string>
-  <string name="ext_media_ready_notification_message">Om foto\'s en media over te zetten</string>
+  <string name="ext_media_ready_notification_message">"Om foto\'s en media over te zetten"</string>
   <string name="ext_media_status_bad_removal">Onveilig verwijderd</string>
   <string name="ext_media_status_checking">Controleren…</string>
   <string name="ext_media_status_ejecting">Uitwerpen…</string>
@@ -803,7 +802,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_bodySensors">Hiermee kan de app toegang krijgen tot de gegevens van sensoren die uw fysieke conditie meten, zoals uw hartslag.</string>
   <string name="permdesc_broadcastSticky">Hiermee kan de app sticky broadcasts verzenden die behouden blijven nadat de broadcast is beëindigd. Bij overmatig gebruik kan de telefoon traag of instabiel worden omdat er te veel geheugenruimte wordt gebruikt.</string>
   <string name="permdesc_callPhone">Hiermee kan de app zonder uw tussenkomst telefoonnummers bellen. Dit kan tot onverwachte kosten of oproepen leiden. De app kan hiermee geen noodnummers bellen. Schadelijke apps kunnen u geld kosten door nummers te bellen zonder om uw bevestiging te vragen.</string>
-  <string name="permdesc_camera">Deze app kan kan te allen tijde tegelijk foto\'s maken en video\'s opnemen met de camera.</string>
+  <string name="permdesc_camera">"Deze app kan kan te allen tijde tegelijk foto\'s maken en video\'s opnemen met de camera."</string>
   <string name="permdesc_changeNetworkState">Hiermee kan de app de status van de netwerkverbinding wijzigen.</string>
   <string name="permdesc_changeTetherState">Hiermee kan de app de status van de getetherde netwerkverbinding wijzigen.</string>
   <string name="permdesc_changeWifiMulticastState">Hiermee kan de app pakketten ontvangen die via multicastadressen naar alle apparaten in een WI-Fi netwerk worden verzonden, niet alleen naar uw telefoon. Het stroomgebruik ligt hierbij hoger dan in de niet multicastmodus.</string>
@@ -885,14 +884,14 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permdesc_writeSettings">Hiermee kan de app de instellingsgegevens van het systeem aanpassen. Schadelijke apps kunnen de configuratie van uw systeem verstoren.</string>
   <string name="permdesc_writeSyncSettings">Hiermee kan een app de synchronisatie instellingen aanpassen voor een account. Deze toestemming kan bijvoorbeeld worden gebruikt om synchronisatie van de app Personen in te schakelen voor een account.</string>
   <string name="permgroupdesc_calendar">toegang tot uw agenda</string>
-  <string name="permgroupdesc_camera">foto\'s en video\'s maken</string>
+  <string name="permgroupdesc_camera">"foto\'s en video\'s maken"</string>
   <string name="permgroupdesc_contacts">toegang tot uw contacten</string>
   <string name="permgroupdesc_location">toegang tot locatie van uw apparaat</string>
   <string name="permgroupdesc_microphone">audio opnemen</string>
   <string name="permgroupdesc_phone">telefoonoproepen maken en beheren</string>
   <string name="permgroupdesc_sensors">toegang tot sensordata</string>
   <string name="permgroupdesc_sms">SMS berichten bekijken en verzenden</string>
-  <string name="permgroupdesc_storage">toegang tot foto\'s, media en andere bestanden op uw apparaat</string>
+  <string name="permgroupdesc_storage">"toegang tot foto\'s, media en andere bestanden op uw apparaat"</string>
   <string name="permgrouplab_calendar">Agenda</string>
   <string name="permgrouplab_camera">Camera</string>
   <string name="permgrouplab_contacts">Contacten</string>
@@ -932,7 +931,7 @@ voor account %s."</string>
   <string name="permlab_bodySensors">lichaamsensors (zoals hartslag monitors)</string>
   <string name="permlab_broadcastSticky">Sticky broadcast verzenden</string>
   <string name="permlab_callPhone">rechtstreeks telefoonnummers bellen</string>
-  <string name="permlab_camera">foto\'s en video\'s maken</string>
+  <string name="permlab_camera">"foto\'s en video\'s maken"</string>
   <string name="permlab_changeNetworkState">netwerkverbinding wijzigen</string>
   <string name="permlab_changeTetherState">getetherde verbinding wijzigen</string>
   <string name="permlab_changeWifiMulticastState">Wi-Fi Multicast ontvangst toestaan</string>
@@ -1049,7 +1048,7 @@ voor account %s."</string>
   <string name="policydesc_watchLogin_secondaryUser">Bijhouden hoe vaak het wachtwoord op het vergrendelscherm incorrect is ingevoerd, en de telefoon vergrendelen of alle gebruikersgegevens wissen als het wachtwoord te vaak incorrect is ingevoerd.</string>
   <string name="policydesc_wipeData">De gegevens van de telefoon zonder waarschuwing wissen door de fabrieksinstellingen te herstellen.</string>
   <string name="policydesc_wipeData_secondaryUser">De gegevens van deze gebruiker wissen op deze telefoon zonder waarschuwing.</string>
-  <string name="policylab_disableCamera">Camera\'s uitschakelen</string>
+  <string name="policylab_disableCamera">"Camera\'s uitschakelen"</string>
   <string name="policylab_disableKeyguardFeatures">Sommige schermvergrendel functies uitschakelen</string>
   <string name="policylab_encryptedStorage">Codering voor opslag instellen</string>
   <string name="policylab_expirePassword">Verval vergrendelwachtwoord instellen</string>
@@ -1088,7 +1087,7 @@ voor account %s."</string>
   <string name="reboot_to_update_title">Android systeemupdate</string>
   <string name="recent_tasks_title">Recent</string>
   <string name="redo">Opnieuw uitvoeren</string>
-  <string name="region_picker_section_all">Alle regio\'s</string>
+  <string name="region_picker_section_all">"Alle regio\'s"</string>
   <string name="relationTypeAssistant">Assistent</string>
   <string name="relationTypeBrother">Broer</string>
   <string name="relationTypeChild">Kind</string>
@@ -1245,10 +1244,10 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="status_communication_speaker_summary">Er is een handsfree gesprek bezig. Audio wordt nog steeds via de luidspreker afgespeeld wanneer een hoofdtelefoon is aangesloten.</string>
   <string name="status_communication_summary">Er is een gesprek bezig. U kunt het belvolume nu alleen aanpassen.</string>
   <string name="stk_cc_ss_to_dial">SS verzoek is aangepast naar DIAL verzoek .</string>
+  <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
   <string name="stk_cc_ss_to_ss">SS verzoek is aangepast naar nieuw SS verzoek.</string>
   <string name="stk_cc_ss_to_ussd">SS verzoek is aangepast naar USSD verzoek.</string>
   <string name="stk_cc_ussd_to_dial">USSD verzoek is aangepast naar DIAL verzoek.</string>
-  <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
   <string name="stk_cc_ussd_to_ss">USSD verzoek is aangepast naar SS verzoek.</string>
   <string name="stk_cc_ussd_to_ussd">USSD verzoek is aangepast naar nieuw USSD verzoek.</string>
   <string name="storage_internal">Interne opslag</string>
