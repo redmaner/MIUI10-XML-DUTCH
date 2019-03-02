@@ -10,6 +10,7 @@
   <string name="add_music">Muziek toevoegen</string>
   <string name="add_number_to_sender">Nummer toeoegen aan %s</string>
   <string name="add_picture">Foto toevoegen</string>
+  <string name="add_private_contact">Voeg privécontact toe</string>
   <string name="add_slide">Dia toevoegen</string>
   <string name="add_slide_before">Intro dia toevoegen</string>
   <string name="add_slide_hint">Tik om een nieuwe dia te maken</string>
@@ -27,7 +28,7 @@
   <string name="already_updated">Bijgewerkt</string>
   <string name="app_label">Berichten</string>
   <string name="app_name">Apparatenbeheer</string>
-  <string name="attach_image">"Foto\'s"</string>
+  <string name="attach_image">Foto\'s</string>
   <string name="attach_rcs_file">Bestand</string>
   <string name="attach_rcs_location">Locatie</string>
   <string name="attach_record_sound">Audio opnemen</string>
@@ -59,11 +60,11 @@
   <string name="bookmark_empty">Geen berichten in favorieten</string>
   <string name="bookmark_list_title">Favorieten</string>
   <string name="button_close">Sluiten</string>
-  <string name="button_emoji_creature">"Dierlijke emoji\'s"</string>
-  <string name="button_emoji_lifestyle">"Lifestyle emoji\'s"</string>
-  <string name="button_emoji_smiley">"Gezicgt emoji\'s"</string>
-  <string name="button_emoji_symbol">"Symbool emoji\'s"</string>
-  <string name="button_emoji_text">"Tekst emoji\'s"</string>
+  <string name="button_emoji_creature">Dierlijke emoji\'s</string>
+  <string name="button_emoji_lifestyle">Lifestyle emoji\'s</string>
+  <string name="button_emoji_smiley">Gezicgt emoji\'s</string>
+  <string name="button_emoji_symbol">Symbool emoji\'s</string>
+  <string name="button_emoji_text">Tekst emoji\'s</string>
   <string name="button_fold">Inklapppen</string>
   <string name="button_next_slide">Volgende</string>
   <string name="button_pre_slide">Vorige</string>
@@ -72,7 +73,7 @@
   <string name="call_sender">Bel afzender</string>
   <string name="can_not_send_by_rcs">Kan China Mobile Messaging niet gebruiken</string>
   <string name="cannot_add_picture_and_video">Kan video en afbeelding niet toevoegen aan een dia.</string>
-  <string name="cannot_add_slide_anymore">"Meer dia\'s toevoegen mislukt"</string>
+  <string name="cannot_add_slide_anymore">Meer dia\'s toevoegen mislukt</string>
   <string name="cannot_forward_drm_obj">Het DRM object in het bericht kan niet worden doorgestuurd.</string>
   <string name="cannot_get_details">Details ophalen mislukt.</string>
   <string name="cannot_resend_audio">Kon opname niet verzenden</string>
@@ -148,6 +149,7 @@
   <string name="converting_to_picture_message">Converteren naar MMS bericht, hieraan zijn kosten verbonden</string>
   <string name="converting_to_text_message">Converteren naar SMS…</string>
   <string name="converting_vcard_failed">Kan contact niet converteren</string>
+  <string name="copy_message_text">Kopiëren</string>
   <string name="copy_message_text_success">Met succes gekopiëerd</string>
   <string name="copy_to_sdcard">Bijlage opslaan</string>
   <string name="copy_to_sdcard_fail">Bijlage opslaan mislukt</string>
@@ -167,7 +169,7 @@
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
   <string name="dialog_message_fake_cell_detect_error">De informatie over dit bericht corrigeren? MIUI moet hiervoor het telefoonnummer (%1$s), de inhoud van het bericht en de informatie over de locatie in de buurt uploaden naar zijn servers.</string>
   <string name="dialog_message_mx">Met Mi Message kunt u gratis berichten verzenden naar andere MIUIgebruikers . Er is een uitgaand SMS bericht vereist om Mi Message te activeren. Uw provider brengt u dit bericht in rekening. Je moet akkoord gaan met onze \"%1$s\" en \"%2$s\" voordat je Mi Message gebruikt.</string>
-  <string name="dialog_message_networking">"Berichten moeten Gele pagina\'s gebruiken om de identificatie van de zende ID te kunnen bieden. Berichten en gele pagina\'s moeten verbinding met internet maken en toegang krijgen tot uw locatie om normaal te werken. Toestaan?"</string>
+  <string name="dialog_message_networking">Berichten moeten Gele pagina\'s gebruiken om de identificatie van de zende ID te kunnen bieden. Berichten en gele pagina\'s moeten verbinding met internet maken en toegang krijgen tot uw locatie om normaal te werken. Toestaan?</string>
   <string name="dialog_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere China Mobile gebruikers op het vasteland van China. U moet akkoord gaan met \"%1$s\" voordat u China Mobile Messaging gebruikt.</string>
   <string name="dialog_title_fake_cell_detect_error">Correctie</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
@@ -460,9 +462,9 @@
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
-  <string name="pref_show_list_avatar_summary">"Profieloto\'s en contactgegevens weergeven in lijstweergave"</string>
+  <string name="pref_show_list_avatar_summary">Profieloto\'s en contactgegevens weergeven in lijstweergave</string>
   <string name="pref_show_photo_word_summary">Automatisch een foto toewijzen aan contacten zonder foto</string>
-  <string name="pref_show_sms_template_entry_summary">"Eenmalige wachtwoorden en geef de snelle menu\'s weer"</string>
+  <string name="pref_show_sms_template_entry_summary">Eenmalige wachtwoorden en geef de snelle menu\'s weer</string>
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slim berichten</string>
@@ -474,9 +476,9 @@
   <string name="pref_summary_delivery_reports">Afleverrapporten voor elk verzonden bericht</string>
   <string name="pref_summary_delivery_ringtone">Meldingsgeluid ontvangen voor afgeleverde berichten</string>
   <string name="pref_summary_manage_sim_messages">Berichten op uw SIM kaart beheren</string>
-  <string name="pref_summary_mms_auto_retrieval">"Foto\'s en video\'s in berichten automatisch downloaden"</string>
+  <string name="pref_summary_mms_auto_retrieval">Foto\'s en video\'s in berichten automatisch downloaden</string>
   <string name="pref_summary_mms_read_reports">Toon een melding in een gespreksweergave wanneer de ontvanger de MMS inhoud heeft gedownload</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">"Automatisch foto\'s en video\'s in berichten downloaden bij roamen"</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Automatisch foto\'s en video\'s in berichten downloaden bij roamen</string>
   <string name="pref_summary_notification_body_enabled">Berichten weergeven op vergrendelscherm en notificatiescherm</string>
   <string name="pref_summary_off_system_mms_priority">Gebruik apps van derden om uw MMS te verzonden of ontvangen</string>
   <string name="pref_summary_on_system_mms_priority">"Gebruik MIUI berichtenapp standaard voor het ontvangen van berichten en MMS</string>
@@ -517,9 +519,9 @@
   <string name="priority_low">Laag</string>
   <string name="priority_normal">Normaal</string>
   <string name="privacy_mode_hint">Kan geen bericht verzenden in Gastmodus</string>
-  <string name="privacy_password_message1">"Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen."</string>
-  <string name="privacy_password_message2">"Gebruik privacy wachtwoordbeveiliging. Het werkt voor foto\'s, notities, verborgen mappen."</string>
-  <string name="privacy_password_message3">"Wachtwoord voor berichten zal vervangen worden door privacy wachtwoordbeveiliging die werkt voor foto\'s, notities, verborgen mappen."</string>
+  <string name="privacy_password_message1">Privacy wachtwoordbeveiliging werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_message2">Gebruik privacy wachtwoordbeveiliging. Het werkt voor foto\'s, notities, verborgen mappen.</string>
+  <string name="privacy_password_message3">Wachtwoord voor berichten zal vervangen worden door privacy wachtwoordbeveiliging die werkt voor foto\'s, notities, verborgen mappen.</string>
   <string name="privacy_password_set_password">Instellen</string>
   <string name="privacy_password_title1">Wachtwoord instellen</string>
   <string name="privacy_password_title2">Gebruik privacy wachtwoordbeveiliging</string>
@@ -574,7 +576,7 @@
   <string name="recommend_bar_message_mx">Met Mi Message kunt u gratis berichten naar andere MIUI gebruikers verzenden.</string>
   <string name="recommend_bar_message_mx_rcs">Mi Message stelt u in staat om gratis  berichten naar andere MIUI gebruikers en China Mobile gebruikers op het vasteland van China te verzenden.</string>
   <string name="recommend_bar_message_rcs">China Mobile Messaging stelt u in staat gratis berichten te verzenden naar andere China Mobile gebruikers op het vasteland van China</string>
-  <string name="recommend_bar_message_smart_message">"Kopieer eenmalige wachtwoorden, volg pakketten, gebruik slimme menu\'s en meer"</string>
+  <string name="recommend_bar_message_smart_message">Kopieer eenmalige wachtwoorden, volg pakketten, gebruik slimme menu\'s en meer</string>
   <string name="recommend_bar_ok">Inschakelen</string>
   <string name="recommend_bar_title_mx_rcs">Mi Message</string>
   <string name="recommend_bar_title_smart_message">Smart Messaging</string>
@@ -759,8 +761,8 @@
   <string name="title_hide_verification_code">OTP automatisch verbergen op vergrendelscherm</string>
   <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="title_show_blocked_messages">Geblokkeerde SMS weergeven</string>
-  <string name="title_show_list_avatar">"Profielfoto\'s weergeven"</string>
-  <string name="title_show_photo_word">"Contactfoto\'s toewijzen"</string>
+  <string name="title_show_list_avatar">Profielfoto\'s weergeven</string>
+  <string name="title_show_photo_word">Contactfoto\'s toewijzen</string>
   <string name="title_show_sms_template">Slim berichten</string>
   <string name="title_show_sms_template_in">SMS controleren op OTP</string>
   <string name="title_timed_message_dialog">Stel de tijd in voor dit vertraagde bericht</string>

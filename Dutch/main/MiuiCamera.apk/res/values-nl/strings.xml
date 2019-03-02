@@ -17,7 +17,7 @@
   <string name="accessibility_camera_liveshot_on">Dynamische opnamen inschakelen</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Voorste en achterste camera wisselen</string>
-  <string name="accessibility_camera_picker_finish">"Camera\'s wisselen gelukt"</string>
+  <string name="accessibility_camera_picker_finish">Camera\'s wisselen gelukt</string>
   <string name="accessibility_camera_shutter_finish">Foto maken gelukt</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Full body modus is uitgeschakeld</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Full body modus is ingeschakeld</string>
@@ -234,9 +234,10 @@ en maak vervolgens een opname met een minimale hoeveelheid ruis."</string>
   <string name="hint_fast_motion">De video die u maakt, wordt sneller afgespeeld.</string>
   <string name="hint_groupshot">"De camera maakt meerdere foto's
 en maak vervolgens een foto waarop iedereen er het beste uitziet."</string>
-  <string name="hint_groupshot_beauty">"Kan verfraaien niet gebruiken in groepsfoto\'s"</string>
+  <string name="hint_groupshot_beauty">Kan verfraaien niet gebruiken in groepsfoto\'s</string>
   <string name="hint_slow_motion">De video die u maakt, wordt langzamer afgespeeld.</string>
   <string name="hunt_dual_water_mark">Het watermerk van de dubbele camera wordt automatisch toegevoegd.</string>
+  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installeren</string>
   <string name="lens_dirty_detected_content">Het lijkt erop dat de lens van je camera vuil is.
 Reinig de lens voor een beter effect</string>
@@ -298,6 +299,7 @@ in de portretmodus"</string>
   <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt</string>
   <string name="not_enough_space">Interne opslag is vol</string>
   <string name="object_track_enable_toast">Druk met twee vingers op beide uiteinden van het voorwerp om het te volgen.</string>
+  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Plaats de pijl op één lijn met de referentielijn</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Blijf doorgaan…</string>
   <string name="pano_how_to_use_prompt_slow_down">Vertragen</string>
@@ -348,7 +350,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti streepvorming</string>
-  <string name="pref_camera_asd_night_title">"Foto\'s met weinig omgevingslicht automatisch verbeteren"</string>
+  <string name="pref_camera_asd_night_title">Foto\'s met weinig omgevingslicht automatisch verbeteren</string>
   <string name="pref_camera_asd_popup_title">Melden wanneer flitslicht nodig is</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Om een object te selecteren, tikt u op twee diagonale punten rond de grens. Wanneer het object stilstaat zal de camera  automatisch een foto nemen.</string>
@@ -449,7 +451,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_camera_multilevel_entry_middle">Gemiddeld (standaard)</string>
   <string name="pref_camera_multilevel_entry_normal">Normaal</string>
   <string name="pref_camera_normal_wide_ldc_description">Corrigeer vervormde gezichten van de mensen die zich dicht bij de rand van het kader bevinden</string>
-  <string name="pref_camera_normal_wide_ldc_title">"Corrigeer gezichtsvervormingen op groepsfoto\'s"</string>
+  <string name="pref_camera_normal_wide_ldc_title">Corrigeer gezichtsvervormingen op groepsfoto\'s</string>
   <string name="pref_camera_optimized_flash_enable_title">Geoptimaliseerde flitser</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_parallel_process_enable_title">Parallelle verwerking inschakelen</string>
@@ -552,11 +554,11 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Spiegel camera aan de voorkant</string>
   <string name="pref_google_lens">Google lens</string>
-  <string name="pref_groupshot_with_primitive_title">"Originele foto\'s ook opslaan in groepselfiemodus"</string>
+  <string name="pref_groupshot_with_primitive_title">Originele foto\'s ook opslaan in groepselfiemodus</string>
   <string name="pref_manual_exposure_title">Belichtingstijd</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
-  <string name="pref_new_slow_motion_video_quality_240_720only">"Je kunt alleen 720P video\'s opnemen met 240Ffps"</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">Je kunt alleen 720P video\'s opnemen met 240Ffps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
   <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
@@ -655,7 +657,7 @@ Houd het onderwerp scherp en vervaag de achtergrond."</string>
   <string name="time_lapse_error">Kan dit videoformaat voor timelapse opname niet gebruiken</string>
   <string name="title_snap_double_confirm">Opnieuw bevestigen</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burstshoot wordt niet ondersteund als audio-opname aan staat</string>
-  <string name="toast_saving">"Foto\'s opslaan…"</string>
+  <string name="toast_saving">Foto\'s opslaan…</string>
   <string name="toast_start_audio_capture">Maak een geluid om een foto te nemen</string>
   <string name="ubi_focus_capture_fail">Kan geen foto nemen</string>
   <string name="ubifocus_capture_warning_message">Voor het beste resultaat zou uw foto zowel voorwerpen dichtbij (minder dan 1 meter van de lens) als ver weg moeten bevatten</string>
@@ -683,6 +685,7 @@ Groothoek modus komt helpen als je niet verder van de scène kunt komen."</strin
   <string name="video_effect_entry_forest">Grove</string>
   <string name="video_effect_entry_holiday">Reflecties</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
+  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Maximale grootte bereikt.</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Privacybeleid weergeven</string>

@@ -153,7 +153,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="feature_title_mms">MMS</string>
   <string name="feature_title_sms">Berichten</string>
   <string name="file_uploading">Laden…</string>
-  <string name="files_backup_info">"Alle bestanden op SD-kaart (inclusief foto\'s, nummers, video\'s, appdata, enz.)"</string>
+  <string name="files_backup_info">Alle bestanden op SD-kaart (inclusief foto\'s, nummers, video\'s, appdata, enz.)</string>
   <string name="findlost_contact">Contacten herstellen</string>
   <string name="findlost_contact_online">Herstel verwijderde contacten van Mi Cloud</string>
   <string name="flash_drive_backup_btn">Back up to USB drive</string>
@@ -205,7 +205,7 @@ moet je eerst een iCloud back-up maken."</string>
 2. Ga naar MiTalk Instellingen en selecteer ”Back-up contacten naar Mi Account”"</string>
   <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
-  <string name="import_tip_summary">"Vanwege compatibiliteitsproblemen kan je alleen contacten en foto\'s overzetten van iOS apparaten. Zorg ervoor dat je eerst een iCloud back-up maakt voordat je begint met de overdracht."</string>
+  <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kan je alleen contacten en foto\'s overzetten van iOS apparaten. Zorg ervoor dat je eerst een iCloud back-up maakt voordat je begint met de overdracht.</string>
   <string name="lack_perm_msg">Mi Mover heeft de volgende toestemmingen nodig: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Toestemmingen vereist</string>
   <string name="list_footer_tip_title">Tips:</string>
@@ -216,13 +216,13 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="local_no_backup">Geen lokale back-up(s).</string>
   <string name="local_restore_window_title">Lokaal herstel</string>
   <string name="local_select_account_contact">Accounts &amp; contacten</string>
-  <string name="local_select_audio">"Audio\'s"</string>
+  <string name="local_select_audio">Audio\'s</string>
   <string name="local_select_doc">Documenten</string>
   <string name="local_select_files">SD-kaart</string>
   <string name="local_select_image">Afbeeldingen</string>
   <string name="local_select_sysdata">Systeem</string>
   <string name="local_select_userapp">Apps</string>
-  <string name="local_select_video">"Video\'s"</string>
+  <string name="local_select_video">Video\'s</string>
   <string name="login">Inloggen</string>
   <string name="login_failed">Kon niet inloggen. Probeer opnieuw.</string>
   <string name="logining">Inloggen…</string>
@@ -338,7 +338,7 @@ Maak tenminste %s vrij."</string>
   <string name="select_item_contacts">Contacten</string>
   <string name="select_item_empty_summary">Geen items</string>
   <string name="select_item_notes">Notities</string>
-  <string name="select_item_photos">"Foto\'s"</string>
+  <string name="select_item_photos">Foto\'s</string>
   <string name="select_item_summary_loading">Gegevens laden…</string>
   <string name="select_item_summary_wait">Wachten…</string>
   <string name="select_storage_location">Kies back-uplocatie</string>
@@ -474,7 +474,7 @@ te downloaden en te installeren."</string>
   <string name="trans_intro_desc_new">Tik op \"Ik ben ontvanger\". Er zal een QR code worden gemaakt.</string>
   <string name="trans_intro_desc_old">Tik op \"Ik ben verzender\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden er verzonden moeten worden en tik op \"Versturen\".</string>
   <string name="trans_intro_desc_old_market">Tik op \"Start\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden moeten worden verzonden en tik dan op \"Verzenden\".</string>
-  <string name="trans_intro_desc_private">"Mi Mover heeft geen toegang tot foto\'s in verborgen albums omdat ze versleuteld zijn. Je kan deze foto\'s herstellen van Mi Cloud op het nieuwe apparaat."</string>
+  <string name="trans_intro_desc_private">Mi Mover heeft geen toegang tot foto\'s in verborgen albums omdat ze versleuteld zijn. Je kan deze foto\'s herstellen van Mi Cloud op het nieuwe apparaat.</string>
   <string name="trans_intro_question_1">%d. Hoe gebruik ik Mi Mover om gegevens van een iOS apparaat over te zetten?</string>
   <string name="trans_intro_question_2">%d. Hoe gebruik ik Mi Mover om gegevens van een Android apparaat over te zetten?</string>
   <string name="trans_intro_question_3">%d. Wat moet ik doen als Mi Mover vastloopt bij een bepaalde stap?</string>

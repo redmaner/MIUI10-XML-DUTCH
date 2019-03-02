@@ -275,6 +275,8 @@
   <string name="living_text">In de lucht</string>
   <string name="load_more_hint">Afspraken van %1$d laden</string>
   <string name="loading">Een momentje…</string>
+  <string name="loan">贷款还款</string>
+  <string name="loan_event_delete_successfully">贷款还款事件删除成功</string>
   <string name="loan_event_title">Krediet rekening</string>
   <string name="local_calendar_display_name">Lokale kalender</string>
   <string name="local_owner_account_name">Opgeslagen op dit apparaat</string>
@@ -424,6 +426,7 @@
   <string name="subscribe_card">Abonneer je nu</string>
   <string name="subscribe_card_success">Abonnementen succes, kan thuis worden bekeken </string>
   <string name="subscribe_card_success_for_homepage">Abonnementen"%1$s”succes</string>
+  <string name="subscribe_channel_bottom_hint">—— Mi Kalender ——</string>
   <string name="subscribe_channel_footer_desc">Bekijk je abonnementen of meld je af</string>
   <string name="subscribe_channel_footer_title">Geabonneerd</string>
   <string name="subscribe_channel_hint">"Abonnementen functie aanpassen of dienst abonnement op de startpagina weergeven,
@@ -500,6 +503,7 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="travel_train_number_text">Trein</string>
   <string name="travel_train_station">Treinstation</string>
   <string name="unsubscribe_card">Annuleren</string>
+  <string name="unsubscribe_card_success">“%1$s” met succes geannuleerd</string>
   <string name="unsubscribing_card">Abonnement annuleren</string>
   <string name="user_notice_button_exit">Afsluiten</string>
   <string name="user_notice_button_ok">Ok</string>

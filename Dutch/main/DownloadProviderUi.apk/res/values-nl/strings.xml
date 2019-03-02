@@ -43,6 +43,7 @@
   <string name="confirm_delete_downloads_message">%d downloads worden verwijderd!</string>
   <string name="confirm_delete_the_download_item_message">Deze downloads verwijderen?</string>
   <string name="continue_download">Doorgaan</string>
+  <string name="copy">Kopiëren</string>
   <string name="copy_info">Gekopiëerd naar klembord. U kan dit delen met vrienden</string>
   <string name="creat_task_success">Toegevoegd aan wachtlijst</string>
   <string name="create_task">Taak aanmaken</string>
@@ -296,6 +297,7 @@ op al je apparaten met Xunlei</string>
   <string name="revert_default">Standaardinstellingen herstellen</string>
   <string name="revert_download_path">Standaard downloadlocatie gebruiken?</string>
   <string name="save_path">Standaard download locotie gebruiken?</string>
+  <string name="save_text">￥%1$s opslaan</string>
   <string name="search_clear_history_btn">Zoekgeschiedenis wissen</string>
   <string name="search_clear_history_toast">Geschiedenis gewist</string>
   <string name="search_favorite_empty">Sommige bronnen toevoegen aan favorieten</string>

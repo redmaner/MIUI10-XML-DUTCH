@@ -36,6 +36,8 @@
   <string name="cta_check_reminder">Niet meer tonen</string>
   <string name="cta_message_license">Door dit produckt te gebruiken, gaat u akkoord met de voorwaarden vermeld in onze Gebruiksvoorwaarden en Privacybeleid.</string>
   <string name="cta_message_permission">Deze app moet %2$s om normaal te werken.</string>
+  <string name="cta_permission_and"> en </string>
+  <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Gebruiksvoorwaarden</string>
   <string name="day_following_good_friday">Dag na Goede Vrijdag</string>
   <string name="daydream">Dagdromen</string>
@@ -70,7 +72,7 @@
   <string name="great_cold">Hevige kou</string>
   <string name="great_heat">Hevige hitte</string>
   <string name="group_name_contacts">Contacten</string>
-  <string name="group_name_coworkers">"Collega\'s"</string>
+  <string name="group_name_coworkers">Collega\'s</string>
   <string name="group_name_family">Familie</string>
   <string name="group_name_friends">Vrienden</string>
   <string name="guitar">Gitaar</string>
@@ -102,6 +104,7 @@
   <string name="lunar_si">Vier</string>
   <string name="lunar_wu">Vijf</string>
   <string name="lunar_year">Maanjaar</string>
+  <string name="lunar_yi">"Eén"</string>
   <string name="lunar_yue">Maand</string>
   <string name="menu_add_frequent_phrases">Toevoegen</string>
   <string name="menu_delete">Verwijderen</string>

@@ -169,6 +169,7 @@
   <string name="login_system_failed">Kon niet inloggen, probeer opnieuw</string>
   <string name="logo_title">Feedback</string>
   <string name="max_error">Je %1$s zou korter moeten zijn.</string>
+  <string name="menu_copy">Kopiëren</string>
   <string name="message_label">Bericht</string>
   <string name="michat_app_name">Online ondersteuning</string>
   <string name="michat_artificial_customer_phone">4001005678</string>
@@ -201,6 +202,7 @@
   <string name="michat_invation_invite_full">Sorry, onze medewerkers zijn op dit moment allemaal bezet. Probeer later opnieuw.</string>
   <string name="michat_kefu_welcome">Welkom bij Xiaomi online ondersteuning!</string>
   <string name="michat_lose_artificial">Er trad een netwerkfout op, u heeft de chat verlaten</string>
+  <string name="michat_menu_copy_text">Kopiëren</string>
   <string name="michat_message_copy_info">Gekopieerd naar klembord</string>
   <string name="michat_message_error_network">Kon niet verbinden met netwerk</string>
   <string name="michat_message_join_again">Blij dat je terug bent!</string>
@@ -421,6 +423,7 @@ Om je account te activeren, Volg de
   <string name="passport_user_agreement">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p1">Akkoord gaan met </string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>
+  <string name="passport_user_agreement_p3"> en </string>
   <string name="passport_user_agreement_p4">Privacybeleid</string>
   <string name="passport_vcode_notification_title">Uw iaanmeldingsverificatie is onvolledig</string>
   <string name="passport_vcode_prompt_long">Voer verificatie code in</string>
@@ -502,7 +505,7 @@ Om je account te activeren, Volg de
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>
   <string name="toast_report_sent_failed">Kan geen rapport verzenden</string>
   <string name="toast_report_sent_succeed">Rapport is verzonden</string>
-  <string name="toast_screenshot_too_large">"Kan geen afbeeldingen of korte video\'s uploaden groter dan 10MB."</string>
+  <string name="toast_screenshot_too_large">Kan geen afbeeldingen of korte video\'s uploaden groter dan 10MB.</string>
   <string name="toast_third_packagename_required">Appnaam invoeren</string>
   <string name="toast_title_required">Omschrijf uw probleem</string>
   <string name="try_again">Probeer opnieuw</string>

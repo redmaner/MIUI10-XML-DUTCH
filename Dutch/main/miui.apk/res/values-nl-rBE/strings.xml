@@ -15,6 +15,7 @@
   <string name="cancel_description">Annuleren</string>
   <string name="check_phone_error_title">Synchronisatie is uit</string>
   <string name="check_phone_io_error">Kan geen verbinding maken met het netwerk</string>
+  <string name="chinese_day_1">"Eén"</string>
   <string name="chinese_day_10">Tien</string>
   <string name="chinese_day_11">Elf</string>
   <string name="chinese_day_12">Twaalf</string>

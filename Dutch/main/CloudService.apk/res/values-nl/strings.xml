@@ -153,7 +153,7 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_find_device_guide_button">Apparaat vinden inschakelen</string>
   <string name="micloud_find_device_guide_fail_reopen">Apparaat vinden inschakelen in Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Controleer uw netwerkverbinding en probeer opnieuw.</string>
-  <string name="micloud_find_device_guide_micloud_sub_content">"Sync. contacten, foto\'s, notities en meer met Mi Cloud"</string>
+  <string name="micloud_find_device_guide_micloud_sub_content">Sync. contacten, foto\'s, notities en meer met Mi Cloud</string>
   <string name="micloud_find_device_guide_noti_content">Bescherm uw gegevens zelfs als uw apparaat kwijt is</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Uw QQ gegevens zullen veilig zijn zelfs als u uw apparaat kwijtraakt</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Uw WeChat gegevens zullen veilig zijn zelfs als u uw apparaat kwijtraakt</string>
@@ -325,9 +325,9 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="mx_voip_dspt">Mi Stem</string>
   <string name="no_sim">Geen SIM kaart gedetecteerd</string>
   <string name="phone_number_required_dspt_provision">"Deze service kan uw telefoonnummer nodig hebben. "</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Profielfoto\'s van contacten alleen synchroniseren wanneer verbonden met een Wi-Fi netwerk"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Profielfoto\'s van contacten alleen synchroniseren wanneer verbonden met een Wi-Fi netwerk</string>
   <string name="pref_title_sync_contacts_title">Contacten synchroniseren</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">"Foto\'s alleen over Wi-Fi synchroniseren"</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Foto\'s alleen over Wi-Fi synchroniseren</string>
   <string name="privacy_policy">Privacybeleid</string>
   <string name="reading_status">Status laden…</string>
   <string name="reading_status_failure">Kon status niet laden</string>
@@ -369,7 +369,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sync_dspt_entrance_provision_confirm_title">Mi Cloud niet gebruiken?</string>
   <string name="sync_dspt_entrance_provision_network">Deze app heeft verbinding met internet nodig om normaal te kunnen werken. Het synchroniseren van gegevens heeft dataverbinding of Wi-Fi nodig.</string>
   <string name="sync_dspt_entrance_provision_skip">Deze stap overslaan</string>
-  <string name="sync_dspt_provision">"Synchroniseer uw foto\'s, contacten, notities en meer op al uw apparaten of bereik ze op ""</string>
+  <string name="sync_dspt_provision">Synchroniseer uw foto\'s, contacten, notities en meer op al uw apparaten of bereik ze op "</string>
   <string name="sync_dspt_provision3">U kunt deze functie op elk moment in- en uitschakelen in Instellingen."</string>
   <string name="sync_item_calllog_summary">Alle gesprekken op deze telefoon synchroniseren</string>
   <string name="sync_item_calllog_title">Oproepgeschiedenis synchroniseren</string>
@@ -387,7 +387,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="title_reg">Maak Mi Account aan</string>
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="user_agreement_content">"Door deze service te gebruiken, gaat u akkaard met %s."</string>
-  <string name="user_agreement_link">"Mi Cloud\'s Servicevoorwaarden"</string>
+  <string name="user_agreement_link">Mi Cloud\'s Servicevoorwaarden</string>
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_title">"Mi Cloud's Servicevoorwaarden"</string>
@@ -407,8 +407,9 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="wipe_data_dialog_button_check_sync">Controleren of gesynchroniseerd</string>
   <string name="wipe_data_dialog_msg">"Sommige items %s zijn niet gesynchroniseerd. Ze worden opgeslagen op je apparaat en worden niet verwijderd."</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
-  <string name="wipe_secret_photo_dialog_title">"Verborgen foto\'s zijn niet gesynchroniseerd"</string>
+  <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
 </resources>

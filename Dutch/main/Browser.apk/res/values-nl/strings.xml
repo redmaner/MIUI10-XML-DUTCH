@@ -54,7 +54,7 @@
   <string name="action_menu_text_refresh">Vernieuwen</string>
   <string name="action_menu_text_setting">Instellingen</string>
   <string name="action_menu_text_share">Delen</string>
-  <string name="action_menu_text_snapshot">"Opgeslagen pagina\'s"</string>
+  <string name="action_menu_text_snapshot">Opgeslagen pagina\'s</string>
   <string name="action_menu_text_video">Video</string>
   <string name="action_menu_toast_incognito_off">Incognito modus uitschakelen</string>
   <string name="action_menu_toast_incognito_on">Incognito modus inschakelen</string>
@@ -185,10 +185,11 @@
   <string name="cast_video">Video casten</string>
   <string name="check_security_tip_privacy_policy">Privacybeleid</string>
   <string name="check_security_tip_user_agreement">Gebruikersovereenkomst</string>
+  <string name="checking_now">Controleren…...</string>
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear_history">Geschiedenis verwijderen</string>
   <string name="clear_search_history">Geschiedenis verwijderen</string>
-  <string name="clear_video_download">"Video\'s verwijderen"</string>
+  <string name="clear_video_download">Video\'s verwijderen</string>
   <string name="clip_dialog_title">Gekopieerde link openen?</string>
   <string name="close">Sluiten</string>
   <string name="close_ads_choice_no">Toestaan</string>
@@ -220,6 +221,7 @@
   <string name="context_menu_add_to_desk_id">Toevoegen aan startscherm</string>
   <string name="context_menu_orientation_portrait_swap_id">V/H scherm</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
+  <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL link kopiëren</string>
   <string name="contextmenu_dial_dot">Bellen…</string>
   <string name="contextmenu_download_image">Afbeelding opslaan</string>
@@ -256,8 +258,8 @@
   <string name="data_traffic_download_prompt">Huidige video kan enkel over Wi-Fi gedownload worden</string>
   <string name="data_traffic_download_setting">Instellingen</string>
   <string name="data_traffic_goto">Gratis dataverkeer</string>
-  <string name="data_traffic_prompt_free_data">"Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan."</string>
-  <string name="data_traffic_prompt_message">"Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan. Als u het datalimiet overschrijdt kan uw provider extra kosten in rekening brengen."</string>
+  <string name="data_traffic_prompt_free_data">Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan.</string>
+  <string name="data_traffic_prompt_message">Als u mobiel internet gebruikt om video\'s te bekijken zal dit van uw databundel afgaan. Als u het datalimiet overschrijdt kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_title">Mobiel internet wordt gebruikt</string>
   <string name="data_traffic_stop">Stop</string>
   <string name="delete">Verwijderen</string>
@@ -281,8 +283,9 @@
   <string name="dialog_media_not_found">Kan niet downloaden: geen verwijderbare opslag gedetecteerd</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij om later te downloaden</string>
   <string name="dialog_recovery_tabs_action">Klik om te hertstellen</string>
-  <string name="dialog_recovery_tabs_disc">"Detectie van niet gesloten pagina\'s heeft volledig herstel nodig."</string>
+  <string name="dialog_recovery_tabs_disc">Detectie van niet gesloten pagina\'s heeft volledig herstel nodig.</string>
   <string name="dialog_recovery_tabs_tip">Zoek naar webview is de vorige keer niet gesloten</string>
+  <string name="dialog_recovery_tabs_title">Open de pagina vóór het herstel</string>
   <string name="dialog_title_not_available">Kon niet downloaden</string>
   <string name="dialog_title_queued_body">Bestand is momenteel niet beschikbaar</string>
   <string name="document_download_background_btn">Downloaden in de achtergrond</string>
@@ -316,7 +319,7 @@
   <string name="download_filter_image">Afbeeldingen</string>
   <string name="download_filter_others">Andere</string>
   <string name="download_filter_text">Documenten</string>
-  <string name="download_filter_video">"Video\'s"</string>
+  <string name="download_filter_video">Video\'s</string>
   <string name="download_filter_zip">ZIP</string>
   <string name="download_in_process">Bezig met downloaden…</string>
   <string name="download_list_open_xl_ok">OK</string>
@@ -430,7 +433,7 @@
   <string name="hint">Hint</string>
   <string name="history">Geschiedenis</string>
   <string name="home_description">Home</string>
-  <string name="home_hybrid_application_tips">"Inclusief mini programma\'s"</string>
+  <string name="home_hybrid_application_tips">Inclusief mini programma\'s</string>
   <string name="homepage_delete_card_menu">Verwijderen</string>
   <string name="homepage_get_location">Locatie verkrijgen</string>
   <string name="homepage_get_location_failed">Kon info niet verkrijgen, kies een stad</string>
@@ -444,7 +447,7 @@
   <string name="hot_word_item_mark_new_text">NIEUW</string>
   <string name="hot_word_item_mark_recommend_text">AANBEVOLEN</string>
   <string name="hot_words_item_ads_mark">Adv</string>
-  <string name="hybrid_application_no_data_text">"Geen Mini Programma\'s"</string>
+  <string name="hybrid_application_no_data_text">Geen Mini Programma\'s</string>
   <string name="hybrid_popup_window_delete_button">Verwijderen</string>
   <string name="ignore_add_pwa_dialog_today">Vandaag niet tonen</string>
   <string name="in_secureaccess">Browser overgeschakeld naar veilige modus</string>
@@ -608,7 +611,7 @@
   <string name="mw_copy_to_clipboard_failure_message">Kopiëren naar klembord mislukt</string>
   <string name="mw_data_traffic_prompt_change">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
   <string name="mw_data_traffic_prompt_message">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
-  <string name="mw_data_traffic_prompt_message_short">"Mobiel internet gebruiken om video\'s te bekijken kan ervoor zorgen dat je je datalimiet overschrijdt."</string>
+  <string name="mw_data_traffic_prompt_message_short">Mobiel internet gebruiken om video\'s te bekijken kan ervoor zorgen dat je je datalimiet overschrijdt.</string>
   <string name="mw_data_traffic_prompt_title">Waarschuwing datagebruik</string>
   <string name="mw_date_picker_dialog_clear">Wissen</string>
   <string name="mw_date_picker_dialog_other_button_label">Overig</string>
@@ -640,6 +643,7 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_media_player_error_text_unknown">Sorry, deze video kan niet worden afgespeeld.</string>
   <string name="mw_media_player_error_title">Kan video niet afspelen</string>
   <string name="mw_media_player_loading_video">Video laden</string>
+  <string name="mw_miui_content_copy">Kopiëren</string>
   <string name="mw_miui_content_cut">Knippen</string>
   <string name="mw_miui_content_extent_select">Meer selecteren</string>
   <string name="mw_miui_content_open_url">URL openen</string>
@@ -868,8 +872,8 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_profiler_started_toast">Profiler opgestart</string>
   <string name="mw_profiler_stopped_toast">Profiler klaar. Resultaten in %1$s.</string>
   <string name="mw_sad_tab_message">Er ging iets fout tijdens het weergeven van de pagina.</string>
-  <string name="mw_sad_tab_oom_message_notabs">"Probeer ruimte vrij te maken door andere programma\'s te sluiten."</string>
-  <string name="mw_sad_tab_oom_message_tabs">"Probeer ruimte vrij te maken door andere programma\'s en tabs te sluiten"</string>
+  <string name="mw_sad_tab_oom_message_notabs">Probeer ruimte vrij te maken door andere programma\'s te sluiten.</string>
+  <string name="mw_sad_tab_oom_message_tabs">Probeer ruimte vrij te maken door andere programma\'s en tabs te sluiten</string>
   <string name="mw_sad_tab_reload_close_notabs">Sluit andere apps</string>
   <string name="mw_sad_tab_reload_incognito">Pagina openen in een nieuwe incognitotab</string>
   <string name="mw_sad_tab_reload_label">Vernieuwen</string>
@@ -978,6 +982,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_accept_quicklink_push">Nieuwsfeed</string>
   <string name="pref_accessibility_recommending_search_title">Zoekopdracht aanbevelen</string>
   <string name="pref_accessibility_title">Toegankelijkheid</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">Normale lettercombinaties kunnen met één tik in de adresbalk worden ingevoerd</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Snelle URL input</string>
   <string name="pref_adblock_counts">%d geblokkeerd</string>
   <string name="pref_adblock_title">Adv blokker</string>
@@ -1010,7 +1015,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_enable_adblock_notification">Meldingen van adblocker tonen</string>
   <string name="pref_enable_news">Nieuws</string>
   <string name="pref_enable_novels">Boeken</string>
-  <string name="pref_enable_videos">"Video\'s"</string>
+  <string name="pref_enable_videos">Video\'s</string>
   <string name="pref_extras_reset_default">Standaardinstellingen herstellen</string>
   <string name="pref_extras_reset_default_dlg">Standaardinstellingen herstellen?</string>
   <string name="pref_extras_reset_default_summary">Standaard bestelling herstellen</string>
@@ -1186,9 +1191,9 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="secure_download_in_xiaomi_market">Download in de App Store</string>
   <string name="secureaccess">Overschakelen naar veilige modus</string>
   <string name="secureaccess_cancel">Negeren</string>
-  <string name="security_url_confirm_message">"Deze functie uitschakelen kan veiligheidsrisico\'s veroorzaken."</string>
+  <string name="security_url_confirm_message">Deze functie uitschakelen kan veiligheidsrisico\'s veroorzaken.</string>
   <string name="security_warning">Beveiligingsmelding</string>
-  <string name="security_warnings_confirm_message">"Deze functie uitschakelen kan veiligheidsrisico\'s veroorzaken."</string>
+  <string name="security_warnings_confirm_message">Deze functie uitschakelen kan veiligheidsrisico\'s veroorzaken.</string>
   <string name="select_dot">Tekst selecteren</string>
   <string name="select_download_device">Apparaat kiezen</string>
   <string name="send_comment_button">Verzenden</string>
@@ -1196,6 +1201,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
   <string name="sequence_bookmark_description">Houd ingedrukt om bladwijzers te herordenen</string>
+  <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
   <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
   <string name="share_video">Video delen</string>
@@ -1271,7 +1277,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_access_item_singer_pop">%d populaire nummers</string>
   <string name="suggest_access_item_site_mark">SITES</string>
   <string name="suggest_access_item_topic_mark">TOPIC</string>
-  <string name="suggest_access_item_video_mark">"VIDEO\'S"</string>
+  <string name="suggest_access_item_video_mark">VIDEO\'S</string>
   <string name="suggest_access_item_weather_mark">WEER</string>
   <string name="suggest_access_item_yellow_mark">GELE GIDS</string>
   <string name="suggest_access_music">Mi Music</string>
@@ -1302,7 +1308,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggestion_translation_more">MEER WEERGEVEN</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="switchText">JA</string>
-  <string name="switch_proxy_dialog_msg">"Netwerkkaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider."</string>
+  <string name="switch_proxy_dialog_msg">Netwerkkaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider.</string>
   <string name="switch_proxy_dialog_title">Netwerkkaping</string>
   <string name="sync_and_backup_bookmark">Bladwijzers synchroniseren en back-uppen</string>
   <string name="sync_and_backup_history">Geschiedenis synchroniseren en back-uppen</string>
@@ -1319,6 +1325,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="topic_content_default">onderwerp</string>
   <string name="transfer_prompt_0">Video afspelen</string>
   <string name="transfer_restart">Opnieuw beginnen</string>
+  <string name="translation_copy">Kopiëren</string>
   <string name="translation_more">Meer bekijken</string>
   <string name="translation_query_error">Kon niet vertalen</string>
   <string name="translation_query_error_network">Kon geen info krijgen. Maak verbinding met het netwerk en probeer het opnieuw.</string>
@@ -1370,7 +1377,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="video_collect_success">Toegevoegd aan favorieten</string>
   <string name="video_doenload_complete">Video gedownload</string>
   <string name="video_download_complete">Download voltooid</string>
-  <string name="video_download_empty">"Geen video\'s"</string>
+  <string name="video_download_empty">Geen video\'s</string>
   <string name="video_download_error">Fout</string>
   <string name="video_download_error_http_gone">Kon bestand niet vinden</string>
   <string name="video_download_exists">Download bestaat reeds.</string>
@@ -1395,7 +1402,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="video_group_noupdates_list">Geen updates</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">Geen geschiedenis</string>
-  <string name="video_manager_action_bar_end_view">"Video\'s"</string>
+  <string name="video_manager_action_bar_end_view">Video\'s</string>
   <string name="video_project_button">Stoppen</string>
   <string name="video_project_msg">Video is aan het uitzenden naar %s</string>
   <string name="video_project_title">Video uitzending</string>
@@ -1403,6 +1410,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="video_push_multi_title">Update beschikbaar</string>
   <string name="video_push_single_message">Tik om te updaten naar %1$d.</string>
   <string name="video_service_notification_title">Pop-upvideo afspelen</string>
+  <string name="video_subtitle_last_message1">Minder dan één minuut over</string>
   <string name="video_subtitle_prefix1">Bekeken</string>
   <string name="video_subtitle_prefix2">"Bekeken "</string>
   <string name="video_title_prefix_message">"Offline: "</string>

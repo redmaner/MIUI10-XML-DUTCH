@@ -62,6 +62,7 @@
   <string name="arr_time">Aankomsttijd</string>
   <string name="arrive">Landen</string>
   <string name="assistant_day_deadline">Laatste dag</string>
+  <string name="assistant_day_suffix">后</string>
   <string name="assistant_format_MMdd">dd/MM</string>
   <string name="assistant_place">Vaakbezochte plekken herkennen</string>
   <string name="assistant_summary">Krijg handige suggesties wanneer je ze nodig hebt</string>
@@ -326,6 +327,7 @@
   <string name="express_copied">Trackingnummer gekopieerd</string>
   <string name="express_copy_number">Kopieren</string>
   <string name="express_delete_order">Verwijderen</string>
+  <string name="express_delete_tel">删除电话</string>
   <string name="express_delivery">Leveren</string>
   <string name="express_dest_city_label">Bestemming</string>
   <string name="express_detail_order_number_prefix">Nummer: %s</string>
@@ -380,6 +382,7 @@ Controleer het trackingnummer."</string>
   <string name="express_num_setting_des">Ontvang ordernummers van de bezorgapps geinstalleerd op je telefoon.</string>
   <string name="express_num_setting_title">Toegang orderinfo</string>
   <string name="express_open">Kaarten over tracken van pakketjes weergeven</string>
+  <string name="express_open_locker">一键开柜</string>
   <string name="express_open_txt">Openen</string>
   <string name="express_order_confirmation">Orderbevestiging</string>
   <string name="express_order_failed">Mislukt</string>
@@ -499,7 +502,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="express_view_status">Tracken</string>
   <string name="fav_category_article">Artikelen</string>
   <string name="fav_category_shopping">Shoppen</string>
-  <string name="fav_category_video">"Video\'s"</string>
+  <string name="fav_category_video">Video\'s</string>
   <string name="fav_detail_nodata">Kon geen info vinden</string>
   <string name="fav_download">Deze app downloaden en installeren?</string>
   <string name="fav_init_guide_title">Over favorieten</string>
@@ -519,7 +522,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="fav_tab_article">Artikelen</string>
   <string name="fav_tab_new">Nieuw</string>
   <string name="fav_tab_shopping">Producten</string>
-  <string name="fav_tab_video">"Video\'s"</string>
+  <string name="fav_tab_video">Video\'s</string>
   <string name="favorite">Favorieten</string>
   <string name="favorite_add_home">Toevoegen aan startscherm</string>
   <string name="favorite_add_home_add">Toevoegen</string>
@@ -543,7 +546,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="flow_setting_brief">Bekijk informatie over uw datagebruik (voeg je databundel toe in Veiligheid &gt; Datagebruik).</string>
   <string name="focus">Volg status</string>
   <string name="focus_stocks">Mijn bedrijven</string>
-  <string name="function_aiqiyi_record">"Recente video\'s"</string>
+  <string name="function_aiqiyi_record">Recente video\'s</string>
   <string name="function_aiqiyi_title">iQiyi</string>
   <string name="function_bilibili_record">Geschiedenis</string>
   <string name="function_bilibili_title">Bilibili</string>
@@ -579,7 +582,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="function_tencent_video_title">Tencent Video</string>
   <string name="function_tools_parent">Tools</string>
   <string name="function_video_music_title">Muziek &amp; video</string>
-  <string name="function_youku_record">"Recente video\'s"</string>
+  <string name="function_youku_record">Recente video\'s</string>
   <string name="function_youku_title">Youku</string>
   <string name="function_zhihu_search">Zoeken</string>
   <string name="function_zhihu_title">Zhihu</string>
@@ -700,7 +703,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="miot_device_cta_priv">Privacybeleid</string>
   <string name="miot_device_cta_use_info">Mi Home Gebruikersovereenkomst</string>
   <string name="miot_device_edit">Bewerken</string>
-  <string name="miot_device_empty_device_hint">"Voeg slimme apparaten toe zoals luchtreinigers, camera\'s en robotstofzuigers voor snelle bediening"</string>
+  <string name="miot_device_empty_device_hint">Voeg slimme apparaten toe zoals luchtreinigers, camera\'s en robotstofzuigers voor snelle bediening</string>
   <string name="miot_device_empty_text">Voeg luchtreiniger, camera, robotstofzuiger en andere slimme apparaten toe om ze naar believen te bedienen.</string>
   <string name="miot_device_hide_frame_toast">Afbeelding verbergen</string>
   <string name="miot_device_install_mijia">Downloaden</string>
@@ -905,7 +908,7 @@ Verschillende bestellingen die via SF Express van de leveranciers buiten Taobao,
   <string name="search_add_header">Coverafbeelding toevoegen</string>
   <string name="search_category_article">Artikelen</string>
   <string name="search_category_shopping">Shoppen</string>
-  <string name="search_category_video">"Video\'s"</string>
+  <string name="search_category_video">Video\'s</string>
   <string name="search_change_header">Coverafbeelding vervangen</string>
   <string name="search_clear_header">Coverafbeelding verwijderen</string>
   <string name="search_hint">Items zoeken op apparaat en online</string>

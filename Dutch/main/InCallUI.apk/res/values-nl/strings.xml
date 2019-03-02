@@ -93,6 +93,7 @@
   <string name="description_image_button_message_enter">Beantwoorden</string>
   <string name="description_image_button_message_exit">Berichten verbergen</string>
   <string name="description_image_button_nine">negen</string>
+  <string name="description_image_button_one">één</string>
   <string name="description_image_button_pound">pond</string>
   <string name="description_image_button_reject">Weigeren</string>
   <string name="description_image_button_seven">zeven</string>
@@ -163,6 +164,7 @@
   <string name="pause_prompt_yes">Ja</string>
   <string name="payphone">Betaaltelefoon</string>
   <string name="picking_participant">Contactinfo verkrijgen…</string>
+  <string name="private_num">Privénummer</string>
   <string name="prompt_no_volte_when_failed">VoLTE services zijn niet beschikbaar.</string>
   <string name="remind_unlock_message">Uw apparaat is nu vergrendeld. \"%s\" zal beschikbaar zijn nadat u het apparaat ontgrendelt. Nu ontgrendelen?</string>
   <string name="respond_via_sms_custom_message">Aangepaste SMS</string>

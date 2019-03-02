@@ -52,9 +52,9 @@
   <string name="dlg_hide_message">Verbergen…</string>
   <string name="dlg_info_creating_message">Bericht aanmaken…</string>
   <string name="dlg_info_save_to_gallery_message">Afbeelding opslaan in Galerij…</string>
-  <string name="dlg_message_password_reset">"Wachtwoord van verborgen notitie zal worden vervangen door privacy wachtwoordbeveiliging die werkt voor berichten, foto\'s en verborgen mappen"</string>
-  <string name="dlg_message_set_password">"Privacy wachtwoordbeveiligingwerkt voor berichten, foto\'s en verborgen mappen"</string>
-  <string name="dlg_message_use_privacy_password">"Gebruik privacy wachtwoordbeveiliging. Het werkt voor berichten, foto\'s en verborgen mappen"</string>
+  <string name="dlg_message_password_reset">Wachtwoord van verborgen notitie zal worden vervangen door privacy wachtwoordbeveiliging die werkt voor berichten, foto\'s en verborgen mappen</string>
+  <string name="dlg_message_set_password">Privacy wachtwoordbeveiligingwerkt voor berichten, foto\'s en verborgen mappen</string>
+  <string name="dlg_message_use_privacy_password">Gebruik privacy wachtwoordbeveiliging. Het werkt voor berichten, foto\'s en verborgen mappen</string>
   <string name="dlg_move_message">Verplaatsen…</string>
   <string name="dlg_quick_delete_title">Snel verwijderen</string>
   <string name="dlg_restore_message">Herstellen…</string>
