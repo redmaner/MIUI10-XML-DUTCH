@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<plurals name="Nalbum_total_songs">
+    <plurals name="Nalbum_total_songs">
         <item quantity="other">%d nummers totaal</item>
         <item quantity="one">%d nummer totaal</item>
     </plurals>
-	<plurals name="Nassociate_songs">
+    <plurals name="Nassociate_songs">
         <item quantity="other">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
         <item quantity="one">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
     </plurals>
-	<plurals name="Ndialog_renew_content">
+    <plurals name="Ndialog_renew_content">
         <item quantity="other">"Uw abonnement verloopt over %d dagen.
 Wilt u dat wij helpen om te vernieuwen?"</item>
         <item quantity="one">"Uw abonnement verloopt in %d dagen.
@@ -18,51 +18,51 @@ Wilt u dat wij helpen om te vernieuwen?"</item>
         <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
         <item quantity="one">You can download %1$d free song. Download %2$s now?</item>
     </plurals>
-	<plurals name="Nquit_warning">
+    <plurals name="Nquit_warning">
         <item quantity="other">Speler zal binnen %d minuten stoppen</item>
         <item quantity="one">Speler zal binnen %d minuut stoppen</item>
     </plurals>
-	<plurals name="Nsong_group_detail_subtitle">
+    <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">"Gemaakt op %1$s
 %2$d nummers totaal"</item>
         <item quantity="one">"Gemaakt op %1$s
 %2$d nummer totaal"</item>
     </plurals>
-	<plurals name="Ntracks_add_to_playlist">
+    <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d nummers toegevoegd aan afspeellijst</item>
         <item quantity="one">>%d nummer toegevoegd aan afspeellijst</item>
     </plurals>
-	<plurals name="Ntracks_count">
+    <plurals name="Ntracks_count">
         <item quantity="other">%d nummers</item>
         <item quantity="one">%d nummer</item>
     </plurals>
-	<plurals name="Ntracks_remove_from_playlist">
+    <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d nummers verwijderd van afspeellijst</item>
         <item quantity="one">>%d nummer verwijderd van afspeellijst</item>
     </plurals>
-	<plurals name="Ntracks_similar_count">
+    <plurals name="Ntracks_similar_count">
         <item quantity="other">%d gelijkaardige nummers</item>
         <item quantity="one">%d gelijkaardig nummer</item>
     </plurals>
-	<plurals name="comment_count">
+    <plurals name="comment_count">
         <item quantity="other">%d opmerkingen</item>
         <item quantity="one">%d opmerking</item>
     </plurals>
-	<plurals name="dialog_confirm_delete_downloads_message">
+    <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">%d items verwijderen?</item>
         <item quantity="one">%d item verwijderen?</item>
     </plurals>
-	<plurals name="dialog_confirm_delete_downloads_message_with_file">
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
         <item quantity="other">"%d items verwijderen?
 Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
         <item quantity="one">"%d item verwijderen?
 Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
     </plurals>
-	<plurals name="dialog_delete_descript">
+    <plurals name="dialog_delete_descript">
         <item quantity="other">%d nummers verwijderen?</item>
         <item quantity="one">%d nummer verwijderen?</item>
     </plurals>
-	<plurals name="dialog_remove_descript">
+    <plurals name="dialog_remove_descript">
         <item quantity="other">%d nummers verwijderen?</item>
         <item quantity="one">%d nummer verwijderen?</item>
     </plurals>
@@ -70,7 +70,7 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d nummers gedownload</item>
         <item quantity="one">%d nummer gedownload</item>
     </plurals>
-	<plurals name="download_info_count_deleted_tasks">
+    <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%d downloads verwijderd</item>
         <item quantity="one">%d download verwijderd</item>
     </plurals>
@@ -78,11 +78,11 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d nummers bezig met downloaden</item>
         <item quantity="one">%d nummer bezig met downloaden</item>
     </plurals>
-	<plurals name="multichoice_title">
+    <plurals name="multichoice_title">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
-	<plurals name="notif_title_multiple_downloading">
+    <plurals name="notif_title_multiple_downloading">
         <item quantity="other">Downloaden van %1$d bestanden</item>
         <item quantity="one">Downloaden van %1$d bestand</item>
     </plurals>
@@ -90,7 +90,7 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
         <item quantity="other">Kon %1$d items niet downloaden</item>
         <item quantity="one">Kon %1$d item niet downloaden</item>
     </plurals>
-	<plurals name="reader_count">
+    <plurals name="reader_count">
         <item quantity="other">%d volgers</item>
         <item quantity="one">%d volger</item>
     </plurals>
@@ -98,23 +98,23 @@ Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d nummers zullen worden verzonden</item>
         <item quantity="one">>%d nummer zal worden verzonden</item>
     </plurals>
-	<plurals name="skipped_online_songs_tips">
+    <plurals name="skipped_online_songs_tips">
         <item quantity="other">%d nummers overgeslagen. Schakel online services in in instellingen om ernaar te luisteren.</item>
         <item quantity="one">%d nummer overgeslagen. Schakel online services in in instellingen om ernaar te luisteren.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Nummers zijn al favoriet.</item>
-        <item quantity="one">Nummer is al favoriet.</item>	
-	</plurals>
-	<plurals name="songs_count">
+        <item quantity="one">Nummer is al favoriet.</item>
+    </plurals>
+    <plurals name="songs_count">
         <item quantity="other">%d nummers</item>
         <item quantity="one">%d nummer</item>
     </plurals>
-	<plurals name="video_count">
+    <plurals name="video_count">
         <item quantity="other">Video\'s</item>
         <item quantity="one">Video</item>
     </plurals>
-	<plurals name="video_play_count">
+    <plurals name="video_play_count">
         <item quantity="other">%1$s keer bekeken</item>
         <item quantity="one">%1$s keer bekeken</item>
     </plurals>

@@ -3,9 +3,9 @@
     <string-array name="editing_mode_entries">
         <item>Achtergrond</item>
         <item>Widgets</item>
-		<item>Instellingen</item>
+        <item>Instellingen</item>
     </string-array>
-	<string-array name="gadget_weather_image">
+    <string-array name="gadget_weather_image">
         <item>Helder</item>
         <item>Bewolkt</item>
         <item>Nevelig</item>
@@ -32,7 +32,7 @@
         <item>Zwevend stof</item>
         <item>Nevel</item>
     </string-array>
-	<string-array name="gadget_weather_theme_type_entries">
+    <string-array name="gadget_weather_theme_type_entries">
         <item>Standaard</item>
         <item>Klassiek</item>
     </string-array>

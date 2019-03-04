@@ -4,11 +4,19 @@
         <item quantity="other">%d dagen van tevoren</item>
         <item quantity="one">%d dag van tevoren</item>
     </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Over %1$d dagen om %2$s</item>
         <item quantity="one">Over %1$d dag om %2$s</item>
     </plurals>
-	<plurals name="Ndays_ago_at">
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d dagen van tevoren om %2$s</item>
         <item quantity="one">%1$d dag van tevoren om %2$s</item>
     </plurals>
@@ -32,7 +40,7 @@
         <item quantity="other">Jubileum: %2$d jaar sinds %1$s over 3 dagen</item>
         <item quantity="one">Jubileum: %2$d jaar sinds %1$s over 3 dagen</item>
     </plurals>
-	<plurals name="anniversary_notify_title">
+    <plurals name="anniversary_notify_title">
         <item quantity="other">Jubileum: %2$d jaar sinds %1$s</item>
         <item quantity="one">Jubileum: %2$d jaar sinds %1$s</item>
     </plurals>
@@ -40,7 +48,7 @@
         <item quantity="other">%1$jaar</item>
         <item quantity="one">%1$jaar</item>
     </plurals>
-	<plurals name="birthday_event_description_days_ago">
+    <plurals name="birthday_event_description_days_ago">
         <item quantity="other">%1$d dagen sinds</item>
         <item quantity="one">%1$d dag sinds</item>
     </plurals>
@@ -48,7 +56,7 @@
         <item quantity="other">%1$d dagen tot</item>
         <item quantity="one">%1$d dag tot</item>
     </plurals>
-	<plurals name="birthday_notification_age_term">
+    <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$se</item>
         <item quantity="one">%1$se</item>
     </plurals>
@@ -76,9 +84,12 @@
         <item quantity="other">Je kan tot %1$d dagen invoeren</item>
         <item quantity="one">Je kan tot %1$d dag invoeren</item>
     </plurals>
-		<plurals name="event_reminders_to_max">
+    <plurals name="event_reminders_to_max">
         <item quantity="other">Kan %d herinneringen instellen</item>
         <item quantity="one">Kan %d herinnering instellen</item>
+    </plurals>
+    <plurals name="feed_list_dislike_title">
+        <item quantity="other">已选%1$d个理由</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
@@ -103,19 +114,8 @@
     <plurals name="weekN">
         <item quantity="other">WEEK %d</item>
     </plurals>
-	<plurals name="work_days">
+    <plurals name="work_days">
         <item quantity="other">%d werkdagen</item>
         <item quantity="one">%d werkdag</item>
-    </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
-    </plurals>
-    <plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
-    </plurals>
-    <plurals name="feed_list_dislike_title">
-        <item quantity="other">已选%1$d个理由</item>
     </plurals>
 </resources>

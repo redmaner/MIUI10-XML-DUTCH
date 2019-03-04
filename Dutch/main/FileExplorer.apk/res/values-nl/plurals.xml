@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
+        <item quantity="zero">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
+        <item quantity="one">"%1$d video in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
+        <item quantity="two">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
+        <item quantity="few">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
+        <item quantity="many">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">%1$s dagen op rij aangemeld, ga zo door!</item>
+        <item quantity="one">%1$s dag aangemeld, ga zo door!</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">%1$s dagen op rij gecontroleerd</item>
+        <item quantity="one">%1$s dag gecontroleerd</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">U hebt &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punten</item>
+        <item quantity="one">U hebt &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punt</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="zero">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+        <item quantity="two">%1$d dagen geleden</item>
+        <item quantity="few">%1$d dagen geleden</item>
+        <item quantity="many">%1$d dagen geleden</item>
+    </plurals>
     <plurals name="delete_files_confirm">
         <item quantity="other">%1$d bestanden</item>
         <item quantity="zero">%1$d bestanden</item>
@@ -24,13 +52,37 @@
         <item quantity="few">%d items</item>
         <item quantity="many">%d items</item>
     </plurals>
-    <plurals name="numSelectedFile">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="zero">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
-        <item quantity="two">%1$d geselecteerd</item>
-        <item quantity="few">%1$d geselecteerd</item>
-        <item quantity="many">%1$d geselecteerd</item>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> volgers</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> volger</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="zero">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="one">%1$d nieuw bestand gevonden</item>
+        <item quantity="two">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="few">%1$d nieuwe bestanden gevonden</item>
+        <item quantity="many">%1$d nieuwe bestanden gevonden</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s edelstenen</item>
+        <item quantity="one">%1$s edelsteen</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d uur geleden</item>
+        <item quantity="zero">%1$d uur geleden</item>
+        <item quantity="one">%1$d uur geleden</item>
+        <item quantity="two">%1$d uur geleden</item>
+        <item quantity="few">%1$d uur geleden</item>
+        <item quantity="many">%1$d uur geleden</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d items)</item>
@@ -39,16 +91,56 @@
         <item quantity="two"> (%1$d items)</item>
         <item quantity="few"> (%1$d items)</item>
         <item quantity="many"> (%1$d items)</item>
-	</plurals>
-	<plurals name="file_count">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
     </plurals>
-	<plurals name="search_head_hint_app">
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="zero">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+        <item quantity="two">%1$d minuten geleden</item>
+        <item quantity="few">%1$d minuten geleden</item>
+        <item quantity="many">%1$d minuten geleden</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> meer edelstenen om deel te nemen aan de trekking</item>
+        <item quantity="one">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> een edelsteeen meer om deel te nemen aan de trekking</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+        <item quantity="two">%1$d geselecteerd</item>
+        <item quantity="few">%1$d geselecteerd</item>
+        <item quantity="many">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s opmerkingen</item>
+        <item quantity="one">%1$s opmerking</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">• %1$d dagen</item>
+        <item quantity="one">• %1$d dag</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">• U hebt %1$s volgers!</item>
+        <item quantity="one">• U hebt %1$s volger!</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video\'s geüpload.</item>
+        <item quantity="one">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video geüpload.</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">U hebt %1$s personen gelukkig gemaakt!</item>
+        <item quantity="one">U hebt %1$s persoon gelukkig gemaakt!</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">%1$s nieuwe video\'s gevonden</item>
+        <item quantity="zero">%1$s nieuwe video\'s gevonden</item>
+        <item quantity="one">%1$s nieuwe video gevonden</item>
+        <item quantity="two">%1$s nieuwe video\'s gevonden</item>
+        <item quantity="few">%1$s nieuwe video\'s gevonden</item>
+        <item quantity="many">%1$s nieuwe video\'s gevonden</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s verwante bestanden (%2$d items)</item>
         <item quantity="zero">App %1$s verwante bestanden (%2$d items)</item>
         <item quantity="one">App %1$s verwant bestand (%2$d item)</item>
@@ -72,134 +164,6 @@
         <item quantity="few">Tag %1$s verwante bestanden (%2$d items)</item>
         <item quantity="many">Tag %1$s verwante bestanden (%2$d items)</item>
     </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">%1$d minuten geleden</item>
-        <item quantity="zero">%1$d minuten geleden</item>
-        <item quantity="one">%1$d minuut geleden</item>
-        <item quantity="two">%1$d minuten geleden</item>
-        <item quantity="few">%1$d minuten geleden</item>
-        <item quantity="many">%1$d minuten geleden</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d uur geleden</item>
-        <item quantity="zero">%1$d uur geleden</item>
-        <item quantity="one">%1$d uur geleden</item>
-        <item quantity="two">%1$d uur geleden</item>
-        <item quantity="few">%1$d uur geleden</item>
-        <item quantity="many">%1$d uur geleden</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d dagen geleden</item>
-        <item quantity="zero">%1$d dagen geleden</item>
-        <item quantity="one">%1$d dag geleden</item>
-        <item quantity="two">%1$d dagen geleden</item>
-        <item quantity="few">%1$d dagen geleden</item>
-        <item quantity="many">%1$d dagen geleden</item>
-    </plurals>
-    <plurals name="found_new_files">
-        <item quantity="other">%1$d nieuwe bestanden gevonden</item>
-        <item quantity="zero">%1$d nieuwe bestanden gevonden</item>
-        <item quantity="one">%1$d nieuw bestand gevonden</item>
-        <item quantity="two">%1$d nieuwe bestanden gevonden</item>
-        <item quantity="few">%1$d nieuwe bestanden gevonden</item>
-        <item quantity="many">%1$d nieuwe bestanden gevonden</item>
-    </plurals>
-    <plurals name="backup_message_wechat_video">
-        <item quantity="other">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
-        <item quantity="zero">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
-        <item quantity="one">"%1$d video in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
-        <item quantity="two">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
-        <item quantity="few">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
-        <item quantity="many">"%1$d video\'s in WeChat conversaties staan op het punt te vervallen. Back-up maken op intern geheugen van apparaat?"</item>
-    </plurals>
-	<plurals name="remote_video_update">
-        <item quantity="other">%1$s nieuwe video\'s gevonden</item>
-        <item quantity="zero">%1$s nieuwe video\'s gevonden</item>
-        <item quantity="one">%1$s nieuwe video gevonden</item>
-        <item quantity="two">%1$s nieuwe video\'s gevonden</item>
-        <item quantity="few">%1$s nieuwe video\'s gevonden</item>
-        <item quantity="many">%1$s nieuwe video\'s gevonden</item>
-	 </plurals>
-    <plurals name="video_ad_download_tip">
-        <item quantity="other"> Downloads</item>
-        <item quantity="zero"> Downloads</item>
-        <item quantity="one"> Download</item>
-        <item quantity="two"> Downloads</item>
-        <item quantity="few"> Downloads</item>
-        <item quantity="many"> Downloads</item>	
-    </plurals>
-	<plurals name="video_play_num">
-        <item quantity="other">%1$s keer bekeken</item>
-        <item quantity="zero">%1$s keer bekeken</item>
-        <item quantity="one">%1$s keer bekeken</item>
-        <item quantity="two">%1$s keer bekeken</item>
-        <item quantity="few">%1$s keer bekeken</item>
-        <item quantity="many">%1$s keer bekeken</item>
-    </plurals>
-    <plurals name="video_count">
-        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> video\'s</item>
-        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
-    </plurals>
-	<plurals name="number_of_comment_flow">
-        <item quantity="other">%1$s opmerkingen</item>
-        <item quantity="one">%1$s opmerking</item>
-    </plurals>
-    <plurals name="user_sign_limt">
-        <item quantity="other">U kan %d karakters invoeren</item>
-        <item quantity="one">U kan %d karakter invoeren</item>
-    </plurals>
-	<plurals name="video_items">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
-    </plurals>
-	<plurals name="original_user_days">
-        <item quantity="other">• %1$d dagen</item>
-        <item quantity="one">• %1$d dag</item>
-    </plurals>
-    <plurals name="original_user_play_1">
-        <item quantity="other">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video\'s geüpload.</item>
-        <item quantity="one">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> video geüpload.</item>
-    </plurals>
-    <plurals name="original_user_play_2">
-        <item quantity="other">U hebt %1$s personen gelukkig gemaakt!</item>
-        <item quantity="one">U hebt %1$s persoon gelukkig gemaakt!</item>
-    </plurals>
-    <plurals name="original_user_fans">
-        <item quantity="other">• U hebt %1$s volgers!</item>
-        <item quantity="one">• U hebt %1$s volger!</item>
-    </plurals>
-	<plurals name="video_publish_watchable_hint">
-        <item quantity="other">Verkrijg %1$d meer volgers om uw status​ te upgraden</item>
-        <item quantity="one">Verkrijg %1$d volger meer om uw status​ te upgraden</item>
-    </plurals>
-	<plurals name="follow_count">
-        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> volgers</item>
-        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> volger</item>
-    </plurals>
-    <plurals name="gems">
-        <item quantity="other">%1$s edelstenen</item>
-        <item quantity="one">%1$s edelsteen</item>
-    </plurals>
-    <plurals name="more_gems">
-        <item quantity="other">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> meer edelstenen om deel te nemen aan de trekking</item>
-        <item quantity="one">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> een edelsteeen meer om deel te nemen aan de trekking</item>
-    </plurals>
-	<plurals name="clockin_days">
-        <item quantity="other">%1$s dagen op rij gecontroleerd</item>
-        <item quantity="one">%1$s dag gecontroleerd</item>
-    </plurals>
-    <plurals name="clockin_new_chip">
-        <item quantity="other">U hebt &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punten</item>
-        <item quantity="one">U hebt &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> punt</item>
-    </plurals>
-    <plurals name="clockin_day_count">
-        <item quantity="other">%1$s dagen op rij aangemeld, ga zo door!</item>
-        <item quantity="one">%1$s dag aangemeld, ga zo door!</item>
-    </plurals>
     <plurals name="total_topic_num">
         <item quantity="other">%1$s topics</item>
         <item quantity="one">%1$s topic</item>
@@ -207,5 +171,41 @@
     <plurals name="total_user_num">
         <item quantity="other">%1$s personen</item>
         <item quantity="one">%1$s persoon</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">U kan %d karakters invoeren</item>
+        <item quantity="one">U kan %d karakter invoeren</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Downloads</item>
+        <item quantity="zero"> Downloads</item>
+        <item quantity="one"> Download</item>
+        <item quantity="two"> Downloads</item>
+        <item quantity="few"> Downloads</item>
+        <item quantity="many"> Downloads</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> video\'s</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
+    </plurals>
+    <plurals name="video_items">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
+    </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s keer bekeken</item>
+        <item quantity="zero">%1$s keer bekeken</item>
+        <item quantity="one">%1$s keer bekeken</item>
+        <item quantity="two">%1$s keer bekeken</item>
+        <item quantity="few">%1$s keer bekeken</item>
+        <item quantity="many">%1$s keer bekeken</item>
+    </plurals>
+    <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Verkrijg %1$d meer volgers om uw status​ te upgraden</item>
+        <item quantity="one">Verkrijg %1$d volger meer om uw status​ te upgraden</item>
     </plurals>
 </resources>

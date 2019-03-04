@@ -156,7 +156,7 @@
         <item>Left-leaning</item>
         <item>Right-leaning</item>
     </string-array>
-      <string-array name="overlay_display_devices_entries">
+    <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
         <item>480p</item>
         <item>480p (veilig)</item>
@@ -170,7 +170,6 @@
         <item>4K (upscaled, veilig)</item>
         <item>720p, 1080p (dual screen)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Uit</item>
         <item>64KB</item>
@@ -188,7 +187,7 @@
         <item>4MB</item>
         <item>16MB</item>
     </string-array>
-	<string-array name="select_logd_system_levels">
+    <string-array name="select_logd_system_levels">
         <item>Uit</item>
         <item>Fout</item>
         <item>Waarschuwen</item>
@@ -213,7 +212,6 @@
         <item>Teken een niet-rechthoekig clipgebied in blauw</item>
         <item>Markeer geteste tekenopdrachten in groen</item>
     </string-array>
-
     <string-array name="track_frame_time_entries">
         <item>Uit</item>
         <item>Op het scherm als balken</item>

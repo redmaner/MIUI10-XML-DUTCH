@@ -8,7 +8,7 @@
         <item>Heel ongezond</item>
         <item>Gevaarlijk</item>
     </string-array>
-	<string-array name="aqi_value">
+    <string-array name="aqi_value">
         <item>Goed</item>
         <item>Voldoende</item>
         <item>Gemiddeld vervuild</item>
@@ -49,12 +49,12 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
-	<string-array name="minute_rain_array">
+    <string-array name="minute_rain_array">
         <item>Hevig</item>
         <item>Gemiddeld</item>
         <item>Licht</item>
     </string-array>
-	<string-array name="pollution_level_desc_arr">
+    <string-array name="pollution_level_desc_arr">
         <item>Uitstekend</item>
         <item>Goed</item>
         <item>Licht vervuild</item>
@@ -91,7 +91,7 @@
         <item>Nevel</item>
         <item>IJzel</item>
         <item></item>
-	</string-array>
+    </string-array>
     <string-array name="wind_direction">
         <item>Noord</item>
         <item>Noord-oost</item>
@@ -102,14 +102,14 @@
         <item>West</item>
         <item>Noord-west</item>
     </string-array>
-	<string-array name="wind_unit_detail">
+    <string-array name="wind_unit_detail">
         <item>Beaufort</item>
         <item>Kilometer per uur (km/h)</item>
         <item>Meter per seconde (m/s)</item>
         <item>Mijl per uur (mph)</item>
         <item>Knopen (kn)</item>
     </string-array>
-	<string-array name="wind_unit_replace">
+    <string-array name="wind_unit_replace">
         <item>Kracht %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<plurals name="btn_clear_records">
+    <plurals name="btn_clear_records">
         <item quantity="other">%d opnames verwijderen</item>
         <item quantity="one">%d opname verwijderen</item>
     </plurals>
@@ -19,9 +19,9 @@
     <plurals name="record_downloading_complete_count">
         <item quantity="other">%d opnames gedownload</item>
         <item quantity="one">%d opname gedownload</item>
-	</plurals>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d niet gesynchroniseerd</item>
-        <item quantity="one">%d niet gesynchroniseerd</item>	
+        <item quantity="one">%d niet gesynchroniseerd</item>
     </plurals>
 </resources>

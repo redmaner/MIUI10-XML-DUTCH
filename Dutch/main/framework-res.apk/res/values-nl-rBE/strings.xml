@@ -143,7 +143,7 @@ Wilt u deze activiteit sluiten?"</string>
   <string name="autofill_shipping_designator_re">verzendadres</string>
   <string name="autofill_state">Staat</string>
   <string name="autofill_this_form">Automatisch invullen</string>
-  <string name="autofill_zip_code">Postcode</string>  
+  <string name="autofill_zip_code">Postcode</string>
   <string name="back_button_label">Vorige</string>
   <string name="badPin">De oude PIN code die u heeft ingevoerd, is onjuist.</string>
   <string name="badPuk">De PUK code die u heeft ingevoerd, is onjuist.</string>
@@ -1245,10 +1245,10 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="status_communication_speaker_summary">Er is een handsfree gesprek bezig. Audio wordt nog steeds via de luidspreker afgespeeld wanneer een hoofdtelefoon is aangesloten.</string>
   <string name="status_communication_summary">Er is een gesprek bezig. U kunt het belvolume nu alleen aanpassen.</string>
   <string name="stk_cc_ss_to_dial">SS verzoek is aangepast naar DIAL verzoek .</string>
+  <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
   <string name="stk_cc_ss_to_ss">SS verzoek is aangepast naar nieuw SS verzoek.</string>
   <string name="stk_cc_ss_to_ussd">SS verzoek is aangepast naar USSD verzoek.</string>
   <string name="stk_cc_ussd_to_dial">USSD verzoek is aangepast naar DIAL verzoek.</string>
-  <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
   <string name="stk_cc_ussd_to_ss">USSD verzoek is aangepast naar SS verzoek.</string>
   <string name="stk_cc_ussd_to_ussd">USSD verzoek is aangepast naar nieuw USSD verzoek.</string>
   <string name="storage_internal">Interne opslag</string>

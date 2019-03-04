@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string-array name="pref_fling_gesture_entries">
+    <string-array name="pref_fling_gesture_entries">
         <item>Pagina verder/terug</item>
         <item>Tabbladen wisselen</item>
         <item>Geen</item>
     </string-array>
-	<string-array name="pref_homepage_choices">
+    <string-array name="pref_homepage_choices">
         <item>Standaard startpagina</item>
         <item>Aangepast</item>
-	</string-array>	
-	<string-array name="pref_nav_mode_summary">
-        <item>Telefoon</item>
-        <item>Pad</item>	
     </string-array>
-	    <string-array name="pref_navscreen_layoutstate_choices">
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefoon</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
         <item>Verticale weergave</item>
         <item>Horizontale weergave</item>
     </string-array>
-		<string-array name="pref_tab_restore_array">
+    <string-array name="pref_tab_restore_array">
         <item>Altijd vragen</item>
         <item>Openen</item>
         <item>Sluiten</item>
     </string-array>
-	<string-array name="pref_text_zoom_choices">
+    <string-array name="pref_text_zoom_choices">
         <item>Extra klein</item>
         <item>Klein</item>
         <item>Normaal</item>
         <item>Groot</item>
         <item>Extra groot</item>
-	</string-array>	
+    </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -43,15 +43,15 @@
         <item>OK</item>
         <item>Volgen</item>
     </string-array>
-	<string-array name="shortcut_dialog_title">
+    <string-array name="shortcut_dialog_title">
         <item>Bericht van browser</item>
         <item>Volg de olympische spelen met Mi</item>
     </string-array>
-	<string-array name="suggestion_topic_tips">
+    <string-array name="suggestion_topic_tips">
         <item>Kijken naar Focus</item>
         <item>Centraal thema</item>
     </string-array>
-	<string-array name="suggestion_weather_condition_message">
+    <string-array name="suggestion_weather_condition_message">
         <item>Helder</item>
         <item>Gedeeltelijk bewolkt</item>
         <item>Bewolkt</item>

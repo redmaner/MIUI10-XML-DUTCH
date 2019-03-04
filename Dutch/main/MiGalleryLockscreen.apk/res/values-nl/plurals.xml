@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<plurals name="feed_article_entrance_title">
+    <plurals name="feed_article_entrance_title">
         <item quantity="other">%d artikelen over dit onderwerp</item>
         <item quantity="one">%d artikel over dit onderwerp</item>
     </plurals>
@@ -12,7 +12,7 @@
         <item quantity="other">%1$s achtergronden</item>
         <item quantity="one">%1$s achtergrond</item>
     </plurals>
-	<plurals name="time_day_ago">
+    <plurals name="time_day_ago">
         <item quantity="other">%d dagen geleden</item>
         <item quantity="one">%d dag geleden</item>
     </plurals>

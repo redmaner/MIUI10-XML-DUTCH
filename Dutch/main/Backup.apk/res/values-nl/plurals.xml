@@ -1,56 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d bestanden met systeemgegevens</item>
-        <item quantity="one">%d bestand met systeemgegevens</item>
-    </plurals>
     <plurals name="backup_items_app_tailer">
         <item quantity="other">%d bestanden met appgegevens</item>
         <item quantity="one">%d bestand met appgegevens</item>
     </plurals>
-    <plurals name="data_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
-    </plurals>
-	<plurals name="total_num">
-        <item quantity="other">%d items,</item>
-        <item quantity="one">%d item,</item>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d bestanden met systeemgegevens</item>
+        <item quantity="one">%d bestand met systeemgegevens</item>
     </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d items</item>
         <item quantity="one">%d item</item>
     </plurals>
-	<plurals name="trans_failed_summary">
-        <item quantity="other">"Kon %d items transferen. Tik om details weer te geven."</item>
-        <item quantity="one">"Kon %d item transferen. Tik om details weer te geven."</item>
-    </plurals>
-    <plurals name="trans_item_failed_summary">
-        <item quantity="other">"Kon %d items transferen."</item>
-        <item quantity="one">"Kon %d item transferen."</item>
-    </plurals>
-	<plurals name="trans_time_format_minute">
-        <item quantity="other">%d minuten</item>
-        <item quantity="one">%d minuut</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
-        <item quantity="other">%d uur</item>
-        <item quantity="one">%d uur</item>
-    </plurals>
-    <plurals name="select_item_summary">
-        <item quantity="other">%1$s | %2$d items</item>
-        <item quantity="one">%1$s | %2$d item</item>
-    </plurals>
-    <plurals name="select_item_count_unit">
-        <item quantity="other">items</item>
-        <item quantity="one">item</item>
-    </plurals>
-    <plurals name="save_item_saving_summary">
-        <item quantity="other">%d items hersteld</item>
-        <item quantity="one">%d item hersteld</item>
-    </plurals>
-    <plurals name="save_item_saved_summary">
-        <item quantity="other">%d items geimporteerd en hersteld</item>
-        <item quantity="one">%d item geimporteerd en hersteld</item>
+    <plurals name="data_item_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d items geimporteerd. "</item>
@@ -59,5 +23,41 @@
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Importeer %d items opnieuw.</item>
         <item quantity="one">Importeer %d item opnieuw.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d items geimporteerd en hersteld</item>
+        <item quantity="one">%d item geimporteerd en hersteld</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d items hersteld</item>
+        <item quantity="one">%d item hersteld</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">items</item>
+        <item quantity="one">item</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d items</item>
+        <item quantity="one">%1$s | %2$d item</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d items,</item>
+        <item quantity="one">%d item,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"Kon %d items transferen. Tik om details weer te geven."</item>
+        <item quantity="one">"Kon %d item transferen. Tik om details weer te geven."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Kon %d items transferen."</item>
+        <item quantity="one">"Kon %d item transferen."</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
     </plurals>
 </resources>

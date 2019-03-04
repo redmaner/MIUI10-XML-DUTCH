@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<plurals name="delete_confirm_text">
+    <plurals name="delete_confirm_text">
         <item quantity="other">%1$d schermopnames verwijderen?</item>
         <item quantity="one">Deze schermopname verwijderen?</item>
     </plurals>
-	<plurals name="home_title_selected">
+    <plurals name="home_title_selected">
         <item quantity="other">%1$d items geselecteerd</item>
         <item quantity="one">%1$d item geselecteerd</item>
     </plurals>

@@ -14,16 +14,16 @@
         <item>Calendar</item>
         <item>Storage</item>
     </string-array>
-    <string-array name="micloud_entrance_titleArray">
-        <item>Sync app data</item>
-        <item>Backup maken van startschermn layout</item>
-        <item>Backup maken van systeem instellingen</item>
-        <item>Apparaat zoeken</item>
-    </string-array>
     <string-array name="micloud_entrance_subtitleArray">
         <item>Synchroniseer uw contacten, berichten, notities, agenda en meer</item>
         <item>Backup maken vanapps, startschermn layout en achtergrond</item>
         <item>Backup maken van belangrijke instellingen, inclusief Wi-Fi en scherm</item>
         <item>Vergrendel uw apparaat op afstand als het verloren is gegaan</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sync app data</item>
+        <item>Backup maken van startschermn layout</item>
+        <item>Backup maken van systeem instellingen</item>
+        <item>Apparaat zoeken</item>
     </string-array>
 </resources>

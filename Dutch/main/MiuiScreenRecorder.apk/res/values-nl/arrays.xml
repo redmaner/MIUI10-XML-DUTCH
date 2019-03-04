@@ -10,7 +10,7 @@
         <item>Microfoon</item>
         <item>Systeem geluiden</item>
     </string-array>
-	<string-array name="screenrecorder_settings_storage_location">
+    <string-array name="screenrecorder_settings_storage_location">
         <item>Interne opslag</item>
         <item>Externe opslag</item>
     </string-array>

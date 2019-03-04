@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="pc_manage_active_app_items">
-        <item>Zet apps in slaapstand</item>
-        <item>Energie sparen</item>
+    <string-array name="emode_app_groups">
+        <item>Systeem apps</item>
+        <item>Andere apps</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Aangepast</item>
         <item>Batterijbespaarder</item>
-	</string-array>
-	 <string-array name="hmode_app_classify2">
+    </string-array>
+    <string-array name="hmode_app_classify2">
         <item>Actieve apps</item>
         <item>Inactive apps</item>
-		<item>Geselecteerde apps</item>
+        <item>Geselecteerde apps</item>
     </string-array>
-	<string-array name="emode_app_groups">
-        <item>Systeem apps</item>
-        <item>Andere apps</item>
+    <string-array name="pc_manage_active_app_items">
+        <item>Zet apps in slaapstand</item>
+        <item>Energie sparen</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Prestatiemodus</item>
+        <item>Gebalanceerd</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Standaard temperatuurcontrole modus</item>
@@ -24,10 +28,6 @@
     <string-array name="thermal_summaries">
         <item>Geef prioriteit aan temperatuurregeling</item>
         <item>Geef prioriteit aan prestaties</item>
-		<item>Werkt niet in de extreme modus</item>
-    </string-array>
-	<string-array name="power_mode_entries">
-        <item>Prestatiemodus</item>
-        <item>Gebalanceerd</item>
+        <item>Werkt niet in de extreme modus</item>
     </string-array>
 </resources>

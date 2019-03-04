@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">Kon de items %1$d niet downloaden</item>
-        <item quantity="one">Kon het item %1$d niet downloaden</item>
-    </plurals>
     <plurals name="notif_summary_active">
         <item quantity="other">Er worden %d bestanden gedownload</item>
         <item quantity="one">Er wordt 1 bestand gedownload</item>
@@ -11,5 +7,9 @@
     <plurals name="notif_summary_waiting">
         <item quantity="other">%d bestanden in de wachtrij</item>
         <item quantity="one">1 bestand in de wachtrij</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Kon de items %1$d niet downloaden</item>
+        <item quantity="one">Kon het item %1$d niet downloaden</item>
     </plurals>
 </resources>

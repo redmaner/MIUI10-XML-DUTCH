@@ -13,7 +13,7 @@
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Meldingen van %1$s &amp; %2$d apps worden niet getoond.</item>
-		<item quantity="one">Meldingen van %1$s &amp; %2$d app worden niet getoond.</item>
+        <item quantity="one">Meldingen van %1$s &amp; %2$d app worden niet getoond.</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Meldingen van %d apps verbergen?"</item>
@@ -31,7 +31,7 @@
         <item quantity="other">Foute PUK code, %d resterende pogingen </item>
         <item quantity="one">Foute PUK code, %d resterende pogingen</item>
     </plurals>
-	<plurals name="input_password_after_timeout_msg">
+    <plurals name="input_password_after_timeout_msg">
         <item quantity="other">Wachtwoord is vereist na %d uur inactiviteit</item>
         <item quantity="one">Wachtwoord is vereist na %d uur inactiviteit</item>
     </plurals>
@@ -63,7 +63,7 @@
         <item quantity="other">%1$d uur en %2$d minuten</item>
         <item quantity="one">%1$d uur en %2$d minuut</item>
     </plurals>
-	<plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other"> %d uur resterend</item>
         <item quantity="one">%d uur resterend</item>
     </plurals>
@@ -115,7 +115,7 @@
         <item quantity="other">Nog %s meldingen.</item>
         <item quantity="one">Nog %s melding.</item>
     </plurals>
-	<plurals name="notification_num_channels">
+    <plurals name="notification_num_channels">
         <item quantity="other">%d meldingsscategorieën</item>
         <item quantity="one">%d meldingsscategorie</item>
     </plurals>
@@ -138,7 +138,7 @@
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d recente apps</item>
         <item quantity="one">%d recente app</item>
-	</plurals>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Helder</item>
         <item quantity="one">Zonnig</item>

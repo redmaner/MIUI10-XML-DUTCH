@@ -16,7 +16,7 @@
         <item>Website</item>
         <item>Adres</item>
         <item>Notities</item>
-	</string-array>
+    </string-array>
     <string-array name="first_guide_contents">
         <item>Welkom bij notities!</item>
         <item>Maak notities</item>
@@ -27,7 +27,7 @@
         <item>Maak &amp; schakel tussen mappen</item>
         <item>Druk op de pijl hieronder om een nieuwe map te maken of om tussen bestaande mappen te schakelen.</item>
     </string-array>
-	    <string-array name="folder_operations">
+    <string-array name="folder_operations">
         <item>Hernoemen</item>
         <item>Verwijderen</item>
     </string-array>
@@ -37,11 +37,11 @@
         <item>Groot</item>
         <item>Enorm</item>
     </string-array>
-	    <string-array name="note_sort_way">
+    <string-array name="note_sort_way">
         <item>Op opmaak datum</item>
         <item>Op aangepaste datum</item>
     </string-array>
-	<string-array name="second_guide_contents">
+    <string-array name="second_guide_contents">
         <item>Spraaknotities</item>
         <item>U kunt nu spraaknotities maken. Tik gewoon op het pictogram, neem uw stem op en sla het audiobestand in de notitie op.</item>
     </string-array>

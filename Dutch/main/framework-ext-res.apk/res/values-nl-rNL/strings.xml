@@ -175,7 +175,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="twohours">1 uur</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
-    <string name="voice_begin">Waar bent u naar op zoek?</string>
+  <string name="voice_begin">Waar bent u naar op zoek?</string>
   <string name="voice_button_action_down">Loslatern om te zoeken</string>
   <string name="voice_button_action_up">Drukken om te spreken</string>
   <string name="voice_input_error_network">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>

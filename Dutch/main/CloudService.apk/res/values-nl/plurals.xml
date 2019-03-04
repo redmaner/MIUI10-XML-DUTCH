@@ -1,40 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="items_unsynced">
-        <item quantity="other">Items wachten om te synchroniseren: %d</item>
-        <item quantity="one">Item wacht om te synchroniseren: %d</item>
-    </plurals>
-    <plurals name="dirty_contacts_count">
-        <item quantity="other">%d contacten</item>
-        <item quantity="one">%d contact</item>
-    </plurals>
-    <plurals name="dirty_mms_count">
-        <item quantity="other">%d berichten</item>
-        <item quantity="one">%d bericht</item>
-    </plurals>
-    <plurals name="dirty_note_count">
-        <item quantity="other">%d notities</item>
-        <item quantity="one">%d notitie</item>
-    </plurals>
-    <plurals name="dirty_image_count">
-        <item quantity="other">%d foto\'s</item>
-        <item quantity="one">%d foto</item>
-    </plurals>
-	<plurals name="dirty_callog_count">
-        <item quantity="other">%d oproepgeschiedenis archieven</item>
-        <item quantity="one">%d oproepgeschiedenis archief</item>
-    </plurals>
-    <plurals name="dirty_wlan_count">
-        <item quantity="other">%d Wi-Fi netwerken</item>
-        <item quantity="one">%d Wi-Fi netwerk</item>
-    </plurals>
-    <plurals name="dirty_recorder_count">
-        <item quantity="other">%d archieven</item>
-        <item quantity="one">%d archief</item>
-    </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d nummers</item>
-        <item quantity="one">%d nummer</item>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d vermeldingen in blokkeerlijst</item>
+        <item quantity="one">%d vermelding in blokkeerlijst</item>
     </plurals>
     <plurals name="dirty_browser_count">
         <item quantity="other">%d browseritems</item>
@@ -44,28 +12,60 @@
         <item quantity="other">%d kalenderitems</item>
         <item quantity="one">%d kalenderitem</item>
     </plurals>
-    <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d vermeldingen in blokkeerlijst</item>
-        <item quantity="one">%d vermelding in blokkeerlijst</item>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d oproepgeschiedenis archieven</item>
+        <item quantity="one">%d oproepgeschiedenis archief</item>
     </plurals>
-	<plurals name="dirty_personalAssistant_count">
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d contacten</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d foto\'s</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d berichten</item>
+        <item quantity="one">%d bericht</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d nummer</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notities</item>
+        <item quantity="one">%d notitie</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d appvault items</item>
         <item quantity="one">%d appvault item</item>
     </plurals>
-	<plurals name="dirty_secretphoto_count">
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d archieven</item>
+        <item quantity="one">%d archief</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
         <item quantity="other">"%d verborgen foto\'s worden niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om ze te bewaren; anders worden de items verwijderd."</item>
         <item quantity="one">"%d verborgen foto wordt niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om te bewaren; anders wordt het item verwijderd."</item>
     </plurals>
-     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Synchronisatie onderbroken. Synchronisatie hervatten na %d minuten</item>
-        <item quantity="one">Synchronisatie onderbroken. Synchronisatie hervatten na %d minuut</item>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi netwerken</item>
+        <item quantity="one">%d Wi-Fi netwerk</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Items wachten om te synchroniseren: %d</item>
+        <item quantity="one">Item wacht om te synchroniseren: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" uur geleden"</item>
+        <item quantity="one">" uur geleden"</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">" min geleden"</item>
         <item quantity="one">" min geleden"</item>
     </plurals>
-    <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">" uur geleden"</item>
-        <item quantity="one">" uur geleden"</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Synchronisatie onderbroken. Synchronisatie hervatten na %d minuten</item>
+        <item quantity="one">Synchronisatie onderbroken. Synchronisatie hervatten na %d minuut</item>
     </plurals>
 </resources>

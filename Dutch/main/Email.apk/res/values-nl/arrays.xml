@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string-array name="all_month_str">
+    <string-array name="all_month_str">
         <item>Jan</item>
         <item>Feb</item>
         <item>Mrt</item>
@@ -61,6 +61,15 @@
         <item>Fax:</item>
         <item>Postcode:</item>
     </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Gebruiksvoorwaarden:</item>
+        <item>E-mail gebruiksvoorwaarden</item>
+        <item>Verzonden via WPSMail</item>
+        <item>Verzonden van</item>
+        <item>Verzonden met</item>
+        <item>Bedankt,</item>
+        <item>Met vriendelijke groet,</item>
+    </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Bedankt,</item>
         <item>Met vriendelijke groet,</item>
@@ -72,14 +81,5 @@
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail gebruiksvoorwaarden</item>
-    </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Gebruiksvoorwaarden:</item>
-        <item>E-mail gebruiksvoorwaarden</item>
-        <item>Verzonden via WPSMail</item>
-        <item>Verzonden van</item>
-        <item>Verzonden met</item>
-        <item>Bedankt,</item>
-        <item>Met vriendelijke groet,</item>
     </string-array>
 </resources>

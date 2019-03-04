@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<plurals name="batch_delete_confirm_dialog_message">
+    <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">%1$s berichten verwijderen?</item>
         <item quantity="one">%1$s bericht verwijderen?</item>
     </plurals>
@@ -14,15 +14,15 @@
         <item quantity="one">%d bericht is niet gesynchroniseerd</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">&lt;g example="15" id="number">%1$s&lt;/g> geselecteerde gesprekken verwijderen?</item>
+        <item quantity="other">&lt;g example="15" id="number</item>
         <item quantity="one">Dit gesprek verwijderen?</item>
     </plurals>
-	<plurals name="custom_select_title_items_selected">
+    <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d geselecteerd</item>
         <item quantity="zero">Items selecteren</item>
-		<item quantity="one">%d geselecteerd</item>
+        <item quantity="one">%d geselecteerd</item>
     </plurals>
-	<plurals name="delivery_toast_body_more_plurals">
+    <plurals name="delivery_toast_body_more_plurals">
         <item quantity="other">Bericht ontvangen door %1$s en %2$d andere personen</item>
         <item quantity="one">Bericht ontvangen door %1$s en %2$d ander persoon</item>
     </plurals>
@@ -30,12 +30,12 @@
         <item quantity="other">Kon niet naar %d contacten verzenden</item>
         <item quantity="one">Kon niet naar %d contact verzenden</item>
     </plurals>
-	<plurals name="hint_search_sms">
+    <plurals name="hint_search_sms">
         <item quantity="other">%d berichten</item>
         <item quantity="zero">%d berichten</item>
         <item quantity="one">%d bericht</item>
     </plurals>
-	 <plurals name="mark_number_dialog_subtitle">
+    <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Gemerkt als %2$s door %1$d personen</item>
         <item quantity="one">Gemerkt als %2$s door %1$d persoon</item>
     </plurals>
@@ -45,7 +45,7 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personen</item>
-		<item quantity="one">%1$s persoon</item>
+        <item quantity="one">%1$s persoon</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultaten voor \"%2$s\"</item>

@@ -2049,7 +2049,7 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="forget_password_dialog_button_text">Back</string>
   <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Selecteren &amp;lt;font color=#e6e6e6&amp;gt;[Data wissen]&amp;lt;/font&amp;gt;, en wacht totdat je apparaat opnieuw wordt opgestart.&lt;/Data&gt;</string>
   <string name="forget_password_dialog_content_one">&lt;Data&gt;"Als u uw wachtwoord bent vergeten, kunt u het niet meer herstellen. U kunt uw wachtwoord echter opnieuw instellen nadat u &amp;lt;font color=#ec2700&amp;gt;alle data op uw apparaat gewist hebt&amp;lt;/font&amp;gt; (inclusief foto\'s, contacten, etc.). Maak een back-up van alle belangrijke data."&lt;/Data&gt;</string>
-  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Schakel uw apparaat uit. Druk op de &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; knop en de &amp;lt;font color=#e6e6e6&amp;gt;[Volume+]&amp;lt;/font&amp;gt; knop tegelijkertijd ingedrukt houden totdat u het &amp;lt;img src=''&amp;gt; icoon ziet."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Schakel uw apparaat uit. Druk op de &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; knop en de &amp;lt;font color=#e6e6e6&amp;gt;[Volume+]&amp;lt;/font&amp;gt; knop tegelijkertijd ingedrukt houden totdat u het &amp;lt;img src=\'&amp;gt; icoon ziet."&lt;/Data&gt;</string>
   <string name="forget_password_dialog_content_two">Volg deze stappen om datat te wissen:</string>
   <string name="forget_password_dialog_title">Stel je wachtwoord opnieuw in</string>
   <string name="forget_pattern">Patroon vergeten?</string>

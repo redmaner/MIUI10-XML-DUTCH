@@ -4,8 +4,8 @@
         <item quantity="other">%1$d met succes, %2$s</item>
         <item quantity="one">%1$d met succes, %2$s</item>
     </plurals>
-	<plurals name="noti_caption_unsuccessful">
+    <plurals name="noti_caption_unsuccessful">
         <item quantity="other">%1$d zonder succes.</item>
         <item quantity="one">%1$d zonder succes.</item>
-    </plurals>	
+    </plurals>
 </resources>

@@ -12,13 +12,13 @@
         <item>Website</item>
         <item>Adres</item>
         <item>Notitie</item>
-	    <item>Relatie</item>
+        <item>Relatie</item>
     </string-array>
-	<string-array name="entries_mms_validity_period">
+    <string-array name="entries_mms_validity_period">
         <item>Maximum</item>
         <item>2 dagen</item>
     </string-array>
-	<string-array name="entries_sms_validity_period">
+    <string-array name="entries_sms_validity_period">
         <item>Niet ingesteld</item>
         <item>1 uur</item>
         <item>6 uur</item>
@@ -31,7 +31,7 @@
         <item>Alleen stille modus</item>
         <item>Nooit</item>
     </string-array>
-	<string-array name="reason_type">
+    <string-array name="reason_type">
         <item>Fraude</item>
         <item>Expliciete of illegale inhoud</item>
         <item>Spam</item>

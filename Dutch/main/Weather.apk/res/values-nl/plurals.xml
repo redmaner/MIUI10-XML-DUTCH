@@ -11,8 +11,8 @@
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d dagen geleden</item>
         <item quantity="one">%d dag geleden</item>
-	</plurals>
-	<plurals name="aqi_all_city_cur_num">
+    </plurals>
+    <plurals name="aqi_all_city_cur_num">
         <item quantity="other">Gemiddelde van %1$s stations</item>
         <item quantity="one">Gemiddelde van %1$s station</item>
     </plurals>
@@ -20,19 +20,19 @@
         <item quantity="other">Weersvoorspelling voor %1$s dagen</item>
         <item quantity="one">Weersvoorspelling voor %1$s dag</item>
     </plurals>
-	<plurals name="feedback_result_interval_time_too_short">
+    <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">%1$s seconden na feedback</item>
         <item quantity="one">%1$s seconde na feedback</item>
     </plurals>
-	<plurals name="no_vote_num">
+    <plurals name="no_vote_num">
         <item quantity="other">%1$s personen | </item>
         <item quantity="one">%1$s persoon | </item>
     </plurals>
-	<plurals name="total_voted_num_text">
+    <plurals name="total_voted_num_text">
         <item quantity="other">%1$s personen hebben gestemd</item>
         <item quantity="one">%1$s persoon heeft gestemd</item>
     </plurals>
-	<plurals name="view_realtime_clear">
+    <plurals name="view_realtime_clear">
         <item quantity="other">Helder</item>
         <item quantity="one">Helder</item>
     </plurals>

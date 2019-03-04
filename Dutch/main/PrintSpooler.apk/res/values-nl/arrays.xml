@@ -12,5 +12,5 @@
     <string-array name="orientation_labels">
         <item>Portret</item>
         <item>Landschap</item>
-	</string-array>
+    </string-array>
 </resources>

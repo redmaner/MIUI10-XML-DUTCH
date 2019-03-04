@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d ongelezen berichten</item>
-		<item quantity="one">%1$d ongelezen berichten</item>
+        <item quantity="one">%1$d ongelezen berichten</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d conversaties archiveren?</item>
@@ -20,9 +20,9 @@
         <item quantity="other">Deze conversaties bevatten samengevoegde items. Toch verwijderen?</item>
         <item quantity="one">Deze conversatie bevat samengevoegde items. Toch verwijderen?</item>
     </plurals>
-	<plurals name="confirm_delete_draft">
+    <plurals name="confirm_delete_draft">
         <item quantity="other">%1$d items verwijderen?</item>
-		<item quantity="one">%1$d item verwijderen?</item>
+        <item quantity="one">%1$d item verwijderen?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d items geselecteerd</item>
@@ -40,7 +40,7 @@
         <item quantity="other">Mappen gewijzigd.</item>
         <item quantity="one">Map gewijzigd.</item>
     </plurals>
-	<plurals name="conversation_msg_header_count">
+    <plurals name="conversation_msg_header_count">
         <item quantity="other">+%1$d andere personen</item>
         <item quantity="one">+%1$d ander persoon</item>
     </plurals>
@@ -64,7 +64,7 @@
         <item quantity="other">%1$d conversaties gemarkeerd als spam.</item>
         <item quantity="one">%1$d conversatie gemarkeerd als spam.</item>
     </plurals>
-	<plurals name="day">
+    <plurals name="day">
         <item quantity="other">%d dagen</item>
         <item quantity="one">%d dag</item>
     </plurals>
@@ -84,7 +84,7 @@
         <item quantity="other">%1$d berichten worden permanent verwijderd.</item>
         <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
     </plurals>
-	<plurals name="hide_atts_remaining">
+    <plurals name="hide_atts_remaining">
         <item quantity="other">%1$d bijlagen verbergen</item>
         <item quantity="one">%1$d bijlage verbergen</item>
     </plurals>
@@ -92,11 +92,11 @@
         <item quantity="other">%s resultaten in gesynchroniseerde berichten</item>
         <item quantity="one">%s resultaat in gesynchroniseerde berichten</item>
     </plurals>
-	<plurals name="month">
+    <plurals name="month">
         <item quantity="other">%d maanden</item>
         <item quantity="one">%d maand</item>
     </plurals>
-	<plurals name="more_atts_remaining">
+    <plurals name="more_atts_remaining">
         <item quantity="other">%1$d bijlagen resterend</item>
         <item quantity="one">%1$d bijlage resterend</item>
     </plurals>
@@ -108,7 +108,7 @@
         <item quantity="other">%1$d nieuwe berichten</item>
         <item quantity="one">%1$d nieuw bericht</item>
     </plurals>
-	<plurals name="new_messages">
+    <plurals name="new_messages">
         <item quantity="other">%1$d nieuwe berichten</item>
         <item quantity="one">%1$d nieuw bericht</item>
     </plurals>
@@ -124,7 +124,7 @@
         <item quantity="other">%s resultaten in alle accounts</item>
         <item quantity="one">%s resultaat in alle accounts</item>
     </plurals>
-	<plurals name="show_messages_read">
+    <plurals name="show_messages_read">
         <item quantity="other">%1$d oudere berichten</item>
         <item quantity="one">%1$d ouder bericht</item>
     </plurals>

@@ -3,14 +3,14 @@
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Direct</item>
     </plurals>
-	<plurals name="abbrev_less_than_one_minute_ago">
+    <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">%1$d contacten verwijderen?</item>
         <item quantity="one">%1$d contact verwijderen?</item>
     </plurals>
-	<plurals name="btn_delete_multi_contacts">
+    <plurals name="btn_delete_multi_contacts">
         <item quantity="other">%1$d contacten verwijderen</item>
         <item quantity="one">%1$d contact verwijderen</item>
     </plurals>
@@ -22,10 +22,10 @@
         <item quantity="other">%1$d contacten of foto\'s zijn niet gesynchroniseerd</item>
         <item quantity="one">%1$d contact of foto zijn niet gesynchroniseerd</item>
     </plurals>
-	    <plurals name="confirm_delete_sim_entry_miui">
+    <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">%1$d contacten van SIM kaart verwijderen?</item>
         <item quantity="one">%1$d contact van SIM kaart verwijderen?</item>
-	</plurals>
+    </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d contacten</item>
         <item quantity="one">%1$d contact</item>
@@ -34,7 +34,7 @@
         <item quantity="other">%1$d contacten geïmporteerd</item>
         <item quantity="one">%1$d contact geïmporteerd</item>
     </plurals>
-	<plurals name="device_import_progress_toast_plurals">
+    <plurals name="device_import_progress_toast_plurals">
         <item quantity="other">%1$d geïmporteerde contacte</item>
         <item quantity="one">%1$d geïmporteerd contact</item>
     </plurals>
@@ -46,11 +46,11 @@
         <item quantity="other">%1$d telefoonnummers deblokkeren?</item>
         <item quantity="one">%1$d telefoonnummer deblokkeren?</item>
     </plurals>
-	    <plurals name="export_sim_contacts_dialog_message">
+    <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM kaart kan %1$d contacten bewaren.</item>
         <item quantity="one">SIM kaart kan %1$d contact bewaren.</item>
     </plurals>
-	<plurals name="foundTooManyContacts_plurals">
+    <plurals name="foundTooManyContacts_plurals">
         <item quantity="other">Meer dan %d contacten gevonden.</item>
         <item quantity="one">Meer dan %d contact gevonden.</item>
     </plurals>
@@ -66,7 +66,7 @@
         <item quantity="other">%1$d nummers</item>
         <item quantity="one">%1$d nummer</item>
     </plurals>
-	<plurals name="hint_account_contacts">
+    <plurals name="hint_account_contacts">
         <item quantity="other">%1$d items gevonden</item>
         <item quantity="one">1 item gevonden</item>
     </plurals>
@@ -86,7 +86,7 @@
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
     </plurals>
-	<plurals name="listFoundAllContacts">
+    <plurals name="listFoundAllContacts">
         <item quantity="other">%d contacten gevonden</item>
         <item quantity="one">1 contact gevonden</item>
     </plurals>
@@ -98,11 +98,11 @@
         <item quantity="other">%d contacten met telefoonnummers</item>
         <item quantity="one">1 contact met telefoonnummer</item>
     </plurals>
-	<plurals name="merge_contact_message_plurals">
+    <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d contacten met gedeeltelijk identieke info</item>
         <item quantity="one">%1$d contact met gedeeltelijk identieke info</item>
     </plurals>
-	<plurals name="merge_info">
+    <plurals name="merge_info">
         <item quantity="other">samengevoegd van %0$d bronnen</item>
         <item quantity="one">niet samengevoegd</item>
     </plurals>
@@ -115,7 +115,7 @@
         <item quantity="zero">%1$d geselecteerd</item>
         <item quantity="one">%1$d geselecteerd</item>
     </plurals>
-	<plurals name="num_contacts_in_group">
+    <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d personen van %2$s</item>
         <item quantity="one">%1$d persoon van %2$s</item>
     </plurals>
@@ -123,7 +123,7 @@
         <item quantity="other">%0$d groepen</item>
         <item quantity="one">1 groep</item>
     </plurals>
-	<plurals name="number_of_items_available">
+    <plurals name="number_of_items_available">
         <item quantity="other">%1$d items resterend</item>
         <item quantity="one">%1$d item resterend</item>
     </plurals>
@@ -151,7 +151,7 @@
         <item quantity="other">%d contacten gevonden</item>
         <item quantity="one">1 contact gevonden</item>
     </plurals>
-	<plurals name="select_all_exceed_plurals">
+    <plurals name="select_all_exceed_plurals">
         <item quantity="other">Niet meer dan %1$d selecteren, kan niet alles selecteren</item>
         <item quantity="one">Niet meer dan %1$d selecteren, kan niet alles selecteren</item>
     </plurals>

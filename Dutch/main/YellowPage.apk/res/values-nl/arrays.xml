@@ -2,7 +2,6 @@
 <resources>
     <string-array name="permission_labels">
         <item>Locatie</item>
-		<item>Camera</item>
+        <item>Camera</item>
     </string-array>
-
 </resources>

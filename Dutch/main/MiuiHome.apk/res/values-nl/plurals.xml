@@ -7,7 +7,7 @@
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s ongelezen van %1$s</item>
     </plurals>
-	<plurals name="delete_wallpapers_message">
+    <plurals name="delete_wallpapers_message">
         <item quantity="other">%1$d achtergronden verwijderen?</item>
         <item quantity="one">%1$d achtergrond verwijderen?</item>
     </plurals>
@@ -15,7 +15,7 @@
         <item quantity="other">Selecteer %1$d items</item>
         <item quantity="one">Selecteer %1$d item</item>
     </plurals>
-	<plurals name="scroll_tip_format_when_announce_accessibility">
+    <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Pagina %1$d, %2$d apps</item>
         <item quantity="one">Pagina %1$d, %2$d app</item>
     </plurals>
@@ -27,7 +27,7 @@
         <item quantity="other">Kan %1$d apps niet verwijderen</item>
         <item quantity="one">Kan %1$d app niet verwijderen</item>
     </plurals>
-	<plurals name="uninstall_result_multi_succeeded">
+    <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d apps verwijderd</item>
         <item quantity="one">%1$d app verwijderd</item>
     </plurals>

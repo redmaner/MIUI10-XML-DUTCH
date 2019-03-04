@@ -2,13 +2,13 @@
 <resources>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$s zijn niet gesync."</item>
-        <item quantity="one">"%1$s is niet gesync."</item>	
+        <item quantity="one">"%1$s is niet gesync."</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s mappen</item>
         <item quantity="one">%1$s map</item>
-	</plurals>
-	    <plurals name="note_terms">
+    </plurals>
+    <plurals name="note_terms">
         <item quantity="other">%1$s notities</item>
         <item quantity="one">%1$s notitie</item>
     </plurals>

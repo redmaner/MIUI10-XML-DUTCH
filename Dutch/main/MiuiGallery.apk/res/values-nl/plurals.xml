@@ -4,11 +4,11 @@
         <item quantity="other">Deze bestanden verbergen?</item>
         <item quantity="one">Dit bestand verbergen?</item>
     </plurals>
-	<plurals name="add_to_album_cloud_photo_count_tip">
+    <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">%d toegevoegde cloudfoto\'s, uitschakelen \"Alleen lokale albums weergeven\" om weer te geven.</item>
         <item quantity="one">%d toegevoegde cloudfoto, uitschakelen \"Alleen lokale albums weergeven\" om weer te geven.</item>
     </plurals>
-	<plurals name="add_to_album_failed_with_reason_and_count">
+    <plurals name="add_to_album_failed_with_reason_and_count">
         <item quantity="other">"%2$d items kunnen niet worden toegevoegd aan album. %1$s."</item>
         <item quantity="one">"%2$d item kan niet worden toegevoegd aan album. %1$s."</item>
     </plurals>
@@ -28,7 +28,7 @@
         <item quantity="other">%d jaar</item>
         <item quantity="one">%d jaar</item>
     </plurals>
-	<plurals name="album_already_share_user_count">
+    <plurals name="album_already_share_user_count">
         <item quantity="other">Gedeeld met %d personen</item>
         <item quantity="one">Gedeeld met %d persoon</item>
     </plurals>
@@ -48,15 +48,15 @@
         <item quantity="other">%1$d foto\'s van %2$s zullen worden toegevoegd</item>
         <item quantity="one">%1$d foto van %2$s zal worden toegevoegd</item>
     </plurals>
-	<plurals name="baby_album_sharer_recommand_old_pictures">
+    <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d foto\'s van %2$s zullen worden toegevoegd</item>
         <item quantity="one">%1$d foto van %2$s zal worden toegevoegd</item>
     </plurals>
-	<plurals name="backup_after_hours">
+    <plurals name="backup_after_hours">
         <item quantity="other">Back-up hervatten over %d uur</item>
         <item quantity="one">Back-up hervatten over %d uur</item>
     </plurals>
-	 <plurals name="backup_file_over_size_title">
+    <plurals name="backup_file_over_size_title">
         <item quantity="other">%d items zijn te groot om een back-up van te maken</item>
         <item quantity="one">%d item is te groot om een back-up van te maken</item>
     </plurals>
@@ -68,23 +68,23 @@
         <item quantity="other">%1$d foto\'s en video\'s | %2$s</item>
         <item quantity="one">%1$d foto of video | %2$s</item>
     </plurals>
-	<plurals name="backuping_desc_normal">
+    <plurals name="backuping_desc_normal">
         <item quantity="other">%1$d foto\'s en video\'s</item>
         <item quantity="one">%1$d foto of video</item>
     </plurals>
-	<plurals name="cloud_storage_photo_num">
+    <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d foto\'s</item>
         <item quantity="one">%d foto</item>
     </plurals>
-	<plurals name="cloud_storage_video_num">
+    <plurals name="cloud_storage_video_num">
         <item quantity="other">%d video\'s</item>
         <item quantity="one">%d video</item>
     </plurals>
-	<plurals name="creation_max_image">
+    <plurals name="creation_max_image">
         <item quantity="other">Selecteer maximum %d foto\'s</item>
         <item quantity="one">Selecteer maximum %d foto</item>
     </plurals>
-	<plurals name="custom_select_title_items_selected">
+    <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
@@ -104,11 +104,11 @@
         <item quantity="other">%d foto\'s van alle apparaten en Mi Cloud verwijderen?</item>
         <item quantity="one">%d foto van alle apparaten en Mi Cloud verwijderen?</item>
     </plurals>
-	<plurals name="delete_photo_from_local">
+    <plurals name="delete_photo_from_local">
         <item quantity="other">%d foto\'s verwijderen?</item>
         <item quantity="one">Deze foto verwijderen?</item>
     </plurals>
-	<plurals name="delete_photo_from_this_album_and_cloud_msg">
+    <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">%d foto\'s van dit album en Mi Cloud verwijderen?</item>
         <item quantity="one">Deze foto van dit album en Mi Cloud verwijderen?</item>
     </plurals>
@@ -124,11 +124,11 @@
         <item quantity="other">%d video\'s van dit album en Mi Cloud verwijderen?</item>
         <item quantity="one">%d video van dit album en Mi Cloud verwijderen?</item>
     </plurals>
-	<plurals name="download_error">
+    <plurals name="download_error">
         <item quantity="other">Kon %1$d bestanden niet downloaden</item>
         <item quantity="one">Kon %1$d bestand niet downloaden</item>
     </plurals>
-	<plurals name="download_retry_message">
+    <plurals name="download_retry_message">
         <item quantity="other">Kon %1$d bestanden niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
         <item quantity="one">Kon %1$d bestand niet downloaden, controleer netwerkverbinding en probeer opnieuw</item>
     </plurals>
@@ -136,15 +136,15 @@
         <item quantity="other">%d foto\'s in totaal</item>
         <item quantity="one">%d foto in totaal</item>
     </plurals>
-	<plurals name="fail_reason_processing_file">
+    <plurals name="fail_reason_processing_file">
         <item quantity="other">Foto\'s verwerken…</item>
         <item quantity="one">Foto verwerken…</item>
     </plurals>
-	<plurals name="fast_share_auto_render_failed">
+    <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d foto\'s die niet konden worden verwerkt zijn overgeslagen.</item>
         <item quantity="one">Een foto die niet kon worden verwerkt is overgeslagen.</item>
     </plurals>
-	<plurals name="file_count_format">
+    <plurals name="file_count_format">
         <item quantity="other">%1$d items</item>
         <item quantity="one">%1$d item</item>
     </plurals>
@@ -152,7 +152,7 @@
         <item quantity="other">%1$d items wachten om geback-upt te worden</item>
         <item quantity="one">1 item wacht om geback-upt te worden</item>
     </plurals>
-	<plurals name="number_of_images_synced">
+    <plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto\'s</item>
         <item quantity="one">1 foto</item>
     </plurals>
@@ -166,7 +166,7 @@
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Synchroniseren van %1$d items…</item>
-        <item quantity="one">Synchroniseren van item…</item>	
+        <item quantity="one">Synchroniseren van item…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
         <item quantity="other">Synchroniseren van %1$d video\'s…</item>
@@ -196,11 +196,11 @@
         <item quantity="other">Stoppen met %d resterende foto\'s downloaden?</item>
         <item quantity="one">Stoppen met de resterende foto downloaden?</item>
     </plurals>
-	<plurals name="picker_no_network_retry_image_confirm_message">
+    <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Kon %1$d foto\'s niet downloaden, maak verbinding met het netwerk en probeer opnieuw</item>
         <item quantity="one">Kon foto niet downloaden, maak verbinding met het netwerk en probeer opnieuw</item>
     </plurals>
-	<plurals name="picker_no_network_retry_origin_confirm_message">
+    <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">Kon %1$d foto\'s niet downloaden (%2$dMB), maak verbinding met het netwerk en probeer opnieuw</item>
         <item quantity="one">Kon foto niet downloaden (%2$dMB), maak verbinding met het netwerk en probeer opnieuw</item>
     </plurals>
@@ -212,23 +212,23 @@
         <item quantity="other">Kon %1$d foto\'s (%2$dMB) niet downloaden, opnieuw proberen?</item>
         <item quantity="one">Kon foto (%2$dMB) niet downloaden, opnieuw proberen?</item>
     </plurals>
-	<plurals name="picker_skip_unavailable_images">
+    <plurals name="picker_skip_unavailable_images">
         <item quantity="other">%d foto\'s overgeslagen die niet op apparaat staan</item>
         <item quantity="one">Foto overgeslagen die niet op apparaat staat</item>
     </plurals>
-	<plurals name="quickly_discovery_message_format">
+    <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d nieuwe foto\'s gevonden</item>
         <item quantity="one">Een nieuwe foto gevonden</item>
     </plurals>
-	<plurals name="remind_face_recommend_confirm_text">
+    <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">%d foto\'s in totaal</item>
         <item quantity="one">%d foto in totaal</item>
     </plurals>
-	<plurals name="remove_from_secret_failed_with_reason_and_count">
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d items kunnen niet worden verwijderen van verborgen album. %1$s."</item>
         <item quantity="one">"%2$d item kan niet worden verwijderd van verborgen album. %1$s."</item>
     </plurals>
-	<plurals name="search_feedback_done_mark_and_contribute_false_negative">
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d foto\'s toegevoegd aan \"%2$s\" en toegevoegd aan de database.</item>
         <item quantity="one">%1$d foto toegevoegd aan \"%2$s\" en toegevoegd aan de database.</item>
     </plurals>
@@ -240,15 +240,15 @@
         <item quantity="other">%1$d foto\'s toegevoegd aan \"%2$s\".</item>
         <item quantity="one">%1$d foto toegevoegd aan \"%2$s\".</item>
     </plurals>
-	<plurals name="search_feedback_done_mark_false_positive">
+    <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">%1$d foto\'s verwijderd van \"%2$s\".</item>
         <item quantity="one">%1$d foto verwijderd van \"%2$s\".</item>
     </plurals>
-	<plurals name="send_processing_files_error">
+    <plurals name="send_processing_files_error">
         <item quantity="other">Kon niet delen. Er worden nog %d foto\'s verwerkt…</item>
         <item quantity="one">Kon niet delen. Er wordt nog %d foto verwerkt…</item>
     </plurals>
-	<plurals name="slim_complete_photo_count">
+    <plurals name="slim_complete_photo_count">
         <item quantity="other">%d foto\'s geoptimaliseerd</item>
         <item quantity="one">%d foto geoptimaliseerd</item>
     </plurals>
@@ -264,7 +264,7 @@
         <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>
         <item quantity="one">%d foto of video is niet geback-upt</item>
     </plurals>
-	<plurals name="sync_oversized_count">
+    <plurals name="sync_oversized_count">
         <item quantity="other">%d items zijn te groot om een back-up van te maken</item>
         <item quantity="one">%d item is te groot om een back-up van te maken</item>
     </plurals>

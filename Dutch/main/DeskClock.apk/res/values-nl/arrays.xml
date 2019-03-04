@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	    <string-array name="alarm_in_furture">
+    <string-array name="alarm_in_furture">
         <item>Over minder dan 1 minuut</item>
         <item>Over %1$s</item>
         <item>Over %2$s</item>
@@ -10,7 +10,7 @@
         <item>Over %2$s en %3$s</item>
         <item>Over %1$s %2$s en %3$s</item>
     </string-array>
-	    <string-array name="alarm_repeat_type">
+    <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>
         <item>Werkdagen</item>
@@ -24,7 +24,7 @@
         <item>Maandag tot vrijdag</item>
         <item>Aangepast</item>
     </string-array>
-     <string-array name="alarm_set">
+    <string-array name="alarm_set">
         <item>Alarm zal afgaan over minder dan 1 minuut</item>
         <item>Alarm zal afgaan over %1$s</item>
         <item>Alarm zal afgaan over %2$s</item>
@@ -34,7 +34,7 @@
         <item>Alarm zal afgaan over %2$s en %3$s</item>
         <item>Alarm zal afgaan over %1$s, %2$s en %3$s</item>
     </string-array>
-	    <string-array name="aqi_value">
+    <string-array name="aqi_value">
         <item>Goed</item>
         <item>Voldoende</item>
         <item>Matig vervuild</item>
@@ -42,7 +42,7 @@
         <item>Zeer slecht</item>
         <item>Ernstig</item>
     </string-array>
-	<string-array name="auto_silence_entries">
+    <string-array name="auto_silence_entries">
         <item>Nooit</item>
         <item>1 minuut</item>
         <item>5 minuten</item>
@@ -52,7 +52,7 @@
         <item>25 minuten</item>
         <item>30 minuten</item>
     </string-array>
-		<string-array name="snooze_duration_entries">
+    <string-array name="snooze_duration_entries">
         <item>1 minuut</item>
         <item>5 minuten</item>
         <item>10 minuten</item>
@@ -61,7 +61,12 @@
         <item>25 minuten</item>
         <item>30 minuten</item>
     </string-array>
-	<string-array name="timer_duration">
+    <string-array name="stat_volume_button_behaviors">
+        <item>Geen</item>
+        <item>Snoozen</item>
+        <item>Uitzetten</item>
+    </string-array>
+    <string-array name="timer_duration">
         <item>Totaal %1$s</item>
         <item>Totaal %2$s</item>
         <item>Totaal %1$s %2$s</item>
@@ -70,14 +75,9 @@
         <item>Totaal %2$s %3$s</item>
         <item>Totaal %1$s %2$s %3$s</item>
     </string-array>
-	    <string-array name="volume_button_setting_entries">
+    <string-array name="volume_button_setting_entries">
         <item>Niets doen</item>
         <item>Snoozen</item>
         <item>Alarm uitzetten</item>
-    </string-array>
-    <string-array name="stat_volume_button_behaviors">
-        <item>Geen</item>
-        <item>Snoozen</item>
-        <item>Uitzetten</item>
     </string-array>
 </resources>
