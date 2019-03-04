@@ -321,7 +321,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="no_apps">Geen apps</string>
   <string name="no_new_perms">Deze update vereist geen nieuwe toestemmingen.</string>
   <string name="no_permissions">Geen toestemmingen</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan om bootloader te ontgrendelen</string>
   <string name="ok">Ok</string>

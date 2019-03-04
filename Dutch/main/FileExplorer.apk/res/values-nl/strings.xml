@@ -366,7 +366,6 @@
   <string name="notification_dialog_confirm">Ok</string>
   <string name="notification_dialog_content">Automatisch melden en organiseren wanneer bestanden worden toegevoegd of gewijzigd in %1$s.</string>
   <string name="notification_dialog_title">Meldingen</string>
-  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_wechat_expired_empty">WeChat heeft deze video clips al verwijderd.</string>
   <string name="oauth_failed_tip">Kon autorisatie niet voltooien</string>
   <string name="one_account_bind_needed">Voeg tenminste één account toe</string>

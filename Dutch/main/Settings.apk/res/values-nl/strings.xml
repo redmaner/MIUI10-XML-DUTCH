@@ -1162,12 +1162,10 @@ This feature can be turned off in [Settings]"</string>
   <string name="condition_work_title">Werkprofiel is uitgeschakeld</string>
   <string name="condition_zen_title">Niet storen is ingeschakeld (%1$s)</string>
   <string name="config_charging_function_name">Aan het laden</string>
-  <string name="config_featureFactory">com.android.settings.overlay.FeatureFactoryImpl</string>
   <string name="config_list_label">Geconfigureerde netwerken</string>
   <string name="config_mass_storage_function_name">Massaopslag</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
-  <string name="config_wallpaper_picker_class">com.android.settings.Settings$WallpaperSettingsActivity</string>
   <string name="config_wallpaper_picker_package">com.android.settings</string>
   <string name="configure">Configureren</string>
   <string name="configure_apps">Apps configureren</string>
@@ -2455,7 +2453,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="location_agps_def_location_mode">MSB</string>
   <string name="location_agps_def_network_mode">HOME</string>
   <string name="location_agps_def_reset_type">HOT</string>
-  <string name="location_agps_def_supl_host">221.176.0.55</string>
   <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS instellingen</string>
   <string name="location_agps_pref_apn_title">Voorkeurs APN</string>
@@ -3684,9 +3681,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_url_title">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">De HTTP proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
-  <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
-  <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
-  <string name="qtifeedback_package">com.qti.smq.qualcommFeedback</string>
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
   <string name="qtifeedback_settings_title">Hardware Feedback</string>
   <string name="query_hint_text">Zoeken in instellingen</string>
@@ -5762,9 +5756,7 @@ Kan u geen beschermingsfuncties van het apparaat activeren.</string>
   <string name="wifi_display_status_not_available">Niet beschikbaar</string>
   <string name="wifi_display_wps_config">WPS configuratie</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_do_not_provide_eap_user_cert">Niet voorzien</string>
   <string name="wifi_do_not_validate_eap_server">Niet valideren</string>
   <string name="wifi_do_not_validate_eap_server_warning">Geen certificaat opgegeven. Uw verbinding is niet privé.</string>
@@ -5790,7 +5782,6 @@ Kan u geen beschermingsfuncties van het apparaat activeren.</string>
   <string name="wifi_forget">Vergeten</string>
   <string name="wifi_frequency">Frequentie</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hide_password">Wachtwoord verbergen</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fi hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Gebruik mobiele verbinding om een Wi-Fi netwerk te voorzien</string>
@@ -5804,7 +5795,6 @@ Kan u geen beschermingsfuncties van het apparaat activeren.</string>
   <string name="wifi_info_reconnect">Kon niet verbinden, probeer opnieuw.</string>
   <string name="wifi_install_credentials">Certificaten installeren</string>
   <string name="wifi_ip_address">IP adres</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP instellingen</string>
   <string name="wifi_ip_settings_invalid_dns">Voer een geldig DNS adres in.</string>
   <string name="wifi_ip_settings_invalid_gateway">Voer een geldig gateway-adres in.</string>

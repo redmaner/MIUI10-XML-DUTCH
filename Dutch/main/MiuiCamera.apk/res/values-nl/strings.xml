@@ -237,7 +237,6 @@ en maak vervolgens een foto waarop iedereen er het beste uitziet."</string>
   <string name="hint_groupshot_beauty">Kan verfraaien niet gebruiken in groepsfoto\'s</string>
   <string name="hint_slow_motion">De video die u maakt, wordt langzamer afgespeeld.</string>
   <string name="hunt_dual_water_mark">Het watermerk van de dubbele camera wordt automatisch toegevoegd.</string>
-  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installeren</string>
   <string name="lens_dirty_detected_content">Het lijkt erop dat de lens van je camera vuil is.
 Reinig de lens voor een beter effect</string>
@@ -299,7 +298,6 @@ in de portretmodus"</string>
   <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt</string>
   <string name="not_enough_space">Interne opslag is vol</string>
   <string name="object_track_enable_toast">Druk met twee vingers op beide uiteinden van het voorwerp om het te volgen.</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Plaats de pijl op één lijn met de referentielijn</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Blijf doorgaan…</string>
   <string name="pano_how_to_use_prompt_slow_down">Vertragen</string>
@@ -685,7 +683,6 @@ Groothoek modus komt helpen als je niet verder van de scène kunt komen."</strin
   <string name="video_effect_entry_forest">Grove</string>
   <string name="video_effect_entry_holiday">Reflecties</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
-  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Maximale grootte bereikt.</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Privacybeleid weergeven</string>

@@ -142,13 +142,11 @@
   <string name="dot_and_space">• </string>
   <string name="double_click_to_exit_activity">Tik nogmaals om af te sluiten</string>
   <string name="explorer_activity_title">Achtergrond carrousel</string>
-  <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="favor_list_no_data">Geen items hier.</string>
   <string name="favor_list_title">Favorieten</string>
   <string name="favor_success">Met succes toegevoegd aan favorieten</string>
   <string name="feed_article_entrance_about">About \"%s\"</string>
   <string name="find_psw">Forgot password</string>
-  <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
   <string name="from_migallerylockscreen">Van Mi achtergrond carrousel</string>
   <string name="get_account_no_permission">Geef de achtergrondcarousel toegang tot accounts op dit apparaat voordat je je aanmeldt.</string>
   <string name="get_ph_ticket">Code verkrijgen</string>
