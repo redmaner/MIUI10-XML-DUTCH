@@ -64,7 +64,6 @@
   <string name="info_anim_title_0">Verander de manier waarop je werkt</string>
   <string name="info_anim_title_1">Werk afzonderen van persoonlijk</string>
   <string name="info_anim_title_2">Schakel het werk uit als u klaar bent</string>
-  <string name="join_many_items_last">%1$s en %2$s</string>
   <string name="join_two_items">%1$s en %2$s</string>
   <string name="launcher_app_cant_be_used_by_work_profile">Deze launcher app kan niet gebruikt worden door je werkprofiel</string>
   <string name="learn_more_label">Meer weten</string>

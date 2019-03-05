@@ -52,6 +52,7 @@
   <string name="app_category_sport">Sport</string>
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Reizen</string>
+  <string name="app_category_vr">VR</string>
   <string name="application_name">Systeemlauncher</string>
   <string name="apply">Instellen</string>
   <string name="apply_action">Instellen</string>
@@ -95,8 +96,11 @@
   <string name="default_folder_title_recommend">Meer apps</string>
   <string name="default_folder_title_security">Systeem</string>
   <string name="default_folder_title_services">Diensten</string>
+  <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
+  <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
   <string name="default_screen_preview_title">Tik om startscherm in te stellen</string>
+  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_screen">Schermknop verwijderen</string>
   <string name="delete_wallpaper_message">%1$d achtergrond verwijderen?</string>
@@ -271,6 +275,7 @@
   <string name="preferred_app_settings_not_selected">Niet geselecteerd</string>
   <string name="quick_app">Snelle App</string>
   <string name="recents_config_title">Recente</string>
+  <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Leeg</string>
   <string name="recommend_apps_no_data">Geen gegevens</string>
   <string name="recommend_apps_no_data_toast">Nu geen aanbevelingen.</string>
@@ -296,7 +301,6 @@
   <string name="settings">Instellingen</string>
   <string name="settings_shortcut">Instellingen</string>
   <string name="share">Delen</string>
-  <string name="sharedUserId"/>
   <string name="show_all">Alles weergeven</string>
   <string name="show_mem_info_title">Geheugenstatus weergeven</string>
   <string name="show_recents_recommend_title">Suggesties weergeven</string>

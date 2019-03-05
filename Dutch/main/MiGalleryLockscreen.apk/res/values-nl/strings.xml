@@ -17,6 +17,7 @@
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
   <string name="abc_toolbar_collapse_description">Inklappen</string>
+  <string name="ad_feed_badge">AD</string>
   <string name="ad_pop_btn_hidden">Verbergen</string>
   <string name="ad_pop_des">App downloaden:</string>
   <string name="add_cw_fail_tip">Kon geen achtergrond toevoegen</string>
@@ -42,9 +43,9 @@
   <string name="back_icon_content_description">Terug</string>
   <string name="bind_sign_in_title">Koppelen met Mi Account</string>
   <string name="cancel">Annuleren</string>
-  <string name="cancel_network">Afsluiten</string>
   <string name="cancel_international">Annuleren</string>
   <string name="cancel_lockscreen">Annuleren</string>
+  <string name="cancel_network">Afsluiten</string>
   <string name="carousel_declaration_btn_text">Achtergrondcarrousel inschakelen</string>
   <string name="carousel_declaration_cta">"Achtergrondcarrousel vereist dat de internetverbinding normaal werkt. Om toegang tot online inhoud te krijgen, moet u akkoord gaan met onze &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Privacy Policy&lt;/a&gt;. Akkoord?"</string>
   <string name="carousel_declaration_cta_btn_text">Akkoord gaan en inschakelen</string>
@@ -105,6 +106,7 @@
   <string name="declaration_lockscreen_title">Krijg dagelijks nieuwe achtergronden op uw vergrendelscherm</string>
   <string name="declaration_title">Algemene voorwaarden</string>
   <string name="deny_des">Achtergrondcarousel heeft toegang tot Galerij nodig om normaal te kunnen werken.</string>
+  <string name="detail_ad_type_ad">AD</string>
   <string name="detail_ad_type_video">Populaire video\'s</string>
   <string name="detail_add_cw">Achtergrond toevoegen</string>
   <string name="detail_add_shortcut">Toevoegen aan startscherm</string>
@@ -126,6 +128,10 @@
   <string name="detail_recomm_fail">Kon geen aanbevelingen verkrijgen</string>
   <string name="detail_recomm_load_tip">Passend bij uw interesses…</string>
   <string name="detail_share_moment">Momenten</string>
+  <string name="detail_share_qq">QQ</string>
+  <string name="detail_share_qzone">Qzone</string>
+  <string name="detail_share_wechat">WeChat</string>
+  <string name="detail_share_weibo">Weibo</string>
   <string name="detail_toast_deny_apply">Kan het niet toepassen</string>
   <string name="detail_toast_deny_dislike">Kan het niet verwijderen</string>
   <string name="detail_toast_deny_favor">Kan het niet toevoegen aan favorieten.</string>
@@ -133,12 +139,16 @@
   <string name="detail_toast_favor_permission">Geef achtergrondcarrousel toegang tot opslag in Beveiliging.</string>
   <string name="dislike">Verwijderen</string>
   <string name="dlg_cancel">Annuleren</string>
+  <string name="dot_and_space">• </string>
   <string name="double_click_to_exit_activity">Tik nogmaals om af te sluiten</string>
   <string name="explorer_activity_title">Achtergrond carrousel</string>
+  <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="favor_list_no_data">Geen items hier.</string>
   <string name="favor_list_title">Favorieten</string>
   <string name="favor_success">Met succes toegevoegd aan favorieten</string>
+  <string name="feed_article_entrance_about">About \"%s\"</string>
   <string name="find_psw">Forgot password</string>
+  <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
   <string name="from_migallerylockscreen">Van Mi achtergrond carrousel</string>
   <string name="get_account_no_permission">Geef de achtergrondcarousel toegang tot accounts op dit apparaat voordat je je aanmeldt.</string>
   <string name="get_ph_ticket">Code verkrijgen</string>
@@ -150,6 +160,7 @@
   <string name="idbct_opt_auto_select_desc_text">Download standaardafbeeldingen met mobiele gegevens en HD afbeeldingen via Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Automatisch</string>
   <string name="idbct_opt_high_def_desc_text">Altijd HD afbeeldingen downloaden</string>
+  <string name="idbct_opt_high_def_main_text">HD</string>
   <string name="idbct_title">Netwerk types</string>
   <string name="isornot_your_mi_account">Is dit uw Mi Account?</string>
   <string name="like">Toevoegen aan favorieten</string>
@@ -185,6 +196,7 @@
   <string name="no_networdk">Kon geen verbinding maken met netwerk</string>
   <string name="no_pic_data">Kon afbeeldingen niet vinden</string>
   <string name="ok_enable_network_prov">Akkoord</string>
+  <string name="ok_enable_network_prov2">Agree</string>
   <string name="ok_international">Akkoord</string>
   <string name="ok_lockscreen">Akkoord</string>
   <string name="ok_network">Akkoord</string>
@@ -200,6 +212,7 @@
   <string name="pager_load_hd">Bekijk originele afbeelding</string>
   <string name="passport_activate_token_expired">Verificatie is verlopen, probeer opnieuw.</string>
   <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
+  <string name="passport_captcha_title">Captcha</string>
   <string name="passport_close">Sluiten</string>
   <string name="passport_empty_password">Wachtwoord mag niet leeg zijn</string>
   <string name="passport_empty_user_name">Gebruikersnaam mag niet leeg zijn</string>
@@ -289,6 +302,7 @@
   <string name="sst_effect_next_wallpaper">Stel een nieuwe achtergrond in om wijzigingen toe te passen</string>
   <string name="sst_favor_desc">Favoriete achtergronden bekijken</string>
   <string name="sst_favor_title">Favorieten</string>
+  <string name="sst_feedback_title">Feedback</string>
   <string name="sst_grid_view_select_all">Alles selecteren</string>
   <string name="sst_grid_view_unselect_all">Alles deselecteren</string>
   <string name="sst_lockscreen_show_headline_desc">Toon de titel van het wallpaper onder de klok op het vergrendelscherm</string>

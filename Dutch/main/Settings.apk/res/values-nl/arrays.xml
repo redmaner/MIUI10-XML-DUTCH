@@ -119,6 +119,73 @@
         <item>In achtergrond lopen</item>
 		<item>Toegangsvolume</item>
     </string-array>
+    <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>show toast</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>write wallpaper</item>
+        <item>assist structure</item>
+        <item>assist screenshot</item>
+        <item>read phone state</item>
+        <item>add voicemail</item>
+        <item>use sip</item>
+        <item>process outgoing call</item>
+        <item>fingerprint</item>
+        <item>body sensors</item>
+        <item>read cell broadcasts</item>
+        <item>mock location</item>
+        <item>read storage</item>
+        <item>write storage</item>
+        <item>turn on screen</item>
+        <item>get accounts</item>
+        <item>run in background</item>
+        <item>accessibility volume</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standaardlimiet</item>
         <item>Geen achtergrondprocessen</item>
@@ -256,7 +323,7 @@
         <item>Normaal</item>
         <item>Groot</item>
         <item>Enorm</item>
-    </string-array>	
+    </string-array>
 	<string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -291,7 +358,8 @@
         <item>MIUI bepaalt welke meldingen direct worden weergegeven</item>
         <item>Meldingen direct weergeven op het meldingsscherm</item>
         <item>Meldingen weergeven in een aparte map</item>
-    </string-array>	
+    </string-array>
+
 	<string-array name="color_mode_descriptions">
         <item>Verbeterde kleuren</item>
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
@@ -343,7 +411,7 @@
         <item>"Vandaag: "</item>
         <item>"Deze maand: "</item>
         <item>"Vorige maand: "</item>
-    </string-array>	
+    </string-array>
 	<string-array name="debug_hw_overdraw_entries">
         <item>Uit</item>
         <item>Toon overdrawgebieden</item>
@@ -473,6 +541,14 @@
         <item>Violet</item>
         <item>Paars</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP en ouder</item>
         <item>Windows Vista en nieuwer</item>
@@ -510,7 +586,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Grafisch</item>
         <item>Percentage</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
+      <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
         <item>720x480 mdpi</item>
         <item>720x480 mdpi (veilig)</item>
@@ -529,7 +605,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Vragen</item>
         <item>Weigeren</item>
     </string-array>
-    <string-array name="phone_call_noise_suppression_title">
+      <string-array name="phone_call_noise_suppression_title">
         <item>Enkele micro geluidsonderdrukking</item>
         <item>Dubbele micro geluidsonderdrukking</item>
     </string-array>
@@ -685,7 +761,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Niet rechthoekige bijsnijdregio tekenen in blauw</item>
         <item>Geteste tekenopdrachten markeren in groen</item>
     </string-array>
-	<string-array name="silent_mode_duration_text">
+  	<string-array name="silent_mode_duration_text">
         <item>Altijd</item>
         <item>30 minuten</item>
         <item>1 uur</item>
@@ -700,14 +776,9 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Zoeken</item>
         <item>Instellingen</item>
     </string-array>
-    <string-array name="status_bar_show_carrier_entries">
-        <item>Alleen weergeven op vergrendelscherm</item>
-        <item>Alleen weergeven in statusbalk</item>
-        <item>Providernaam nooit weergeven</item>
-    </string-array>
-	<string-array name="status_bar_style_entries">
-        <item>Gecombineerd</item>
-        <item>Gescheiden</item>
+    <string-array name="status_bar_settings_notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
@@ -829,7 +900,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Wi-Fi</item>
         <item>Mobiel</item>
         <item>Alleen Wi-Fi</item>
-    </string-array>    
+    </string-array>
 	<string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Mobiel</item>
@@ -950,9 +1021,5 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 	<string-array name="status_bar_settings_qs_layout_entries">
 	    <item>Standaard</item>
 		<item>Compact</item>
-	</string-array>
-    <string-array name="default_vol_stream_entries">
-	    <item>Beltoon</item>
-		<item>Media</item>
 	</string-array>
 </resources>

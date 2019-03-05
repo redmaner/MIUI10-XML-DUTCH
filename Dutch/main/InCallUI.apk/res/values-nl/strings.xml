@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="antispam_local_marked">Lokaal gemarkeerd</string>
-  <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_provider">Geïdentificeerd door %s</string>
   <string name="callFailed_cb_enabled">Je kunt geen uitgaande gesprekken voeren, terwijl het blokkeren van gesprekken is ingeschakeld.</string>
@@ -47,7 +46,6 @@
   <string name="call_recording_notification_message_sd_unmounted">SD-kaart is verwijderd.</string>
   <string name="call_recording_notification_title">Gesprek opgenomen</string>
   <string name="call_recording_notification_title_error">Kon gesprek niet opnemen</string>
-  <string name="call_title_redialing_with_times">%d keer opnieuw gebeld</string>
   <string name="caller_manage_header">Groepsgesprek %s</string>
   <string name="can_not_use">Kan niet gebruiken</string>
   <string name="cancel">Annuleren</string>
@@ -78,7 +76,6 @@
   <string name="close_camera_failed">Kan camera niet afsluiten…</string>
   <string name="close_camera_requesting">Camera afsluiten…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
-  <string name="conference_call_number">%s deelnemers</string>
   <string name="conference_call_recorder_title">Groepsgesprek</string>
   <string name="conference_call_single_description" formatted="false">%s etc. totaal %s</string>
   <string name="conference_caller_info_name">"%1$s's groepsgesprek"</string>
@@ -176,7 +173,10 @@
   <string name="select_sim_hint">Kan SIM %2$d niet gebruiken terwijl SIM %1$d in gebruik is.</string>
   <string name="select_voice_call_sim">Kies SIM kaart</string>
   <string name="separate_from_conference">Apart gesprek</string>
+  <string name="sim1_description">SIM1</string>
+  <string name="sim2_description">SIM2</string>
   <string name="sip_call_not_support_record">Kan SIP oproepen niet opnemen</string>
+  <string name="supp_service_notification_call_waiting">The number you dialed is busy. Please hold…</string>
   <string name="suspect_info">Wees voorzichtig met uw persoonlijke info.</string>
   <string name="unknown">Onbekend</string>
   <string name="unlock_phone">Apparaat ontgrendelen</string>

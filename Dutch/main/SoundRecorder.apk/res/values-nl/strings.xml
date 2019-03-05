@@ -28,6 +28,9 @@
   <string name="dialog_privacy_revoke_tips">Nadat u de autorisatie intrekt, stopt de app met het verzamelen van gegevens en worden alle gerelateerde gegevens van de servers verwijderd. Hierdoor kan de app praktisch onbruikbaar worden. Toestemming intrekken? Om u te verzekeren van de veiligheid van uw account, logt u in op i.mi.com voordat u de autorisatie voor Mi Cloud services intrekt.</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
   <string name="download">Downloaden</string>
+  <string name="duration_format_hour">%sh</string>
+  <string name="duration_format_minute">%sm</string>
+  <string name="duration_format_second">%ss</string>
   <string name="empty_recognition_tip">Leeg</string>
   <string name="err_msg_abandon">De bestelling werd verlaten</string>
   <string name="err_msg_complete">De bestelling werd voltooid</string>
@@ -38,7 +41,6 @@
   <string name="err_msg_create">Bestelling aangemaakt</string>
   <string name="err_msg_delete">Bestelling is verwijderd</string>
   <string name="err_msg_expired">Bestelling is verlopen</string>
-  <string name="err_msg_pending_value">Kosten schatten…</string>
   <string name="err_msg_pengding_pay">Wachten op betaling…</string>
   <string name="err_msg_processing">Verwerken…</string>
   <string name="err_msg_refuse">Kon niet overzetten</string>
@@ -61,11 +63,18 @@
   <string name="keywords_search_call_record">Oproepen opnemen;Oproep opnemen;Oproepopname;Oproepopnames</string>
   <string name="keywords_search_record">Nieuwe opname;Opname toevoegen;Opname;Opnames;Transcript;Transcribe;Recorder;Spraakrecorder;Geluidrecorder;Recorderapp;Recording app;Hoe neem ik op;Hoe neem ik geluid op;Waar is de recorder;MIUI Recorder</string>
   <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Opnemen;Opname delen;Opnames delen;Opname;Opnames</string>
+  <string name="korea_permission_phone">Phone</string>
+  <string name="korea_permission_phone_resc">For accessing device status and handling recordings during calls</string>
+  <string name="korea_permission_record">Microphone</string>
+  <string name="korea_permission_record_resc">For recording audio</string>
+  <string name="korea_permission_storage">Storage</string>
+  <string name="korea_permission_storage_desc">For saving recordings</string>
   <string name="loading_order_list">Een momentje…</string>
   <string name="loading_order_list_empty">Hier geen bestellingen.</string>
   <string name="low_battery_error">Minder dan 5% batterij over. Stop en sla uw opname op om er zeker van te zijn dat deze niet verloren gaat.</string>
   <string name="low_battery_error_confirm">Ok</string>
   <string name="low_battery_error_title">Batterij laag</string>
+  <string name="lyric_item_point_count">%1$d to %2$d</string>
   <string name="mark_point_list_title">Markeringen</string>
   <string name="menu">Menu</string>
   <string name="message_file_size_error">Opname heeft de maximale opnametijd van %s bereikt</string>
@@ -76,6 +85,7 @@
   <string name="network_tip_dialog_content">De recorder moet verbinding met internet maken om normaal te kunnen werken. Akkoord?</string>
   <string name="network_tip_dialog_ok">Akkoord</string>
   <string name="network_tip_dialog_title">Internetverbinding is nodig</string>
+  <string name="network_unavailable_tip">Connect to the network and try again.</string>
   <string name="new_record_name">Nieuwe opname</string>
   <string name="no_file">Geen opnames</string>
   <string name="notification_message_all_paused">Kan mobiele dataverbruik verhogen.</string>
@@ -91,6 +101,7 @@
   <string name="online_recognize_duration_limite">(Startende vanaf 10 minuten)</string>
   <string name="online_recognize_fail">"Kon niet overzetten</string>
   <string name="online_recognize_login_fail">Kon niet aanmelden</string>
+  <string name="online_recognize_order_audio_price">%s CNY</string>
   <string name="online_recognize_order_create">Aanmelden</string>
   <string name="online_recognize_order_duration_key">Duur</string>
   <string name="online_recognize_order_pay">Betaal en bekijk resultaten</string>
@@ -98,11 +109,9 @@
   <string name="online_recognize_order_progress_pay">Betalen</string>
   <string name="online_recognize_order_progress_upload">Uploaden</string>
   <string name="online_recognize_order_service_type_key">Service type</string>
-  <string name="online_recognize_order_service_type_value">Online audio overzetten</string>
   <string name="online_recognize_order_title">Bestelling bevestigen</string>
   <string name="online_recognize_order_total_price_key">Totaal</string>
   <string name="online_recognize_order_unit_price_key">Priis</string>
-  <string name="online_recognize_order_unit_price_value">%s CNY/uur</string>
   <string name="online_recognize_order_upload">Bevestigen en uploaden</string>
   <string name="online_recognize_order_uploading">Uploaden van %s…</string>
   <string name="online_recognize_other_order_upload">Wacht tot de huidige uploads voltooid zijn en probeer opnieuw.</string>
@@ -110,6 +119,7 @@
   <string name="online_recognize_service_unavailable">Service is nu niet beschikbaar. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="order_item_duration">Duur: %s</string>
   <string name="order_item_number">Bestellingsnummer: %s</string>
+  <string name="order_item_price">%s CNY</string>
   <string name="path_soundrecorder_setting">Systeemapps/Recorder</string>
   <string name="pause">Pauzeren</string>
   <string name="pay_error_cancel">Betaling werd geannuleerd</string>
@@ -149,8 +159,8 @@
   <string name="recognition_process_dialog_confirm">Starten forceren</string>
   <string name="recognition_process_dialog_title">Lopende opdrachten</string>
   <string name="recognition_status_downloaded">Overzet engine met succes gedownload</string>
-  <string name="recognition_status_init">"Voorbereiden "</string>
   <string name="recognition_status_downloading">Downloaden</string>
+  <string name="recognition_status_init">"Voorbereiden "</string>
   <string name="recognize_choose_dialog_offline">Gratis overzetten</string>
   <string name="recognize_choose_dialog_offline_desp">Zet opnames over zonder verbinding met internet</string>
   <string name="recognize_choose_dialog_online">Overzetten naar de cloud</string>
@@ -180,7 +190,9 @@
   <string name="record_list_fm">FM opnames</string>
   <string name="record_list_item_recognize_text">Tekst</string>
   <string name="record_mark_point">Markering %s</string>
+  <string name="record_name_hour">.</string>
   <string name="record_quliaty_preference_title">Opnamekwaliteit</string>
+  <string name="record_resotre">Recover records</string>
   <string name="recording">Opnemen</string>
   <string name="recording_quality_high">Hoge kwaliteit</string>
   <string name="recording_quality_low">Lage kwaliteit</string>
@@ -234,6 +246,13 @@
   <string name="text_finish">Bevestigen</string>
   <string name="toast_max_record_time">%1$s kan ongeveer %2$s opnemen</string>
   <string name="toast_uninstall_fileexplorer">File Manager is niet geïnstalleerd!</string>
+  <string name="webview_check_network">Network settings</string>
+  <string name="webview_data_error">An error occurred</string>
+  <string name="webview_locating_fail">"Couldn't find your location"</string>
+  <string name="webview_network_access_denied">Network access denied</string>
+  <string name="webview_network_unavaliable">"Can't connect to the network"</string>
+  <string name="webview_service_unavailiable">Service unavailable</string>
+  <string name="webview_try_again">Try again</string>
   <string name="wifi_recommended_body" formatted="false">Het downloaden van dit bestand (%s) over mobiele data kan leiden tot hogere datakosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tik op %s.</string>
   <string name="wifi_recommended_title">Waarschuwing dataverbruik</string>
 </resources>

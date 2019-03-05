@@ -45,21 +45,12 @@
   <string name="apps_sort_type_item_size">Grootte</string>
   <string name="apps_sort_type_item_time">Frequent gebruikt</string>
   <string name="apps_sort_type_title">Sorteren op</string>
-  <string name="auto_clean_notification_content">%s vuilnis opruimen</string>
-  <string name="auto_clean_notification_title">Herinneren om op te ruimen</string>
-  <string name="auto_clean_operation_clean_and_alert">Herinneren en opruimen</string>
-  <string name="auto_clean_operation_dialog_title">Opruim methode</string>
-  <string name="auto_clean_operation_just_clean">Alleen opruimen</string>
   <string name="auto_clean_switch_off">Uit</string>
   <string name="auto_clean_switch_on">Aan</string>
   <string name="auto_clean_time_every_day">Dagelijks</string>
   <string name="auto_clean_time_fifteen_day">Elke 15 dagen</string>
   <string name="auto_clean_time_seven_day">Elke 7 dagen</string>
   <string name="auto_clean_time_three_day">Elke 3 dagen</string>
-  <string name="auto_clean_trigger_dialog_title">Opslag opruimen</string>
-  <string name="auto_clean_trigger_percent_eighty">Wanneer 80% vol is</string>
-  <string name="auto_clean_trigger_percent_ninety">Wanneer 90% vol is</string>
-  <string name="auto_clean_trigger_percent_sixty">Wanneer 60% vol is</string>
   <string name="auto_cleaner_open">Inschakelen</string>
   <string name="back">Terug</string>
   <string name="browser_scan_history_desc">Browsergeschiedenis</string>
@@ -102,6 +93,7 @@
   <string name="buy_a_new_phone">Meer opslagruimte verkrijgen</string>
   <string name="buy_immediately">Koop</string>
   <string name="buy_traffic_pack">Koop meer data</string>
+  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Lege map (%d)</string>
   <string name="cache_title_empty_folder2">Lege map</string>
   <string name="cache_title_system_cache">Data cache</string>
@@ -209,11 +201,14 @@
   <string name="empty_title_video">Geen video\'s om te verwijderen​</string>
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Initialiseren…</string>
+  <string name="engine_tm">Tencent</string>
   <string name="facebook_clean_exit_confirm_cancel">Blijven scannen</string>
   <string name="facebook_clean_exit_confirm_msg">Nog niet klaar met het scannen van Facebook. Nu stoppen met scannen?</string>
   <string name="facebook_clean_exit_confirm_ok">Stoppen</string>
   <string name="facebook_clean_exit_confirm_title">Scannen stoppen?</string>
   <string name="facebook_cleaner">Facebook opruimer</string>
+  <string name="facebook_function_summery">Clear the items cached by Facebook</string>
+  <string name="facebook_function_title">Facebook cleaner</string>
   <string name="facebook_group_cache">Cache bestanden</string>
   <string name="facebook_group_gif">GIF\'s</string>
   <string name="facebook_group_image">Afbeeldingen</string>
@@ -224,6 +219,7 @@
   <string name="function_app_lock_title">%d apps bevatten privacyrisico\'s</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_month">%s opgeruimd deze maand</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Doorgaan</string>
   <string name="goto_set">Instellen</string>
   <string name="grabage_rank_title">Vandaag opgeruimd</string>
@@ -270,6 +266,7 @@
   <string name="hints_list_item_unlock">Opruimen</string>
   <string name="hints_loading_text">Laden…</string>
   <string name="hints_memory_header_left">Geheugen</string>
+  <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacy: %d</string>
   <string name="hints_quick_cleanning">Opruimen…</string>
   <string name="hints_quick_cleanuping">Optimaliseren…</string>
@@ -295,7 +292,9 @@
   <string name="installed">Geïnstalleerd</string>
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
+  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
   <string name="just_now">Zojuist</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>
   <string name="label_preserve_the_best_image">Bewaar de scherpste foto\'s</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
@@ -316,6 +315,7 @@
   <string name="mainbtn_text_no_trash">Overslaan</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="memory_clean_icon_text">Geheugen wissen</string>
   <string name="memory_clean_no_trash_tip">Alles ziet er goed uit</string>
@@ -344,6 +344,8 @@
   <string name="notification_title_of_garbage_cleanup">%s aan afval</string>
   <string name="notify_when">Een melding krijgen wanneer de afval 100MB heeft bereikt</string>
   <string name="ok">Ok</string>
+  <string name="one_tap_clean_GB">%sGB</string>
+  <string name="one_tap_clean_M">%dMB</string>
   <string name="onekeyclean_boost_available">%s beschikbaar</string>
   <string name="onekeyclean_boost_cleaned">%s gewist</string>
   <string name="onekeyclean_boosted_title">Met succes gewist</string>
@@ -357,10 +359,10 @@
   <string name="optimizecenter_data_support_cm">Mogelijk gemaakt door Clean Master</string>
   <string name="optimizecenter_data_support_tc">Mogelijk gemaakt door Tencent</string>
   <string name="output_videos">Export video\'s</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Search</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_about_privacy_title">Privacybeleid</string>
-  <string name="pref_category_title_auto_clean_config_settings">Automatishe opruimingen</string>
   <string name="pref_category_title_auto_clean_settings">Herinneren om op te ruimen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Extra instellingen</string>
   <string name="pref_category_title_cleanup_white_list">Uitzonderingen</string>
@@ -378,10 +380,7 @@
   <string name="pref_summary_garbage_process_mode">Stel meldingen in wanneer er wordt opgeruimd</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Uploaden en vergelijken van onbekende bestandsnamen met online definities</string>
   <string name="pref_title_apps_cleanup_size">​Wanneer cachegrootte is bereikt</string>
-  <string name="pref_title_auto_clean">Automatisch opruimen</string>
   <string name="pref_title_auto_clean_content_choose">Kies items om op te ruimen</string>
-  <string name="pref_title_auto_clean_operation">Opruim methode</string>
-  <string name="pref_title_auto_clean_trigger">Opslag opruimen</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch updaten</string>
   <string name="pref_title_choose_engine">Definities</string>
   <string name="pref_title_clean_alert">Herinneren om op te ruimen</string>
@@ -451,6 +450,7 @@
   <string name="summary_delete_video">Geselecteerde video\'s permanent verwijderen?</string>
   <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar de online database van Cheetah Mobile om die bij te werken en vereist het toestel ID.</string>
   <string name="sys_cache_on_sdcard_item_name">Cachen</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Mapnamen uploaden</string>
   <string name="there_is_no">Ziet er goed uit, kom later terug</string>
   <string name="tips_low_storage_dialog_cancel">Annuleren</string>
@@ -553,6 +553,7 @@
   <string name="wechat_qq_chat_files">Chatgeschiedenis</string>
   <string name="wechat_qq_deep_clean_button_text">Grondig schoonmaken</string>
   <string name="wechat_qq_normal_files">Afval</string>
+  <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="whatsapp_btn_quick_cleanup">Geselecteerde items items (%s)</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Blijf scannen</string>
   <string name="whatsapp_clean_exit_confirm_msg">Nog niet klaar met het scannen van WhatsApp. Stoppen met scannen?</string>

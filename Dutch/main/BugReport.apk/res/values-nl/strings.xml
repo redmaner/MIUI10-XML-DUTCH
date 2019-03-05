@@ -9,6 +9,7 @@
   <string name="app_search">Apps zoeken</string>
   <string name="btn_send">Verzenden</string>
   <string name="bugreport_dialog_not_show_again">Niet meer tonen</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"U slaat nu softwarelogboeken op dit apparaat op. Logboeken kunnen persoonlijke informatie en uw locatiegegevens bevatten. Deel geen logs met iemand anders als u niet wilt dat deze info wordt getoond. Als u \'Akkoord' \ selecteert, betekent dit dat u akkoord gaat met ons &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Tik om te bekijken.</string>
   <string name="bugreport_dump_complete_notification_title">Bugreport gemaakt</string>
   <string name="bugreport_dump_start_notification_summary">Dit kan enkele minuten duren.</string>
@@ -20,7 +21,7 @@
   <string name="catch_full_log_action_start">Log aanmaken</string>
   <string name="catch_full_log_add_original_photo">Voeg originele afbeelding of korte video toe</string>
   <string name="catch_full_log_add_photo">Foto toevoegen</string>
-  <string name="catch_full_log_add_photo_dialog_content">>Als het probleem dat u meldt, te maken heeft met de beeldkwaliteit van de camera, voeg dan een originele voorbeeldfoto toe (niet-gekopieerd) om ons te helpen het probleem op te sporen. Nu een foto toevoegen?</string>
+  <string name="catch_full_log_add_photo_dialog_content">&gt;Als het probleem dat u meldt, te maken heeft met de beeldkwaliteit van de camera, voeg dan een originele voorbeeldfoto toe (niet-gekopieerd) om ons te helpen het probleem op te sporen. Nu een foto toevoegen?</string>
   <string name="catch_full_log_dialog_confirm_text">Ga naar startscherm</string>
   <string name="catch_full_log_dialog_content">"MIUI maakt een logbestand aan. Dit kan van invloed zijn op de algehele productiviteit van uw apparaat.Als u het probleem dat u wilt melden niet kunt reproduceren, gaat u terug naar de logboeken en tikt u op \"Annuleren\"."</string>
   <string name="catch_full_log_dump_hprof_failed">Kan lagging logbestand niet aanmaken</string>
@@ -29,7 +30,7 @@
   <string name="catch_full_log_item_content_need_open">"1. Tik op \"Log aanmaken\".
 2. Ga terug naar de functie die u wilt melden en reproduceer deze.
 3. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
-<string name="catch_full_log_item_content_title">Stappen:</string>
+  <string name="catch_full_log_item_content_title">Stappen:</string>
   <string name="catch_full_log_item_title_audio">Audio, geluidsopname- en oproepgeluid</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Lagging</string>
@@ -44,7 +45,7 @@
   <string name="close_feedback_main">Verbergen</string>
   <string name="cta_cancel">Annuleren</string>
   <string name="cta_confirm">OK</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"U slaat nu softwarelogboeken op dit apparaat op. Logboeken kunnen persoonlijke informatie en uw locatiegegevens bevatten. Deel geen logs met iemand anders als u niet wilt dat deze info wordt getoond. Als u \'Akkoord' \ selecteert, betekent dit dat u akkoord gaat met ons &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="cta_dialog_content">This app needs to connect to the internet to work normally.</string>
   <string name="cta_dialog_title">Internetverbinding</string>
   <string name="cta_not_show_again">Niet opnieuw tonen</string>
   <string name="customer_service_apply">Klantenservice verzoeken</string>
@@ -80,6 +81,7 @@
   <string name="err_type_xiaomi_service">Klantendienst</string>
   <string name="error_no_connection">Kon niet verbinden met het netwerk</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s probleem \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Select issue</string>
   <string name="feedback_choose_module">Selecteer item</string>
   <string name="feedback_choose_module_hint">Is nodig</string>
   <string name="feedback_choose_reproductivity">Te reproduceren</string>
@@ -123,6 +125,7 @@
   <string name="feedback_status_change_notification_title">De voortgang van je rapport is bijgewerkt</string>
   <string name="feedback_status_collect_log_failed">Kon logs niet verkrijgen</string>
   <string name="feedback_status_commit_failed_title">Kon rapport niet verzenden</string>
+  <string name="feedback_status_commit_in_queue_title">Waiting…</string>
   <string name="feedback_status_commit_succ_title">Verzonden</string>
   <string name="feedback_status_commit_uploading_title">Versturen…</string>
   <string name="feedback_status_forum_reply">Beantwoorden</string>
@@ -219,7 +222,6 @@
   <string name="michat_pull_to_refresh_pull_label">Trek omlaag om geschiedenis te bekijken</string>
   <string name="michat_pull_to_refresh_refreshing_label">Geschiedenis laden…</string>
   <string name="michat_pull_to_refresh_release_label">Loslaten om geschiedenis te bekijken</string>
-  <string name="michat_queue_pos_update">Er zijn %1$d mensen voor u, wacht een moment…</string>
   <string name="michat_return_to_outside">Sluiten</string>
   <string name="michat_service_unavailiable">Kon info niet verkrijgen, probeer later opnieuw</string>
   <string name="michat_skillset_business_type_title">Selecteer service</string>
@@ -436,6 +438,7 @@ Om je account te activeren, Volg de
   <string name="plus_one_submit_dialog_content">Uw geselecteerde feedback, samen met error logs, zullen worden verzonden naar de Mi servers.</string>
   <string name="plus_one_submit_dialog_not_show_again">Mijn voorkeur onthouden</string>
   <string name="post_miui_bbs_failed">Kon niet posten naar het MIUI forum</string>
+  <string name="privacy_category_title">Privacy</string>
   <string name="privacy_policy_title">Privacybeleid</string>
   <string name="pull_to_refresh_pull_label">Trek omlaag om te vernieuwen</string>
   <string name="pull_to_refresh_refreshing_label">Vernieuwen…</string>
@@ -471,6 +474,7 @@ Om je account te activeren, Volg de
   <string name="tab_title_preferences">Instellingen</string>
   <string name="tab_title_report">Feedback</string>
   <string name="title_answer_feedback_main">We hebben het antwoord gevonden!</string>
+  <string name="title_catch_full_log">Logs</string>
   <string name="title_customer_service">Klantendienst</string>
   <string name="title_first_aid">Eerste hulp</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
@@ -488,7 +492,6 @@ Om je account te activeren, Volg de
   <string name="toast_feedback_pending_wlan">Rapport wordt verzonden wanneer u verbinding hebt met een Wi-Fi netwerk</string>
   <string name="toast_feedback_submitted">Rapport is verstuurd</string>
   <string name="toast_feedback_submitting">Indienen…</string>
-  <string name="toast_feedbackservice_in_submit">Vorige feedback in behandeling…</string>
   <string name="toast_fill_brackets">Uw rapport mist info</string>
   <string name="toast_loading_app_id">Info verkrijgen…</string>
   <string name="toast_log_not_exists">De nodige log is verwijderd of bestaat niet</string>

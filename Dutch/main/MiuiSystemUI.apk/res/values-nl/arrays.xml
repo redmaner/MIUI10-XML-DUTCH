@@ -1,86 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden…</item>
-        <item>Verifiëren…</item>
-        <item>IP adres verkrijgen…</item>
-        <item>Verbonden</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbinding vermijden</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden met %1$s…</item>
-        <item>Verifiëren met %1$s…</item>
-        <item>IP adres verkrijgen van %1$s…</item>
-        <item>Verbonden met %1$s</item>
-        <item>Opgeschort</item>
-        <item>Verbinding verbreken van %1$s…</item>
-        <item>Verbinding verbroken</item>
-        <item>Mislukt</item>
-        <item>Geblokkeerd</item>
-        <item>Tijdelijk slechte verbinding vermijden</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Nooit controleren</item>
-        <item>Controleer alleen op DRM inhoud</item>
-        <item>Altijd controleren</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>HDCP checking nooit gebruiken</item>
-        <item>HDCP checking alleen gebruiken voor DRM content</item>
-        <item>HDCP checking altijd gebruiken</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Uit</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
-        <item>4MB</item>
-        <item>16MB</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Uit</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Uit</item>
-    </string-array>
-	<string-array name="select_logd_system_levels">
-        <item>Uit</item>
-        <item>Fout</item>
-        <item>Waarschuwen</item>
-        <item>Info</item>
-        <item>Debug</item>
-        <item>Verbose</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal 0.5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1.5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal 0.5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1.5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animatie uit</item>
         <item>Animatieschaal .5x</item>
@@ -90,7 +9,154 @@
         <item>Animatieschaal 5x</item>
         <item>Animatieschaal 10x</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
+    <string-array name="app_process_limit_entries">
+        <item>Standaardlimiet</item>
+        <item>Geen achtergrondprocessen</item>
+        <item>Maximaal 1 proces</item>
+        <item>Maximaal 2 processen</item>
+        <item>Maximaal 3 processen</item>
+        <item>Maximaal 4 processen</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Always show percentage</item>
+        <item>Show percentage when charging (default)</item>
+        <item>"Don't show this icon"</item>
+    </string-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Gebruik systeem voorkeur (Standaard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Geoptimaliseerd voor audiokwaliteit</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
+        <item>Beste poging (Adaptive Bit Rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Geoptimaliseerd voor audiokwaliteit(990kbps/909kbps)</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit(660kbps/606kbps)</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
+        <item>Beste poging (Adaptive Bit Rate)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Gebruik systeem voorkeur (Standaard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Standaard)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Show hours, minutes, and seconds</item>
+        <item>Show hours and minutes (default)</item>
+        <item>"Don't show this icon"</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Verbeterde kleuren</item>
+        <item>Natuurlijke kleuren zoals gezien door het oog</item>
+        <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Levendig (standaard)</item>
+        <item>Naturel</item>
+        <item>Standaard</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Uit</item>
+        <item>Getekende gebieden weergeven</item>
+        <item>Gebieden voor deuteranomalie weergeven</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Standaard)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Geen</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP checking nooit gebruiken</item>
+        <item>HDCP checking alleen gebruiken voor DRM content</item>
+        <item>HDCP checking altijd gebruiken</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nooit controleren</item>
+        <item>Controleer alleen op DRM inhoud</item>
+        <item>Altijd controleren</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Clipboard</item>
+        <item>Keycode</item>
+        <item>Keyboard switcher</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compact</item>
+        <item>Left-leaning</item>
+        <item>Right-leaning</item>
+    </string-array>
+      <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
         <item>480p</item>
         <item>480p (veilig)</item>
@@ -104,42 +170,71 @@
         <item>4K (upscaled, veilig)</item>
         <item>720p, 1080p (dual screen)</item>
     </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Geen</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+    <array name="recents_blacklist_array" />
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Uit</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Uit</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Uit</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+	<string-array name="select_logd_system_levels">
+        <item>Uit</item>
+        <item>Fout</item>
+        <item>Waarschuwen</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Uit</item>
+        <item>Alle log buffers</item>
+        <item>Alle uitgezonderd radio log buffers</item>
+        <item>Alleen kernel log buffer</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Uit</item>
+        <item>Alle</item>
+        <item>Alle uitgezonderd radio</item>
+        <item>Alleen kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Geen</item>
         <item>Teken een niet-rechthoekig clipgebied in blauw</item>
         <item>Markeer geteste tekenopdrachten in groen</item>
     </string-array>
+
     <string-array name="track_frame_time_entries">
         <item>Uit</item>
         <item>Op het scherm als balken</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Uit</item>
-        <item>Getekende gebieden weergeven</item>
-        <item>Gebieden voor deuteranomalie weergeven</item>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0.5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
     </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Standaardlimiet</item>
-        <item>Geen achtergrondprocessen</item>
-        <item>Maximaal 1 proces</item>
-        <item>Maximaal 2 processen</item>
-        <item>Maximaal 3 processen</item>
-        <item>Maximaal 4 processen</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Opladen</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Geluidsbron</item>
-        <item>MIDI</item>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Zeer langzaam</item>
@@ -152,15 +247,22 @@
         <item>Zeer vlug</item>
         <item>Vlugst</item>
     </string-array>
-    <string-array name="color_mode_names">
-        <item>Levendig (standaard)</item>
-        <item>Naturel</item>
-        <item>Standaard</item>
+    <string-array name="tv_pip_settings_class_name">
+        <item>com.android.tv.settings</item>
+        <item>com.google.android.leanbacklauncher/.settings.HomeScreenSettingsActivity</item>
+        <item>com.google.android.apps.mediashell/.settings.CastSettingsActivity</item>
+        <item>com.google.android.katniss.setting/.SpeechSettingsActivity</item>
+        <item>com.google.android.katniss.setting/.SearchSettingsActivity</item>
+        <item>com.google.android.gsf.notouch/.UsageDiagnosticsSettingActivity</item>
+        <item>com.google.android.tvlauncher/.notifications.NotificationsSidePanelActivity</item>
     </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Verbeterde kleuren</item>
-        <item>Natuurlijke kleuren zoals gezien door het oog</item>
-        <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
+    <string-array name="usb_configuration_titles">
+        <item>Opladen</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Geluidsbron</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="weather_type">
         <item>Zonnig</item>
@@ -191,93 +293,41 @@
         <item>Ijskoude regen</item>
         <item></item>
     </string-array>
-    <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Standaard)</item>
-        <item>AVRCP 1.5</item>
-        <item>AVRCP 1.6</item>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
+        <item>Verifiëren…</item>
+        <item>IP adres verkrijgen…</item>
+        <item>Verbonden</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbinding vermijden</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Gebruik systeem voorkeur  (Standaard)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
-        <item>LDAC</item>
-        <item>Optionele codecs inschakelen</item>
-        <item>Optionele codecs uitschakelen</item>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scannen…</item>
+        <item>Verbinden met %1$s…</item>
+        <item>Verifiëren met %1$s…</item>
+        <item>IP adres verkrijgen van %1$s…</item>
+        <item>Verbonden met %1$s</item>
+        <item>Opgeschort</item>
+        <item>Verbinding verbreken van %1$s…</item>
+        <item>Verbinding verbroken</item>
+        <item>Mislukt</item>
+        <item>Geblokkeerd</item>
+        <item>Tijdelijk slechte verbinding vermijden</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Gebruik systeem voorkeur (Standaard)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
-        <item>LDAC</item>
-        <item>Optionele codecs inschakelen</item>
-        <item>Optionele codecs uitschakelen</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Gebruik systeem voorkeur  (Standaard)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Gebruik systeem voorkeur  (Standaard)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Gebruik systeem voorkeur  (Standaard)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Gebruik systeem voorkeur  (Standaard)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Gebruik systeem voorkeur  (Standaard)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Gebruik systeem voorkeur (Standaard)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Geoptimaliseerd voor audiokwaliteit(990kbps/909kbps)</item>
-        <item>Gebalanceerde audio- en verbindingskwaliteit(660kbps/606kbps)</item>
-        <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
-        <item>Beste poging (Adaptive Bit Rate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Geoptimaliseerd voor audiokwaliteit</item>
-        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
-        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
-        <item>Beste poging (Adaptive Bit Rate)</item>
-    </string-array>
-    <string-array name="select_logpersist_titles">
-        <item>Uit</item>
-        <item>Alle</item>
-        <item>Alle uitgezonderd radio</item>
-        <item>Alleen kernel</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
-        <item>Uit</item>
-        <item>Alle log buffers</item>
-        <item>Alle uitgezonderd radio log buffers</item>
-        <item>Alleen kernel log buffer</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Standaard)</item>
-        <item>OpenGL (Skia)</item>
+    <string-array name="window_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0.5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
     </string-array>
 </resources>

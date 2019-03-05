@@ -14,7 +14,7 @@ ga naar %s op een ander verbonden apparaat"</string>
   <string name="open_wifi_connect_summary">Tik om details weer te geven.</string>
   <string name="open_wifi_connect_title">Verbonden met %1$s</string>
   <string name="permdesc_accessDrm">Sta de app toe om toegang te krijgen tot DRM-beschermde inhoud.</string>
-   <string name="poco_privacy_policy">POCO Launcher Privacybeleid &amp; POCO Launcher gebruikersovereenkomst</string>
+  <string name="poco_privacy_policy">POCO Launcher Privacybeleid &amp; POCO Launcher gebruikersovereenkomst</string>
   <string name="policy_name">Beleid: %s</string>
   <string name="pre_installed_apps">Voorgeïnstalleerde apps</string>
   <string name="settings_ad_loading">Een momentje…</string>

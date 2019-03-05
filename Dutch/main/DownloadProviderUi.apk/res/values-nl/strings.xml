@@ -2,8 +2,9 @@
 <resources>
   <string name="Only_the_wifi">Enkel Wi-Fi gebruiken</string>
   <string name="about">Over</string>
-  <string name="action_settings">Instellingen</string>
   <string name="action_back">Terug</string>
+  <string name="action_settings">Instellingen</string>
+  <string name="ad">AD</string>
   <string name="ad_download">Installeren</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">Andere personen hebben deze ook gedownload met %1$s </string>
@@ -30,6 +31,7 @@
   <string name="btn_change">Wijzigen</string>
   <string name="button_sort_by_date">Sorteren op datum</string>
   <string name="button_sort_by_size">Sorteren op grootte</string>
+  <string name="byteShort">B</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_running_download">Annuleren</string>
   <string name="cancle">Annuleren</string>
@@ -70,7 +72,7 @@
   <string name="dialog_msg_disabled_net">%1$s beperkte downloads voor het huidig netwerk. Tik op netwerkinstellingen om naar de beveiligings app te gaan.</string>
   <string name="dialog_msg_recommend">Na uitschakelen zal u de aanbevolen bronnen niet meer kunnen bekijken.U kunt kiezen voor \"Alleen inhoud laden met Wi-Fi \" om mobiele data op te slaan.</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij om later te downloaden, dus het bestand is nog niet beschikbaar.</string>
-   <string name="dialog_speed_cancel">Annuleren</string>
+  <string name="dialog_speed_cancel">Annuleren</string>
   <string name="dialog_speed_msg">Het gebruik van mobiele data om een netwerk te testen, kan grote hoeveelheden mobiele data verbruiken. Toch doorgaan?</string>
   <string name="dialog_speed_ok">Doorgaan</string>
   <string name="dialog_speed_title">Data gebruikswaarschuwing</string>
@@ -168,6 +170,7 @@
   <string name="get_data_failed">Kon geen info verkrijgen, probeer later opnieuw</string>
   <string name="get_order_dialog_msg">Bestellingsinfo verkrijgen…</string>
   <string name="get_order_fail_msg">Kan bestelling niet aanmaken</string>
+  <string name="gigabyteShort">GB</string>
   <string name="goto_global_search">Op het web zoeken naar \"%1$s\"</string>
   <string name="guess_like">Dit vind je misschien ook leuk</string>
   <string name="high_speed_channel">Xunlei accelerator (betalend):</string>
@@ -190,9 +193,11 @@
   <string name="invalid_address">Het bestandspad dat u invoerde is ongeldig</string>
   <string name="jump_rank_hint">"Bekijk de download rankings van vandaag &gt;"</string>
   <string name="keep_queued_download">Bewaren</string>
+  <string name="kilobyteShort">KB</string>
   <string name="load_finish_hint">U kan morgen verder kijken</string>
   <string name="loading">Een momentje…</string>
   <string name="media_filter">Media</string>
+  <string name="megabyteShort">MB</string>
   <string name="member_cost">Jaarlijks</string>
   <string name="menu_all_task_pause">Alle downloads pauzeren</string>
   <string name="menu_all_task_start">Alle downloads starten</string>
@@ -251,6 +256,7 @@ op al je apparaten met Xunlei</string>
   <string name="paused_waiting_to_retry">Wachten op nieuwe poging</string>
   <string name="percent_title">%1$s personen gedownload</string>
   <string name="period_of_validity">Geldigheid:</string>
+  <string name="petabyteShort">PB</string>
   <string name="pref_download_revert_default">Opslaan naar standaardlocatie</string>
   <string name="pref_download_settings_title">Downloaden met mobiele data is beperkt</string>
   <string name="pref_download_storage_path">Opslaan naar een aangepaste locatie</string>
@@ -403,6 +409,7 @@ op al je apparaten met Xunlei</string>
   <string name="task_detail">Taken</string>
   <string name="task_detail_notfound_confirm">Ok</string>
   <string name="task_fail">Kon bewerking niet voltooien</string>
+  <string name="terabyteShort">TB</string>
   <string name="test_speed">Testen</string>
   <string name="test_speed_detail">Details</string>
   <string name="test_speed_please">Tik om de snelheid te testen…</string>
@@ -431,13 +438,17 @@ op al je apparaten met Xunlei</string>
   <string name="turn_off_xunlei_title">Xunlei uitschakelen</string>
   <string name="unbind_xunlei_2_success">Xunlei Account toegevoegd</string>
   <string name="unbind_xunlei_success">Uitgelogd bij Xunlei Account</string>
+  <string name="unit_cn_hundredmillions">00M</string>
   <string name="unit_cn_tenthousands">OK</string>
+  <string name="unit_en_billion">B</string>
+  <string name="unit_en_million">M</string>
+  <string name="unit_en_thounsand">K</string>
   <string name="valid_in_this_month">Geldig in deze maand</string>
   <string name="version">Versie %s</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is ingeschakeld</string>
   <string name="vip_expire_show_info">Uw Xunlei lidmaatschap is vervallen</string>
   <string name="vip_expire_today_show_info">Uw Xunlei lidmaatschap is vervallen.</string>
-  <string name="vip_show_info">5 miljoen leden. 
+  <string name="vip_show_info">5 miljoen leden.
 Versnel downloads op al uw apparaten</string>
   <string name="vip_speedup">Snelheidsverhoging:</string>
   <string name="web_dialog_cancel">Annuleren</string>

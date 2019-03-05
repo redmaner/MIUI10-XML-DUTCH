@@ -83,7 +83,7 @@
   <string name="warning_tip_content">Je bent niet meer verbonden met Wi-Fi. Mobiel internet gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Waarschuwing dataverbruik</string>
-  <string name="wifi_recommended_body" formatted="false">"Je moet wifi gebruiken om deze %s download te voltooien.. 
+  <string name="wifi_recommended_body" formatted="false">"Je moet wifi gebruiken om deze %s download te voltooien..
 
 Aanraken om '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen om later te downloaden?</string>
