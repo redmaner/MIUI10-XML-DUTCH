@@ -398,7 +398,6 @@ Nu bijwerken?"</string>
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
   <string name="download_message_failed_for_too_large">Bericht is te groot om te downloaden.</string>
-  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bankafschriften</string>
   <string name="drawer_classification">Categorieën</string>
   <string name="drawer_close">Navigatie lader sluiten</string>
@@ -540,7 +539,6 @@ Nu bijwerken?"</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
   <string name="invalid_recipient">Het adres %s is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers fout</string>
-  <string name="kilobytes">%s KB</string>
   <string name="list_empty_to_fresh">Geen e-mail, naar beneden trekken om te vernieuwen.</string>
   <string name="load_from_remote">Mailbox zoeken op server</string>
   <string name="load_more">Meer laden</string>
@@ -622,7 +620,6 @@ Nu bijwerken?"</string>
   <string name="meeting_where">"
         Waar:
 %s "</string>
-  <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Bijlagen</string>
   <string name="menu_att_mgr_order_default">Recent bekeken</string>
   <string name="menu_att_mgr_order_mime">Sorteer op indeling</string>
@@ -999,7 +996,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="send_feed_back_keywords">feedback verzenden</string>
   <string name="send_mail">Verzenden</string>
   <string name="sender_whitelist_cleared">Afbeeldingen worden niet automatisch weergegeven.</string>
-  <string name="senders_split_token">, </string>
   <string name="sending">Verzenden…</string>
   <string name="sending_message">Bericht wordt verzonden…</string>
   <string name="sending_quick_reply">\"%s\" verzenden</string>

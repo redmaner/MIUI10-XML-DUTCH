@@ -25,9 +25,6 @@
   <string name="action_search">Zoeken</string>
   <string name="address">Adres:</string>
   <string name="agree_btn">Akkoord</string>
-  <string name="aliusersdk_api_unauthorized">API未授权</string>
-  <string name="aliusersdk_network_error">亲，您的手机网络不太顺畅喔~</string>
-  <string name="aliusersdk_session_error">亲，你的操作已超时，请重试</string>
   <string name="amazon_assistant_shopping_title">Zoeken op Amazon</string>
   <string name="app_description_content">Met Scanner kunt u QR codes, documenten, visitekaartjes en meer scannen. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="app_description_title">Over Scanner</string>
@@ -49,7 +46,6 @@
   <string name="cancel">Annuleren</string>
   <string name="choose_pay_title">Betalingsmethode selecteren</string>
   <string name="choose_picture">QR code afbeelding selecteren</string>
-  <string name="com_taobao_nb_sdk_loading_progress_message">加载中</string>
   <string name="common_retake_picture">Opnieuw nemen</string>
   <string name="common_retry">Opnieuw proberen</string>
   <string name="common_save">Opslaan</string>

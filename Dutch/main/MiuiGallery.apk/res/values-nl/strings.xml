@@ -764,7 +764,6 @@ om de galerij te personaliseren"</string>
   <string name="movie_video_long">Langere video</string>
   <string name="movie_video_short">10s video</string>
   <string name="must_pick_file">Kies een foto</string>
-  <string name="name_split">, </string>
   <string name="need_to_turn_on_network">U hebt geen internetverbinding</string>
   <string name="need_to_turn_on_sync">Schakel eerst synchronisatie met Mi Cloud in</string>
   <string name="need_to_turn_on_sync_first">Schakel eerst synchronisatie met Mi Cloud in</string>
@@ -1224,7 +1223,6 @@ om de galerij te personaliseren"</string>
   <string name="syncing_metadata_title">Synchroniseren met clouddata</string>
   <string name="syncing_normal_title">Foto\'s en video\'s back-uppen</string>
   <string name="system_album">Systeemalbum</string>
-  <string name="terabyteShort">TB</string>
   <string name="text_append_color">Kleur</string>
   <string name="text_append_font">Lettertype</string>
   <string name="text_append_font_example">Aa</string>

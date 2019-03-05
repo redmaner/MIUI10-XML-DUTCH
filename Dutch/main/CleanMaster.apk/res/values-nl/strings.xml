@@ -292,7 +292,6 @@
   <string name="installed">Geïnstalleerd</string>
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
-  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
   <string name="just_now">Zojuist</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>

@@ -185,7 +185,7 @@
   <string name="cast_video">Video casten</string>
   <string name="check_security_tip_privacy_policy">Privacybeleid</string>
   <string name="check_security_tip_user_agreement">Gebruikersovereenkomst</string>
-  <string name="checking_now">Controleren…...</string>
+  <string name="checking_now">Controleren…</string>
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear_history">Geschiedenis verwijderen</string>
   <string name="clear_search_history">Geschiedenis verwijderen</string>
@@ -1201,7 +1201,6 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
   <string name="sequence_bookmark_description">Houd ingedrukt om bladwijzers te herordenen</string>
-  <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
   <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
   <string name="share_video">Video delen</string>

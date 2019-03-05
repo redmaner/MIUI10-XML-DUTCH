@@ -81,7 +81,6 @@
   <string name="call_main">Bel main</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
-  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
@@ -494,7 +493,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="group_create_fail_toast">Kan geen groep maken</string>
   <string name="group_create_success_toast">Groep gemaakt</string>
   <string name="group_delete_success_toast">Groep verwijderd</string>
-  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Groepsnaam</string>
   <string name="group_member_remove_fail_toast">Niet verwijderd uit groep</string>
   <string name="group_member_remove_success_toast">Verwijderd uit groep</string>
