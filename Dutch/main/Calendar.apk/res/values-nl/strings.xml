@@ -275,8 +275,6 @@
   <string name="living_text">In de lucht</string>
   <string name="load_more_hint">Afspraken van %1$d laden</string>
   <string name="loading">Een momentje…</string>
-  <string name="loan">贷款还款</string>
-  <string name="loan_event_delete_successfully">贷款还款事件删除成功</string>
   <string name="loan_event_title">Krediet rekening</string>
   <string name="local_calendar_display_name">Lokale kalender</string>
   <string name="local_owner_account_name">Opgeslagen op dit apparaat</string>

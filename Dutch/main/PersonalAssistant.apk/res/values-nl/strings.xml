@@ -62,7 +62,6 @@
   <string name="arr_time">Aankomsttijd</string>
   <string name="arrive">Landen</string>
   <string name="assistant_day_deadline">Laatste dag</string>
-  <string name="assistant_day_suffix">后</string>
   <string name="assistant_format_MMdd">dd/MM</string>
   <string name="assistant_place">Vaakbezochte plekken herkennen</string>
   <string name="assistant_summary">Krijg handige suggesties wanneer je ze nodig hebt</string>
@@ -327,7 +326,6 @@
   <string name="express_copied">Trackingnummer gekopieerd</string>
   <string name="express_copy_number">Kopieren</string>
   <string name="express_delete_order">Verwijderen</string>
-  <string name="express_delete_tel">删除电话</string>
   <string name="express_delivery">Leveren</string>
   <string name="express_dest_city_label">Bestemming</string>
   <string name="express_detail_order_number_prefix">Nummer: %s</string>
@@ -382,7 +380,6 @@ Controleer het trackingnummer."</string>
   <string name="express_num_setting_des">Ontvang ordernummers van de bezorgapps geinstalleerd op je telefoon.</string>
   <string name="express_num_setting_title">Toegang orderinfo</string>
   <string name="express_open">Kaarten over tracken van pakketjes weergeven</string>
-  <string name="express_open_locker">一键开柜</string>
   <string name="express_open_txt">Openen</string>
   <string name="express_order_confirmation">Orderbevestiging</string>
   <string name="express_order_failed">Mislukt</string>

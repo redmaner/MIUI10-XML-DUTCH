@@ -606,7 +606,6 @@ Sample Rate"</string>
   <string name="dial_emergency_error">Kan niet bellen. %s is geen noodnummer.</string>
   <string name="dial_related_setting_catory">Kiezer</string>
   <string name="dialerKeyboardHintText">Toetsenbord gebruiken om te bellen</string>
-  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_alert_title">Waarschuwing</string>
   <string name="dialog_cancel">Annuleren</string>
   <string name="dialog_network_priority_title">Prioriteitsnetwerk</string>
@@ -969,7 +968,6 @@ Sample Rate"</string>
   <string name="network_info_message">Netwerkbericht</string>
   <string name="network_lte">LTE (aanbevolen)</string>
   <string name="network_message">Netwerkbericht</string>
-  <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
   <string name="network_query_error">Fout bij het zoeken naar netwerken.</string>
   <string name="network_settings_auto_select_title">Netwerk handmatig selecteren</string>
   <string name="network_settings_automatically_option">Kies netwerk automatisch (%s)</string>

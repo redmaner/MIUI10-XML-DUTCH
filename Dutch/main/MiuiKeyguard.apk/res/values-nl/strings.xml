@@ -11,7 +11,6 @@
   <string name="delete">Verwijderen</string>
   <string name="do_disclosure_generic">Dit apparaat wordt beheerd door uw bedrijf</string>
   <string name="do_disclosure_with_name">Dit apparaat wordt beheerd door %s</string>
-  <string name="doze_pickup_subtype_performs_proximity_check"/>
   <string name="emergency_call_string">Noodoproep</string>
   <string name="face_data_input_camera_fail">Kon camera niet laden</string>
   <string name="face_data_input_camera_ok">Camera laden…</string>

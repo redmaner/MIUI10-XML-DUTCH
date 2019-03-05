@@ -1248,7 +1248,7 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="stk_cc_ss_to_ss">SS verzoek is aangepast naar nieuw SS verzoek.</string>
   <string name="stk_cc_ss_to_ussd">SS verzoek is aangepast naar USSD verzoek.</string>
   <string name="stk_cc_ussd_to_dial">USSD verzoek is aangepast naar DIAL verzoek.</string>
-  <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
+  <string name="stk_cc_ss_to_dial_video">SS verzoek is gewijzigd in Video DIAL verzoek.</string>
   <string name="stk_cc_ussd_to_ss">USSD verzoek is aangepast naar SS verzoek.</string>
   <string name="stk_cc_ussd_to_ussd">USSD verzoek is aangepast naar nieuw USSD verzoek.</string>
   <string name="storage_internal">Interne opslag</string>
