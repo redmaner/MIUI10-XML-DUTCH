@@ -322,7 +322,6 @@
   <string name="month_view">Maand</string>
   <string name="monthly">Maandelijks</string>
   <string name="monthly_on_day">Maandelijks (op dezelfde dag)</string>
-  <string name="monthly_on_day_count">Maandelijks (%1$s %2$s)</string>
   <string name="more_match">Meer afspraken</string>
   <string name="movie_event_title">Film:</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
