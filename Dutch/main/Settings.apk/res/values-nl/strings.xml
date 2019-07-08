@@ -2110,7 +2110,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="gesture_preference_title">Gebaren</string>
   <string name="gesture_setting_off">Uit</string>
   <string name="gesture_setting_on">Aan</string>
-  <string name="gesture_wakeup_title">Dubbeltikken om scherm te ontwaken</string>
   <string name="getConfiguredNetworks">Geconfigureerde netwerken ophalen</string>
   <string name="getConnectionInfo">Ophalen verbindingsinfo</string>
   <string name="giga_hertz">GHz</string>
