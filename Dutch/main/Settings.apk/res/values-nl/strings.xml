@@ -370,7 +370,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_ops_settings">Appbewerkingen</string>
   <string name="app_overlay_permission_preference">Toestemming om bovenop weer te geven</string>
   <string name="app_permissions">Apptoestemmingen</string>
-  <string name="app_permissions_summary" formatted="false">%d van %d apps toegestane extra toegang</string>
   <string name="app_process_limit_title">Achtergrondproceslimiet</string>
   <string name="app_restrictions_custom_label">Appbeperkingen instellen</string>
   <string name="app_sees_restricted_accounts">Deze app heeft toegang tot uw accounts</string>
